@@ -1,0 +1,58 @@
+# This file is a directory of chapters and sub-organizations
+# of the Landesverband Nordrhein-Westfalen of the party
+# Bündnis 90/Die Grünen.
+#
+---
+type: REGIONAL_CHAPTER
+level: DE:LANDESVERBAND
+country: DE
+state: Nordrhein-Westfalen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-nrw.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenenrw/
+  - type: TWITTER
+    url: https://twitter.com/gruenenrw
+emails:
+  - address: info@gruene-nrw.de
+---
+type: REGIONAL_CHAPTER
+level: DE:BEZIRKSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+region: Mittelrhein
+urls:
+  - type: WEBSITE
+    url: http://gruene-bezirksverband-mittelrhein.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Euskirchen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-euskirchen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneKreisEuskirchen
+  - type: TWITTER
+    url: https://twitter.com/grueneeu
+emails:
+  - address: gruene.euskirchen@web.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rheinisch-Bergischer Kreis
+city: Rösrath
+urls:
+  - type: WEBSITE
+    url: https://gruene-roesrath.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.roesrath/
+  - type: TWITTER
+    url: https://twitter.com/grueneeu
+emails:
+  - address: info@gruene-roesrath.de

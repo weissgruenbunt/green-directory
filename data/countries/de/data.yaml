@@ -1,0 +1,17 @@
+# Data regarding country-level organizations and chapters
+---
+type: PARTY
+country: DE
+urls:
+  - type: WEBSITE
+    url: https://www.gruene.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B90DieGruenen
+  - type: TWITTER
+    url: https://twitter.com/die_gruenen
+  - type: INSTAGRAM
+    url: https://instagram.com/die_gruenen/
+  - type: GOOGLE_PLUS
+    url: https://plus.google.com/+DieGruenen/
+emails:
+  - address: info@gruene.de

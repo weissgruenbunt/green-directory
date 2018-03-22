@@ -1,0 +1,13 @@
+language: python
+
+notifications:
+  email: false
+
+install:
+  - pip install yamllint pykwalify
+
+script:
+  - yamllint --help
+  - yamllint ./data
+  - yamllint ./validate/schema.yaml
+  - python ./validate/validate.py

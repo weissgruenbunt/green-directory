@@ -1,0 +1,35 @@
+---
+name: General entry type
+desc: A schema used by all supported entry types
+type: map
+mapping:
+  type:
+    type: str
+  country:
+    type: str
+  urls:
+    type: seq
+    sequence:
+      - type: map
+        mapping:
+          type:
+            type: str
+          url:
+            type: str
+  emails:
+    type: seq
+    sequence:
+      - type: map
+        mapping:
+          address:
+            type: str
+  level:
+    type: str
+  state:
+    type: str
+  region:
+    type: str
+  district:
+    type: str
+  city:
+    type: str
