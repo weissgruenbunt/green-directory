@@ -1,0 +1,14 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rheinisch-Bergischer Kreis
+city: Rösrath
+urls:
+  - type: WEBSITE
+    url: https://gruene-roesrath.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.roesrath/
+emails:
+  - address: info@gruene-roesrath.de
