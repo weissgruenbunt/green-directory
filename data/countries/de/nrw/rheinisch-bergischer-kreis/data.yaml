@@ -1,5 +1,18 @@
 ---
 type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rheinisch-Bergischer Kreis
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kreisrheinberg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.kreisrheinberg/
+emails:
+  - address: info@gruene-rbk.de
+---
+type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Nordrhein-Westfalen
