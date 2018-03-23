@@ -25,7 +25,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-aalen.de/
 ---
 country: DE
@@ -36,7 +36,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-alb-donau.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenealbdonau/
@@ -51,7 +51,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-bc.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Die.Gruenen.KV.Biberach
@@ -64,7 +64,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-boeblingen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneBB
@@ -77,7 +77,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-bodenseekreis.de/
 ---
 country: DE
@@ -88,7 +88,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-breisgau-hochschwarzwald.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Bundnis90DieGrunenKvBreisgauHochschwarzwald/
@@ -101,7 +101,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-kreis-calw.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenecalw/
@@ -114,7 +114,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-em.de/
   - type: TWITTER
     url: https://twitter.com/gruene_em
@@ -127,7 +127,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-es.de
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneKVEsslingen
@@ -140,7 +140,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-ettlingen.de/
 ---
 country: DE
@@ -151,7 +151,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-freiburg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenefreiburg
@@ -166,7 +166,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-freudenstadt.de/
 ---
 country: DE
@@ -177,7 +177,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-goeppingen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneGP
@@ -190,7 +190,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-heidelberg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gruene.Heidelberg
@@ -205,7 +205,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-heidenheim.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneHDH
@@ -220,7 +220,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-heilbronn.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneHN
@@ -233,7 +233,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-hohenlohe.de
   - type: FACEBOOK
     url: https://www.facebook.com/gruenehohenlohe
@@ -246,7 +246,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-karlsruhe.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenekarlsruhe
@@ -259,7 +259,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-karlsruhe-land.de/
 ---
 country: DE
@@ -270,7 +270,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-konstanz.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Konstanz-543476915678973
@@ -283,7 +283,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-hardt.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneKH/
@@ -296,7 +296,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-loerrach.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grune.lorrach
@@ -309,7 +309,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-ludwigsburg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Kreisverband-Ludwigsburg-170723476273472/
@@ -322,7 +322,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-main-tauber.de/
 ---
 country: DE
@@ -333,7 +333,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-mannheim.de/
   - type: FACEBOOK
     url: https://www.facebook.com/MANNHEIMbegruenen
@@ -346,7 +346,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-neckar-bergstrasse.de/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%9CNDNIS-90DIE-GR%C3%9CNEN-Neckar-Bergstra%C3%9Fe-294103284065566
@@ -359,7 +359,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-nok.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneNOK
@@ -374,7 +374,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-odenwald-kraichgau.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.odenwaldkraichgau
@@ -387,7 +387,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-ortenau.de/
   - type: FACEBOOK
     url: https://www.facebook.com/KreisverbandOrtenau/
@@ -400,7 +400,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-pforzheim-enz.de/
 ---
 country: DE
@@ -411,7 +411,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-ra-bad.de/
 ---
 country: DE
@@ -422,7 +422,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-ravensburg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneRavensburg
@@ -435,7 +435,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-rems-murr.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneRemsMur
@@ -448,7 +448,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-reutlingen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Bundnis90DieGrunenKreisverbandReutlingen
@@ -461,7 +461,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-rottweil.de/
 ---
 country: DE
@@ -472,7 +472,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-schwaebisch-gmuend.de/
   - type: FACEBOOK
     url: https://www.facebook.com/diegrunen.schwabischgmund
@@ -485,7 +485,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-sha.de/
 ---
 country: DE
@@ -496,7 +496,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-schwarzwald-baar.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.sbk
@@ -509,7 +509,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-sigmaringen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GruenerKreisverbandSigmaringen/
@@ -522,7 +522,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-stuttgart.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneStgt
@@ -537,7 +537,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-tuebingen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenetuebingen
@@ -550,7 +550,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-tuttlingen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenetuttlingen
@@ -563,7 +563,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-wt.de/
   - type: TWITTER
     url: https://twitter.com/kvgruene_wt
@@ -576,7 +576,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-wangen.de/
 ---
 country: DE
@@ -587,7 +587,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-ulm.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneulm
@@ -600,7 +600,7 @@ level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSEITE
+  - type: WEBSITE
     url: http://www.gruene-zollernalb.de
   - type: FACEBOOK
     url: https://www.facebook.com/gruenezak
