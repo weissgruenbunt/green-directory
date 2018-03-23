@@ -1,0 +1,79 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:LANDESVERBAND
+country: DE
+state: Bayern
+urls:
+  - type: WEBSITE
+    url: https://gruene-bayern.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenebayern
+  - type: TWITTER
+    url: https://twitter.com/Gruene_Bayern
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_bayern/
+emails:
+  - address: landesverband@bayern.gruene.de
+---
+type: REGIONAL_CHAPTER
+level: DE:BEZIRKSVERBAND
+country: DE
+state: Bayern
+region: Unterfranken
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-unterfranken.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:BEZIRKSVERBAND
+country: DE
+state: Bayern
+region: Oberfranken
+urls:
+  - type: WEBSITE
+    url: http://gruene-oberfranken.de/startseite/
+---
+type: REGIONAL_CHAPTER
+level: DE:BEZIRKSVERBAND
+country: DE
+state: Bayern
+region: Mittelfranken
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-mittelfranken.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:BEZIRKSVERBAND
+country: DE
+state: Bayern
+region: Oberpfalz
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-oberpfalz.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:BEZIRKSVERBAND
+country: DE
+state: Bayern
+region: Niederbayern
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-niederbayern.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:BEZIRKSVERBAND
+country: DE
+state: Bayern
+region: Schwaben
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-schwaben.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:BEZIRKSVERBAND
+country: DE
+state: Bayern
+region: Oberbayern
+urls:
+  - type: WEBSITE
+    url: http://gruene-oberbayern.de/
