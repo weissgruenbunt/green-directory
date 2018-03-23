@@ -104,7 +104,7 @@ urls:
   - type: WEBSEITE
     url: http://www.gruene-kreis-calw.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/Die-Gr%C3%BCnen-im-Kreis-Calw-550415531668293/timeline/
+    url: https://www.facebook.com/gruenecalw/
 ---
 country: DE
 district: Emmendingen
@@ -273,7 +273,7 @@ urls:
   - type: WEBSEITE
     url: http://www.gruene-konstanz.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/permalink.php?story_fbid=717002838326379&id=543476915678973&stream_ref=10
+    url: https://www.facebook.com/Gr%C3%BCne-Konstanz-543476915678973
 ---
 country: DE
 district: Kurpfalz-Hardt
@@ -286,7 +286,7 @@ urls:
   - type: WEBSEITE
     url: http://www.gruene-hardt.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/pages/Gr%C3%BCne-Kurpfalz-Hardt/1401043683558217?sk=info&tab=page_info
+    url: https://www.facebook.com/GrueneKH/
 ---
 country: DE
 district: Lörrach
@@ -312,7 +312,7 @@ urls:
   - type: WEBSEITE
     url: http://www.gruene-ludwigsburg.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/Gr%C3%BCne-Kreisverband-Ludwigsburg-170723476273472/timeline/
+    url: https://www.facebook.com/Gr%C3%BCne-Kreisverband-Ludwigsburg-170723476273472/
 ---
 country: DE
 district: Main-Tauber
@@ -336,7 +336,7 @@ urls:
   - type: WEBSEITE
     url: http://www.gruene-mannheim.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/MANNHEIMbegruenen?fref=nf
+    url: https://www.facebook.com/MANNHEIMbegruenen
 ---
 country: DE
 district: Neckar-Bergstraße
@@ -349,7 +349,7 @@ urls:
   - type: WEBSEITE
     url: http://www.gruene-neckar-bergstrasse.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/B%C3%9CNDNIS-90DIE-GR%C3%9CNEN-Neckar-Bergstra%C3%9Fe-294103284065566/timeline/
+    url: https://www.facebook.com/B%C3%9CNDNIS-90DIE-GR%C3%9CNEN-Neckar-Bergstra%C3%9Fe-294103284065566
 ---
 country: DE
 district: Neckar-Odenwald
@@ -390,7 +390,7 @@ urls:
   - type: WEBSEITE
     url: http://www.gruene-ortenau.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Kreisverband-Ortenau-195589923029/timeline/
+    url: https://www.facebook.com/KreisverbandOrtenau/
 ---
 country: DE
 district: Pforzheim-Enzkreis
@@ -451,7 +451,7 @@ urls:
   - type: WEBSEITE
     url: http://www.gruene-reutlingen.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/Bundnis90DieGrunenKreisverbandReutlingen?fref=nf
+    url: https://www.facebook.com/Bundnis90DieGrunenKreisverbandReutlingen
 ---
 country: DE
 district: Rottweil
@@ -499,7 +499,7 @@ urls:
   - type: WEBSEITE
     url: http://www.gruene-schwarzwald-baar.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/gruene.sbk?hc_location=ufi
+    url: https://www.facebook.com/gruene.sbk
 ---
 country: DE
 district: Sigmaringen
