@@ -76,4 +76,3 @@ If not indicated otherwise, all attributes are of the type `String`.
   - `DE:ORTSVERBAND`: TODO
 
 TODO: To be continued. Please refer to examples in `data` for now.
-
