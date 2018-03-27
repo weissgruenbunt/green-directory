@@ -1,0 +1,64 @@
+# This file is a directory of chapters and sub-organizations
+# of the Landesverband Saarland of the party
+# Bündnis 90/Die Grünen.
+#
+---
+type: REGIONAL_CHAPTER
+level: DE:LANDESVERBAND
+country: DE
+state: Saarland
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-saar.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneSaar/
+  - type: TWITTER
+    url: https://twitter.com/Gruene_Saar
+emails:
+  - address: lgs@gruene-saar.de
+---
+country: DE
+district: Saarbrücken
+level: DE:KREISVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-sb.de/
+---
+country: DE
+district: Saarlouis
+level: DE:KREISVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-sls.de/
+---
+country: DE
+district: Saar-Pfalz
+level: DE:KREISVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+---
+country: DE
+district: Merzig-Wadern
+level: DE:KREISVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://kreis.gruene-merzig.de/
+---
+country: DE
+district: Neunkirchen
+level: DE:KREISVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+---
+country: DE
+district: St. Wendel
+level: DE:KREISVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+---
