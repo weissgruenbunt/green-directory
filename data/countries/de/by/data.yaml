@@ -104,7 +104,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-aoe.de
   - type: FACEBOOK
-    url: https://www.facebook.com/pages/B%C3%BCndnis-90die-Gr%C3%BCnen-Landkreis-Alt%C3%B6tting/347417672028365?ref=hl
+    url: https://www.facebook.com/Gr%C3%BCne-Alt%C3%B6tting-347417672028365/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -177,7 +177,7 @@ urls:
   - type: TWITTER
     url: http://twitter.com/gruene_augsburg
   - type: FACEBOOK
-    url: https://www.facebook.com/gruene.augsburg?v=wall
+    url: https://www.facebook.com/gruene.augsburg
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -255,7 +255,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-cham.de
   - type: FACEBOOK
-    url: https://de-de.facebook.com/pages/Gr%C3%BCne-Cham/350465798380888
+    url: https://www.facebook.com/Gr%C3%BCne-Cham-350465798380888/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -274,12 +274,8 @@ district: Coburg-Stadt
 urls:
   - type: WEBSITE
     url: http://www.gruene-coburg.de
-  - type: TWITTER
-    url: https://twitter.com/die_gruenen
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.coburg/
-  - type: INSTAGRAM
-    url: https://www.instagram.com/die_gruenen/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -357,7 +353,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-erding.de
   - type: FACEBOOK
-    url: https://www.facebook.com/pages/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Erding/154859614570066
+    url: https://www.facebook.com/gruene.erding/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -368,7 +364,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-erlangen-land.de
   - type: FACEBOOK
-    url: https://https://www.facebook.com/DieGruenenERH?ref=hl
+    url: https://www.facebook.com/DieGruenenERH
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -388,7 +384,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-forchheim.de
   - type: FACEBOOK
-    url: https://www.facebook.com/profile.php?id=542822652397498
+    url: https://www.facebook.com/gruene.forchheim/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -421,7 +417,7 @@ urls:
   - type: TWITTER
     url: http://www.twitter.com/gruene_ffb
   - type: FACEBOOK
-    url: https://www.facebook.com/pages/B%C3%BCndnis-90-Die-Gr%C3%BCnen-KV-F%C3%BCrstenfeldbruck/212051698829743
+    url: https://www.facebook.com/gruene.kreisverband.fuerstenfeldbruck/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -450,7 +446,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-gap.de
   - type: TWITTER
-    url: https://twitter.com/Gruene_Garmisch?lang=de
+    url: https://twitter.com/Gruene_Garmisch
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.kvgap/
 ---
@@ -481,7 +477,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-hof.de
   - type: FACEBOOK
-    url: https://www.facebook.com/grune.hof/?fref=ts
+    url: https://www.facebook.com/grune.hof
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -543,7 +539,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-kulmbach.de
   - type: FACEBOOK
-    url: https://www.facebook.com/pages/Gr%C3%BCne-Kulmbach/354269961324015?ref=hl
+    url: https://www.facebook.com/Grüne-Kulmbach-354269961324015
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -688,7 +684,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-neumarkt.de
   - type: FACEBOOK
-    url: https://www.facebook.com/Gr?ne-KV-Neumarkt-139759996146424/
+    url: https://www.facebook.com/GrueneNeumarkt/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -856,7 +852,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-schwandorf.de
   - type: FACEBOOK
-    url: https://www.facebook.com/GrueneImLandkreisSchwandorf/?fref=ts
+    url: https://www.facebook.com/GrueneImLandkreisSchwandorf
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -876,7 +872,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-starnberg.de
   - type: FACEBOOK
-    url: https://www.facebook.com/Gr?ne-Kreisverband-Starnberg-152190608236782/
+    url: https://www.facebook.com/Gr%C3%BCne-Kreisverband-Starnberg-152190608236782/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -918,7 +914,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-unterallgaeu.de
   - type: FACEBOOK
-    url: https://de-de.facebook.com/Gruene.Unterallgaeu/
+    url: https://www.facebook.com/Gruene.Unterallgaeu/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -938,9 +934,9 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-weilheim.de
   - type: TWITTER
-    url: https://twitter.com/GWeilheim?lang=de
+    url: https://twitter.com/GWeilheim
   - type: FACEBOOK
-    url: https://www.facebook.com/pages/Gr%C3%BCne-Weilheim-Schongau/195972177196737
+    url: https://www.facebook.com/GrueneWeilheim/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -960,7 +956,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-fichtelgebirge.de
   - type: FACEBOOK
-    url: http://www.facebook.com/pages/KV-Wunsiedel-Die-Gr%C3%BCnen/141611839240528
+    url: https://www.facebook.com/KvWunsiedel/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
