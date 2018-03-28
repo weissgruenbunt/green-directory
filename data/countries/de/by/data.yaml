@@ -539,7 +539,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-kulmbach.de
   - type: FACEBOOK
-    url: https://www.facebook.com/Grüne-Kulmbach-354269961324015
+    url: https://www.facebook.com/Gr%C3%BCne-Kulmbach-354269961324015
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -656,6 +656,8 @@ district: München-Stadt
 urls:
   - type: WEBSITE
     url: http://www.gruene-muenchen.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenemuenchen/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
