@@ -1,0 +1,979 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:LANDESVERBAND
+country: DE
+state: Bayern
+urls:
+  - type: WEBSITE
+    url: https://gruene-bayern.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenebayern
+  - type: TWITTER
+    url: https://twitter.com/Gruene_Bayern
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_bayern/
+emails:
+  - address: landesverband@bayern.gruene.de
+---
+type: REGIONAL_CHAPTER
+level: DE:BEZIRKSVERBAND
+country: DE
+state: Bayern
+region: Unterfranken
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-unterfranken.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:BEZIRKSVERBAND
+country: DE
+state: Bayern
+region: Oberfranken
+urls:
+  - type: WEBSITE
+    url: http://gruene-oberfranken.de/startseite/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneoberfranken/
+---
+type: REGIONAL_CHAPTER
+level: DE:BEZIRKSVERBAND
+country: DE
+state: Bayern
+region: Mittelfranken
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-mittelfranken.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenemittelfranken/
+---
+type: REGIONAL_CHAPTER
+level: DE:BEZIRKSVERBAND
+country: DE
+state: Bayern
+region: Oberpfalz
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-oberpfalz.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:BEZIRKSVERBAND
+country: DE
+state: Bayern
+region: Niederbayern
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-niederbayern.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneNiederbayern
+---
+type: REGIONAL_CHAPTER
+level: DE:BEZIRKSVERBAND
+country: DE
+state: Bayern
+region: Schwaben
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-schwaben.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneschwaben/
+---
+type: REGIONAL_CHAPTER
+level: DE:BEZIRKSVERBAND
+country: DE
+state: Bayern
+region: Oberbayern
+urls:
+  - type: WEBSITE
+    url: http://gruene-oberbayern.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Aichach-Friedberg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-aichach-friedberg.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Altötting
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-aoe.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Alt%C3%B6tting-347417672028365/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Amberg-Stadt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-amberg.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Amberg-Sulzbach
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-amberg-sulzbach.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Ansbach
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ansbach.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Aschaffenburg-Land
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-aschaffenburg.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Aschaffenburg-Stadt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ab.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/Die.Gruenen.Aschaffenburg
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Augsburg-Land
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-augsburgland.de
+  - type: TWITTER
+    url: http://twitter.com/GrueneAugsLand
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneAugsburgLand
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Augsburg-Stadt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-augsburg.de
+  - type: TWITTER
+    url: http://twitter.com/gruene_augsburg
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.augsburg
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Bad Kissingen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kg.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Bad Tölz/Wolfratshausen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-toelz-wor.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Bamberg-Land
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bamberg-land.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenebambergland/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Bamberg-Stadt
+urls:
+  - type: WEBSITE
+    url: http://www.gal.bamberg.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Bayreuth-Land
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bayreuth-land.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneBayreuthLand
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Bayreuth-Stadt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bayreuth.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Berchtesgadener-Land
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bgl.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Cham
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-cham.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Cham-350465798380888/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Coburg-Land
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-coburg-land.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Coburg-Stadt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-coburg.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.coburg/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Dachau
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-dachau.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Deggendorf
+urls:
+  - type: WEBSITE
+    url: http://grüne-deggendorf.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Dillingen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-dillingen.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Dillingen-a-d-Donau-248816661861401/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Dingolfing-Landau
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-dgf-lan.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneDingolfingLandau
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Donau-Ries
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-donau-ries.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Ebersberg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ebe.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Eichstätt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-eichstaett.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Erding
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-erding.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.erding/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Erlangen-Land
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-erlangen-land.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/DieGruenenERH
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Erlangen-Stadt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-erlangen.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Forchheim
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-forchheim.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.forchheim/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Freising
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-freising.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Freyung-Grafenau
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-frg.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneNiederbayern/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Fürstenfeldbruck
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-fuerstenfeldbruck.de
+  - type: TWITTER
+    url: http://www.twitter.com/gruene_ffb
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.kreisverband.fuerstenfeldbruck/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Fürth-Land
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-fuerth-land.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Fürth-Stadt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-fuerth.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Garmisch-Partenkirchen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-gap.de
+  - type: TWITTER
+    url: https://twitter.com/Gruene_Garmisch
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.kvgap/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Günzburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-guenzburg.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Haßberge
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hassberge.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Hof
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hof.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/grune.hof
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Ingolstadt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ingolstadt.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Kelheim
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-keh.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenekelheim/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Kempten
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kempten.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gruene.Kempten
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Kitzingen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kitzingen.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.kitzingen/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Kronach
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kronach.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Kulmbach
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kulmbach.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Kulmbach-354269961324015
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Landsberg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-landsberg.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Landshut-Land
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-landshut.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Landshut-Stadt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-la.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Lichtenfels
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-lichtenfels.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Lindau
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-lindau.eu
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Main-Spessart
+urls:
+  - type: WEBSITE
+    url: http://www.gruenemsp.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Memmingen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-memmingen.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Miesbach
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-miesbach.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenemiesbach
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Miltenberg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-miltenberg.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Mühldorf
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-muehldorf.de
+  - type: TWITTER
+    url: https://twitter.com/GrueneMuehldorf
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneMuehldorf/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenemuehldorf/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: München-Land
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ml.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: München-Stadt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-muenchen.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenemuenchen/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Neu-Ulm
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-neu-ulm.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Neuburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-neuburg.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Neumarkt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-neumarkt.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneNeumarkt/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Neustadt a.d. Waldnaab
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-neustadt-waldnaab.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Neustadt-Aisch
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-neustadt-aisch.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Nürnberg-Stadt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-nuernberg.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Nürnberger Land
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-nuernberger-land.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Oberallgäu
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-oa.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Ostallgäu
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-oal.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Passau-Land
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-passauland.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Passau-Stadt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-passau.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Pfaffenhofen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-pfaffenhofen.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Regen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-regen.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Regensburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-regensburg.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Regensburg-Land
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-regensburg-land.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Rhön-Grabfeld
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-rhoen-grabfeld.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Rosenheim
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-rosenheim.de
+  - type: TWITTER
+    url: https://twitter.com/RosenheimGruene
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneStadtUndLandkreisRosenheim
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Roth
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-roth.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Rottal-Inn
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-rottal-inn.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Schwabach
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-schwabach.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Schwandorf
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-schwandorf.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneImLandkreisSchwandorf
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Schweinfurt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-schweinfurt.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Starnberg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-starnberg.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Kreisverband-Starnberg-152190608236782/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Straubing-Bogen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-straubing-bogen.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/Buendnis90DieGruenenStraubingBogen
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Tirschenreuth
+urls:
+  - type: WEBSITE
+    url: http://www.gruenetir.de
+  - type: FACEBOOK
+    url: http://www.facebook.com/gruene.tirschenreuth
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Traunstein
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-traunstein.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Unterallgäu
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-unterallgaeu.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gruene.Unterallgaeu/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Weiden
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-weiden.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Weilheim-Schongau
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-weilheim.de
+  - type: TWITTER
+    url: https://twitter.com/GWeilheim
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneWeilheim/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Weißenburg/Gunzenhausen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-weissenburg.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Wunsiedel
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-fichtelgebirge.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/KvWunsiedel/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Würzburg-Land
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wuerzburg-land.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Würzburg-Stadt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wuerzburg.de
