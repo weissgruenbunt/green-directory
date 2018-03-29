@@ -61,3 +61,457 @@ district: St. Wendel
 level: DE:KREISVERBAND
 state: Saarland
 type: REGIONAL_CHAPTER
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarbrücken
+city: Dudweiler
+urls:
+  - type: WEBSITE
+    url: http://gruene-dudweiler.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarbrücken
+city: Friedrichsthal
+urls:
+  - type: WEBSITE
+    url: http://gruene-friedrichsthal.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarbrücken
+city: Halberg
+urls:
+  - type: WEBSITE
+    url: http://gruene-halberg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarbrücken
+city: Heusweiler
+urls:
+  - type: WEBSITE
+    url: http://gruene-heusweiler.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarbrücken
+city: Kleinblittersdorf
+urls:
+  - type: WEBSITE
+    url: http://gruene-kleinblittersdorf.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarbrücken
+city: Riegelsberg
+urls:
+  - type: WEBSITE
+    url: http://gruene-riegelsberg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarbrücken
+city: Saarbrücken Mitte
+urls:
+  - type: WEBSITE
+    url: http://gruene-saarbruecken.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarbrücken
+city: Saarbrücken West
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarbrücken
+city: Sulzbach
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarbrücken
+city: Völklingen
+urls:
+  - type: WEBSITE
+    url: http://gruene-voelklingen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarlouis
+city: Bous
+urls:
+  - type: WEBSITE
+    url: http://gruene-bous.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarlouis
+city: Dillingen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-dillingen-saar.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarlouis
+city: Ensdorf
+urls:
+  - type: WEBSITE
+    url: http://gruene-ensdorf.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarlouis
+city: Lebach
+urls:
+  - type: WEBSITE
+    url: http://gruene-lebach.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarlouis
+city: Nalbach
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarlouis
+city: Rehlingen-Siersburg
+urls:
+  - type: WEBSITE
+    url: https://gruene-rehlingen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarlouis
+city: Saarlouis
+urls:
+  - type: WEBSITE
+    url: http://gruene-saarlouis.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarlouis
+city: Saarwellingen
+urls:
+  - type: WEBSITE
+    url: http://gruene-saarwellingen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarlouis
+city: Schmelz
+urls:
+  - type: WEBSITE
+    url: http://gruene-schmelz.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarlouis
+city: Schwalbach
+urls:
+  - type: WEBSITE
+    url: http://gruene-schwalbach-saar.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarlouis
+city: Überherrn
+urls:
+  - type: WEBSITE
+    url: http://gruene-ueberherrn.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarlouis
+city: Wallerfangen
+urls:
+  - type: WEBSITE
+    url: http://gruene-wallerfangen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saarlouis
+city: Wadgassen
+urls:
+  - type: WEBSITE
+    url: https://gruene-wadgassen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saar-Pfalz
+city: Bexbach
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saar-Pfalz
+city: Blieskastel
+urls:
+  - type: WEBSITE
+    url: http://gruene-blieskastel.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saar-Pfalz
+city: Gersheim
+urls:
+  - type: WEBSITE
+    url: http://gruene-gersheim.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saar-Pfalz
+city: Homburg
+urls:
+  - type: WEBSITE
+    url: http://gruene-homburg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saar-Pfalz
+city: Kirkel
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kirkel.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saar-Pfalz
+city: Mandelbachtal
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-mandelbachtal.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Saar-Pfalz
+city: St. Ingbert
+urls:
+  - type: WEBSITE
+    url: http://gruene-igb.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Merzig-Wadern
+city: Beckingen
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Merzig-Wadern
+city: Losheim
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-merzig.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Merzig-Wadern
+city: Mettlach
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-merzig.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Merzig-Wadern
+city: Merzig
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-merzig.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Merzig-Wadern
+city: Perl
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-perl.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Merzig-Wadern
+city: Wadern
+urls:
+  - type: WEBSITE
+    url: http://gruene-wadern.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Neunkirchen
+city: Eppelborn
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-eppelborn.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Neunkirchen
+city: Illingen
+urls:
+  - type: WEBSITE
+    url: https://gruene-illingen-saar.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Neunkirchen
+city: Merchweiler
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Neunkirchen
+city: Neunkirchen
+urls:
+  - type: WEBSITE
+    url: https://gruene-neunkirchen-saar.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Neunkirchen
+city: Ottweiler
+urls:
+  - type: WEBSITE
+    url: http://gruene-ottweiler.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: Neunkirchen
+city: Schiffweiler
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: St. Wendel
+city: Freisen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-freisen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: St. Wendel
+city: Marpingen
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: St. Wendel
+city: Namborn
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: St. Wendel
+city: Nonnweiler
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: St. Wendel
+city: Oberthal
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: St. Wendel
+city: St. Wendel
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Saarland
+district: St. Wendel
+city: Tholey
+urls:
+  - type: WEBSITE
+    url: http://gruene-tholey.de/
