@@ -1,0 +1,310 @@
+# This file is a directory of chapters and sub-organizations
+# of the Landesverband Hessen of the party
+# Bündnis 90/Die Grünen.
+#
+---
+type: REGIONAL_CHAPTER
+level: DE:LANDESVERBAND
+country: DE
+state: Nordrhein-Westfalen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hessen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenehessen
+  - type: TWITTER
+    url: http://twitter.com/gruenehessen
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenehessen/
+  - type: FLICKR
+    url: https://www.flickr.com/photos/gruene-hessen/
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/hessengruen
+emails:
+  - address: landesverband@gruene-hessen.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Bergstraße 
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bergstrasse.de/
+emails:
+  - address: mail@gruene-bergstrasse.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Darmstadt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-darmstadt.de/
+emails:
+  - address: kreisverband@gruene-darmstadt.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Darmstadt – Dieburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-dadi.de/
+emails:
+  - address: kv@gruene-dadi.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Frankfurt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-frankfurt.de/
+emails:
+  - address: kreisverband@gruene-frankfurt.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Fulda
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-fulda.de/
+emails:
+  - address: info@gruene-fulda.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Gießen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-giessen.de/
+emails:
+  - address: kreisverband@gruene-giessen.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Groß-Gerau
+urls:
+  - type: WEBSITE
+    url: http://www.gg-gruene.de/
+emails:
+  - address: info@gg-gruene.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Hersfeld-Rotenburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hersfeld-rotenburg.de/
+emails:
+  - address: info@gruene-hersfeld-rotenburg.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Hochtaunus
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hochtaunus.de/
+emails:
+  - address: kreisverband@gruene-hochtaunus.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Kassel-Land
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-landkreis-kassel.de/
+emails:
+  - address: info@gruene-landkreis-kassel.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Kassel-Stadt
+urls:
+  - type: WEBSITE
+    url: http://gruene-kassel.de/
+emails:
+  - address: gruene.kassel@t-online.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Lahn-Dill
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-lahn-dill.de/
+emails:
+  - address: B90-Gruene.Lahn-Dill@t-online.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Limburg-Weilburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-limburg-weilburg.de/
+emails:
+  - address: kreis@gruene-limburg-weilburg.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Main-Kinzig
+urls:
+  - type: WEBSITE
+    url: http://gruene-main-kinzig.de/
+emails:
+  - address: kv@gruene-main-kinzig.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Main-Taunus
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-mtk.de/
+emails:
+  - address: info@gruene-mtk.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Marburg-Biedenkopf
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-marburg.de/
+emails:
+  - address: kreisverband@gruene-marburg.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Odenwald
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-odenwald.de/
+emails:
+  - address: kontakt@gruene-odenwald.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Offenbach-Land
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-offenbach-land.de/
+emails:
+  - address: mail@gruene-offenbach-land.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Offenbach Stadt
+urls:
+  - type: WEBSITE
+    url: http://www.offenbach-gruene.de/
+emails:
+  - address: info@gruene-offenbach.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Rheingau-Taunus
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-rtk.de/
+emails:
+  - address: gruene-rtk-kv@online.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Schwalm-Eder
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-schwalm-eder.de/
+emails:
+  - address: info@gruene-schwalm-eder.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Vogelsberg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-vogelsberg.de/
+emails:
+  - address: info@gruene-vogelsberg.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Waldeck-Frankenberg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-waldeck-frankenberg.de/
+emails:
+  - address: gruenepost@freenet.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Werra-Meißner
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-werra-meissner.de/
+emails:
+  - address: buero@gruene-werra-meissner.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Wetterau
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wetterau.de/
+emails:
+  - address: info@gruene-wetterau.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Wiesbaden
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wiesbaden.de/
+emails:
+  - address: kreisverband@gruene-wiesbaden.de
