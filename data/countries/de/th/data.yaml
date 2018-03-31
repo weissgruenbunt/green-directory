@@ -1,12 +1,12 @@
 # This file is a directory of chapters and sub-organizations
-# of the Landesverband Thüringen of the party
-# Bündnis 90/Die Grünen.
+# of the Landesverband ThÃ¼ringen of the party
+# BÃ¼ndnis 90/Die GrÃ¼nen.
 #
 ---
 type: REGIONAL_CHAPTER
 level: DE:LANDESVERBAND
 country: DE
-state: Thüringen
+state: ThÃ¼ringen
 urls:
   - type: WEBSITE
     url: https://www.gruene-thueringen.de/
@@ -18,7 +18,7 @@ emails:
   - address:  info@gruene-thueringen.de
 ---
 country: DE
-state: Thüringen
+state: ThÃ¼ringen
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 district: Altenburg
@@ -27,7 +27,7 @@ urls:
     url: http://gruene-abgland.de/startseite/
 ---
 country: DE
-state: Thüringen
+state: ThÃ¼ringen
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 district: Eichsfeld
@@ -38,7 +38,7 @@ urls:
     url: https://www.facebook.com/Eichsfeldgruene/
 ---
 country: DE
-state: Thüringen
+state: ThÃ¼ringen
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 district: Erfurt
@@ -49,7 +49,7 @@ urls:
     url: https://www.facebook.com/GrueneStadtErfurt/
 ---
 country: DE
-state: Thüringen
+state: ThÃ¼ringen
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 district: Gera
@@ -60,7 +60,7 @@ urls:
     url: https://www.facebook.com/GrueneGera/
 ---
 country: DE
-state: Thüringen
+state: ThÃ¼ringen
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 district: Gotha
@@ -71,7 +71,7 @@ urls:
     url: https://www.facebook.com/GrueneGotha/
 ---
 country: DE
-state: Thüringen
+state: ThÃ¼ringen
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 district: Greiz
@@ -82,7 +82,7 @@ urls:
     url: https://www.facebook.com/Gr%C3%BCne-Kreisverband-Greiz-892417057456102/
 ---
 country: DE
-state: Thüringen
+state: ThÃ¼ringen
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 district: Ilm-Kreis
@@ -91,7 +91,7 @@ urls:
     url: http://www.gruene-ilmkreis.de/home/
 ---
 country: DE
-state: Thüringen
+state: ThÃ¼ringen
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 district: Jena
@@ -102,10 +102,10 @@ urls:
     url: https://www.facebook.com/Buendnis90.DieGruenen.Jena
 ---
 country: DE
-state: Thüringen
+state: ThÃ¼ringen
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
-district: Kyffhäuser
+district: KyffhÃ¤user
 urls:
   - type: WEBSITE
     url: http://www.gruene-kyffhaeuserkreis.de/home/
@@ -113,7 +113,7 @@ urls:
     url: https://www.facebook.com/grune.kreisverbandkyffhauserkreis/
 ---
 country: DE
-state: Thüringen
+state: ThÃ¼ringen
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 district: Nordhausen
@@ -124,13 +124,13 @@ urls:
     url: https://www.facebook.com/GrueneNordhausen/
 ---
 country: DE
-state: Thüringen
+state: ThÃ¼ringen
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 district: Saale-Holzland
 ---
 country: DE
-state: Thüringen
+state: ThÃ¼ringen
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 district: Saale-Orla
@@ -139,7 +139,7 @@ urls:
     url: https://www.facebook.com/GrueneSOK/
 ---
 country: DE
-state: Thüringen
+state: ThÃ¼ringen
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 district: Saalfeld-Rudolstadt
@@ -148,13 +148,13 @@ urls:
     url: http://www.gruene-slf-ru.de/
 ---
 country: DE
-state: Thüringen
+state: ThÃ¼ringen
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
-district: Sömmerda
+district: SÃ¶mmerda
 ---
 country: DE
-state: Thüringen
+state: ThÃ¼ringen
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 district: Unstrut-Hainich
@@ -165,7 +165,7 @@ urls:
     url: https://www.facebook.com/GrueneUHK/
 ---
 country: DE
-state: Thüringen
+state: ThÃ¼ringen
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 district: Weimar
@@ -176,7 +176,7 @@ urls:
     url: https://www.facebook.com/GrueneWeimar/
 ---
 country: DE
-state: Thüringen
+state: ThÃ¼ringen
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 district: Weimarer Land
