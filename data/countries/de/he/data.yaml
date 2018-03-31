@@ -27,7 +27,7 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Hessen
-district: Bergstraße 
+district: Bergstraße
 urls:
   - type: WEBSITE
     url: http://www.gruene-bergstrasse.de/
