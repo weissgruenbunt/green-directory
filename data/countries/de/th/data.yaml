@@ -1,0 +1,187 @@
+# This file is a directory of chapters and sub-organizations
+# of the Landesverband Thüringen of the party
+# Bündnis 90/Die Grünen.
+#
+---
+type: REGIONAL_CHAPTER
+level: DE:LANDESVERBAND
+country: DE
+state: Thüringen
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-thueringen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenethueringen
+  - type: TWITTER
+    url: https://twitter.com/Gruene_TH
+emails:
+  - address:  info@gruene-thueringen.de
+---
+country: DE
+state: Thüringen
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+district: Altenburg
+urls:
+  - type: WEBSITE
+    url: http://gruene-abgland.de/startseite/
+---
+country: DE
+state: Thüringen
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+district: Eichsfeld
+urls:
+  - type: WEBSITE
+    url: http://www.eichsfeldgruene.de/WP/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Eichsfeldgruene/
+---
+country: DE
+state: Thüringen
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+district: Erfurt
+urls:
+  - type: WEBSITE
+    url: http://www.gruenestadterfurt.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneStadtErfurt/
+---
+country: DE
+state: Thüringen
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+district: Gera
+urls:
+  - type: WEBSITE
+    url: http://gruene-gera.de/startseite/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneGera/
+---
+country: DE
+state: Thüringen
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+district: Gotha
+urls:
+  - type: WEBSITE
+    url: http://gruene-gotha.de/aktuelles/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneGotha/
+---
+country: DE
+state: Thüringen
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+district: Greiz
+urls:
+  - type: WEBSITE
+    url: http://gruene-greiz.de/startseite/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Kreisverband-Greiz-892417057456102/
+---
+country: DE
+state: Thüringen
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+district: Ilm-Kreis
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ilmkreis.de/home/
+---
+country: DE
+state: Thüringen
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+district: Jena
+urls:
+  - type: WEBSITE
+    url: http://gruene-jena.de/aktuelles/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Buendnis90.DieGruenen.Jena
+---
+country: DE
+state: Thüringen
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+district: Kyffhäuser
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kyffhaeuserkreis.de/home/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grune.kreisverbandkyffhauserkreis/
+---
+country: DE
+state: Thüringen
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+district: Nordhausen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-nordhausen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneNordhausen/
+---
+country: DE
+state: Thüringen
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+district: Saale-Holzland
+---
+country: DE
+state: Thüringen
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+district: Saale-Orla
+urls:
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneSOK/
+---
+country: DE
+state: Thüringen
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+district: Saalfeld-Rudolstadt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-slf-ru.de/
+---
+country: DE
+state: Thüringen
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+district: Sömmerda
+---
+country: DE
+state: Thüringen
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+district: Unstrut-Hainich
+urls:
+  - type: WEBSITE
+    url: http://www.grueneuhk.wordpress.com
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneUHK/
+---
+country: DE
+state: Thüringen
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+district: Weimar
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-weimar.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneWeimar/
+---
+country: DE
+state: Thüringen
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+district: Weimarer Land
+urls:
+  - type: WEBSITE
+    url: http://gruene-im-weimarer-land.de/gruene-neuigkeiten/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Die-Gr%C3%BCnen-Weimarer-Land-1525244044404811/
