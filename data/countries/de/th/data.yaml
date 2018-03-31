@@ -15,7 +15,7 @@ urls:
   - type: TWITTER
     url: https://twitter.com/Gruene_TH
 emails:
-  - address:  info@gruene-thueringen.de
+  - address: info@gruene-thueringen.de
 ---
 country: DE
 state: Thüringen
