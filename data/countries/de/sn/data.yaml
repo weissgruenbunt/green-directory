@@ -1,0 +1,196 @@
+# This file is a directory of chapters and sub-organizations
+# of the Landesverband Sachsen of the party
+# Bündnis 90/Die Grünen.
+#
+---
+type: REGIONAL_CHAPTER
+level: DE:LANDESVERBAND
+country: DE
+state: Sachsen
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-sachsen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.sachsen
+  - type: TWITTER
+    url: https://twitter.com/gruene_sachsen
+  - type: FLICKR
+    url: https://www.flickr.com/photos/gruene_sachsen
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/GrueneSachsen
+emails:
+  - address: info@gruene-sachsen.de
+---
+country: DE
+district: Bautzen
+level: DE:KREISVERBAND
+state: Sachsen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bautzen.de
+emails:
+  - address: 
+---
+country: DE
+district: Chemnitz
+level: DE:KREISVERBAND
+state: Sachsen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-chemnitz.de/
+emails:
+  - address: 
+---
+country: DE
+district: Dresden
+level: DE:KREISVERBAND
+state: Sachsen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruenedresden.de
+emails:
+  - address: 
+---
+country: DE
+district: Erzgebirge
+level: DE:KREISVERBAND
+state: Sachsen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-erzgebirge.de
+  - type: FACEBOOK
+    url: http://www.facebook.de/erzgruen
+  - type: TWITTER
+    url: http://www.twitter.com/erzgruen
+  - type: YOUTUBE
+    url: http://www.youtube.com/erzgruentv
+emails:
+  - address: 
+---
+country: DE
+district: Görlitz
+level: DE:KREISVERBAND
+state: Sachsen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-goerlitz.de
+emails:
+  - address: 
+---
+country: DE
+district: Leipzig
+level: DE:KREISVERBAND
+state: Sachsen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-leipzig.de
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneleipzig/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneLeipzig
+  - type: TWITTER
+    url: http://www.twitter.com/gruene_leipzig
+emails:
+  - address: 
+---
+country: DE
+district: Landkreis Leipzig
+level: DE:KREISVERBAND
+state: Sachsen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-landkreis-leipzig.de
+emails:
+  - address: 
+---
+country: DE
+district: Meißen
+level: DE:KREISVERBAND
+state: Sachsen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-meissen.de
+emails:
+  - address: info@gruene-meissen.de
+---
+country: DE
+district: Mittelsachsen
+level: DE:KREISVERBAND
+state: Sachsen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-mittelsachsen.de
+emails:
+  - address: info@gruene-mittelsachsen.de
+---
+country: DE
+district: Nordsachsen
+level: DE:KREISVERBAND
+state: Sachsen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-dto.de/
+emails:
+  - address: info@gruene-tdo.info
+---
+country: DE
+district: Sächsische Schweiz/Osterzgebirge
+level: DE:KREISVERBAND
+state: Sachsen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-elbe-weisseritz.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gruene.Elbe.Weisseritz
+  - type: TWITTER
+    url: https://twitter.com/GrueneSOE
+emails:
+  - address: info@gruene-elbe-weisseritz.de
+---
+country: DE
+district: 
+level: DE:KREISVERBAND
+state: Sachsen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bautzen.de
+emails:
+  - address: 
+---
+country: DE
+district: Vogtland
+level: DE:KREISVERBAND
+state: Sachsen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-vogtland.de
+emails:
+  - address: info@gruene-vogtland.de
+---
+country: DE
+district: Zwickau
+level: DE:KREISVERBAND
+state: Sachsen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-zwickau.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/pages/B%C3%BCndnis90Die-Gr%C3%BCnen-Kreis-Zwickau/220708441342885
+  - type: TWITTER
+    url: https://twitter.com/GrueneZwickau
+emails:
+  - address: vorstand@gruene-zwickau.de
