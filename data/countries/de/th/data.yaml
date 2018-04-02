@@ -185,3 +185,36 @@ urls:
     url: http://gruene-im-weimarer-land.de/gruene-neuigkeiten/
   - type: FACEBOOK
     url: https://www.facebook.com/Die-Gr%C3%BCnen-Weimarer-Land-1525244044404811/
+---
+country: DE
+state: Thüringen
+type: REGIONAL_CHAPTER
+level: DE:REGIONALVERBAND
+region: Wartburgkreis/Eisenach
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wartburgkreis-eisenach.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gruene.WAK.EA/
+---
+country: DE
+state: Thüringen
+type: REGIONAL_CHAPTER
+level: DE:REGIONALVERBAND
+region: Sonneberg- Hildburghausen
+urls:
+  - type: WEBSITE
+    url: http://gruene-sonneberg-hildburghausen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenesonneberg/
+---
+country: DE
+state: Thüringen
+type: REGIONAL_CHAPTER
+level: DE:REGIONALVERBAND
+region: Schmalkalden-Meiningen-Suhl
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-sm.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/RVSMS/
