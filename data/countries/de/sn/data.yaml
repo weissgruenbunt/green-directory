@@ -30,7 +30,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-bautzen.de
 emails:
-  - address: 
+  - address: info@gruene-bautzen.de
 ---
 country: DE
 district: Chemnitz
@@ -41,7 +41,7 @@ urls:
   - type: WEBSITE
     url: https://gruene-chemnitz.de/
 emails:
-  - address: 
+  - address: info@gruene-chemnitz.de
 ---
 country: DE
 district: Dresden
@@ -51,8 +51,18 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: http://gruenedresden.de
+  - type: TWITTER
+    url: https://twitter.com/gruene_dresden
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.dresden
+  - type: FLICKR
+    url: https://www.flickr.com/photos/123223248@N08/
+  - type: YOUTUBE
+    url: https://www.youtube.com/channel/UCfFiN_Zd3aj5k1VFqzKIsyw
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenedresden/
 emails:
-  - address: 
+  - address: buero@gruene-dresden.de
 ---
 country: DE
 district: Erzgebirge
@@ -69,7 +79,7 @@ urls:
   - type: YOUTUBE
     url: http://www.youtube.com/erzgruentv
 emails:
-  - address: 
+  - address: info@gruene-erzgebirge.de
 ---
 country: DE
 district: Görlitz
@@ -80,7 +90,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-goerlitz.de
 emails:
-  - address: 
+  - address: info@gruene-goerlitz.de
 ---
 country: DE
 district: Leipzig
@@ -97,7 +107,7 @@ urls:
   - type: TWITTER
     url: http://www.twitter.com/gruene_leipzig
 emails:
-  - address: 
+  - address: info@gruene-leipzig.de
 ---
 country: DE
 district: Landkreis Leipzig
@@ -108,7 +118,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-landkreis-leipzig.de
 emails:
-  - address: 
+  - address: info@gruene-landkreis-leipzig.de
 ---
 country: DE
 district: Meißen
@@ -157,17 +167,6 @@ urls:
     url: https://twitter.com/GrueneSOE
 emails:
   - address: info@gruene-elbe-weisseritz.de
----
-country: DE
-district: 
-level: DE:KREISVERBAND
-state: Sachsen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-bautzen.de
-emails:
-  - address: 
 ---
 country: DE
 district: Vogtland
