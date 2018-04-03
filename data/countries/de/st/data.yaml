@@ -1,0 +1,202 @@
+# This file is a directory of chapters and sub-organizations
+# of the Landesverband Sachsen-Anhalt of the party
+# Bündnis 90/Die Grünen.
+#
+---
+type: REGIONAL_CHAPTER
+level: DE:LANDESVERBAND
+country: DE
+state: Sachsen-Anhalt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-lsa.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/GRUENELSA
+  - type: TWITTER
+    url: https://twitter.com/GRUENE_LSA
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_lsa/
+emails:
+  - address: info@gruene-lsa.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Sachsen-Anhalt
+district: Altmarkkreis Salzwedel
+urls:
+  - type: WEBSITE
+    url: http://gruene-altmark.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneAltmark
+  - type: TWITTER
+    url: https://twitter.com/AltmarkGruene
+emails:
+  - address: christian.franke@gruene.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Sachsen-Anhalt
+district: Anhalt-Bitterfeld
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-anhalt-bitterfeld.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Buendnis90DieGruenenKreisverbandAnhaltBitterfeld/
+emails:
+  - address: kontakt@gruene-anhalt-bitterfeld.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Sachsen-Anhalt
+district: Börde
+urls:
+  - type: WEBSITE
+    url: http://grueneboerde.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneboerde/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Sachsen-Anhalt
+district: Burgenlandkreis
+emails:
+  - address: buero@gruene-blk.de
+urls:
+  - type: WEBSITE
+    url: http://gruene-blk.de/startseite/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Sachsen-Anhalt
+district: Dessau-Roßlau
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-dessau.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Dessau-Ro%C3%9Flau-868426873174817/
+emails:
+  - address: kv.dessau@gruene.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Sachsen-Anhalt
+district: Halle (Saale)
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-in-halle.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.halle/
+  - type: TWITTER
+    url: https://twitter.com/GrueneHAL
+emails:
+  - address: kontakt@gruene-in-halle.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Sachsen-Anhalt
+district: Harz
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-harz.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GRÜNE-im-Harz-192125564141111/
+emails:
+  - address: info@gruene-harz.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Sachsen-Anhalt
+district: Jerichower Land
+urls:
+  - type: WEBSITE
+    url: http://gruene-jerichower-land.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Sachsen-Anhalt
+district: Magdeburg
+urls:
+  - type: WEBSITE
+    url: http://gruene-magdeburg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.md/
+  - type: TWITTER
+    url: https://twitter.com/gruene_md
+emails:
+  - address: info@gruene-magdeburg.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Sachsen-Anhalt
+district: Mansfeld-Südharz
+urls:
+  - type: WEBSITE
+    url: http://gruene-mansfeld-suedharz.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Mansfeld-S%C3%BCdharz-173358673051765/
+emails:
+  - address: norbert.jung@gruene-mansfeld-suedharz.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Sachsen-Anhalt
+district: Saalekreis
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-saalekreis.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne_Saalekreis-183875094970068/
+emails:
+  - address: kv.saalekreis@gruene.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Sachsen-Anhalt
+district: Salzlandkreis
+urls:
+  - type: WEBSITE
+    url: http://www.salzlandgrüne.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Salzlandgruene/
+  - type: TWITTER
+    url: https://twitter.com/Salzlandgruene
+emails:
+  - address: info@gruene-salzlandkreis.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Sachsen-Anhalt
+district: Stendal
+urls:
+  - type: WEBSITE
+    url: http://gruene-altmark.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneAltmark
+  - type: TWITTER
+    url: https://twitter.com/AltmarkGruene
+emails:
+  - address: christian.franke@gruene.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Sachsen-Anhalt
+district: Wittenberg
+emails:
+  - address: info@gruene-wittenberg.de
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wittenberg.de/
