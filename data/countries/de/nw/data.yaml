@@ -258,7 +258,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruenekv-essen.de/
+    url: http://gruene-essen.de/kreisverband/
   - type: TWITTER
     url: https://twitter.com/GrueneEssen
 ---
