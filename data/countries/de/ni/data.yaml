@@ -1,0 +1,2135 @@
+# This file is a directory of chapters and sub-organizations
+# of the Landesverband Niedersachsen of the party
+# Bündnis 90/Die Grünen.
+#
+---
+type: REGIONAL_CHAPTER
+level: DE:LANDESVERBAND
+country: DE
+state: Niedersachsen
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-niedersachsen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GRUENE.Niedersachsen
+  - type: TWITTER
+    url: https://twitter.com/gruenelvnds
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenends/
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/grueneniedersachsen
+emails:
+  - address: landesverband@gruene-niedersachsen.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Ammerland
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ammerland.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Ammerland
+city: Apen
+urls:
+  - type: WEBSITE
+    url: http://gruene-apen.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Ammerland
+city: Bad Zwischenahn
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-zwischenahn.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Ammerland
+city: Edewecht
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-edewecht.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Ammerland
+city: Rastede
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-rastede.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Ammerland
+city: 'Westerstede '
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wst.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Ammerland
+city: Wiefelstede
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wiefelstede.de/home/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Aurich-Norden
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-aurich.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Aurich-Norden
+city: Aurich
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ov-aurich.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Aurich-Norden
+city: Brookmerland/Hinte/ Südbrookmerland
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-brookmerland-hinte-suedbrookmerland.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Aurich-Norden
+city: Hage
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Aurich-Norden
+city: Krummhörn
+urls:
+  - type: WEBSITE
+    url: http://gruene-krummhoern.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Aurich-Norden
+city: Norden
+urls:
+  - type: WEBSITE
+    url: http://gruene-norden.de/ortsverband/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Aurich-Norden
+city: Norderney
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-norderney.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Celle
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-celle.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Celle
+city: Winsen (Aller)/Wietze/Hambühren
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-celle.de/ortsverbaende/winsen-allerwietzehambuehren/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Celle
+city: Wathlingen/Flotwedel
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-celle.de/ortsverbaende/wathlingen-flotwedel/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Celle
+city: Eschede/Lachendorf
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-celle.de/ortsverbaende/eschedelachendorf/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Celle
+city: Celle
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-celle.de/ortsverbaende/stadtverband-celle/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Celle
+city: Bergen/Faßberg/Südheide
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-celle.de/ortsverbaende/bergenfassbergsuedheide/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Cuxhaven
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-cuxhaven.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Cuxhaven
+city: Schiffdorf-Loxstedt
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Cuxhaven
+city: Hemmoor-Lamstedt
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Cuxhaven
+city: Hagen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hagen-cux.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Cuxhaven
+city: Hadeln/Dobrock
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Cuxhaven
+city: Cuxhaven
+urls:
+  - type: WEBSITE
+    url: http://www.cux-gruene.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Cuxhaven
+city: Beverstedt
+urls:
+  - type: WEBSITE
+    url: http://gruene-beverstedt.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Cuxhaven
+city: Bederkesa-Langen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bederkesa.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Diepholz
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-diepholz.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Diepholz
+city: Weyhe
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-diepholz.de/ortsverbaende-und-ortsgruppen/ortsverband-weyhe/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Diepholz
+city: Syke
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-diepholz.de/ortsverbaende-und-ortsgruppen/ortsverband-syke/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Diepholz
+city: Sulingen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-diepholz.de/ortsverbaende-und-ortsgruppen/ortsverband-sulingen/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Diepholz
+city: Stuhr
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-diepholz.de/ortsverbaende-und-ortsgruppen/ortsverband-stuhr/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Diepholz
+city: Diepholz
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-diepholz.de/ortsverbaende-und-ortsgruppen/ortsverband-diepholz/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Diepholz
+city: Bruchhausen-Vilsen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-diepholz.de/ortsverbaende-und-ortsgruppen/ortsverband-bruchhausen-vilsen/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Diepholz
+city: Bassum
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bassum.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Diepholz
+city: Barnstorf
+urls:
+  - type: WEBSITE
+    url: http://gruene-barnstorf.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Emsland-Nord
+urls:
+  - type: WEBSITE
+    url: http://gruene-eln.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Emsland-Nord
+city: Papenburg
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Emsland-Süd
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-els.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Emsland-Süd
+city: Meppen
+urls:
+  - type: WEBSITE
+    url: http://die-gruenen-meppen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Emsland-Süd
+city: Lingen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-els.de/lingen/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Gifhorn
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-gifhorn.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Gifhorn
+city: SG Brome/ Boldecker Land
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-gifhorn.de/ortsverband/ov-brome_boldecker-land
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Gifhorn
+city: Papenteich
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-gifhorn.de/ortsverband/ov-papenteich/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Gifhorn
+city: Meinersen
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-gifhorn.de/ortsverband/ov-meinersen/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Gifhorn
+city: Isenbüttel
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-gifhorn.de/ortsverband/ov-isenbuettel/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Gifhorn
+city: Hankensbüttel
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-gifhorn.de/ortsverband/ov-hankensbuettel/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Gifhorn
+city: Gifhorn
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-gifhorn.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Goslar
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-goslar.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Goslar
+city: Goslar-Vienenburg
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Grafschaft Bentheim
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-grafschaft.de/start/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Grafschaft Bentheim
+city: Bad Bentheim
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-grafschaft.de/bad-bentheim/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Grafschaft Bentheim
+city: Nordhorn
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-grafschaft.de/nordhorn/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Grafschaft Bentheim
+city: Schüttorf
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-schuettorf.de/home/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-goettingen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+city: Untereichsfeld
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-untereichsfeld.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+city: Staufenberg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-goettingen.de/ortsverbaende/ov-staufenberg/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+city: Rosdorf
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-rosdorf.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+city: Hann.-Münden
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-goettingen.de/vor-ort/ov-hann-muenden/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+city: Göttingen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-goettingen.de/stadtverband/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+city: Gleichen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-gleichen.de/home/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+city: Friedland
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-goettingen.de/vor-ort/ov-friedland/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+city: Dransfeld
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-goettingen.de/ortsverbaende/ov-dransfeld/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+city: Bovenden
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-goettingen.de/vor-ort/ov-bovenden/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+city: Adelebsen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-adelebsen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Hameln-Pyrmont
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hameln-pyrmont.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hameln-Pyrmont
+city: Hessisch-Oldendorf
+urls:
+  - type: WEBSITE
+    url: http://wordpress.gruene-hameln-pyrmont.de/category/hessisch-oldendorf-gesamt/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hameln-Pyrmont
+city: Hameln
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hameln-pyrmont.de/category/ortsverband-hameln/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hameln-Pyrmont
+city: Bad Pyrmont
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hameln-pyrmont.de/category/ortsverband-bad-pyrmont/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hannover.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Wunstorf
+urls:
+  - type: WEBSITE
+    url: http://gruene-wunstorf.com/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Wennigsen
+urls:
+  - type: WEBSITE
+    url: http://gruene-wennigsen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Wedemark
+urls:
+  - type: WEBSITE
+    url: http://gruene-wedemark.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Uetze
+urls:
+  - type: WEBSITE
+    url: http://gruene-uetze.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Springe
+urls:
+  - type: WEBSITE
+    url: http://gruene-springe.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Sehnde
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-sehnde.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Seelze
+urls:
+  - type: WEBSITE
+    url: http://gruene-seelze.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Ronnenberg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ronnenberg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Pattensen
+urls:
+  - type: WEBSITE
+    url: http://gruene-pattensen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Neustadt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-nrue.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Lehrte
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-lehrte.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Langenhagen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-langenhagen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Laatzen
+urls:
+  - type: WEBSITE
+    url: http://gruene-laatzen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Isernhagen
+urls:
+  - type: WEBSITE
+    url: http://gruene-isernhagen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Hemmingen
+urls:
+  - type: WEBSITE
+    url: http://gruene-hemmingen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Hannover
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hannover.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Gehrden
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-gehrden.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Garbsen
+urls:
+  - type: WEBSITE
+    url: http://gruene-garbsen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Burgwedel
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-burgwedel.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Burgdorf
+urls:
+  - type: WEBSITE
+    url: http://gruene-burgdorf.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Barsinghausen
+urls:
+  - type: WEBSITE
+    url: http://gruene-barsinghausen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Harburg-Land
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kreis-harburg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Harburg-Land
+city: Winsen/Luhe-Elbmarsch
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-winsen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Harburg-Land
+city: Tostedt
+urls:
+  - type: WEBSITE
+    url: http://gruene-tostedt.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Harburg-Land
+city: Stelle
+urls:
+  - type: WEBSITE
+    url: http://www.gruenestelle.de/#Startseite
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Harburg-Land
+city: Seevetal
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-seevetal.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Harburg-Land
+city: Salzhausen/Hanstedt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-salzhausen-hanstedt.de/home/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Harburg-Land
+city: Rosengarten
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-rosengarten.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Harburg-Land
+city: Neu Wulmstorf
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-neuwulmstorf.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Harburg-Land
+city: Jesteburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-jesteburg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Harburg-Land
+city: Hollenstedt
+urls:
+  - type: WEBSITE
+    url: http://gruene-hollenstedt.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Harburg-Land
+city: Buchholz
+urls:
+  - type: WEBSITE
+    url: http://gruene-buchholz.de/startseite/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Heidekreis
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-heidekreis.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Heidekreis
+city: Walsrode/Bomlitz
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-walsrode-bomlitz.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Heidekreis
+city: Schneverdingen
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Heidekreis
+city: Bad Fallingbostel
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Hildesheim
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hildesheim.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hildesheim
+city: Nordstemmen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hildesheim.de/kreisverband/ortsverband-nordstemmen/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hildesheim
+city: Hildesheim Südkreis
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hildesheim.de/kreisverband/ortsverband-suedlicher-landkreis/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hildesheim
+city: Hildesheim
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Leer/Ostfriesland
+urls:
+  - type: WEBSITE
+    url: http://www.grueneleer.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Leer/Ostfriesland
+city: Rheiderland
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-rheiderland.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Leer/Ostfriesland
+city: Overledingerland
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Leer/Ostfriesland
+city: Moormerland
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-moormerland.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Leer/Ostfriesland
+city: Leer
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-stadt-leer.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Lüchow-Dannenberg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-luechow-dannenberg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Lüchow-Dannenberg
+city: Elbtalaue
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Lüneburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-lueneburg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Lüneburg
+city: Scharnebeck/Adendorf
+urls:
+  - type: WEBSITE
+    url: http://gruene-lueneburg.de/ortsverbaende/scharnebeckadendorf/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Lüneburg
+city: Ostheide
+urls:
+  - type: WEBSITE
+    url: http://gruene-lueneburg.de/ortsverbaende/ostheide/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Lüneburg
+city: Lüneburg
+urls:
+  - type: WEBSITE
+    url: http://gruene-lueneburg.de/ortsverbaende/lueneburg/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Lüneburg
+city: Ilmenau
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Lüneburg
+city: Gellersen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-gellersen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Lüneburg
+city: Dahlenburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-dahlenburg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Lüneburg
+city: Bleckede
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bleckede.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Lüneburg
+city: Bardowick
+urls:
+  - type: WEBSITE
+    url: http://gruene-lueneburg.de/ortsverbaende/bardowick/gruene-in-bardowick/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Lüneburg
+city: Amelinghausen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-amelinghausen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Nienburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-nienburg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Nienburg
+city: Heemsen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-nienburg.de/ortsverband-heemsen
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Nienburg
+city: Hoya
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hoya.de/home/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Nienburg
+city: Liebenau
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Nienburg
+city: Marklohe
+urls:
+  - type: WEBSITE
+    url: http://gruene-nienburg.de/ortsverband-marklohe/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Nienburg
+city: Mittelweser
+urls:
+  - type: WEBSITE
+    url: http://gruene-nienburg.de/ortsverband-mittelweser/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Nienburg
+city: Nienburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-nienburg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Nienburg
+city: Rehburg-Loccum
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-rehburg-loccum.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Nienburg
+city: Steimbke
+urls:
+  - type: WEBSITE
+    url: http://gruene-nienburg.de/ortsverband-steimbke/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Nienburg
+city: Uchte
+urls:
+  - type: WEBSITE
+    url: http://gruene-nienburg.de/ortsverband-uchte/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Nienburg
+city: Steyerberg
+urls:
+  - type: WEBSITE
+    url: http://gruene-nienburg.de/ortsverband-steyerberg/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Northeim/Einbeck
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-northeim-einbeck.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Northeim/Einbeck
+city: Northeim
+urls:
+  - type: WEBSITE
+    url: http://gruene-northeim.de/startseite/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Northeim/Einbeck
+city: Einbeck
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-northeim-einbeck.de/gruene-vor-ort/einbeck/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Northeim/Einbeck
+city: Dassel
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-northeim-einbeck.de/gruene-vor-ort/dassel/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Oldenburg-Land
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-oldenburg-land.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Oldenburg-Land
+city: Ganderkesee
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-oldenburg-land.de/ov-ganderkesee/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Oldenburg-Land
+city: Harpsted
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-harpstedt.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Oldenburg-Land
+city: Hude
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-oldenburg-land.de/ov-hude/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Oldenburg-Land
+city: Wardenburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-oldenburg-land.de/ov-wardenburg/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Oldenburg-Land
+city: Wildeshausen
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-os-land.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Artland
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-artland.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Bad Essen
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Bad Iburg
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Bad Laer
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Bad Rothenfelde
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-os-land.de/start/ortsverbaende/bad-rothenfelde/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Belm
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Bersenbrück
+urls:
+  - type: WEBSITE
+    url: http://www.die-gruenen-bsb.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Bissendorf
+urls:
+  - type: WEBSITE
+    url: http://die-gruenen-bissendorf.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Bohmte
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bohmte.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Bramsche
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bramsche.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Dissen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-dissen.de/start/ortsverband/ueber-uns/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Fürstenau
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-os-land.de/start/ortsverbaende/sg-fuerstenau/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Georgsmarienhütte
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Glandorf
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-os-land.de/start/ortsverbaende/glandorf/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Hagen
+urls:
+  - type: WEBSITE
+    url: ''
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Hasbergen
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Hilter
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Melle
+urls:
+  - type: WEBSITE
+    url: http://gruenemelle.de/startseite/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Neuenkirchen
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Ostercappeln
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ostercappeln.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Wallenhorst
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Osterholz
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-osterholz.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osterholz
+city: Grasberg
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osterholz
+city: Lilienthal
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osterholz
+city: Osterholz-Scharmbeck
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-osterholz.de/ortsverband-osterholz-scharmbeck/stadt/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osterholz
+city: Ritterhude
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-osterholz.de/ortsverband-ritterhude/home/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osterholz
+city: Schwanewede
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-osterholz.de/ortsverband-schwanewede/home/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Peine
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-peine.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Peine
+city: Edemissen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-peine.de/edemissen/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Peine
+city: Fuhsetal
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-peine.de/fuhsetal-ilsede-und-lengede/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Peine
+city: Hohenhameln
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-peine.de/hohenhameln/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Peine
+city: Peine
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-peine.de/peine/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Peine
+city: Vechelde/Wendeburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-peine.de/vechelde/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Rotenburg/Wümme
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kv-rotenburg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Rotenburg/Wümme
+city: Bremervörde
+urls:
+  - type: WEBSITE
+    url: http://gruene-bremervoerde.de/aktuelles/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Rotenburg/Wümme
+city: Fintel
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-sg-fintel.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Rotenburg/Wümme
+city: Rotenburg/Wümme
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-rotenburg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Rotenburg/Wümme
+city: Scheeßel
+urls:
+  - type: WEBSITE
+    url: http://diegruenen-scheessel.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Rotenburg/Wümme
+city: Sottrum
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kv-rotenburg.de/ov-sottrum/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Rotenburg/Wümme
+city: Visselhövede
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kv-rotenburg.de/ov-visselhoevede/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Rotenburg/Wümme
+city: Zeven
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-zeven.de/home/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Schaumburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-schaumburg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Schaumburg
+city: Bückeburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bueckeburg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Stade
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kv-stade.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Stade
+city: Buxtehude-Apensen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-buxtehude.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Stade
+city: Fredenbeck
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-fredenbeck.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Stade
+city: Harsefeld
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-harsefeld.de/home/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Stade
+city: Himmelpforten/ Oldendorf
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-olhi.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Stade
+city: Horneburg
+urls:
+  - type: WEBSITE
+    url: http://gruene-kv-stade.de/ueber-uns/ortsverbaende/ortsverband-horneburg/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Stade
+city: Jork
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Stade
+city: Lühe
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-luehe.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Stade
+city: Stade
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ov-stade.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Vechta
+urls:
+  - type: WEBSITE
+    url: http://gruene-vechta.de/startseite/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Vechta
+city: Visbek
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Verden
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-verden.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Verden
+city: Achim
+urls:
+  - type: WEBSITE
+    url: http://www.blog.gruene-verden.de/ortsverbande/ortsverband-achim/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Verden
+city: Kirchlinteln
+urls:
+  - type: WEBSITE
+    url: http://www.blog.gruene-verden.de/ortsverbande/kirchlinteln/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Verden
+city: Ottersberg/Fischerhude
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ottersberg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Verden
+city: Oyten
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-oyten.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Verden
+city: Verden
+urls:
+  - type: WEBSITE
+    url: http://www.blog.gruene-verden.de/ortsverbande/ortsverband-verden/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Wesermarsch
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wesermarsch.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Wesermarsch
+city: Wesermarsch-Mitte
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wesermarsch.de/ov-mitte/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Wesermarsch
+city: Berne/Lemwerder
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wesermarsch.de/ov-bernelemwerder/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Wittmund
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wittmund.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Wittmund
+city: Wittmund
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wittmund.de/ov_wittmund.html
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Wittmund
+city: Langeoog
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wittmund.de/ov_langeoog.html
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Wittmund
+city: Holtriem
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wittmund.de/ov_holtriem.html
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Wittmund
+city: Esens
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Wolfenbüttel
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wf.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Wolfenbüttel
+city: Cremlingen
+urls:
+  - type: WEBSITE
+    url: http://gruene-cremlingen.de/startseite/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Wolfenbüttel
+city: Elm-Asse-Fallstein
+urls:
+  - type: WEBSITE
+    url: http://gruene-eaf.de/startseite/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Wolfenbüttel
+city: Sickte
+urls:
+  - type: WEBSITE
+    url: http://www.gruenesickte.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Wolfenbüttel
+city: Wolfenbüttel
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wolfenbuettel.de/
