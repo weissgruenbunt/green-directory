@@ -1,6 +1,6 @@
 # This file is a directory of chapters and sub-organizations
 # of the Landesverband Sachsen-Anhalt of the party
-# Bündnis 90/Die Grünen.
+# BÃ¼ndnis 90/Die GrÃ¼nen.
 #
 ---
 type: REGIONAL_CHAPTER
@@ -51,7 +51,7 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Sachsen-Anhalt
-district: Börde
+district: BÃ¶rde
 urls:
   - type: WEBSITE
     url: http://grueneboerde.de/
@@ -73,7 +73,7 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Sachsen-Anhalt
-district: Dessau-Roßlau
+district: Dessau-RoÃŸlau
 urls:
   - type: WEBSITE
     url: http://www.gruene-dessau.de/
@@ -106,7 +106,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-harz.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/GRÜNE-im-Harz-192125564141111/
+    url: https://www.facebook.com/GRÃœNE-im-Harz-192125564141111/
 emails:
   - address: info@gruene-harz.de
 ---
@@ -138,7 +138,7 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Sachsen-Anhalt
-district: Mansfeld-Südharz
+district: Mansfeld-SÃ¼dharz
 urls:
   - type: WEBSITE
     url: http://gruene-mansfeld-suedharz.de/
@@ -167,7 +167,7 @@ state: Sachsen-Anhalt
 district: Salzlandkreis
 urls:
   - type: WEBSITE
-    url: http://www.salzlandgrüne.de/
+    url: http://www.salzlandgrÃ¼ne.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Salzlandgruene/
   - type: TWITTER
