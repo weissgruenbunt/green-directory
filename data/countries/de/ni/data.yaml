@@ -1,6 +1,6 @@
 # This file is a directory of chapters and sub-organizations
 # of the Landesverband Niedersachsen of the party
-# Bündnis 90/Die Grünen.
+# BÃ¼ndnis 90/Die GrÃ¼nen.
 #
 ---
 type: REGIONAL_CHAPTER
@@ -114,7 +114,7 @@ level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
 district: Aurich-Norden
-city: Brookmerland/Hinte/ Südbrookmerland
+city: Brookmerland/Hinte/ SÃ¼dbrookmerland
 urls:
   - type: WEBSITE
     url: http://www.gruene-brookmerland-hinte-suedbrookmerland.de/
@@ -131,7 +131,7 @@ level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
 district: Aurich-Norden
-city: Krummhörn
+city: KrummhÃ¶rn
 urls:
   - type: WEBSITE
     url: http://gruene-krummhoern.de/
@@ -170,7 +170,7 @@ level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
 district: Celle
-city: Winsen (Aller)/Wietze/Hambühren
+city: Winsen (Aller)/Wietze/HambÃ¼hren
 urls:
   - type: WEBSITE
     url: https://www.gruene-celle.de/ortsverbaende/winsen-allerwietzehambuehren/
@@ -210,7 +210,7 @@ level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
 district: Celle
-city: Bergen/Faßberg/Südheide
+city: Bergen/FaÃŸberg/SÃ¼dheide
 urls:
   - type: WEBSITE
     url: http://www.gruene-celle.de/ortsverbaende/bergenfassbergsuedheide/
@@ -394,7 +394,7 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Niedersachsen
-district: Emsland-Süd
+district: Emsland-SÃ¼d
 urls:
   - type: WEBSITE
     url: http://www.gruene-els.de/
@@ -403,7 +403,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Emsland-Süd
+district: Emsland-SÃ¼d
 city: Meppen
 urls:
   - type: WEBSITE
@@ -413,7 +413,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Emsland-Süd
+district: Emsland-SÃ¼d
 city: Lingen
 urls:
   - type: WEBSITE
@@ -463,7 +463,7 @@ level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
 district: Gifhorn
-city: Isenbüttel
+city: IsenbÃ¼ttel
 urls:
   - type: WEBSITE
     url: https://www.gruene-gifhorn.de/ortsverband/ov-isenbuettel/
@@ -473,7 +473,7 @@ level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
 district: Gifhorn
-city: Hankensbüttel
+city: HankensbÃ¼ttel
 urls:
   - type: WEBSITE
     url: https://www.gruene-gifhorn.de/ortsverband/ov-hankensbuettel/
@@ -538,7 +538,7 @@ level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
 district: Grafschaft Bentheim
-city: Schüttorf
+city: SchÃ¼ttorf
 urls:
   - type: WEBSITE
     url: http://www.gruene-schuettorf.de/home/
@@ -547,7 +547,7 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Niedersachsen
-district: Göttingen
+district: GÃ¶ttingen
 urls:
   - type: WEBSITE
     url: http://www.gruene-goettingen.de/
@@ -556,7 +556,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Göttingen
+district: GÃ¶ttingen
 city: Untereichsfeld
 urls:
   - type: WEBSITE
@@ -566,7 +566,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Göttingen
+district: GÃ¶ttingen
 city: Staufenberg
 urls:
   - type: WEBSITE
@@ -576,7 +576,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Göttingen
+district: GÃ¶ttingen
 city: Rosdorf
 urls:
   - type: WEBSITE
@@ -586,8 +586,8 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Göttingen
-city: Hann.-Münden
+district: GÃ¶ttingen
+city: Hann.-MÃ¼nden
 urls:
   - type: WEBSITE
     url: http://www.gruene-goettingen.de/vor-ort/ov-hann-muenden/
@@ -596,8 +596,8 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Göttingen
-city: Göttingen
+district: GÃ¶ttingen
+city: GÃ¶ttingen
 urls:
   - type: WEBSITE
     url: http://www.gruene-goettingen.de/stadtverband/
@@ -606,7 +606,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Göttingen
+district: GÃ¶ttingen
 city: Gleichen
 urls:
   - type: WEBSITE
@@ -616,7 +616,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Göttingen
+district: GÃ¶ttingen
 city: Friedland
 urls:
   - type: WEBSITE
@@ -626,7 +626,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Göttingen
+district: GÃ¶ttingen
 city: Dransfeld
 urls:
   - type: WEBSITE
@@ -636,7 +636,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Göttingen
+district: GÃ¶ttingen
 city: Bovenden
 urls:
   - type: WEBSITE
@@ -646,7 +646,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Göttingen
+district: GÃ¶ttingen
 city: Adelebsen
 urls:
   - type: WEBSITE
@@ -1076,7 +1076,7 @@ level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
 district: Hildesheim
-city: Hildesheim Südkreis
+city: Hildesheim SÃ¼dkreis
 urls:
   - type: WEBSITE
     url: http://www.gruene-hildesheim.de/kreisverband/ortsverband-suedlicher-landkreis/
@@ -1138,7 +1138,7 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Niedersachsen
-district: Lüchow-Dannenberg
+district: LÃ¼chow-Dannenberg
 urls:
   - type: WEBSITE
     url: http://www.gruene-luechow-dannenberg.de/
@@ -1147,14 +1147,14 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Lüchow-Dannenberg
+district: LÃ¼chow-Dannenberg
 city: Elbtalaue
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Niedersachsen
-district: Lüneburg
+district: LÃ¼neburg
 urls:
   - type: WEBSITE
     url: http://www.gruene-lueneburg.de/
@@ -1163,7 +1163,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Lüneburg
+district: LÃ¼neburg
 city: Scharnebeck/Adendorf
 urls:
   - type: WEBSITE
@@ -1173,7 +1173,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Lüneburg
+district: LÃ¼neburg
 city: Ostheide
 urls:
   - type: WEBSITE
@@ -1183,8 +1183,8 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Lüneburg
-city: Lüneburg
+district: LÃ¼neburg
+city: LÃ¼neburg
 urls:
   - type: WEBSITE
     url: http://gruene-lueneburg.de/ortsverbaende/lueneburg/
@@ -1193,14 +1193,14 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Lüneburg
+district: LÃ¼neburg
 city: Ilmenau
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Lüneburg
+district: LÃ¼neburg
 city: Gellersen
 urls:
   - type: WEBSITE
@@ -1210,7 +1210,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Lüneburg
+district: LÃ¼neburg
 city: Dahlenburg
 urls:
   - type: WEBSITE
@@ -1220,7 +1220,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Lüneburg
+district: LÃ¼neburg
 city: Bleckede
 urls:
   - type: WEBSITE
@@ -1230,7 +1230,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Lüneburg
+district: LÃ¼neburg
 city: Bardowick
 urls:
   - type: WEBSITE
@@ -1240,7 +1240,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Lüneburg
+district: LÃ¼neburg
 city: Amelinghausen
 urls:
   - type: WEBSITE
@@ -1451,7 +1451,7 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Niedersachsen
-district: Osnabrück-Land
+district: OsnabrÃ¼ck-Land
 urls:
   - type: WEBSITE
     url: http://www.gruene-os-land.de/
@@ -1460,7 +1460,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Osnabrück-Land
+district: OsnabrÃ¼ck-Land
 city: Artland
 urls:
   - type: WEBSITE
@@ -1470,28 +1470,28 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Osnabrück-Land
+district: OsnabrÃ¼ck-Land
 city: Bad Essen
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Osnabrück-Land
+district: OsnabrÃ¼ck-Land
 city: Bad Iburg
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Osnabrück-Land
+district: OsnabrÃ¼ck-Land
 city: Bad Laer
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Osnabrück-Land
+district: OsnabrÃ¼ck-Land
 city: Bad Rothenfelde
 urls:
   - type: WEBSITE
@@ -1501,15 +1501,15 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Osnabrück-Land
+district: OsnabrÃ¼ck-Land
 city: Belm
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Osnabrück-Land
-city: Bersenbrück
+district: OsnabrÃ¼ck-Land
+city: BersenbrÃ¼ck
 urls:
   - type: WEBSITE
     url: http://www.die-gruenen-bsb.de/
@@ -1518,7 +1518,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Osnabrück-Land
+district: OsnabrÃ¼ck-Land
 city: Bissendorf
 urls:
   - type: WEBSITE
@@ -1528,7 +1528,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Osnabrück-Land
+district: OsnabrÃ¼ck-Land
 city: Bohmte
 urls:
   - type: WEBSITE
@@ -1538,7 +1538,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Osnabrück-Land
+district: OsnabrÃ¼ck-Land
 city: Bramsche
 urls:
   - type: WEBSITE
@@ -1548,7 +1548,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Osnabrück-Land
+district: OsnabrÃ¼ck-Land
 city: Dissen
 urls:
   - type: WEBSITE
@@ -1558,8 +1558,8 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Osnabrück-Land
-city: Fürstenau
+district: OsnabrÃ¼ck-Land
+city: FÃ¼rstenau
 urls:
   - type: WEBSITE
     url: http://www.gruene-os-land.de/start/ortsverbaende/sg-fuerstenau/
@@ -1568,14 +1568,14 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Osnabrück-Land
-city: Georgsmarienhütte
+district: OsnabrÃ¼ck-Land
+city: GeorgsmarienhÃ¼tte
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Osnabrück-Land
+district: OsnabrÃ¼ck-Land
 city: Glandorf
 urls:
   - type: WEBSITE
@@ -1585,7 +1585,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Osnabrück-Land
+district: OsnabrÃ¼ck-Land
 city: Hagen
 urls:
   - type: WEBSITE
@@ -1595,21 +1595,21 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Osnabrück-Land
+district: OsnabrÃ¼ck-Land
 city: Hasbergen
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Osnabrück-Land
+district: OsnabrÃ¼ck-Land
 city: Hilter
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Osnabrück-Land
+district: OsnabrÃ¼ck-Land
 city: Melle
 urls:
   - type: WEBSITE
@@ -1619,14 +1619,14 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Osnabrück-Land
+district: OsnabrÃ¼ck-Land
 city: Neuenkirchen
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Osnabrück-Land
+district: OsnabrÃ¼ck-Land
 city: Ostercappeln
 urls:
   - type: WEBSITE
@@ -1636,7 +1636,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Osnabrück-Land
+district: OsnabrÃ¼ck-Land
 city: Wallenhorst
 ---
 type: REGIONAL_CHAPTER
@@ -1755,7 +1755,7 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Niedersachsen
-district: Rotenburg/Wümme
+district: Rotenburg/WÃ¼mme
 urls:
   - type: WEBSITE
     url: http://www.gruene-kv-rotenburg.de/
@@ -1764,8 +1764,8 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Rotenburg/Wümme
-city: Bremervörde
+district: Rotenburg/WÃ¼mme
+city: BremervÃ¶rde
 urls:
   - type: WEBSITE
     url: http://gruene-bremervoerde.de/aktuelles/
@@ -1774,7 +1774,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Rotenburg/Wümme
+district: Rotenburg/WÃ¼mme
 city: Fintel
 urls:
   - type: WEBSITE
@@ -1784,8 +1784,8 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Rotenburg/Wümme
-city: Rotenburg/Wümme
+district: Rotenburg/WÃ¼mme
+city: Rotenburg/WÃ¼mme
 urls:
   - type: WEBSITE
     url: http://www.gruene-rotenburg.de/
@@ -1794,8 +1794,8 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Rotenburg/Wümme
-city: Scheeßel
+district: Rotenburg/WÃ¼mme
+city: ScheeÃŸel
 urls:
   - type: WEBSITE
     url: http://diegruenen-scheessel.de/
@@ -1804,7 +1804,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Rotenburg/Wümme
+district: Rotenburg/WÃ¼mme
 city: Sottrum
 urls:
   - type: WEBSITE
@@ -1814,8 +1814,8 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Rotenburg/Wümme
-city: Visselhövede
+district: Rotenburg/WÃ¼mme
+city: VisselhÃ¶vede
 urls:
   - type: WEBSITE
     url: http://www.gruene-kv-rotenburg.de/ov-visselhoevede/
@@ -1824,7 +1824,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Rotenburg/Wümme
+district: Rotenburg/WÃ¼mme
 city: Zeven
 urls:
   - type: WEBSITE
@@ -1844,7 +1844,7 @@ level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
 district: Schaumburg
-city: Bückeburg
+city: BÃ¼ckeburg
 urls:
   - type: WEBSITE
     url: http://www.gruene-bueckeburg.de/
@@ -1920,7 +1920,7 @@ level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
 district: Stade
-city: Lühe
+city: LÃ¼he
 urls:
   - type: WEBSITE
     url: http://www.gruene-luehe.de/
@@ -2089,7 +2089,7 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Niedersachsen
-district: Wolfenbüttel
+district: WolfenbÃ¼ttel
 urls:
   - type: WEBSITE
     url: http://www.gruene-wf.de/
@@ -2098,7 +2098,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Wolfenbüttel
+district: WolfenbÃ¼ttel
 city: Cremlingen
 urls:
   - type: WEBSITE
@@ -2108,7 +2108,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Wolfenbüttel
+district: WolfenbÃ¼ttel
 city: Elm-Asse-Fallstein
 urls:
   - type: WEBSITE
@@ -2118,7 +2118,7 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Wolfenbüttel
+district: WolfenbÃ¼ttel
 city: Sickte
 urls:
   - type: WEBSITE
@@ -2128,8 +2128,8 @@ type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
-district: Wolfenbüttel
-city: Wolfenbüttel
+district: WolfenbÃ¼ttel
+city: WolfenbÃ¼ttel
 urls:
   - type: WEBSITE
     url: http://www.gruene-wolfenbuettel.de/
