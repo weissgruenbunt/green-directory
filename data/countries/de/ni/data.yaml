@@ -1214,7 +1214,7 @@ district: Lüneburg
 city: Dahlenburg
 urls:
   - type: WEBSITE
-    url: http://www.gruene-dahlenburg.de/
+    url: https://gruene-lueneburg.de/ortsverbaende/dahlenburg/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
