@@ -1,0 +1,106 @@
+# This file is a directory of chapters and sub-organizations
+# of the Landesverband Mecklenburg-Vorpommern of the party
+# Bündnis 90/Die Grünen.
+#
+---
+type: REGIONAL_CHAPTER
+level: DE:LANDESVERBAND
+country: DE
+state: Mecklenburg-Vorpommern
+urls:
+  - type: WEBSITE
+    url: http://gruene-mv.de/start/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenemv
+  - type: TWITTER
+    url: https://twitter.com/GRUENE_MV
+emails:
+  - address: post@gruene-mv.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Mecklenburg-Vorpommern
+district: Landkreis Rostock
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-landkreis-rostock.de
+emails:
+  - address: kv@gruene-landkreis-rostock.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Mecklenburg-Vorpommern
+district: Ludwigslust-Parchim
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ludwigslust-parchim.de
+emails:
+  - address: kv@gruene-ludwigslust-parchim.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Mecklenburg-Vorpommern
+district: Mecklenburgische Seenplatte
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-seenplatte.de
+emails:
+  - address: info@gruene-seenplatte.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Mecklenburg-Vorpommern
+district: Rostock
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-rostock.de
+emails:
+  - address: info@gruene-rostock.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Mecklenburg-Vorpommern
+district: Nordwestmecklenburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-nordwestmecklenburg.de
+emails:
+  - address: info@gruene-nordwestmecklenburg.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Mecklenburg-Vorpommern
+district: Schwerin
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-schwerin.de
+emails:
+  - address: kv@gruene-schwerin.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Mecklenburg-Vorpommern
+district: Vorpommern-Rügen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-vorpommern-ruegen.de
+emails:
+  - address: regionalbuero@gruene-vorpommern-ruegen.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Mecklenburg-Vorpommern
+district: Vorpommern-Greifswald
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-vorpommern-greifswald.de
+emails:
+  - address: info@gruene-greifswald.de
