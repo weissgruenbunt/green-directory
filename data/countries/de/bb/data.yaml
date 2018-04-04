@@ -1,6 +1,6 @@
 # This file is a directory of chapters and sub-organizations
 # of the Landesverband Brandenburg of the party
-# Bündnis 90/Die Grünen.
+# BÃ¼ndnis 90/Die GrÃ¼nen.
 #
 ---
 type: REGIONAL_CHAPTER
@@ -83,7 +83,7 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Brandenburg
-district: Märkisch-Oderland
+district: MÃ¤rkisch-Oderland
 urls:
   - type: WEBSITE
     url: http://www.gruene-mol.de/startseite/
@@ -158,7 +158,7 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Brandenburg
-district: Teltow-Fläming
+district: Teltow-FlÃ¤ming
 urls:
   - type: WEBSITE
     url: http://gruene-teltow-flaeming.de/startseite/
