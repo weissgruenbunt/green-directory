@@ -2122,7 +2122,7 @@ district: Wolfenbüttel
 city: Sickte
 urls:
   - type: WEBSITE
-    url: http://www.gruenesickte.de/
+    url: http://gruene-sickte.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
