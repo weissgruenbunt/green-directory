@@ -1036,7 +1036,7 @@ district: Heidekreis
 city: Walsrode/Bomlitz
 urls:
   - type: WEBSITE
-    url: http://www.gruene-walsrode-bomlitz.de/
+    url: http://www.gruene-walsrode.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
