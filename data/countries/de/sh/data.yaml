@@ -1,0 +1,231 @@
+# This file is a directory of chapters and sub-organizations
+# of the Landesverband Schleswig-Holstein of the party
+# Bündnis 90/Die Grünen.
+#
+---
+type: REGIONAL_CHAPTER
+level: DE:LANDESVERBAND
+country: DE
+state: Schleswig-Holstein
+urls:
+  - type: WEBSITE
+    url: https://sh-gruene.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenesh
+  - type: TWITTER
+    url: http://twitter.com/gruene_sh
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/GrueneSH
+  - type: INSTAGRAM
+    url: https://instagram.com/gruenesh
+  - type: FLICKR
+    url: https://www.flickr.com/photos/gruene_sh/
+emails:
+  - address: info@sh-gruene.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Dithmarschen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-dithmarschen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Grüne-Dithmarschen-352289358205392
+emails:
+  - address: info@gruene-dithmarschen.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Flensburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-flensburg.de/home/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneflensburg/
+  - type: TWITTER
+    url: https://twitter.com/grueneflensburg
+emails:
+  - address: kgst@gruene-flensburg.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Herzogtum Lauenburg
+urls:
+  - type: WEBSITE
+    url: http://gruene-kv-lauenburg.de
+  - type: FACEBOOK
+    url: http://www.facebook.com/grune.herzogtumlauenburg
+  - type: TWITTER
+    url: https://twitter.com/gruenelauenburg
+emails:
+  - address: kv.lauenburg@gruene.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Kiel
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kiel.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenekiel/
+  - type: TWITTER
+    url: https://twitter.com/GrueneKiel
+emails:
+  - address: kgf@gruene-kiel.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Lübeck
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-luebeck.de/
+  - type: FACEBOOK
+    url: http://www.facebook.com/Gruene.Luebeck
+  - type: TWITTER
+    url: https://twitter.com/LuebeckGruene
+emails:
+  - address: vorstand@gruene-luebeck.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Neumünster
+urls:
+  - type: WEBSITE
+    url: http://gruene-neumuenster.de/
+  - type: FACEBOOK
+    url: http://www.facebook.com/gruene.nms
+  - type: TWITTER
+    url: https://twitter.com/gruene_nms
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Nordfriesland
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-nf.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.nordfriesland/
+  - type: TWITTER
+    url: https://twitter.com/GrueneNF
+emails:
+  - address: kv-nordfriesland@sh-gruene.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Ostholstein
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-oh.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneOstholstein
+emails:
+  - address: kreisverband@gruene-oh.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Pinneberg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-pi.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GruenePi
+  - type: TWITTER
+    url: https://twitter.com/GruenePinneberg
+emails:
+  - address: kv.pinneberg@gruene.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Plön
+urls:
+  - type: WEBSITE
+    url: http://gruenekreisploen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenekreisploen
+emails:
+  - address: sabine.duwe@gruene-kreis-ploen.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Rendsburg-Eckernförde
+urls:
+  - type: WEBSITE
+    url: http://gruene-rendsburg-eckernfoerde.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GruneRdEck/
+  - type: TWITTER
+    url: https://twitter.com/GrueneKreisRD
+emails:
+  - address: kreisgeschaeftsstelle@gruene-rd-eck.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Schleswig-Flensburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-sl-fl.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneslfl/
+emails:
+  - address: info@gruene-sl-fl.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Segeberg
+urls:
+  - type: WEBSITE
+    url: http://gruene-se-kv.de/
+emails:
+  - address: segeberger-gruene@gmx.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Steinburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-steinburg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/kvsteinburg/
+emails:
+  - address: info@gruene-steinburg.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Stormarn
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-stormarn.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gruene.Stormarn/
+emails:
+  - address: kv.stormarn@gruene.de
