@@ -1,0 +1,115 @@
+# This file is a directory of chapters and sub-organizations
+# of the Landesverband Hamburg of the party
+# Bündnis 90/Die Grünen.
+#
+---
+type: REGIONAL_CHAPTER
+level: DE:LANDESVERBAND
+country: DE
+state: Hamburg
+urls:
+  - type: WEBSITE
+    url: https://hamburg.gruene.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.hamburg/
+  - type: TWITTER
+    url: http://twitter.com/GRUENE_Hamburg/
+  - type: FLICKR
+    url: http://www.flickr.com/gruene_hamburg
+  - type: YOUTUBE
+    url: http://youtube.com/user/galhamburg
+emails:
+  - address: landesverband@gruene-niedersachsen.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hamburg
+district: Altona
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-altona.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenealtona
+  - type: TWITTER
+    url: https://twitter.com/GRUeNE_Altona
+emails:
+  - address: kreisverband@gruene-altona.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hamburg
+district: Bergedorf
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bergedorf.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneBergedorf/
+emails:
+  - address: kreisverband@gruene-bergedorf.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hamburg
+district: Eimsbüttel
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-eimsbuettel.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/eimsbuettelgruen
+  - type: TWITTER
+    url: https://twitter.com/GrueneEimsbusch
+emails:
+  - address: kreisverband@gruene-eimsbuettel.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hamburg
+district: Harburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-harburg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.harburg/
+emails:
+  - address: kreisverband@gruene-harburg.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hamburg
+district: Mitte
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-mitte.com/
+emails:
+  - address: kreisverband@gruene-mitte.com
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hamburg
+district: Nord
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-nord.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenenord
+emails:
+  - address: info@gruene-nord.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hamburg
+district: Wandsbek
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wandsbek.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenewandsbek
+emails:
+  - address: kreisverband@gruene-wandsbek.de
