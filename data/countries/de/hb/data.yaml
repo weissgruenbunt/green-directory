@@ -1,0 +1,82 @@
+# This file is a directory of chapters and sub-organizations
+# of the Landesverband Bremen of the party
+# Bündnis 90/Die Grünen.
+#
+---
+type: REGIONAL_CHAPTER
+level: DE:LANDESVERBAND
+country: DE
+state: Bremen
+urls:
+  - type: WEBSITE
+    url: https://gruene-bremen.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenebremen
+emails:
+  - address: info@gruene-bremen.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bremen
+district: Bremerhaven
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bremerhaven.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/bremerhavenwirdgruen/
+  - type: TWITTER
+    url: https://twitter.com/Gruene_Bhv
+emails:
+  - address: kreisvorstand@gruene-bremerhaven.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bremen
+district: Mitte - Östliche Vorstadt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bremen-mitte.de/
+emails:
+  - address: kreisverband@gruene-bremen-mitte.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bremen
+district: Nord
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bremen-nord.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bremen
+district: Nordost
+urls:
+  - type: WEBSITE
+    url: http://gruene-bremen-nordost.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bremen
+district: Ost
+urls:
+  - type: WEBSITE
+    url: http://gruene-bremen-ost.de/
+emails:
+  - address: kreisverband@gruene-bremen-ost.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bremen
+district: Links der Weser
+urls:
+  - type: WEBSITE
+    url: https://gruene-linksderweser.de/
+emails:
+  - address: kontakt@gruene-linksderweser.de
