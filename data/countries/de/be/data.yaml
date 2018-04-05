@@ -1,0 +1,132 @@
+# This file is a directory of chapters and sub-organizations
+# of the Landesverband Berlin of the party
+# Bündnis 90/Die Grünen.
+#
+---
+type: REGIONAL_CHAPTER
+level: DE:LANDESVERBAND
+country: DE
+state: Berlin
+urls:
+  - type: WEBSITE
+    url: https://gruene.berlin
+  - type: TWITTER
+    url: https://twitter.com/gruene_berlin
+  - type: FACEBOOK
+    url: https://www.facebook.com/Buendnis90DieGruenenBerlin
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/grueneberlin
+  - type: FLICKR
+    url: https://www.flickr.com/photos/grueneberlin/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_berlin/
+emails:
+  - address: info@gruene-berlin.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Berlin
+district: Charlottenburg-Wilmersdorf
+urls:
+  - type: WEBSITE
+    url: http://gruene-cw.de/aktuelles/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Berlin
+district: Friedrichshain-Kreuzberg
+urls:
+  - type: WEBSITE
+    url: http://gruene-xhain.de/de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Berlin
+district: Lichtenberg
+urls:
+  - type: WEBSITE
+    url: http://gruene-lichtenberg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Berlin
+district: Marzahn-Hellersdorf
+urls:
+  - type: WEBSITE
+    url: http://www.gruenemarzahnhellersdorf.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Berlin
+district: Mitte
+urls:
+  - type: WEBSITE
+    url: http://gruene-mitte.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Berlin
+district: Neukölln
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-neukoelln.de/aktuellemeldungen/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Berlin
+district: Pankow
+urls:
+  - type: WEBSITE
+    url: http://gruene-pankow.de/home/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Berlin
+district: Reinickendorf
+urls:
+  - type: WEBSITE
+    url: http://gruene-reinickendorf.de/startseite/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Berlin
+district: Spandau
+urls:
+  - type: WEBSITE
+    url: http://gruene-spandau.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Berlin
+district: Steglitz-Zehlendorf
+urls:
+  - type: WEBSITE
+    url: http://gruene-suedwest.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Berlin
+district: Tempelhof-Schöneberg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ts.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Berlin
+district: Treptow-Köpenick
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-treptow-koepenick.de/
