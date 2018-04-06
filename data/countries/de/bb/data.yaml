@@ -1,0 +1,173 @@
+# This file is a directory of chapters and sub-organizations
+# of the Landesverband Brandenburg of the party
+# Bündnis 90/Die Grünen.
+#
+---
+type: REGIONAL_CHAPTER
+level: DE:LANDESVERBAND
+country: DE
+state: Brandenburg
+urls:
+  - type: WEBSITE
+    url: https://gruene-brandenburg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenebrandenburg
+  - type: TWITTER
+    url: https://twitter.com/gruenebbg
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenebbg/
+emails:
+  - address: info@gruene-brandenburg.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Brandenburg
+district: Barnim
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-barnim.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Brandenburg
+district: Brandenburg/Havel
+urls:
+  - type: WEBSITE
+    url: http://gruene-kv-brb.de/home/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Brandenburg
+district: Cottbus
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-cottbus.de/home/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Brandenburg
+district: Dahme-Spreewald
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-dahme-spreewald.de/aktuelles/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Brandenburg
+district: Elbe-Elster
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Brandenburg
+district: Frankfurt (Oder)
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-frankfurt-oder.de/start/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Brandenburg
+district: Havelland
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-havelland.de/startseite/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Brandenburg
+district: Märkisch-Oderland
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-mol.de/startseite/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Brandenburg
+district: Oberhavel
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ohv.de/home/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Brandenburg
+district: Oberspreewald-Lausitz
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Brandenburg
+district: Oder-Spree
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-oder-spree.de/home/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Brandenburg
+district: Ostprignitz-Ruppin
+urls:
+  - type: WEBSITE
+    url: http://www.buendnisgruenes-opr.de/home/nc/1/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Brandenburg
+district: Potsdam
+urls:
+  - type: WEBSITE
+    url: http://gruene-potsdam.de/home/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Brandenburg
+district: Potsdam-Mittelmark
+urls:
+  - type: WEBSITE
+    url: http://gruene-potsdam-mittelmark.de/home/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Brandenburg
+district: Prignitz
+urls:
+  - type: WEBSITE
+    url: http://www.grueneprignitz.de/aktuellestermine/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Brandenburg
+district: Spree-Neisse
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Brandenburg
+district: Teltow-Fläming
+urls:
+  - type: WEBSITE
+    url: http://gruene-teltow-flaeming.de/startseite/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Brandenburg
+district: Uckermark
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-um.de/home/

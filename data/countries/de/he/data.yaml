@@ -162,7 +162,7 @@ state: Hessen
 district: Limburg-Weilburg
 urls:
   - type: WEBSITE
-    url: http://www.gruene-limburg-weilburg.de/
+    url: https://www.gruene-limburg-weilburg.de/
 emails:
   - address: kreis@gruene-limburg-weilburg.de
 ---
