@@ -560,7 +560,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-goettingen.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/grune.gottingen/?fref=ts
+    url: https://www.facebook.com/grune.gottingen
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -1407,7 +1407,7 @@ urls:
   - type: WEBSITE
     url: http://gruene-northeim.de/startseite/
   - type: FACEBOOK
-    url: https://www.facebook.com/pages/B%C3%BCndnis90Die-Gr%C3%BCnen-Ortsverband-Northeim/129471280471932?fref=ts
+    url: https://www.facebook.com/B%C3%BCndnis90Die-Gr%C3%BCnen-Ortsverband-Northeim-129471280471932/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -1655,7 +1655,7 @@ urls:
   - type: WEBSITE
     url: http://gruenemelle.de/startseite/
   - type: FACEBOOK
-    url: https://www.facebook.com/gruenemelle/?fref=ts
+    url: https://www.facebook.com/gruenemelle
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

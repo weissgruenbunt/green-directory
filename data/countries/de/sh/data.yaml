@@ -96,7 +96,7 @@ urls:
   - type: TWITTER
     url: https://twitter.com/LuebeckGruene
   - type: INSTAGRAM
-    url: http://www.thepictaram.club/instagram/grueneluebeck
+    url: https://www.instagram.com/grueneluebeck/
 emails:
   - address: vorstand@gruene-luebeck.de
 ---

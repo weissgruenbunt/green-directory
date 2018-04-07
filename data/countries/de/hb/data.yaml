@@ -61,7 +61,7 @@ urls:
   - type: WEBSITE
     url: http://gruene-bremen-nordost.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/gruenebremennordost?fref=nf
+    url: https://www.facebook.com/gruenebremennordost
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
