@@ -24,7 +24,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-bremerhaven.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/bremerhavenwirdgruen/  # conflict with https://www.facebook.com/gruenebhv
+    url: https://www.facebook.com/gruenebhv
   - type: TWITTER
     url: https://twitter.com/Gruene_Bhv
 emails:
@@ -39,7 +39,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-bremen-mitte.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/pages/B%C3%BCndnis-90Die-Gr%C3%BCnen-Kreisverband-Mitte%C3%96stl-Vorstadt-Bremen/372805366081144
+    url: https://www.facebook.com/gruenebremenmoev/
 emails:
   - address: kreisverband@gruene-bremen-mitte.de
 ---
