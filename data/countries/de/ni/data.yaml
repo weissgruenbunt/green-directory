@@ -794,7 +794,7 @@ urls:
   - type: TWITTER
     url: https://twitter.com/GrueneRonnenber
   - type: FACEBOOK
-    url: https://www.facebook.com/Grüne-Ronnenberg-111493438926047/
+    url: https://www.facebook.com/GrueneRonnenberg/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -1844,7 +1844,7 @@ urls:
   - type: WEBSITE
     url: http://diegruenen-scheessel.de/
   - type: FACEBOOK
-    url: Bündnis 90/Die Grünen Scheeßel
+    url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Schee%C3%9Fel-712682232214040/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -1899,7 +1899,7 @@ urls:
   - type: TWITTER
     url: https://twitter.com/G_Bueckeburg
   - type: FACEBOOK
-    url: https://www.facebook.com/Grüne-Bückeburg-1544235625804377/
+    url: https://www.facebook.com/Gr%C3%BCne-B%C3%BCckeburg-1544235625804377/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
