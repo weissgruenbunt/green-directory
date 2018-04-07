@@ -36,6 +36,8 @@ district: Ludwigslust-Parchim
 urls:
   - type: WEBSITE
     url: http://www.gruene-ludwigslust-parchim.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Ludwigslust-Parchim-211125665678181/
 emails:
   - address: kv@gruene-ludwigslust-parchim.de
 ---
@@ -47,6 +49,8 @@ district: Mecklenburgische Seenplatte
 urls:
   - type: WEBSITE
     url: http://www.gruene-seenplatte.de
+  - type: FACEBOOK
+    url: http://www.facebook.com/gruene.seenplatte/
 emails:
   - address: info@gruene-seenplatte.de
 ---
@@ -58,6 +62,10 @@ district: Rostock
 urls:
   - type: WEBSITE
     url: http://www.gruene-rostock.de
+  - type: TWITTER
+    url: https://twitter.com/GrueneRostock
+  - type: FACEBOOK
+    url: http://www.facebook.com/kv.rostock
 emails:
   - address: info@gruene-rostock.de
 ---
@@ -80,6 +88,8 @@ district: Schwerin
 urls:
   - type: WEBSITE
     url: http://www.gruene-schwerin.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/Fraktion-Bündnis-90-Die-Grünen-in-der-Stadtvertretung-Schwerin-1477404799165620/?fref=ts
 emails:
   - address: kv@gruene-schwerin.de
 ---
@@ -91,6 +101,8 @@ district: Vorpommern-RÃ¼gen
 urls:
   - type: WEBSITE
     url: http://www.gruene-vorpommern-ruegen.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneHST/
 emails:
   - address: regionalbuero@gruene-vorpommern-ruegen.de
 ---
@@ -102,5 +114,7 @@ district: Vorpommern-Greifswald
 urls:
   - type: WEBSITE
     url: http://www.gruene-vorpommern-greifswald.de
+  - type: FACEBOOK
+    url: http://www.facebook.com/gruenevg
 emails:
   - address: info@gruene-greifswald.de

@@ -75,6 +75,8 @@ district: Fulda
 urls:
   - type: WEBSITE
     url: http://www.gruene-fulda.de/
+  - type: TWITTER
+    url: https://www.twitter.com/GrueneFulda
 emails:
   - address: info@gruene-fulda.de
 ---
@@ -130,6 +132,8 @@ district: Kassel-Land
 urls:
   - type: WEBSITE
     url: http://www.gruene-landkreis-kassel.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Kassel-Land-1681449658753246/
 emails:
   - address: info@gruene-landkreis-kassel.de
 ---
@@ -152,6 +156,8 @@ district: Lahn-Dill
 urls:
   - type: WEBSITE
     url: http://www.gruene-lahn-dill.de/
+  - type: FACEBOOK
+    url: https://de-de.facebook.com/gruene.lahndill
 emails:
   - address: B90-Gruene.Lahn-Dill@t-online.de
 ---
@@ -174,6 +180,10 @@ district: Main-Kinzig
 urls:
   - type: WEBSITE
     url: http://gruene-main-kinzig.de/
+  - type: TWITTER
+    url: https://twitter.com/GRUENE_MKK
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.mkk
 emails:
   - address: kv@gruene-main-kinzig.de
 ---
@@ -196,6 +206,8 @@ district: Marburg-Biedenkopf
 urls:
   - type: WEBSITE
     url: http://www.gruene-marburg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Marburg-1608668002754517/
 emails:
   - address: kreisverband@gruene-marburg.de
 ---
@@ -207,6 +219,8 @@ district: Odenwald
 urls:
   - type: WEBSITE
     url: http://www.gruene-odenwald.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.odenwald.de/
 emails:
   - address: kontakt@gruene-odenwald.de
 ---
@@ -229,6 +243,10 @@ district: Offenbach Stadt
 urls:
   - type: WEBSITE
     url: http://www.offenbach-gruene.de/
+  - type: TWITTER
+    url: https://twitter.com/GrueneOF
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.offenbach
 emails:
   - address: info@gruene-offenbach.de
 ---
@@ -284,6 +302,8 @@ district: Werra-Meißner
 urls:
   - type: WEBSITE
     url: http://www.gruene-werra-meissner.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneWMK
 emails:
   - address: buero@gruene-werra-meissner.de
 ---
@@ -306,5 +326,7 @@ district: Wiesbaden
 urls:
   - type: WEBSITE
     url: http://www.gruene-wiesbaden.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.wi
 emails:
   - address: kreisverband@gruene-wiesbaden.de
