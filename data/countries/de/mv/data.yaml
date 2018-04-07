@@ -89,7 +89,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-schwerin.de
   - type: FACEBOOK
-    url: https://www.facebook.com/Fraktion-Bündnis-90-Die-Grünen-in-der-Stadtvertretung-Schwerin-1477404799165620/?fref=ts
+    url: https://www.facebook.com/gruene.schwerin
 emails:
   - address: kv@gruene-schwerin.de
 ---
