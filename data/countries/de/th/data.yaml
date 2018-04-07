@@ -122,6 +122,8 @@ urls:
     url: http://www.gruene-nordhausen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneNordhausen/
+  - type: TWITTER
+    url: https://twitter.com/GrueneNDH
 ---
 country: DE
 state: Thüringen
@@ -174,6 +176,8 @@ urls:
     url: http://www.gruene-weimar.de
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneWeimar/
+  - type: TWITTER
+    url: https://twitter.com/Gruene_WE
 ---
 country: DE
 state: Thüringen

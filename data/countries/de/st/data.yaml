@@ -131,6 +131,10 @@ urls:
     url: https://www.facebook.com/gruene.md/
   - type: TWITTER
     url: https://twitter.com/gruene_md
+  - type: FLICKR
+    url: https://www.flickr.com/photos/59592941@N07/
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/GRUENEMD
 emails:
   - address: info@gruene-magdeburg.de
 ---
