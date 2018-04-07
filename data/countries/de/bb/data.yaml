@@ -36,6 +36,8 @@ district: Brandenburg/Havel
 urls:
   - type: WEBSITE
     url: http://gruene-kv-brb.de/home/
+  - type: FACEBOOK
+    url: https://www.facebook.com/pages/B%C3%BCndnis-90Die-Gr%C3%BCnen-Brandenburg-an-der-Havel/201715346651520
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -69,6 +71,8 @@ district: Frankfurt (Oder)
 urls:
   - type: WEBSITE
     url: http://www.gruene-frankfurt-oder.de/start/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneffo/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -78,6 +82,8 @@ district: Havelland
 urls:
   - type: WEBSITE
     url: http://www.gruene-havelland.de/startseite/
+  - type: FACEBOOK
+    url: http://www.facebook.com/gruenehvl
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -87,6 +93,8 @@ district: Märkisch-Oderland
 urls:
   - type: WEBSITE
     url: http://www.gruene-mol.de/startseite/
+  - type: FACEBOOK
+    url: https://www.facebook.com/pages/B%C3%BCndnis-90-Die-Gr%C3%BCnen-M%C3%A4rkisch-Oderland/1409158162635160
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -96,6 +104,8 @@ district: Oberhavel
 urls:
   - type: WEBSITE
     url: http://www.gruene-ohv.de/home/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.kvohv?fref=ts
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -129,6 +139,8 @@ district: Potsdam
 urls:
   - type: WEBSITE
     url: http://gruene-potsdam.de/home/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenekvpotsdam/?fref=nf
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -171,3 +183,5 @@ district: Uckermark
 urls:
   - type: WEBSITE
     url: http://www.gruene-um.de/home/
+  - type: FACEBOOK
+    url: https://de-de.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Uckermark-247133728649040/
