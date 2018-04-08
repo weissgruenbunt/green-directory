@@ -235,6 +235,8 @@ urls:
     url: http://www.gruene-duesseldorf.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.duesseldorf/
+  - type: TWITTER
+    url: https://twitter.com/grueneddorf
 ---
 country: DE
 district: Ennepe-Ruhr
@@ -276,6 +278,8 @@ urls:
     url: https://www.facebook.com/gruenege
   - type: TWITTER
     url: https://twitter.com/gruene_ge
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenege/
 ---
 country: DE
 district: Gütersloh
@@ -343,6 +347,8 @@ urls:
     url: http://www.gruene-kreis-herford.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneherford
+  - type: TWITTER
+    url: https://twitter.com/Gruene_Herford
 ---
 country: DE
 district: Herne
@@ -442,6 +448,8 @@ urls:
     url: http://www.die-gruenen-leverkusen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenelev
+  - type: TWITTER
+    url: https://twitter.com/gruenelev
 ---
 country: DE
 district: Lippe
@@ -522,6 +530,8 @@ urls:
     url: https://www.facebook.com/Gruene.MH
   - type: TWITTER
     url: https://twitter.com/gruene_mh
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_mh/
 ---
 country: DE
 district: Münster
@@ -643,6 +653,8 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: http://www.gruene-rkn.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenerkn/
 ---
 country: DE
 district: Rhein-Sieg

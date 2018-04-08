@@ -74,6 +74,8 @@ urls:
     url: http://www.gruene-harburg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.harburg/
+  - type: TWITTER
+    url: https://twitter.com/GRUENE_Harburg
 emails:
   - address: kreisverband@gruene-harburg.de
 ---

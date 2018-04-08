@@ -24,7 +24,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-bremerhaven.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/bremerhavenwirdgruen/
+    url: https://www.facebook.com/gruenebhv
   - type: TWITTER
     url: https://twitter.com/Gruene_Bhv
 emails:
@@ -38,6 +38,8 @@ district: Mitte - Östliche Vorstadt
 urls:
   - type: WEBSITE
     url: http://www.gruene-bremen-mitte.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenebremenmoev/
 emails:
   - address: kreisverband@gruene-bremen-mitte.de
 ---
@@ -58,6 +60,8 @@ district: Nordost
 urls:
   - type: WEBSITE
     url: http://gruene-bremen-nordost.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenebremennordost
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND

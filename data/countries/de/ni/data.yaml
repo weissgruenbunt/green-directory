@@ -69,6 +69,8 @@ city: Rastede
 urls:
   - type: WEBSITE
     url: http://www.gruene-rastede.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.rastede
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -427,6 +429,12 @@ district: Gifhorn
 urls:
   - type: WEBSITE
     url: http://www.gruene-gifhorn.de/
+  - type: TWITTER
+    url: https://twitter.com/GrueneGifhorn
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneGifhorn
+  - type: YOUTUBE
+    url: https://www.youtube.com/channel/UCSgtVxH51hPfdxY4a0s5CRQ
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -551,6 +559,8 @@ district: Göttingen
 urls:
   - type: WEBSITE
     url: http://www.gruene-goettingen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grune.gottingen
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -581,6 +591,8 @@ city: Rosdorf
 urls:
   - type: WEBSITE
     url: http://www.gruene-rosdorf.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Die.Gruenen.Rosdorf/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -779,6 +791,10 @@ city: Ronnenberg
 urls:
   - type: WEBSITE
     url: http://www.gruene-ronnenberg.de/
+  - type: TWITTER
+    url: https://twitter.com/GrueneRonnenber
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneRonnenberg/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -789,6 +805,8 @@ city: Pattensen
 urls:
   - type: WEBSITE
     url: http://gruene-pattensen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/groups/219648165081160/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -809,6 +827,12 @@ city: Lehrte
 urls:
   - type: WEBSITE
     url: http://www.gruene-lehrte.de/
+  - type: TWITTER
+    url: https://twitter.com/GrueneLehrte
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Lehrte-171045921199
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/GrueneLehrte
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -869,6 +893,8 @@ city: Gehrden
 urls:
   - type: WEBSITE
     url: http://www.gruene-gehrden.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.gehrden
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -1018,6 +1044,8 @@ city: Buchholz
 urls:
   - type: WEBSITE
     url: http://gruene-buchholz.de/startseite/
+  - type: FACEBOOK
+    url: https://www.facebook.com/diebuchholzergruenen/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -1060,6 +1088,8 @@ district: Hildesheim
 urls:
   - type: WEBSITE
     url: http://www.gruene-hildesheim.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/HIgruen
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -1096,6 +1126,8 @@ district: Leer/Ostfriesland
 urls:
   - type: WEBSITE
     url: http://www.grueneleer.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Overledingerland-101361013544841/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -1158,6 +1190,10 @@ district: Lüneburg
 urls:
   - type: WEBSITE
     url: http://www.gruene-lueneburg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneLueneburg/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene.lueneburg/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -1370,6 +1406,8 @@ city: Northeim
 urls:
   - type: WEBSITE
     url: http://gruene-northeim.de/startseite/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis90Die-Gr%C3%BCnen-Ortsverband-Northeim-129471280471932/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -1455,6 +1493,8 @@ district: Osnabrück-Land
 urls:
   - type: WEBSITE
     url: http://www.gruene-os-land.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruen.os
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -1614,6 +1654,8 @@ city: Melle
 urls:
   - type: WEBSITE
     url: http://gruenemelle.de/startseite/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenemelle
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -1779,6 +1821,8 @@ city: Fintel
 urls:
   - type: WEBSITE
     url: http://www.gruene-sg-fintel.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/SGFintel
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -1799,6 +1843,8 @@ city: Scheeßel
 urls:
   - type: WEBSITE
     url: http://diegruenen-scheessel.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Schee%C3%9Fel-712682232214040/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -1829,6 +1875,8 @@ city: Zeven
 urls:
   - type: WEBSITE
     url: http://www.gruene-zeven.de/home/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Zeven-238816379495419/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -1848,6 +1896,10 @@ city: Bückeburg
 urls:
   - type: WEBSITE
     url: http://www.gruene-bueckeburg.de/
+  - type: TWITTER
+    url: https://twitter.com/G_Bueckeburg
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-B%C3%BCckeburg-1544235625804377/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -2047,6 +2099,10 @@ district: Wittmund
 urls:
   - type: WEBSITE
     url: http://www.gruene-wittmund.de/
+  - type: TWITTER
+    url: https://twitter.com/ullimaus87
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneLandkreisWittmund/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

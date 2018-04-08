@@ -48,6 +48,8 @@ urls:
     url: https://www.facebook.com/grueneflensburg/
   - type: TWITTER
     url: https://twitter.com/grueneflensburg
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneflensburg/
 emails:
   - address: kgst@gruene-flensburg.de
 ---
@@ -93,6 +95,8 @@ urls:
     url: http://www.facebook.com/Gruene.Luebeck
   - type: TWITTER
     url: https://twitter.com/LuebeckGruene
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneluebeck/
 emails:
   - address: vorstand@gruene-luebeck.de
 ---
@@ -201,6 +205,8 @@ district: Segeberg
 urls:
   - type: WEBSITE
     url: http://gruene-se-kv.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grn.kv.segeberg
 emails:
   - address: segeberger-gruene@gmx.de
 ---

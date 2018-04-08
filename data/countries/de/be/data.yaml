@@ -31,6 +31,10 @@ district: Charlottenburg-Wilmersdorf
 urls:
   - type: WEBSITE
     url: http://gruene-cw.de/aktuelles/
+  - type: TWITTER
+    url: https://twitter.com/Gruene_CW
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.cw
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -49,6 +53,10 @@ district: Lichtenberg
 urls:
   - type: WEBSITE
     url: http://gruene-lichtenberg.de/
+  - type: TWITTER
+    url: https://twitter.com/gruene_lbg
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenelichtenberg
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -58,6 +66,10 @@ district: Marzahn-Hellersdorf
 urls:
   - type: WEBSITE
     url: http://www.gruenemarzahnhellersdorf.de/
+  - type: TWITTER
+    url: https://twitter.com/gruenemahe
+  - type: FACEBOOK
+    url: https://www.facebook.com/buendnis90diegrunenmarzahnhellersdorf/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -67,6 +79,10 @@ district: Mitte
 urls:
   - type: WEBSITE
     url: http://gruene-mitte.de/
+  - type: TWITTER
+    url: https://twitter.com/gruenemitte
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.mitte
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -94,6 +110,10 @@ district: Reinickendorf
 urls:
   - type: WEBSITE
     url: http://gruene-reinickendorf.de/startseite/
+  - type: TWITTER
+    url: https://twitter.com/fuchsgruen
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.reinickendorf
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -103,6 +123,10 @@ district: Spandau
 urls:
   - type: WEBSITE
     url: http://gruene-spandau.de/
+  - type: TWITTER
+    url: https://twitter.com/GrueneSpandau
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneSpandau/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -121,6 +145,10 @@ district: Tempelhof-Schöneberg
 urls:
   - type: WEBSITE
     url: http://www.gruene-ts.de/
+  - type: TWITTER
+    url: https://twitter.com/GrueneTS
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneTempelhofSchoeneberg
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND

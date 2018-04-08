@@ -178,6 +178,8 @@ urls:
     url: http://twitter.com/gruene_augsburg
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.augsburg
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/GrueneAugsburg
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -285,6 +287,8 @@ district: Dachau
 urls:
   - type: WEBSITE
     url: http://www.gruene-dachau.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-KV-Dachau-216344461717040/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -427,6 +431,12 @@ district: Fürth-Land
 urls:
   - type: WEBSITE
     url: http://www.gruene-fuerth-land.de
+  - type: TWITTER
+    url: https://twitter.com/gruene_fue_land
+  - type: FACEBOOK
+    url: http://www.facebook.com/Gruene.LkFuerth
+  - type: YOUTUBE
+    url: http://www.youtube.com/channel/UCoq6tBpL4RSS9xve53e03yw/videos
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -741,6 +751,8 @@ district: Ostallgäu
 urls:
   - type: WEBSITE
     url: http://www.gruene-oal.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneoal
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -959,6 +971,8 @@ urls:
     url: http://www.gruene-fichtelgebirge.de
   - type: FACEBOOK
     url: https://www.facebook.com/KvWunsiedel/
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/gruenwun
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND

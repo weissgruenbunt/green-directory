@@ -142,6 +142,8 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: http://www.gruene-ettlingen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gruene.Ettlingen/
 ---
 country: DE
 district: Freiburg
@@ -211,6 +213,8 @@ urls:
     url: https://www.facebook.com/GrueneHDH
   - type: TWITTER
     url: https://twitter.com/gruene_hdh
+  - type: YOUTUBE
+    url: https://www.youtube.com/channel/UCSr_jd8Gbxr1Rq98YPFJqyQ
 ---
 country: DE
 district: Heilbronn
@@ -261,6 +265,8 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: http://www.gruene-karlsruhe-land.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneKVKALand/
 ---
 country: DE
 district: Konstanz
@@ -528,6 +534,8 @@ urls:
     url: https://www.facebook.com/GrueneStgt
   - type: TWITTER
     url: https://twitter.com/gruenestuttgart
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenestuttgart/
 ---
 country: DE
 district: Tübingen
@@ -541,6 +549,8 @@ urls:
     url: http://www.gruene-tuebingen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenetuebingen
+  - type: TWITTER
+    url: https://twitter.com/GrueneTuebingen
 ---
 country: DE
 district: Tuttlingen
