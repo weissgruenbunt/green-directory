@@ -894,7 +894,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-gehrden.de/
   - type: FACEBOOK
-    url: http://facebook.com/gruene.gehrden
+    url: https://www.facebook.com/gruene.gehrden
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -1089,7 +1089,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-hildesheim.de
   - type: FACEBOOK
-    url: http://facebook.com/HIgruen
+    url: https://www.facebook.com/HIgruen
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

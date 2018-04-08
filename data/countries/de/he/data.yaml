@@ -157,7 +157,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-lahn-dill.de/
   - type: FACEBOOK
-    url: https://de-de.facebook.com/gruene.lahndill
+    url: https://www.facebook.com/gruene.lahndill
 emails:
   - address: B90-Gruene.Lahn-Dill@t-online.de
 ---

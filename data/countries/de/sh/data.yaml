@@ -49,7 +49,7 @@ urls:
   - type: TWITTER
     url: https://twitter.com/grueneflensburg
   - type: INSTAGRAM
-    url: http://instagram.com/grueneflensburg
+    url: https://www.instagram.com/grueneflensburg/
 emails:
   - address: kgst@gruene-flensburg.de
 ---
