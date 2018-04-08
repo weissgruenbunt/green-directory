@@ -17,6 +17,54 @@ level: DE:ORTSVERBAND
 country: DE
 state: Nordrhein-Westfalen
 district: Rheinisch-Bergischer Kreis
+city: Bergisch Gladbach
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bergischgladbach.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.gl/
+emails:
+  - address: info@gruene-bergischgladbach.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rheinisch-Bergischer Kreis
+city: Burscheid
+urls:
+  - type: WEBSITE
+    url: http://die-gruenen-burscheid.de/
+emails:
+  - address: info@die-gruenen-buscheid.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rheinisch-Bergischer Kreis
+city: Leichlingen
+urls:
+  - type: WEBSITE
+    url: http://gruene-leichlingen.de/
+emails:
+  - address: info@gruene-leichlingen.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rheinisch-Bergischer Kreis
+city: Odenthal
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-odenthal.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rheinisch-Bergischer Kreis
 city: Rösrath
 urls:
   - type: WEBSITE
@@ -25,3 +73,15 @@ urls:
     url: https://www.facebook.com/gruene.roesrath/
 emails:
   - address: info@gruene-roesrath.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rheinisch-Bergischer Kreis
+city: Wermelskirchen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wermelskirchen.de/
+emails:
+  - address: info@gruene-wermelskirchen.de
