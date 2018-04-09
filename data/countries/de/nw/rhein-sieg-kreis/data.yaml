@@ -1,0 +1,275 @@
+---
+country: DE
+district: Rhein-Sieg
+emails:
+  - address: lisa.anschuetz@t-online.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-rhein-sieg.de/
+  - type: TWITTER
+    url: https://twitter.com/gruenerheinsieg
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenerheinsieg/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rhein-Sieg
+city: Alfter
+emails:
+  - address: info@gruene-alfter.de
+urls:
+  - type: WEBSITE
+    url: http://gruene-alfter.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rhein-Sieg
+city: Bad Honnef
+emails:
+  - address: info@gruene-bad-honnef.de
+urls:
+  - type: WEBSITE
+    url: http://gruene-bad-honnef.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rhein-Sieg
+city: Bornheim
+urls:
+  - type: WEBSITE
+    url: http://gruene-bornheim.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Bundnis90DieGrunenBornheim
+  - type: TWITTER
+    url: https://twitter.com/GrueneBornheim
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rhein-Sieg
+city: Eitorf
+emails:
+  - address: info@gruene-eitorf.de
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-eitorf.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Buendnis90DieGruenenEitorf
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rhein-Sieg
+city: Hennef
+emails:
+  - address: d.fiedrich@gruene-hennef.de
+urls:
+  - type: WEBSITE
+    url: http://gruene-hennef.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rhein-Sieg
+city: Königswinter
+emails:
+  - address: info@gruene-koenigswinter.de
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-koenigswinter.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenekoenigswinter
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rhein-Sieg
+city: Lohmar
+emails:
+  - address: info@gruene-lohmar.de
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-lohmar.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenelohmar
+  - type: TWITTER
+    url: https://twitter.com/gruenelohmar
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenelohmar/
+  - type: YOUTUBE
+    url: https://www.youtube.com/channel/UCx0ARNk5uPeGyzlgiPRfBpw
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rhein-Sieg
+city: Meckenheim
+emails:
+  - address: partei@gruene-meckenheim.de
+urls:
+  - type: WEBSITE
+    url: http://gruene-meckenheim.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rhein-Sieg
+city: Much
+emails:
+  - address: gruene.much@web.de
+urls:
+  - type: WEBSITE
+    url: http://xn--grne-much-r9a.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rhein-Sieg
+city: Neunkirchen-Seelscheid
+emails:
+  - address: info@gruene-nks.de
+urls:
+  - type: WEBSITE
+    url: http://gruene-nks.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rhein-Sieg
+city: Niederkassel
+emails:
+  - address: dorothea.dohms@gmx.de
+urls:
+  - type: WEBSITE
+    url: http://www.grueneniederkassel.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneNiederkassel
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rhein-Sieg
+city: Rheinbach
+emails:
+  - address: deru-net@gmx.de
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-rheinbach.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis90Die-Gr%C3%BCnen-Rheinbach-359243267513092/
+  - type: TWITTER
+    url: https://twitter.com/GruenRheinbach
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rhein-Sieg
+city: Ruppichteroth
+emails:
+  - address: gruene-ruppichteroth@gmx.de
+urls:
+  - type: WEBSITE
+    url: http://gruene-ruppichteroth.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rhein-Sieg
+city: Sankt Augustin
+emails:
+  - address: deru-net@gmx.de
+urls:
+  - type: WEBSITE
+    url: http://gruene-sanktaugustin.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Buendnis90GrueneSanktAugustin/
+  - type: TWITTER
+    url: https://twitter.com/Gruene_Augustin
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rhein-Sieg
+city: Siegburg
+emails:
+  - address: info@gruene-siegburg.de
+urls:
+  - type: WEBSITE
+    url: http://gruene-siegburg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Siegburg-393823994073135/
+  - type: TWITTER
+    url: https://twitter.com/gruenesiegburg
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rhein-Sieg
+city: Swisttal
+urls:
+  - type: WEBSITE
+    url: http://gruene-swisttal.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/DieGruenenSwisttal/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rhein-Sieg
+city: Troisdorf
+emails:
+  - address: info@gruene-troisdorf.de
+urls:
+  - type: WEBSITE
+    url: http://gruene-troisdorf.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneTroisdorf
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rhein-Sieg
+city: Wachtberg
+emails:
+  - address: gruen@oliverhenkel.de
+urls:
+  - type: WEBSITE
+    url: https://www.mein-wachtberg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Nordrhein-Westfalen
+district: Rhein-Sieg
+city: Windeck
+emails:
+  - address: t.ritzer@gruene-windeck.de
+urls:
+  - type: WEBSITE
+    url: http://gruene-windeck.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneWindeck/

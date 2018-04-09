@@ -657,19 +657,6 @@ urls:
     url: https://www.facebook.com/gruenerkn/
 ---
 country: DE
-district: Rhein-Sieg
-emails:
-  - address: lisa.anschuetz@t-online.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://gruene-rhein-sieg.de/
-  - type: TWITTER
-    url: https://twitter.com/gruenerheinsieg
----
-country: DE
 district: Siegen-Wittgenstein
 emails:
   - address: kv.siegen-wittgenstein@gruene.de
