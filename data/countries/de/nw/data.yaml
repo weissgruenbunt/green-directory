@@ -148,7 +148,7 @@ urls:
 country: DE
 district: Borken
 emails:
-  - address: ' info@gruene-kv-borken.de'
+  - address: info@gruene-kv-borken.de
 level: DE:KREISVERBAND
 state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
