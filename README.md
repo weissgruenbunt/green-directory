@@ -77,3 +77,15 @@ If not indicated otherwise, all attributes are of the type `String`.
 
 TODO: To be continued. Please refer to examples in `data` for now.
 
+## Contributing
+
+Pull requests with data corrections and contributions are welcome.
+
+Please validate your data before submitting a pull request. To do this, run
+the following command in the terminal:
+
+```
+make validate
+```
+
+If the command runs without error notice, everything is fine.

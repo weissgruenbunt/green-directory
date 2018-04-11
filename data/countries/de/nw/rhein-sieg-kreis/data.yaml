@@ -2,7 +2,7 @@
 country: DE
 district: Rhein-Sieg
 emails:
-  - address: lisa.anschuetz@t-online.de
+  - address: info@gruene-rhein-sieg.de
 level: DE:KREISVERBAND
 state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
@@ -169,7 +169,7 @@ state: Nordrhein-Westfalen
 district: Rhein-Sieg
 city: Rheinbach
 emails:
-  - address: deru-net@gmx.de
+  - address: info@gruene-rheinbach.de
 urls:
   - type: WEBSITE
     url: http://www.gruene-rheinbach.de/
@@ -197,7 +197,7 @@ state: Nordrhein-Westfalen
 district: Rhein-Sieg
 city: Sankt Augustin
 emails:
-  - address: deru-net@gmx.de
+  - address: info@gruene-sanktaugustin.de
 urls:
   - type: WEBSITE
     url: http://gruene-sanktaugustin.de/

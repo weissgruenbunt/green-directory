@@ -19,7 +19,7 @@ urls:
   - type: YOUTUBE
     url: http://youtube.com/user/galhamburg
 emails:
-  - address: landesverband@gruene-niedersachsen.de
+  - address: info@hamburg.gruene.de
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
