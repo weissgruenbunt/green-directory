@@ -51,7 +51,8 @@ def checkFile(path):
             # validate uniqueness
             key = unique_doc_key(doc)
             if key in doc_unique_keys:
-                raise Exception("Entry is duplicate: {path} {key}".format(
+                raise Exception("Entry {index} is duplicate: {path} {key}".format(
+                    index=i,
                     path=path,
                     key=key
                 ))
@@ -60,7 +61,8 @@ def checkFile(path):
             if 'emails' in doc:
                 for address in doc['emails']:
                     if address['address'] in emails:
-                        raise Exception("Email is duplicate: {email} {path} {key}".format(
+                        raise Exception("Email in entry {index} is duplicate: {email} {path} {key}".format(
+                            index=i,
                             email=address['address'],
                             path=path,
                             key=key
@@ -70,12 +72,13 @@ def checkFile(path):
             if 'urls' in doc:
                 for url in doc['urls']:
                     if url['url'] in urls:
-                        raise Exception("URL is duplicate: {url} {path} {key}".format(
+                        raise Exception("URL in entry {index} is duplicate: {url} {path} {key}".format(
+                            index=i,
                             url=url['url'],
                             path=path,
                             key=key
                         ))
-                    emails.add(url['url'])
+                    urls.add(url['url'])
 
 
 if __name__== "__main__":

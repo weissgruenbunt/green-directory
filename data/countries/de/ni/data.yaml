@@ -880,9 +880,6 @@ country: DE
 state: Niedersachsen
 district: Hannover
 city: Hannover
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-hannover.de
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -1346,7 +1343,7 @@ district: Nienburg
 city: Nienburg
 urls:
   - type: WEBSITE
-    url: http://www.gruene-nienburg.de/
+    url: http://gruene-nienburg.de/ortsverband-nienburg/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

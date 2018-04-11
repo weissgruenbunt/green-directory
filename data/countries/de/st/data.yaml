@@ -31,6 +31,8 @@ urls:
     url: https://www.facebook.com/GrueneAltmark
   - type: TWITTER
     url: https://twitter.com/AltmarkGruene
+  - type: INSTAGRAM
+    url: https://www.instagram.com/altmarkgruene/
 emails:
   - address: ruben.engel@gruene-altmark.de
 ---
@@ -186,11 +188,7 @@ state: Sachsen-Anhalt
 district: Stendal
 urls:
   - type: WEBSITE
-    url: http://gruene-altmark.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneAltmark
-  - type: TWITTER
-    url: https://twitter.com/AltmarkGruene
+    url: http://gruene-altmark.de/partei/kv-stendal/
 emails:
   - address: christian.franke@gruene.de
 ---

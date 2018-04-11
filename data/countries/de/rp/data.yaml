@@ -471,9 +471,5 @@ district: Zweibrücken
 urls:
   - type: WEBSITE
     url: http://gruene-zweibruecken.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Worms-881940381832585/
-  - type: TWITTER
-    url: https://twitter.com/gruene_worms/
 emails:
   - address: kv-zweibruecken@gruene-rlp.de
