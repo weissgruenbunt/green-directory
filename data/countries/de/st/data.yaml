@@ -108,7 +108,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-harz.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/GRÜNE-im-Harz-192125564141111/
+    url: https://www.facebook.com/GR%C3%9CNE-im-Harz-192125564141111/
 emails:
   - address: info@gruene-harz.de
 ---
@@ -173,7 +173,7 @@ state: Sachsen-Anhalt
 district: Salzlandkreis
 urls:
   - type: WEBSITE
-    url: http://www.salzlandgrüne.de/
+    url: http://www.xn--salzlandgrne-mlb.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Salzlandgruene/
   - type: TWITTER

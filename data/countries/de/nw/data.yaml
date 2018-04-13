@@ -105,7 +105,7 @@ urls:
 country: DE
 district: Bielefeld
 emails:
-  - address: http://www.gruene-bielefeld.de/
+  - address: info@gruene-bielefeld.de
 level: DE:KREISVERBAND
 state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
@@ -585,7 +585,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-olpe.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/Bündnis-90Die-Grünen-Kreisverband-Olpe-445658712181177/
+    url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Kreisverband-Olpe-445658712181177/
 ---
 country: DE
 district: Paderborn

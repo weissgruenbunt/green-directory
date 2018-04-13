@@ -5,6 +5,8 @@ type: map
 mapping:
   type:
     type: str
+    enum: ['PARTY', 'REGIONAL_CHAPTER', 'COMMITTEE']
+    required: true
   country:
     type: str
   urls:
@@ -14,8 +16,10 @@ mapping:
         mapping:
           type:
             type: str
+            pattern: '^[A-Z]+$'
           url:
             type: str
+            pattern: '^(http|https)://[\.a-z-]+[a-zA-Z0-9\.\/\_\-\+\%\#\@]*$'
   emails:
     type: seq
     sequence:
@@ -23,8 +27,12 @@ mapping:
         mapping:
           address:
             type: str
+            pattern: '^.+@.+$'
   level:
     type: str
+    required: true
+    enum: ['DE:BUNDESVERBAND', 'DE:LANDESVERBAND', 'DE:REGIONALVERBAND',
+           'DE:KREISVERBAND', 'DE:BEZIRKSVERBAND', 'DE:ORTSVERBAND']
   state:
     type: str
   region:

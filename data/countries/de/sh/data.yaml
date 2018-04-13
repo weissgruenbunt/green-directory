@@ -32,7 +32,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-dithmarschen.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/Grüne-Dithmarschen-352289358205392
+    url: https://www.facebook.com/Gr%C3%BCne-Dithmarschen-352289358205392
 emails:
   - address: info@gruene-dithmarschen.de
 ---

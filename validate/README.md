@@ -1,17 +1,17 @@
 # Validation
 
-This folder contains definitions and tooling required for validation of data
-contained in this repository.
+This folder contains schema definitions and tooling required for validation of
+data contained in this repository.
 
 The script `validate.py` is automatically run for every push to a branch or
-pull request. It can also be executed locally. Synopsis:
+pull request. It can also be executed locally. Simply run this from the
+repo's root directory:
 
 ```
-pip install pykwalify
-python ./validate/validate.py
+make validate
 ```
 
-If you don't see any output, the data is valid according to the schema in
+If you don't see any errors, the data is valid according to the schema in
 the `schema.yaml` file.
 
 You can find out more about the schema definition in the

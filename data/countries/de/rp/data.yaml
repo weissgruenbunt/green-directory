@@ -308,7 +308,7 @@ emails:
   - address: kv-neuwied@gruene-rlp.de
 ---
 type: REGIONAL_CHAPTER
-level: DE:STADTVERBAND
+level: DE:KREISVERBAND
 country: DE
 state: Rheinland-Pfalz
 district: Pirmasens
@@ -449,7 +449,7 @@ emails:
   - address: kv-westerwald@gruene-rlp.de
 ---
 type: REGIONAL_CHAPTER
-level: DE:STADTVERBAND
+level: DE:KREISVERBAND
 country: DE
 state: Rheinland-Pfalz
 district: Worms
@@ -464,7 +464,7 @@ emails:
   - address: kv-worms@gruene-rlp.de
 ---
 type: REGIONAL_CHAPTER
-level: DE:STADTVERBAND
+level: DE:KREISVERBAND
 country: DE
 state: Rheinland-Pfalz
 district: Zweibrücken

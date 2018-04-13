@@ -2,6 +2,7 @@
 ---
 type: PARTY
 country: DE
+level: DE:BUNDESVERBAND
 urls:
   - type: WEBSITE
     url: https://www.gruene.de/
@@ -11,7 +12,7 @@ urls:
     url: https://twitter.com/die_gruenen
   - type: INSTAGRAM
     url: https://instagram.com/die_gruenen/
-  - type: GOOGLE_PLUS
+  - type: GOOGLEPLUS
     url: https://plus.google.com/+DieGruenen/
 emails:
   - address: info@gruene.de

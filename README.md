@@ -65,9 +65,11 @@ If not indicated otherwise, all attributes are of the type `String`.
     organisation.
 
 - `level` (mandatory). A sub-classification of an entry with type `REGIONAL_CHAPTER`. Possible values:
+  - `DE:BUNDESVERBAND` 
   - `DE:LANDESVERBAND`: A chapter belonging to a federal state in Germany. The
     "Land" (also known as "Bundesland") is the primary territorial subdivision
     of the Federal Republic of Germany. See https://en.wikipedia.org/wiki/States_of_Germany
+  - `DE:REGIONALVERBAND`: TODO
   - `DE:KREISVERBAND`: A "Kreisverband" in Germany (DE), which is a regional
     chapter of the party belonging to a "Kreis", which is a kind of district.
     A "Kreis" is, in most German federal states, the primary adinistrative
