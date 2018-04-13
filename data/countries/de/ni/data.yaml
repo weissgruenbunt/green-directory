@@ -77,7 +77,7 @@ level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
 district: Ammerland
-city: 'Westerstede '
+city: Westerstede
 urls:
   - type: WEBSITE
     url: http://www.gruene-wst.de
@@ -232,6 +232,9 @@ country: DE
 state: Niedersachsen
 district: Cuxhaven
 city: Schiffdorf-Loxstedt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-loxstedt-schiffdorf.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -239,6 +242,9 @@ country: DE
 state: Niedersachsen
 district: Cuxhaven
 city: Hemmoor-Lamstedt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hemmoor.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -602,7 +608,7 @@ district: Göttingen
 city: Hann.-Münden
 urls:
   - type: WEBSITE
-    url: http://www.gruene-goettingen.de/vor-ort/ov-hann-muenden/
+    url: http://www.gruene-goettingen.de/ortsverbaende/ov-hann-muenden/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
