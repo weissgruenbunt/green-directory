@@ -1138,9 +1138,6 @@ country: DE
 state: Niedersachsen
 district: Leer/Ostfriesland
 city: Rheiderland
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-rheiderland.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
