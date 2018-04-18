@@ -656,7 +656,9 @@ state: Bayern
 district: München-Land
 urls:
   - type: WEBSITE
-    url: http://www.gruene-ml.de
+    url: https://gruene-ml.de/wordpress/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneML/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
