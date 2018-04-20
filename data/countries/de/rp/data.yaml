@@ -360,6 +360,103 @@ emails:
   - address: kv-rhein-pfalz@gruene-rlp.de
 ---
 type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Pfalz
+city: Altrip
+urls:
+  - type: WEBSITE
+    url: http://gruene-altrip.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Pfalz
+city: Bobenheim-Roxheim
+urls:
+  - type: WEBSITE
+    url: http://www.grueneboro.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Pfalz
+city: Böhl-Iggelheim
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-boehl-iggelheim.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Pfalz
+city: Lambsheim
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-lambsheim.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Pfalz
+city: Limburgerhof
+urls:
+  - type: WEBSITE
+    url: http://gruene-limburgerhof.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Pfalz
+city: Mutterstadt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-mutterstadt.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Pfalz
+city: Römerberg
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Pfalz
+city: Dudenhofen
+urls:
+  - type: WEBSITE
+    url: http://gruene-dudenhofen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Pfalz
+city: Schifferstadt
+urls:
+  - type: WEBSITE
+    url: http://gruene-schifferstadt.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Pfalz
+city: Dannstadt-Schauernheim
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-dannstadt-schauernheim.de/
+---
+type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Rheinland-Pfalz
