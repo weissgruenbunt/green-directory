@@ -2003,6 +2003,19 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Niedersachsen
+district: Uelzen
+urls:
+  - type: WEBSITE
+    url: http://gruene-uelzen.de/startseite/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grune.kreisuelzen/
+emails:
+  - address: info@gruene-uelzen.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
 district: Vechta
 urls:
   - type: WEBSITE
