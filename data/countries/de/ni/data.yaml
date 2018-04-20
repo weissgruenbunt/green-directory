@@ -162,6 +162,25 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Niedersachsen
+district: Braunschweig
+urls:
+  - type: WEBSITE
+    url: http://gruene-braunschweig.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneBraunschweig/
+  - type: TWITTER
+    url: https://twitter.com/GrueneBS/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_bs/
+  - type: YOUTUBE
+    url: https://www.youtube.com/channel/UCl1qvXN0vRHuOSwJ-x2E_1g
+emails:
+  - address: info@gruene-braunschweig.de
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
 district: Celle
 urls:
   - type: WEBSITE
