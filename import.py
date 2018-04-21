@@ -74,7 +74,7 @@ def strip(s, stateName):
 
 def matchKV(kv, dkv):
     '''
-    returns true if kv can be found in dkv
+    returns match or list of matches if kv can be found in dkv
     '''
     key = "%s/%s" % (kv['state'], kv['district'])
     if key in dkv:
