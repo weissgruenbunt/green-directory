@@ -1,6 +1,7 @@
 import csv
 import os
 import yaml
+import sys
 
 def dir_entries(path):
     """
@@ -13,7 +14,7 @@ def dir_entries(path):
             if not filepath.endswith(".yaml"):
                 continue
 
-            with open(filepath, 'r') as yamlfile:
+            with open(filepath, 'r', encoding="utf-8") as yamlfile:
                 for doc in yaml.load_all(yamlfile):
                     yield doc
 
@@ -24,7 +25,7 @@ def read_csv(path):
     kv = {}
     ov = {}
 
-    with open(path, "r") as csvfile:
+    with open(path, "r", encoding="utf-8") as csvfile:
         reader = csv.reader(csvfile)
         for row in reader:
 
@@ -62,6 +63,51 @@ def read_csv(path):
 
     return (kv, ov)
 
+def strip(s, stateName):
+    s = s.replace("-", "").replace("/", "").replace("(", "").replace(")", "")
+    s = s.replace(" und ","")
+    s = s.replace(" ", "")
+    s = s.lower()
+    s = s.replace("kreis", "").replace("stadt", "").replace("land", "")
+    s = s.replace(stateName.lower(), "")
+    return s
+
+def matchKV(kv, dkv):
+    '''
+    returns true if kv can be found in dkv
+    '''
+    key = "%s/%s" % (kv['state'], kv['district'])
+    if key in dkv:
+        return dkv[key]
+    
+    # create reduced list
+    statelist = []
+    for _ ,v in dkv.items():
+        if v["state"] == kv["state"]:
+            statelist.append(v)
+       
+    # 1 - match by stripped name
+    strippedName = strip(kv["district"], kv["state"])
+    
+    results = []
+    for elem in statelist:
+        strippedName2 = strip(elem["district"], elem["state"])
+        if strippedName == strippedName2:
+            results.append(elem)
+    if results:
+        return results
+    
+    # 2 - match by part
+    name1 = kv["district"]
+    for elem in statelist:
+        name2 = elem["district"]
+        if name1 in name2:
+            results.append(elem)
+        elif name2 in name1:
+            results.append(elem)
+    if results:
+        return results
+
 if __name__ == "__main__":
 
     # CSV-Daten zum Import einlesen
@@ -76,6 +122,10 @@ if __name__ == "__main__":
         if doc['level'] == "DE:KREISVERBAND":
             key = "%s/%s" % (doc['state'], doc['district'])
             dkv[key] = doc
+        if doc['level'] == "DE:REGIONALVERBAND":
+            doc['district'] = doc['region']
+            key = "%s/%s" % (doc['state'], doc['district'])
+            dkv[key] = doc
         if doc['level'] == "DE:ORTSVERBAND":
             key = "%s/%s/%s" % (doc['state'], doc['district'], doc['city'])
             dov[key] = doc
@@ -88,9 +138,16 @@ if __name__ == "__main__":
     kv_new = 0
     for i in sorted(ikv.keys()):
         kv = ikv[i]
+        matched = matchKV(kv, dkv)
         key = "%s/%s" % (kv['state'], kv['district'])
-        if key not in dkv:
-            print("%s - KV '%s' ist neu" % (i, key))
+        
+        if matched and key not in dkv:
+            if len(matched) == 1:
+                print("GLEICH:", kv["district"], "==", matched[0]["district"])
+            else:
+                print("GLEICH?", kv["district"], "==", [m["district"] for m in matched], file=sys.stderr)
+        if not matched:
+            print("%s - KV '%s' ist neu - %s" % (i, key, ikv[i]["url"]))
             kv_new += 1
 
     # OV abgleichen
