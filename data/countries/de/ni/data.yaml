@@ -240,6 +240,17 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Niedersachsen
+district: Cloppenburg
+urls:
+  - type: WEBSITE
+    url: http://gruene-cloppenburg.de/home/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneCloppenburg
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
 district: Cuxhaven
 urls:
   - type: WEBSITE
@@ -311,6 +322,15 @@ city: Bederkesa-Langen
 urls:
   - type: WEBSITE
     url: http://www.gruene-bederkesa.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Delmenhorst
+urls:
+  - type: WEBSITE
+    url: http://www.gruenedelmenhorst.de/home/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -405,6 +425,15 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Niedersachsen
+district: Emden/Ostfriesland
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-emden.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
 district: Emsland-Nord
 urls:
   - type: WEBSITE
@@ -445,6 +474,15 @@ city: Lingen
 urls:
   - type: WEBSITE
     url: http://www.gruene-els.de/lingen/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Friesland
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-friesland.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -1106,6 +1144,17 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Niedersachsen
+district: Helmstedt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-helmstedt.de/home/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneHelmstedt
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
 district: Hildesheim
 urls:
   - type: WEBSITE
@@ -1139,6 +1188,17 @@ country: DE
 state: Niedersachsen
 district: Hildesheim
 city: Hildesheim
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Holzminden
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-holzminden.de/home/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Holzminden-419607634824927/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -1508,6 +1568,19 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Niedersachsen
+district: Oldenburg-Stadt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-oldenburg.de/home/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneoldenburg
+  - type: TWITTER
+    url: https://twitter.com/Gruene_OL
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
 district: Osnabrück-Land
 urls:
   - type: WEBSITE
@@ -1716,6 +1789,19 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Niedersachsen
+district: Osnabrück-Stadt
+urls:
+  - type: WEBSITE
+    url: http://gruene-os.de/startseite/
+  - type: WEBSITE
+    url: https://www.facebook.com/GrueneOS/
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/grueneos
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
 district: Osterholz
 urls:
   - type: WEBSITE
@@ -1908,6 +1994,17 @@ urls:
     url: http://www.gruene-zeven.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Zeven-238816379495419/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Salzgitter
+urls:
+  - type: WEBSITE
+    url: http://gruene-salzgitter.de/aktuelles/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneSalzgitter
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -2134,6 +2231,23 @@ city: Berne/Lemwerder
 urls:
   - type: WEBSITE
     url: http://www.gruene-wesermarsch.de/ov-bernelemwerder/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Wilhelmshaven
+urls:
+  - type: WEBSITE
+    url: http://gruene-wilhelmshaven.de/startseite/
+  - type: TWITTER
+    url: https://twitter.com/GRUENimRATwhv
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCnes-Wilhelmshaven-169171753155190/
+  - type: GOOGLEPLUS
+    url: https://plus.google.com/113816486058324502866
+  - type: YOUTUBE
+    url: https://www.youtube.com/channel/UCcZPT1SXYWJRpmOYqWLsmmw
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
