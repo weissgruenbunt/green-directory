@@ -2347,3 +2347,14 @@ city: Wolfenbüttel
 urls:
   - type: WEBSITE
     url: http://www.gruene-wolfenbuettel.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Wolfsburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wolfsburg.de/aktuelles/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gruene.Wolfsburg
