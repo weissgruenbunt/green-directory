@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import csv
 import os
 import yaml
@@ -107,6 +109,24 @@ def matchKV(kv, dkv):
             results.append(elem)
     if results:
         return results
+    
+    # 3 - match from manual list
+    translate = {"Neustadt/Aisch-Bad Windsheim": "Neustadt-Aisch",
+                 "Neustadt-Waldnaab": "Neustadt a.d. Waldnaab",
+                 "Bremen-Mitte": "Mitte - Östliche Vorstadt",
+                 "Spree-Neiße": "Spree-Neisse",
+                 "Rhein-Berg": "Rheinisch-Bergischer Kreis",
+                 "Neustadt-Weinstraße": "Neustadt an der Weinstraße",
+                 "Sankt Wendel": "St. Wendel",
+                 "Dessau-Rosslau": "Dessau-Roßlau"}
+    
+    for elem in statelist:
+        if kv["district"] == translate.get(elem["district"]):
+            results.append(elem)
+        elif translate.get(kv["district"]) == elem["district"]:
+            results.append(elem)
+    if results:
+        return results
 
 if __name__ == "__main__":
 
@@ -149,7 +169,8 @@ if __name__ == "__main__":
         if not matched:
             print("%s - KV '%s' ist neu - %s" % (i, key, ikv[i]["url"]))
             kv_new += 1
-
+    
+    print("\n=============")
     # OV abgleichen
     ov_new = 0
     for i in sorted(iov.keys()):
