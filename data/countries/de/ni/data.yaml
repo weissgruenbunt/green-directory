@@ -1149,7 +1149,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-helmstedt.de/home/
   - type: FACEBOOK
-    url: http://www.facebook.com/GrueneHelmstedt
+    url: https://www.facebook.com/GrueneHelmstedt
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -2004,7 +2004,7 @@ urls:
   - type: WEBSITE
     url: http://gruene-salzgitter.de/aktuelles/
   - type: FACEBOOK
-    url: http://www.facebook.com/GrueneSalzgitter
+    url: https://www.facebook.com/GrueneSalzgitter
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
