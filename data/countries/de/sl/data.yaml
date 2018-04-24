@@ -40,7 +40,7 @@ district: Saar-Pfalz
 level: DE:KREISVERBAND
 state: Saarland
 type: REGIONAL_CHAPTER
-urls
+urls:
   - type: WEBSITE
     url: https://netzwerk.gruene-surfer.de/kv-saar-pfalz/
 ---
@@ -58,6 +58,7 @@ district: Neunkirchen
 level: DE:KREISVERBAND
 state: Saarland
 type: REGIONAL_CHAPTER
+urls:
   - type: WEBSITE
     url: https://gruene-neunkirchen.de/
 ---

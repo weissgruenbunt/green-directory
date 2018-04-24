@@ -115,6 +115,7 @@ level: DE:KREISVERBAND
 country: DE
 state: Brandenburg
 district: Oberspreewald-Lausitz
+urls:
   - type: WEBSITE
     url: http://www.gruene-osl.de/aktuelles/
 ---
