@@ -2066,7 +2066,7 @@ district: Stade
 city: Harsefeld
 urls:
   - type: WEBSITE
-    url: http://www.gruene-harsefeld.de/home/
+    url: https://gruene-harsefeld.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
