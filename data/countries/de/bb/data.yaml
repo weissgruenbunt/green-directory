@@ -62,6 +62,8 @@ level: DE:KREISVERBAND
 country: DE
 state: Brandenburg
 district: Elbe-Elster
+  - type: WEBSITE
+    url: https://gruenee.de/home/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -112,6 +114,8 @@ level: DE:KREISVERBAND
 country: DE
 state: Brandenburg
 district: Oberspreewald-Lausitz
+  - type: WEBSITE
+    url: http://www.gruene-osl.de/aktuelles/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -165,6 +169,9 @@ level: DE:KREISVERBAND
 country: DE
 state: Brandenburg
 district: Spree-Neisse
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-spn.de/home/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
