@@ -40,6 +40,9 @@ district: Saar-Pfalz
 level: DE:KREISVERBAND
 state: Saarland
 type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://netzwerk.gruene-surfer.de/kv-saar-pfalz/
 ---
 country: DE
 district: Merzig-Wadern
@@ -55,6 +58,9 @@ district: Neunkirchen
 level: DE:KREISVERBAND
 state: Saarland
 type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-neunkirchen.de/
 ---
 country: DE
 district: St. Wendel
