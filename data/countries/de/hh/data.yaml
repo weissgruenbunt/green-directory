@@ -14,6 +14,8 @@ urls:
     url: https://www.facebook.com/gruene.hamburg/
   - type: TWITTER
     url: http://twitter.com/GRUENE_Hamburg/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_hamburg/
   - type: FLICKR
     url: http://www.flickr.com/gruene_hamburg
   - type: YOUTUBE

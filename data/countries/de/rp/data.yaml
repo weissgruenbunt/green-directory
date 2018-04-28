@@ -202,6 +202,8 @@ urls:
     url: https://www.facebook.com/gruene.kv.koblenz/
   - type: TWITTER
     url: https://twitter.com/gruene_koblenz/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_koblenz/
 emails:
   - address: kv-koblenz@gruene-rlp.de
 ---

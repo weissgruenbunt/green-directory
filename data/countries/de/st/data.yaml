@@ -180,6 +180,8 @@ urls:
     url: https://www.facebook.com/Salzlandgruene/
   - type: TWITTER
     url: https://twitter.com/Salzlandgruene
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_salzland/
 emails:
   - address: info@gruene-salzlandkreis.de
 ---
