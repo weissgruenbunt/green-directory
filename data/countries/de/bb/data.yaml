@@ -16,6 +16,8 @@ urls:
     url: https://twitter.com/gruenebbg
   - type: INSTAGRAM
     url: https://www.instagram.com/gruenebbg/
+  - type: WIKIPEDIA
+    url: https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen_Brandenburg
 emails:
   - address: info@gruene-brandenburg.de
 ---
