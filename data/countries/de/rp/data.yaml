@@ -18,6 +18,8 @@ urls:
     url: https://www.instagram.com/gruene_rlp/
   - type: YOUTUBE
     url: https://www.youtube.com/user/gruenerlp/
+  - type: WIKIPEDIA
+    url: https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen_Rheinland-Pfalz
 emails:
   - address: lgs@gruene-rlp.de
 ---
