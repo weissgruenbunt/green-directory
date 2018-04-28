@@ -144,6 +144,8 @@ urls:
     url: http://www.gruene-ettlingen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gruene.Ettlingen/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_ettlingen/
 ---
 country: DE
 district: Freiburg

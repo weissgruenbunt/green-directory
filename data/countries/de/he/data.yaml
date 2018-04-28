@@ -247,6 +247,8 @@ urls:
     url: https://twitter.com/GrueneOF
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.offenbach
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_kreis_offenbach/
 emails:
   - address: info@gruene-offenbach.de
 ---

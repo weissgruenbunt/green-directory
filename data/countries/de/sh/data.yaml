@@ -80,6 +80,8 @@ urls:
     url: https://www.facebook.com/gruenekiel/
   - type: TWITTER
     url: https://twitter.com/GrueneKiel
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenekiel/
 emails:
   - address: kgf@gruene-kiel.de
 ---
@@ -138,6 +140,8 @@ urls:
     url: http://www.gruene-oh.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneOstholstein
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_ostholstein/
 emails:
   - address: kreisverband@gruene-oh.de
 ---
@@ -181,6 +185,8 @@ urls:
     url: https://www.facebook.com/GruneRdEck/
   - type: TWITTER
     url: https://twitter.com/GrueneKreisRD
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grune_kreis_rd/
 emails:
   - address: kreisgeschaeftsstelle@gruene-rd-eck.de
 ---

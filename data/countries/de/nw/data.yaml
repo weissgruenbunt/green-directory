@@ -547,6 +547,8 @@ urls:
     url: https://www.facebook.com/gruene.muenster/
   - type: TWITTER
     url: https://twitter.com/GAL_Muenster
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenemuenster/
 ---
 country: DE
 district: Oberberg
@@ -629,6 +631,8 @@ urls:
     url: https://www.facebook.com/diegruenen.rs
   - type: TWITTER
     url: https://twitter.com/GrueneRS
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_remscheid/
 ---
 country: DE
 district: Rhein-Erft-Kreis
@@ -724,6 +728,8 @@ urls:
     url: https://www.facebook.com/DieGrunenUnna
   - type: TWITTER
     url: https://twitter.com/GrueneKVUnna
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneunna/
 ---
 country: DE
 district: Viersen

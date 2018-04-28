@@ -624,6 +624,8 @@ urls:
     url: http://www.gruene-goettingen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grune.gottingen
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grunegottingen/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

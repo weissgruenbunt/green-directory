@@ -34,6 +34,8 @@ urls:
     url: http://gruene-oberfranken.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneoberfranken/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneoberfranken/
 ---
 type: REGIONAL_CHAPTER
 level: DE:BEZIRKSVERBAND
@@ -152,6 +154,8 @@ urls:
     url: http://www.gruene-ab.de
   - type: FACEBOOK
     url: https://www.facebook.com/Die.Gruenen.Aschaffenburg
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_aschaffenburg/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
