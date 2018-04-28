@@ -14,5 +14,7 @@ urls:
     url: https://instagram.com/die_gruenen/
   - type: GOOGLEPLUS
     url: https://plus.google.com/+DieGruenen/
+  - type: WIKIPEDIA
+    url: https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen
 emails:
   - address: info@gruene.de

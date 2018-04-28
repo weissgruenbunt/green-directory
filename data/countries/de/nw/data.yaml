@@ -14,6 +14,8 @@ urls:
     url: https://www.facebook.com/gruenenrw/
   - type: TWITTER
     url: https://twitter.com/gruenenrw
+  - type: WIKIPEDIA
+    url: https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen_Nordrhein-Westfalen
 emails:
   - address: info@gruene-nrw.de
 ---
