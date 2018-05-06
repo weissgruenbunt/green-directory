@@ -14,6 +14,10 @@ urls:
     url: https://www.facebook.com/gruenemv
   - type: TWITTER
     url: https://twitter.com/GRUENE_MV
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenemv/
+  - type: WIKIPEDIA
+    url: https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen_Mecklenburg-Vorpommern
 emails:
   - address: post@gruene-mv.de
 ---

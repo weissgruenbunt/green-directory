@@ -14,6 +14,10 @@ urls:
     url: https://www.facebook.com/GrueneSaar/
   - type: TWITTER
     url: https://twitter.com/Gruene_Saar
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_saar/
+  - type: WIKIPEDIA
+    url: https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen_Saarland
 emails:
   - address: lgs@gruene-saar.de
 ---

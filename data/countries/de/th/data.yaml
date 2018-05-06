@@ -14,6 +14,8 @@ urls:
     url: https://www.facebook.com/gruenethueringen
   - type: TWITTER
     url: https://twitter.com/Gruene_TH
+  - type: WIKIPEDIA
+    url: https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen_Th%C3%BCringen
 emails:
   - address: info@gruene-thueringen.de
 ---
