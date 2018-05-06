@@ -80,7 +80,7 @@ def matchKV(kv, dkv):
     '''
     key = "%s/%s" % (kv['state'], kv['district'])
     if key in dkv:
-        return dkv[key]
+        return [dkv[key]]
     
     # create reduced list
     statelist = []
@@ -128,6 +128,27 @@ def matchKV(kv, dkv):
     if results:
         return results
 
+def getWebsite(doc):
+    if doc.get("urls"):
+        for url in doc["urls"]:
+            if url["type"] == "WEBSITE":
+                return url["url"]
+            
+def matchURLs(url1, url2):
+    if not url1:
+        return False
+    if not url2:
+        return False
+    
+    if url1 == url2:
+        return True
+    if url1.endswith("/"):
+        url1 = url1[:-1]
+    if url2.endswith("/"):
+        url2 = url2[:-1]
+    if url1 == url2:
+        return True
+
 if __name__ == "__main__":
 
     # CSV-Daten zum Import einlesen
@@ -162,10 +183,24 @@ if __name__ == "__main__":
         key = "%s/%s" % (kv['state'], kv['district'])
         
         if matched and key not in dkv:
-            if len(matched) == 1:
-                print("GLEICH:", kv["district"], "==", matched[0]["district"])
+            pass
+            #if len(matched) == 1:
+            #    print("GLEICH:", kv["district"], "==", matched[0]["district"])
+            #else:
+            #    print("GLEICH?", kv["district"], "==", [m["district"] for m in matched], file=sys.stderr)
+        if matched:
+            # sherpa url:
+            kv['url']
+            # matched urls:
+            #[getWebsite(m) for m in matched]
+            if any([matchURLs(kv["url"], getWebsite(m)) for m in matched]):
+                pass
             else:
-                print("GLEICH?", kv["district"], "==", [m["district"] for m in matched], file=sys.stderr)
+                print("URLS DIFFER: KV", kv['state'], kv['district'])
+                print("  Sherpa:", kv['url'])
+                print("  Green Directory:", [getWebsite(m) for m in matched])
+                print()
+            
         if not matched:
             print("%s - KV '%s' ist neu - %s" % (i, key, ikv[i]["url"]))
             kv_new += 1
