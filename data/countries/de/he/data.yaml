@@ -122,9 +122,102 @@ state: Hessen
 district: Hochtaunus
 urls:
   - type: WEBSITE
-    url: http://www.gruene-hochtaunus.de/
+    url: https://www.gruene-hochtaunus.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.hochtaunus/
 emails:
   - address: kreisverband@gruene-hochtaunus.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Hessen
+district: Hochtaunus
+city: Usinger Land
+# single "Ortsverband" having multiple web sites
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-neu-anspach.de/
+  - type: WEBSITE
+    url: https://www.gruene-usingen.de/
+  - type: WEBSITE
+    url: https://www.gruene-wehrheim.de/
+  - type: WEBSITE
+    url: https://www.gruene-schmitten.de/
+  - type: WEBSITE
+    url: http://www.gruene-weilrod.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Hessen
+district: Hochtaunus
+city: Bad Homburg
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-badhomburg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Hessen
+district: Hochtaunus
+city: Oberursel (Taunus)
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-oberursel.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Hessen
+district: Hochtaunus
+city: Friedrichsdorf
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-friedrichsdorf.info/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Hessen
+district: Hochtaunus
+city: Königstein im Taunus/Glashütten
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-glashuetten.de/
+  - type: WEBSITE
+    url: https://www.gruene-koenigstein.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Hessen
+district: Hochtaunus
+city: Kronberg
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-kronberg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Hessen
+district: Hochtaunus
+city: Steinbach (Taunus)
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-steinbach.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Hessen
+district: Hochtaunus
+city: Grävenwiesbach
+urls:
+  - type: WEBSITE
+    url: https://www.gruenenwiesbach.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
