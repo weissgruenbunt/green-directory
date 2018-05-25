@@ -1,0 +1,80 @@
+---
+city: Altdorf
+country: DE
+district: "N\xFCrnberg-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-nuernberger-land.de/altdorf
+---
+city: Burgthann
+country: DE
+district: "N\xFCrnberg-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-burgthann.de
+---
+city: Feucht
+country: DE
+district: "N\xFCrnberg-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-nuernberger-land.de/feucht
+---
+city: Hersbrucker Land
+country: DE
+district: "N\xFCrnberg-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-nuernberger-land.de/hersbruck
+---
+city: Lauf
+country: DE
+district: "N\xFCrnberg-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-nuernberger-land.de/lauf
+---
+city: Schwarzenbruck
+country: DE
+district: "N\xFCrnberg-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-nuernberger-land.de/schwarzenbruck
+---
+city: Winkelhaid
+country: DE
+district: "N\xFCrnberg-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-nuernberger-land.de/winkelha
+---
+city: "R\xF6thenbach"
+country: DE
+district: "N\xFCrnberg-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-roethenbach.de

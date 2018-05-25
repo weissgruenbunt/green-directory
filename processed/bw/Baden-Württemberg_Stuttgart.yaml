@@ -1,0 +1,20 @@
+---
+city: Degerloch
+country: DE
+district: Stuttgart
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-stuttgart.de/ortsverbaende/degerloch/aktuell/index.html
+---
+city: Stuttgart-Nord
+country: DE
+district: Stuttgart
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruenestuttgart.de/index.php?id=846

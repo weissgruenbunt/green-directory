@@ -1,0 +1,100 @@
+---
+city: Bad Oeynhausen
+country: DE
+district: "Minden-L\xFCbbecke"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-badoeynhausen.de
+---
+city: Espelkamp
+country: DE
+district: "Minden-L\xFCbbecke"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-milk.de
+---
+city: Hille
+country: DE
+district: "Minden-L\xFCbbecke"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.schulder.com/gruene
+---
+city: "H\xFCllhorst"
+country: DE
+district: "Minden-L\xFCbbecke"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-huellhorst.de
+---
+city: "L\xFCbbecke"
+country: DE
+district: "Minden-L\xFCbbecke"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-luebbecke.de
+---
+city: Minden
+country: DE
+district: "Minden-L\xFCbbecke"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-minden.de
+---
+city: Petershagen
+country: DE
+district: "Minden-L\xFCbbecke"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-petershagen.de
+---
+city: Porta Westfalica
+country: DE
+district: "Minden-L\xFCbbecke"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.porta.de
+---
+city: "Preu\xDFisch Oldendorf"
+country: DE
+district: "Minden-L\xFCbbecke"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-preussischoldendorf.de
+---
+city: Rahden
+country: DE
+district: "Minden-L\xFCbbecke"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-rahden.de

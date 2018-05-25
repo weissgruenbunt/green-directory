@@ -1,0 +1,20 @@
+---
+city: Alzenau
+country: DE
+district: Aschaffenburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-alzenau.de
+---
+city: Kahl
+country: DE
+district: Aschaffenburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-kahl.de

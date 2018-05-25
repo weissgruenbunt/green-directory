@@ -1,0 +1,20 @@
+---
+city: "Bockum-H\xF6vel"
+country: DE
+district: Hamm
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-hamm.de/bh/start.htm
+---
+city: Hamm-Heessen
+country: DE
+district: Hamm
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-hamm.de/heessen.htm

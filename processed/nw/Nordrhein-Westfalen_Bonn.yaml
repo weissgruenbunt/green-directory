@@ -1,0 +1,30 @@
+---
+city: Bonn-Bad Godesberg
+country: DE
+district: Bonn
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-bonn.de
+---
+city: Bonn-Mitte
+country: DE
+district: Bonn
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-bonn.de
+---
+city: Bonn-Hardtberg
+country: DE
+district: Bonn
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-bonn.de

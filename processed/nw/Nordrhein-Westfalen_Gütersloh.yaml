@@ -1,0 +1,100 @@
+---
+city: Borgholzhausen
+country: DE
+district: "G\xFCtersloh"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-borgholzhausen.de
+---
+city: "G\xFCtersloh"
+country: DE
+district: "G\xFCtersloh"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-guetersloh.de
+---
+city: Halle/Westfalen
+country: DE
+district: "G\xFCtersloh"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-hallewestfalen.de
+---
+city: Steinhagen
+country: DE
+district: "G\xFCtersloh"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-steinhagen.de
+---
+city: Harsewinkel
+country: DE
+district: "G\xFCtersloh"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-harsewinkel.de
+---
+city: Rietberg
+country: DE
+district: "G\xFCtersloh"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-rietberg.de
+---
+city: Versmold
+country: DE
+district: "G\xFCtersloh"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-versmold.de/content/ortsverband
+---
+city: Werther
+country: DE
+district: "G\xFCtersloh"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-werther.de
+---
+city: Verl
+country: DE
+district: "G\xFCtersloh"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-verl.de
+---
+city: "Rheda-Wiedenbr\xFCck"
+country: DE
+district: "G\xFCtersloh"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene.de/rheda-wiedenbrueck

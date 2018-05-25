@@ -1,0 +1,90 @@
+---
+city: Dossenheim
+country: DE
+district: "Neckar-Bergstra\xDFe"
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-dossenheim.de
+---
+city: Heddesheim
+country: DE
+district: "Neckar-Bergstra\xDFe"
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-heddesheim.de
+---
+city: Hemsbach
+country: DE
+district: "Neckar-Bergstra\xDFe"
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gbl-hemsbach.de
+---
+city: Hirschberg
+country: DE
+district: "Neckar-Bergstra\xDFe"
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-hirschberg.de/glh
+---
+city: "Steinachtal/Sch\xF6nau"
+country: DE
+district: "Neckar-Bergstra\xDFe"
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.giw-info.de
+---
+city: Schriesheim
+country: DE
+district: "Neckar-Bergstra\xDFe"
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-schriesheim.de
+---
+city: Weinheim
+country: DE
+district: "Neckar-Bergstra\xDFe"
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gal-weinheim.de
+---
+city: Ladenburg
+country: DE
+district: "Neckar-Bergstra\xDFe"
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ladenburg.de
+---
+city: Edingen-Neckarhausen
+country: DE
+district: "Neckar-Bergstra\xDFe"
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-edingen-neckarhausen.de

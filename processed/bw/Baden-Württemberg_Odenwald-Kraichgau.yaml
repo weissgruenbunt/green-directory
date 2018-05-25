@@ -1,0 +1,70 @@
+---
+city: "Neckargem\xFCnd"
+country: DE
+district: Odenwald-Kraichgau
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-neckargemuend.de
+---
+city: Sinsheim
+country: DE
+district: Odenwald-Kraichgau
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-sinsheim.de
+---
+city: Mauer
+country: DE
+district: Odenwald-Kraichgau
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-mauer.de
+---
+city: Meckesheim
+country: DE
+district: Odenwald-Kraichgau
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-meckesheim.de
+---
+city: Nussloch
+country: DE
+district: Odenwald-Kraichgau
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-nussloch.de
+---
+city: Wiesenbach
+country: DE
+district: Odenwald-Kraichgau
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-wiesenbach.de
+---
+city: Wiesloch
+country: DE
+district: Odenwald-Kraichgau
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-wiesloch.de

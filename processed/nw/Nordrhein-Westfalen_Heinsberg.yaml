@@ -1,0 +1,70 @@
+---
+city: "H\xFCckelhoven"
+country: DE
+district: Heinsberg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-hueckelhoven.de
+---
+city: Geilenkirchen
+country: DE
+district: Heinsberg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-gk.de
+---
+city: Heinsberg
+country: DE
+district: Heinsberg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-hs.de
+---
+city: "\xDCbach-Palenberg"
+country: DE
+district: Heinsberg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-uebach-palenberg.de
+---
+city: Waldfeucht
+country: DE
+district: Heinsberg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-waldfeucht.de
+---
+city: Wassenberg
+country: DE
+district: Heinsberg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene.de/wassenberg
+---
+city: Wegberg
+country: DE
+district: Heinsberg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-wegberg.de

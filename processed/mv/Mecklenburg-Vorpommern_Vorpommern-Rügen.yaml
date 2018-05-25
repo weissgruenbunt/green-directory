@@ -1,0 +1,30 @@
+---
+city: Nordvorpommern
+country: DE
+district: "Vorpommern-R\xFCgen"
+level: DE:ORTSVERBAND
+state: Mecklenburg-Vorpommern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-vorpommern-ruegen.de/Nordvorpommern.3093.0.html
+---
+city: "R\xFCgen"
+country: DE
+district: "Vorpommern-R\xFCgen"
+level: DE:ORTSVERBAND
+state: Mecklenburg-Vorpommern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-vorpommern-ruegen.de/
+---
+city: Stralsund
+country: DE
+district: "Vorpommern-R\xFCgen"
+level: DE:ORTSVERBAND
+state: Mecklenburg-Vorpommern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-vorpommern-ruegen.de/Stralsund.3092.0.html

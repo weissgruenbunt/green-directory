@@ -1,0 +1,20 @@
+---
+city: "Donauw\xF6rth"
+country: DE
+district: Donau-Ries
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-donauwoerth.de
+---
+city: Kaisheim
+country: DE
+district: Donau-Ries
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-kaisheim.de

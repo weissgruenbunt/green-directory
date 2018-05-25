@@ -111,14 +111,16 @@ def matchKV(kv, dkv):
         return results
     
     # 3 - match from manual list
-    translate = {"Neustadt/Aisch-Bad Windsheim": "Neustadt-Aisch",
-                 "Neustadt-Waldnaab": "Neustadt a.d. Waldnaab",
-                 "Bremen-Mitte": "Mitte - Östliche Vorstadt",
-                 "Spree-Neiße": "Spree-Neisse",
-                 "Rhein-Berg": "Rheinisch-Bergischer Kreis",
-                 "Neustadt-Weinstraße": "Neustadt an der Weinstraße",
-                 "Sankt Wendel": "St. Wendel",
-                 "Dessau-Rosslau": "Dessau-Roßlau"}
+    translate = {
+        "Neustadt/Aisch-Bad Windsheim": "Neustadt-Aisch",
+        "Neustadt-Waldnaab": "Neustadt a.d. Waldnaab",
+        "Bremen-Mitte": "Mitte - Östliche Vorstadt",
+        "Spree-Neiße": "Spree-Neisse",
+        "Rhein-Berg": "Rheinisch-Bergischer Kreis",
+        "Neustadt-Weinstraße": "Neustadt an der Weinstraße",
+        "Sankt Wendel": "St. Wendel",
+        "Dessau-Rosslau": "Dessau-Roßlau"
+    }
     
     for elem in statelist:
         if kv["district"] == translate.get(elem["district"]):
@@ -139,6 +141,11 @@ def matchURLs(url1, url2):
         return False
     if not url2:
         return False
+    
+    if not url1.startswith("http"):
+        url1 = "http://" + url1
+    if not url2.startswith("http"):
+        url2 = "http://" + url2
     
     if url1 == url2:
         return True
@@ -205,6 +212,10 @@ if __name__ == "__main__":
             print("%s - KV '%s' ist neu - %s" % (i, key, ikv[i]["url"]))
             kv_new += 1
     
+
+    # Diese OV wollen wir in einem sinnvollen Format ausgeben
+    ov_export = {}
+
     print("\n=============")
     # OV abgleichen
     ov_new = 0
@@ -217,8 +228,41 @@ if __name__ == "__main__":
             continue
         if ov['url'] in durls:
             continue
+
         print("%s - OV %s %s ist neu" % (i, key, ov['url']))
         ov_new += 1
 
-    print("%d KV sind neu" % kv_new)
-    print("%d OV sind neu" % ov_new)
+        if ov['state'] not in ov_export:
+            ov_export[ov['state']] = {}
+        if ov['district'] not in ov_export[ov['state']]:
+            ov_export[ov['state']][ov['district']] = []
+        
+        export_item = {
+            "type": "REGIONAL_CHAPTER",
+            "country": "DE",
+            "level": "DE:ORTSVERBAND",
+            "state": ov['state'],
+            "district": ov['district'],
+            "city": ov['city'],
+            "urls": [
+                {
+                    "type": "WEBSITE",
+                    "url": ov["url"],
+                }
+            ]
+        }
+        ov_export[ov['state']][ov['district']].append(export_item)
+
+
+    #print("%d OV sind neu" % ov_new)
+
+
+    for state in ov_export:
+        for district in ov_export[state]:
+            #print(state, district)
+            filename = "%s_%s.yaml" % (state, district)
+            filename = filename.replace(" ", "_")
+            filename = filename.replace("/", "-")
+            print(filename)
+            with open(filename, "wb") as yamlfile:
+                yamlfile.write(yaml.dump_all(ov_export[state][district], encoding="utf-8", default_flow_style=False, explicit_start=True))

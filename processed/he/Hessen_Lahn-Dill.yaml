@@ -1,0 +1,40 @@
+---
+city: Braunfels
+country: DE
+district: Lahn-Dill
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-lahn-dill.de/gruene_braunfels.16251.0.html#19031
+---
+city: Dillenburg
+country: DE
+district: Lahn-Dill
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-dillenburg.de
+---
+city: Herborn
+country: DE
+district: Lahn-Dill
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-herborn.de
+---
+city: Lahnau
+country: DE
+district: Lahn-Dill
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-lahnau.de

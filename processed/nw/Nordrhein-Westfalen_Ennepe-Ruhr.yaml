@@ -1,0 +1,90 @@
+---
+city: Breckerfeld
+country: DE
+district: Ennepe-Ruhr
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-breckerfeld.de
+---
+city: Ennepetal
+country: DE
+district: Ennepe-Ruhr
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ennepetal.de
+---
+city: Gevelsberg
+country: DE
+district: Ennepe-Ruhr
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-gevelsberg.de
+---
+city: Hattingen
+country: DE
+district: Ennepe-Ruhr
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-hattingen.de/
+---
+city: Herdecke
+country: DE
+district: Ennepe-Ruhr
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-herdecke.de
+---
+city: Schwelm
+country: DE
+district: Ennepe-Ruhr
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-schwelm.de
+---
+city: "Sprockh\xF6vel"
+country: DE
+district: Ennepe-Ruhr
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-sprockhoevel.de
+---
+city: Wetter
+country: DE
+district: Ennepe-Ruhr
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-wetter.de
+---
+city: Witten
+country: DE
+district: Ennepe-Ruhr
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-witten.de

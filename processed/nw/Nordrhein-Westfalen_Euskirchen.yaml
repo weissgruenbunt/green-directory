@@ -1,0 +1,70 @@
+---
+city: "Bad M\xFCnstereifel"
+country: DE
+district: Euskirchen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-bad-muenstereifel.de
+---
+city: Blankenheim
+country: DE
+district: Euskirchen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-blankenheim.de
+---
+city: Dahlem
+country: DE
+district: Euskirchen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-euskirchen.de/ov.dahlem
+---
+city: Kall
+country: DE
+district: Euskirchen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-euskirchen.de/ov.kall
+---
+city: Schleiden
+country: DE
+district: Euskirchen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-schleiden.de
+---
+city: Weilerswist
+country: DE
+district: Euskirchen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-weilerswist.de
+---
+city: Mechernich
+country: DE
+district: Euskirchen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-mechernich.de

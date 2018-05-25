@@ -1,0 +1,10 @@
+---
+city: Kehl
+country: DE
+district: Ortenau
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-kehl.de

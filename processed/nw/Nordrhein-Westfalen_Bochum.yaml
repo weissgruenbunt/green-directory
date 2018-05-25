@@ -1,0 +1,60 @@
+---
+city: Bochum-Mitte
+country: DE
+district: Bochum
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://gruene-bochum.de/in-den-stadtteilen/ov-mitte/
+---
+city: Bochum-Nord
+country: DE
+district: Bochum
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-bochum-nord.de
+---
+city: Bochum-Ost
+country: DE
+district: Bochum
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://gruene-bochum.de/in-den-stadtteilen/ov-ost
+---
+city: "Bochum-S\xFCd"
+country: DE
+district: Bochum
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://gruene-bochum.de/in-den-stadtteilen/ov-sued/
+---
+city: Bochum-Wattenscheid
+country: DE
+district: Bochum
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://gruene-bochum.de/in-den-stadtteilen/ov-wattenscheid/
+---
+city: "Bochum-S\xFCdwest"
+country: DE
+district: Bochum
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://gruene-bochum.de/in-den-stadtteilen/ov-suedwest/

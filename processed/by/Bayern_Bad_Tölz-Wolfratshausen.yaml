@@ -1,0 +1,50 @@
+---
+city: Bad Heilbrunn
+country: DE
+district: "Bad T\xF6lz-Wolfratshausen"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.ilo.de/~ilo02239/Ortsverbande/Bad_Heilbrunn/bad_heilbrunn.html
+---
+city: Geretsried
+country: DE
+district: "Bad T\xF6lz-Wolfratshausen"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-geretsried.de
+---
+city: Wolfratshausen
+country: DE
+district: "Bad T\xF6lz-Wolfratshausen"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.ilo.de/~ilo02239/Ortsverbande/Wolfratshausen/wolfratshausen.html
+---
+city: Eurasburg
+country: DE
+district: "Bad T\xF6lz-Wolfratshausen"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.ilo.de/~ilo02239/Ortsverbande/Eurasburg/eurasburg.html
+---
+city: "Bad T\xF6lz"
+country: DE
+district: "Bad T\xF6lz-Wolfratshausen"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.ilo.de/~ilo02239/Ortsverbande/Bad_Tolz/bad_tolz.html

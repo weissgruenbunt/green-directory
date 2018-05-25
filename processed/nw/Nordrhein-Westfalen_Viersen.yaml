@@ -1,0 +1,80 @@
+---
+city: "Br\xFCggen"
+country: DE
+district: Viersen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-brueggen.de
+---
+city: Grefrath
+country: DE
+district: Viersen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-grefrath.de
+---
+city: Kempen
+country: DE
+district: Viersen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-kempen.de
+---
+city: Nettetal
+country: DE
+district: Viersen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-nettetal.de
+---
+city: Schwalmtal
+country: DE
+district: Viersen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-schwalmtal.de
+---
+city: "T\xF6nisvorst"
+country: DE
+district: Viersen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-toenisvorst.de
+---
+city: Viersen
+country: DE
+district: Viersen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-viersen.de
+---
+city: Willich
+country: DE
+district: Viersen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-willich.de

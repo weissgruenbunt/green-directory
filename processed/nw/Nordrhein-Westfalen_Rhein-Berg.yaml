@@ -1,0 +1,80 @@
+---
+city: Bergisch-Gladbach
+country: DE
+district: Rhein-Berg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-bergischgladbach.de
+---
+city: Burscheid
+country: DE
+district: Rhein-Berg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.die-gruenen-burscheid.de
+---
+city: "K\xFCrten"
+country: DE
+district: Rhein-Berg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-kuerten.de
+---
+city: Leichlingen
+country: DE
+district: Rhein-Berg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-leichlingen.de
+---
+city: Odenthal
+country: DE
+district: Rhein-Berg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-odenthal.de
+---
+city: Overath
+country: DE
+district: Rhein-Berg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-overath.de
+---
+city: "R\xF6srath"
+country: DE
+district: Rhein-Berg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-roesrath.de
+---
+city: Wermelskirchen
+country: DE
+district: Rhein-Berg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-wermelskirchen.de

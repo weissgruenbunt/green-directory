@@ -1,0 +1,20 @@
+---
+city: Gundelfingen
+country: DE
+district: Breisgau-Hochschwarzwald
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-gundelfingen.de
+---
+city: "M\xFCllheim-Neuenburg"
+country: DE
+district: Breisgau-Hochschwarzwald
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-muellheim-neuenburg.de

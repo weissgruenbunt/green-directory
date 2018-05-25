@@ -1,0 +1,60 @@
+---
+city: Soest
+country: DE
+district: Soest
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.soest-bewegen.de
+---
+city: Werl
+country: DE
+district: Soest
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-werl.de/html/ov.html
+---
+city: Lippstadt
+country: DE
+district: Soest
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-lippstadt.de
+---
+city: "Anr\xF6chte"
+country: DE
+district: Soest
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-anroechte.de
+---
+city: "M\xF6hnesee"
+country: DE
+district: Soest
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-moehnesee.de
+---
+city: Warstein
+country: DE
+district: Soest
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.warsteinerliste.de

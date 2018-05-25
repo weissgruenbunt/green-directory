@@ -1,0 +1,20 @@
+---
+city: Holzkirchen
+country: DE
+district: Miesbach
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.holzkirchen.de/gruene
+---
+city: Schliersee
+country: DE
+district: Miesbach
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-schliersee.de

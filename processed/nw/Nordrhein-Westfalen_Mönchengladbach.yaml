@@ -1,0 +1,10 @@
+---
+city: "M\xF6nchengladbach-Nord"
+country: DE
+district: "M\xF6nchengladbach"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-mg.de

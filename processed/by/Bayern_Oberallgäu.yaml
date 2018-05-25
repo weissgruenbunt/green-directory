@@ -1,0 +1,20 @@
+---
+city: Immenstadt
+country: DE
+district: "Oberallg\xE4u"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-immenstadt.de
+---
+city: Sonthofen
+country: DE
+district: "Oberallg\xE4u"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-sonthofen.de

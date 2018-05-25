@@ -1,0 +1,110 @@
+---
+city: Biebesheim
+country: DE
+district: "Gro\xDF-Gerau"
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-biebesheim.de
+---
+city: Bischofsheim
+country: DE
+district: "Gro\xDF-Gerau"
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.galb.de
+---
+city: "B\xFCttelborn"
+country: DE
+district: "Gro\xDF-Gerau"
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.glb-im-web.de
+---
+city: Ginsheim-Gustavsburg
+country: DE
+district: "Gro\xDF-Gerau"
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-gigu.de
+---
+city: "Gro\xDF-Gerau"
+country: DE
+district: "Gro\xDF-Gerau"
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://gruene-ovgrossgerau.de
+---
+city: "M\xF6rfelden-Walldorf"
+country: DE
+district: "Gro\xDF-Gerau"
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-mw.de
+---
+city: Raunheim
+country: DE
+district: "Gro\xDF-Gerau"
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-raunheim.de
+---
+city: Riedstadt
+country: DE
+district: "Gro\xDF-Gerau"
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-liste-riedstadt.de
+---
+city: "R\xFCsselsheim"
+country: DE
+district: "Gro\xDF-Gerau"
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ruesselsheim.de
+---
+city: Trebur
+country: DE
+district: "Gro\xDF-Gerau"
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.glttrebur.de
+---
+city: Gernsheim
+country: DE
+district: "Gro\xDF-Gerau"
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-gernsheim.de

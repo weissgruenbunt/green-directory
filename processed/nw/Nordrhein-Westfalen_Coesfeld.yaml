@@ -1,0 +1,50 @@
+---
+city: Coesfeld
+country: DE
+district: Coesfeld
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-coesfeld.de
+---
+city: Havixbeck
+country: DE
+district: Coesfeld
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-havixbeck.de
+---
+city: "L\xFCdinghausen"
+country: DE
+district: Coesfeld
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-luedinghausen.de
+---
+city: Nottuln
+country: DE
+district: Coesfeld
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-nottuln.de
+---
+city: Senden
+country: DE
+district: Coesfeld
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-senden.de

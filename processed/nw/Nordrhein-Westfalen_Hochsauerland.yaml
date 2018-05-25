@@ -1,0 +1,50 @@
+---
+city: Arnsberg
+country: DE
+district: Hochsauerland
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-arnsberg.de
+---
+city: Marsberg
+country: DE
+district: Hochsauerland
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-marsberg.de
+---
+city: Meschede
+country: DE
+district: Hochsauerland
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-meschede.de
+---
+city: Olsberg
+country: DE
+district: Hochsauerland
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-olsberg.de
+---
+city: Sundern
+country: DE
+district: Hochsauerland
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-sundern.de

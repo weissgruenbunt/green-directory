@@ -1,0 +1,20 @@
+---
+city: Wangen
+country: DE
+district: Wangen
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-wangen.de
+---
+city: Bad Waldsee
+country: DE
+district: Wangen
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-wangen.de

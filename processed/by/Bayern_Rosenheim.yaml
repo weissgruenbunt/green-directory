@@ -1,0 +1,10 @@
+---
+city: Wasserburg
+country: DE
+district: Rosenheim
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-wasserburg.de

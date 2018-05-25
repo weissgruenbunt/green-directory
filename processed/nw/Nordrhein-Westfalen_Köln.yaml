@@ -1,0 +1,90 @@
+---
+city: "K\xF6ln-Innenstadt/Deutz"
+country: DE
+district: "K\xF6ln"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.1000gruen.de
+---
+city: "K\xF6ln-Ehrenfeld"
+country: DE
+district: "K\xF6ln"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruenekoeln.de/bezirk4
+---
+city: "K\xF6ln-M\xFClheim"
+country: DE
+district: "K\xF6ln"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruenekoeln.de/bezirke/bezirk9/aktuelles.html
+---
+city: "K\xF6ln-Nippes"
+country: DE
+district: "K\xF6ln"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruenekoeln.de/bezirke/bezirk5.html
+---
+city: "K\xF6ln-Chorweiler"
+country: DE
+district: "K\xF6ln"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruenekoeln.de/bezirk6/aktuell.html
+---
+city: "K\xF6ln-Porz/Poll"
+country: DE
+district: "K\xF6ln"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.grueneporz.de/
+---
+city: "K\xF6ln-Rodenkirchen"
+country: DE
+district: "K\xF6ln"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruenekoeln.de/bezirk7.html
+---
+city: "K\xF6ln-Lindenthal"
+country: DE
+district: "K\xF6ln"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruenekoeln.de/bezirk3/aktuell.html
+---
+city: "K\xF6ln-Kalk"
+country: DE
+district: "K\xF6ln"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruenekoeln.de/bezirk8/startseitebezirk8.html

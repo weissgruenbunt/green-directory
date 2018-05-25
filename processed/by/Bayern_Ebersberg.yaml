@@ -1,0 +1,50 @@
+---
+city: "A\xDFling"
+country: DE
+district: Ebersberg
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-assling.de/ov.htm
+---
+city: Grafing
+country: DE
+district: Ebersberg
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-grafing.de
+---
+city: Kirchseeon
+country: DE
+district: Ebersberg
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-liste-kirchseeon.de
+---
+city: Markt Schwaben
+country: DE
+district: Ebersberg
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ebe.de/marktschwaben/index.htm
+---
+city: Vaterstetten
+country: DE
+district: Ebersberg
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ebe.de/ov_vaterstetten.html

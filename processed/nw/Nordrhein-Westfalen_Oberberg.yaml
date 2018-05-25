@@ -1,0 +1,40 @@
+---
+city: Engelskirchen
+country: DE
+district: Oberberg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-engelskirchen.de
+---
+city: "N\xFCmbrecht"
+country: DE
+district: Oberberg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://gruene-nuembrecht.de
+---
+city: Reichshof
+country: DE
+district: Oberberg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://gruene-reichshof.de
+---
+city: "Wipperf\xFCrth"
+country: DE
+district: Oberberg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://gruene-wipperfuerth.de

@@ -1,0 +1,30 @@
+---
+city: "Bad S\xE4ckingen"
+country: DE
+district: Waldshut
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-bs.de
+---
+city: Murg-Laufenburg-Albbruck
+country: DE
+district: Waldshut
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-laufenburg.de
+---
+city: Waldshut-Tiengen
+country: DE
+district: Waldshut
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-wt.de/waldshut-tiengen

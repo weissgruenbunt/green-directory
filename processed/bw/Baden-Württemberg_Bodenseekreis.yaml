@@ -1,0 +1,20 @@
+---
+city: Friedrichshafen
+country: DE
+district: Bodenseekreis
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene.de/friedrichshafen/
+---
+city: Tettnang
+country: DE
+district: Bodenseekreis
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-tettnang.de

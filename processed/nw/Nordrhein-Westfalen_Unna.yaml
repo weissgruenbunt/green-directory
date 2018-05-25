@@ -1,0 +1,60 @@
+---
+city: Holzwickede
+country: DE
+district: Unna
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-holzwickede.de
+---
+city: Bergkamen
+country: DE
+district: Unna
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-bergkamen.de/
+---
+city: "L\xFCnen"
+country: DE
+district: Unna
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-luenen.de
+---
+city: Schwerte
+country: DE
+district: Unna
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-schwerte.de
+---
+city: Unna
+country: DE
+district: Unna
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-unna.de
+---
+city: "Fr\xF6ndenberg"
+country: DE
+district: Unna
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene.de/froendenberg

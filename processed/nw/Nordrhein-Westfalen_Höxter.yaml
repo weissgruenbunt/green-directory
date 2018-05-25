@@ -1,0 +1,60 @@
+---
+city: Beverungen
+country: DE
+district: "H\xF6xter"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://gruene-hoexter.de/ueber-uns/ortsverband-beverungen.html
+---
+city: Bad Driburg
+country: DE
+district: "H\xF6xter"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-bad-driburg.de
+---
+city: Brakel
+country: DE
+district: "H\xF6xter"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-brakel.de
+---
+city: "H\xF6xter"
+country: DE
+district: "H\xF6xter"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-hoexter.de
+---
+city: Steinheim
+country: DE
+district: "H\xF6xter"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-steinheim.de
+---
+city: Warburg
+country: DE
+district: "H\xF6xter"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-warburg.de/

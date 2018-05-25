@@ -1,0 +1,40 @@
+---
+city: Duisburg-Mitte
+country: DE
+district: Duisburg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://gruene-mitte.org/
+---
+city: Duisburg-West/Ruhrort
+country: DE
+district: Duisburg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.grueneduisburg-west.de
+---
+city: Duisburg-Walsum
+country: DE
+district: Duisburg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.ov-walsum.gruene-duisburg.de
+---
+city: "Duisburg-S\xFCd"
+country: DE
+district: Duisburg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://grueneduisburg.de/ov.html

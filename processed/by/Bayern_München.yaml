@@ -1,0 +1,110 @@
+---
+city: Allach-Untermenzing
+country: DE
+district: "M\xFCnchen"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://basis.gruene.de/allach-untermenzing/
+---
+city: Giesing/Harlaching
+country: DE
+district: "M\xFCnchen"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-muenchen-giesing.de
+---
+city: Haidhausen
+country: DE
+district: "M\xFCnchen"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-muenchen-au-haidhausen.de
+---
+city: "M\xFCnchen-Nord"
+country: DE
+district: "M\xFCnchen"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-muenchen-nord.de
+---
+city: Pasing-Obermenzing-Aubing
+country: DE
+district: "M\xFCnchen"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-muenchen-pasing.de
+---
+city: Ramersdorf-Perlach
+country: DE
+district: "M\xFCnchen"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-muenchen-perlach.de/
+---
+city: Schwabing
+country: DE
+district: "M\xFCnchen"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-schwabing.de
+---
+city: Sendling
+country: DE
+district: "M\xFCnchen"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-muenchen-sendling.de
+---
+city: STOFF
+country: DE
+district: "M\xFCnchen"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-muenchen-stoff.de/ov_stoff_portrait.9801.0.html
+---
+city: Westend/Laim
+country: DE
+district: "M\xFCnchen"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-muenchen-westend.de
+---
+city: Zentral
+country: DE
+district: "M\xFCnchen"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-muenchen-zentral.de

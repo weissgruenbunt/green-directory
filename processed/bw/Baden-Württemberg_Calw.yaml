@@ -1,0 +1,20 @@
+---
+city: Althengstett/Gechingen/Ostelsheim/Simmozheim
+country: DE
+district: Calw
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.hengstett.de
+---
+city: Wildberg
+country: DE
+district: Calw
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.wildberg.gruene-kreis-calw.de

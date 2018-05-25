@@ -1,0 +1,80 @@
+---
+city: Dormagen
+country: DE
+district: Rhein-Kreis-Neuss
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-dormagen.de
+---
+city: Grevenbroich
+country: DE
+district: Rhein-Kreis-Neuss
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-gv.de/verband
+---
+city: Kaarst
+country: DE
+district: Rhein-Kreis-Neuss
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-kaarst.de
+---
+city: Korschenbroich
+country: DE
+district: Rhein-Kreis-Neuss
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-korschenbroich.de
+---
+city: Meerbusch
+country: DE
+district: Rhein-Kreis-Neuss
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-meerbusch.de
+---
+city: Neuss
+country: DE
+district: Rhein-Kreis-Neuss
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-neuss.de
+---
+city: "J\xFCchen"
+country: DE
+district: Rhein-Kreis-Neuss
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-juechen.de
+---
+city: Rommerskirchen
+country: DE
+district: Rhein-Kreis-Neuss
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://gruene-rommerskirchen.de

@@ -1,0 +1,110 @@
+---
+city: Dortmund-Aplerbeck
+country: DE
+district: Dortmund
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-dortmund.de/aplerbeck/index.htm
+---
+city: Dortmund-Brackel
+country: DE
+district: Dortmund
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-dortmund.de/brackel/index.htm
+---
+city: Dortmund-Eving
+country: DE
+district: Dortmund
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-dortmund.de/eving/cnt/home.php
+---
+city: "Dortmund-H\xF6rde"
+country: DE
+district: Dortmund
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-dortmund.de/hoerde
+---
+city: Dortmund-Huckarde
+country: DE
+district: Dortmund
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-dortmund.de/huckarde
+---
+city: Dortmund-Innenstadt-Nord
+country: DE
+district: Dortmund
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.nordstadtgruene.de/main/ov-start.shtml
+---
+city: Dortmund-Innenstadt-Ost
+country: DE
+district: Dortmund
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-dortmund.de/innenstadt-ost
+---
+city: Dortmund-Innenstadt-West
+country: DE
+district: Dortmund
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-dortmund.de/innenstadt-west
+---
+city: "Dortmund-L\xFCtgendortmund"
+country: DE
+district: Dortmund
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-dortmund.de/luetgendortmund
+---
+city: Dortmund-Mengede
+country: DE
+district: Dortmund
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-mengede.de
+---
+city: Dortmund-Scharnhorst
+country: DE
+district: Dortmund
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-dortmund.de/scharnhorst

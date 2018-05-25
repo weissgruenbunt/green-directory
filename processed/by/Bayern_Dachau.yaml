@@ -1,0 +1,10 @@
+---
+city: Dachau
+country: DE
+district: Dachau
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://basis.gruene.de/dachau/ov

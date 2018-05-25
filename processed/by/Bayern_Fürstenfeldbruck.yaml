@@ -1,0 +1,20 @@
+---
+city: "Gr\xF6benzell"
+country: DE
+district: "F\xFCrstenfeldbruck"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-groebenzell.de
+---
+city: Olching
+country: DE
+district: "F\xFCrstenfeldbruck"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-olching.de

@@ -1,0 +1,210 @@
+---
+city: Baierbrunn
+country: DE
+district: "M\xFCnchen-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ml.de/baierbrunn
+---
+city: Garching
+country: DE
+district: "M\xFCnchen-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ml.de/garching
+---
+city: "Gr\xE4felfing"
+country: DE
+district: "M\xFCnchen-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-graefelfing.de
+---
+city: "H\xF6henkirchen-Siegertsbrunn"
+country: DE
+district: "M\xFCnchen-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ml.de/hoehenkirchen
+---
+city: Ismaning
+country: DE
+district: "M\xFCnchen-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ml.de/ismaning
+---
+city: Kirchheim-Heimstetten
+country: DE
+district: "M\xFCnchen-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ml.de/kirchheim
+---
+city: Neubiberg
+country: DE
+district: "M\xFCnchen-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ml.de/neubiberg
+---
+city: Oberhaching
+country: DE
+district: "M\xFCnchen-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ml.de/oberhaching
+---
+city: "Oberschlei\xDFheim"
+country: DE
+district: "M\xFCnchen-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ml.de/oberschleissheim
+---
+city: Ottobrunn
+country: DE
+district: "M\xFCnchen-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ml.de/ottobrunn
+---
+city: Pullach
+country: DE
+district: "M\xFCnchen-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ml.de/pullach
+---
+city: Putzbrunn
+country: DE
+district: "M\xFCnchen-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ml.de/putzbrunn
+---
+city: Sauerlach
+country: DE
+district: "M\xFCnchen-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ml.de/sauerlach
+---
+city: "Sch\xE4ftlarn"
+country: DE
+district: "M\xFCnchen-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ml.de/schaeftlarn
+---
+city: Taufkirchen
+country: DE
+district: "M\xFCnchen-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-taufkirchen.de
+---
+city: Unterhaching
+country: DE
+district: "M\xFCnchen-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ml.de/unterhaching
+---
+city: "Unterschlei\xDFheim"
+country: DE
+district: "M\xFCnchen-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ml.de/unterschleissheim
+---
+city: Haar
+country: DE
+district: "M\xFCnchen-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ml.de/haar
+---
+city: Neuried
+country: DE
+district: "M\xFCnchen-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ml.de/neuried
+---
+city: "Unterf\xF6hring"
+country: DE
+district: "M\xFCnchen-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ml.de/unterfoehring
+---
+city: Hohenbrunn
+country: DE
+district: "M\xFCnchen-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-hohenbrunn.de

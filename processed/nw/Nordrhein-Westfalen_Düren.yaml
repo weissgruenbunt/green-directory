@@ -1,0 +1,130 @@
+---
+city: "D\xFCren"
+country: DE
+district: "D\xFCren"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-dueren.de/ov/index.html
+---
+city: "J\xFClich"
+country: DE
+district: "D\xFCren"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-juelich.de/4/index.html
+---
+city: Langerwehe
+country: DE
+district: "D\xFCren"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-langerwehe.de
+---
+city: Nideggen
+country: DE
+district: "D\xFCren"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-nideggen.de
+---
+city: Niederzier
+country: DE
+district: "D\xFCren"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-niederzier.de
+---
+city: Heimbach
+country: DE
+district: "D\xFCren"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-heimbach.de
+---
+city: Kreuzau
+country: DE
+district: "D\xFCren"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-kreuzau.de
+---
+city: "N\xF6rvenich"
+country: DE
+district: "D\xFCren"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-noervenich.de
+---
+city: Linnich
+country: DE
+district: "D\xFCren"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-linnich.de
+---
+city: Merzenich
+country: DE
+district: "D\xFCren"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-merzenich.de
+---
+city: Inden
+country: DE
+district: "D\xFCren"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-dueren.de/verband/77/index.html
+---
+city: Aldenhoven
+country: DE
+district: "D\xFCren"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-aldenhoven.de
+---
+city: "Vettwei\xDF"
+country: DE
+district: "D\xFCren"
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-vettweiss.de

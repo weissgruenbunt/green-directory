@@ -1,0 +1,90 @@
+---
+city: Aystetten
+country: DE
+district: Augsburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene.de/aystetten
+---
+city: Gersthofen
+country: DE
+district: Augsburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene.de/gersthofen
+---
+city: "K\xF6nigsbrunn"
+country: DE
+district: Augsburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene.de/koenigsbrunn
+---
+city: Kutzenhausen
+country: DE
+district: Augsburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene.de/kutzenhausen
+---
+city: Diedorf
+country: DE
+district: Augsburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-diedorf.de
+---
+city: "Neus\xE4\xDF"
+country: DE
+district: Augsburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene.de/neusaess
+---
+city: Stauden
+country: DE
+district: Augsburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene.de/stauden
+---
+city: Bobingen
+country: DE
+district: Augsburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene.de/bobingen
+---
+city: Stadtbergen
+country: DE
+district: Augsburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene.de/stadtbergen

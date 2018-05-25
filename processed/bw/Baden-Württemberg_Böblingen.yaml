@@ -1,0 +1,70 @@
+---
+city: Aidlingen
+country: DE
+district: "B\xF6blingen"
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.aidlingen.de/gruene/
+---
+city: "B\xF6blingen"
+country: DE
+district: "B\xF6blingen"
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-bb.de
+---
+city: Herrenberg
+country: DE
+district: "B\xF6blingen"
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-herrenberg.de
+---
+city: Renningen
+country: DE
+district: "B\xF6blingen"
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-renningen.de
+---
+city: "Sch\xF6naich"
+country: DE
+district: "B\xF6blingen"
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-schoenaich.de
+---
+city: Sindelfingen
+country: DE
+district: "B\xF6blingen"
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruenesifi.de
+---
+city: Weil der Stadt
+country: DE
+district: "B\xF6blingen"
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.wds-gruene.de

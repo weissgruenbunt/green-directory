@@ -1,0 +1,20 @@
+---
+city: Lauffen
+country: DE
+district: Heilbronn
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-lauffen.de
+---
+city: Leingarten
+country: DE
+district: Heilbronn
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-leingarten.de

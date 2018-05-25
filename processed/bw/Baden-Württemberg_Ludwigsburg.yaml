@@ -1,0 +1,100 @@
+---
+city: Freiberg
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruenefreiberg.de
+---
+city: Gerlingen
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-gerlingen.de
+---
+city: Ingersheim
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://ingersheim.gruene-ludwigsburg.de
+---
+city: "Korntal/M\xFCnchingen"
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-korntal-muenchingen.de
+---
+city: Kornwestheim
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-kornwestheim.de
+---
+city: Ludwigsburg
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://ov.gruene-ludwigsburg.de
+---
+city: Marbach
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene.de/marbach
+---
+city: Remseck
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-remseck.de
+---
+city: Vaihingen/Enz und Umgebung
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-vaihingen.de
+---
+city: Erdmannhausen
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-erdmannhausen.de/ortsverband

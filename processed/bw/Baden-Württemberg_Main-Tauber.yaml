@@ -1,0 +1,20 @@
+---
+city: Bad Mergentheim
+country: DE
+district: Main-Tauber
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-mgh.de
+---
+city: Wertheim
+country: DE
+district: Main-Tauber
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-wertheim.de

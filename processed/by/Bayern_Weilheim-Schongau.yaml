@@ -1,0 +1,10 @@
+---
+city: Penzberg
+country: DE
+district: Weilheim-Schongau
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-penzberg.de/ov.htm

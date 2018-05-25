@@ -1,0 +1,80 @@
+---
+city: "B\xFCnde"
+country: DE
+district: Herford
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-buende.de
+---
+city: Enger
+country: DE
+district: Herford
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-enger.de
+---
+city: Herford
+country: DE
+district: Herford
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-herford.de
+---
+city: Hiddenhausen
+country: DE
+district: Herford
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-hiddenhausen.de
+---
+city: Kirchlengern
+country: DE
+district: Herford
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-kirchlengern.de/
+---
+city: "L\xF6hne"
+country: DE
+district: Herford
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-in-loehne.de
+---
+city: Spenge
+country: DE
+district: Herford
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-spenge.de
+---
+city: Vlotho
+country: DE
+district: Herford
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruenelistevlotho.de

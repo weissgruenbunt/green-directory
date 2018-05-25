@@ -1,0 +1,30 @@
+---
+city: Fellbach
+country: DE
+district: Rems/Murr
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-fellbach.de
+---
+city: Waiblingen
+country: DE
+district: Rems/Murr
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-waiblingen.de/
+---
+city: Winterbach
+country: DE
+district: Rems/Murr
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-winterbach.de/

@@ -1,0 +1,10 @@
+---
+city: Stockach
+country: DE
+district: Konstanz
+level: DE:ORTSVERBAND
+state: "Baden-W\xFCrttemberg"
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene.de/stockach

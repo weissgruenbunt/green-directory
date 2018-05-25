@@ -1,0 +1,80 @@
+---
+city: Cadolzburg
+country: DE
+district: "F\xFCrth-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-fuerth-land.de/cadolzburg
+---
+city: "Gro\xDFhabersdorf"
+country: DE
+district: "F\xFCrth-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene.de/grosshabersdorf
+---
+city: Langenzenn
+country: DE
+district: "F\xFCrth-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene.de/langenzenn
+---
+city: Oberasbach
+country: DE
+district: "F\xFCrth-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-oberasbach.de/Ebene1/ortsverband.htm
+---
+city: "Ro\xDFtal"
+country: DE
+district: "F\xFCrth-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.rosstal.de/parteien/gruene.htm
+---
+city: Stein
+country: DE
+district: "F\xFCrth-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-fuerth-land.de/stein
+---
+city: Zirndorf
+country: DE
+district: "F\xFCrth-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-fuerth-land.de/zirndorf
+---
+city: Obermichelbach
+country: DE
+district: "F\xFCrth-Land"
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-obermichelbach.de

@@ -1,0 +1,110 @@
+---
+city: Alsdorf
+country: DE
+district: Aachen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-region-aachen.de/alsdorf
+---
+city: Baesweiler
+country: DE
+district: Aachen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-region-aachen.de/baesweiler
+---
+city: Eschweiler
+country: DE
+district: Aachen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-eschweiler.de
+---
+city: Herzogenrath
+country: DE
+district: Aachen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-herzogenrath.de
+---
+city: Monschau
+country: DE
+district: Aachen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-region-aachen.de/monschau
+---
+city: Roetgen
+country: DE
+district: Aachen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-roetgen.de
+---
+city: Stolberg
+country: DE
+district: Aachen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-stolberg.de
+---
+city: "W\xFCrselen"
+country: DE
+district: Aachen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-region-aachen.de/wuerselen
+---
+city: Simmerath
+country: DE
+district: Aachen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-region-aachen.de/simmerath
+---
+city: Aachen
+country: DE
+district: Aachen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-aachen.de
+---
+city: "Br\xFCssel"
+country: DE
+district: Aachen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-bruessel.eu

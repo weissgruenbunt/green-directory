@@ -1,0 +1,10 @@
+---
+city: "Essen-R\xFCttenscheid"
+country: DE
+district: Essen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ruettenscheid.de
