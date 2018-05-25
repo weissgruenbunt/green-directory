@@ -1,0 +1,115 @@
+---
+country: DE
+district: Gütersloh
+emails:
+  - address: info@gruene-kreisgt.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-kreisgt.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.guetersloh
+  - type: TWITTER
+    url: https://twitter.com/GrueneGT
+---
+city: Borgholzhausen
+country: DE
+district: Gütersloh
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-borgholzhausen.de/
+---
+city: Gütersloh
+country: DE
+district: Gütersloh
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-guetersloh.de/ortsverband/
+---
+city: Halle/Westfalen
+country: DE
+district: Gütersloh
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-hallewestfalen.de/
+---
+city: Steinhagen
+country: DE
+district: Gütersloh
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-steinhagen.de/
+---
+city: Harsewinkel
+country: DE
+district: Gütersloh
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-harsewinkel.de/
+---
+city: Rietberg
+country: DE
+district: Gütersloh
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-rietberg.de/
+---
+city: Versmold
+country: DE
+district: Gütersloh
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-versmold.de/
+---
+city: Werther
+country: DE
+district: Gütersloh
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://gruene-werther.de/
+---
+city: Verl
+country: DE
+district: Gütersloh
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: https://www.gruene-verl.de/
+---
+city: Rheda-Wiedenbrück
+country: DE
+district: Gütersloh
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: https://gruene-rheda-wiedenbrueck.de/
