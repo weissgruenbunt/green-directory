@@ -286,21 +286,6 @@ urls:
     url: https://www.instagram.com/gruenege/
 ---
 country: DE
-district: Gütersloh
-emails:
-  - address: info@gruene-kreisgt.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-kreisgt.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruene.guetersloh
-  - type: TWITTER
-    url: https://twitter.com/GrueneGT
----
-country: DE
 district: Hagen
 emails:
   - address: kv@gruene-hagen.de
