@@ -1,0 +1,163 @@
+---
+country: DE
+district: Düren
+emails:
+  - address: kreisverband@gruene-dueren.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-dueren.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneDueren
+---
+city: Düren
+country: DE
+district: Düren
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-dueren.de/category/ortsverbande/dueren
+---
+city: Jülich
+country: DE
+district: Düren
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-dueren.de/ortsverbande/juelich
+---
+city: Langerwehe
+country: DE
+district: Düren
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-dueren.de/category/ortsverbande/langerwehe
+---
+city: Nideggen
+country: DE
+district: Düren
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-nideggen.de/
+---
+city: Niederzier
+country: DE
+district: Düren
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-niederzier.de/
+---
+city: Heimbach
+country: DE
+district: Düren
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-dueren.de/category/ortsverbande/heimbach
+---
+city: Kreuzau
+country: DE
+district: Düren
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-dueren.de/category/ortsverbande/kreuzau
+---
+city: Nörvenich
+country: DE
+district: Düren
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-noervenich.de
+---
+city: Linnich
+country: DE
+district: Düren
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-linnich.de/
+---
+city: Merzenich
+country: DE
+district: Düren
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-merzenich.de
+---
+city: Inden
+country: DE
+district: Düren
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-inden.de/
+---
+city: Aldenhoven
+country: DE
+district: Düren
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-dueren.de/category/ortsverbande/aldenhoven
+---
+city: Vettweiß
+country: DE
+district: Düren
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-dueren.de/category/ortsverbande/vettweiss
+---
+city: Titz
+country: DE
+district: Düren
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-titz.de/
+---
+city: Hürtgenwald
+country: DE
+district: Düren
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-dueren.de/category/ortsverbande/hurtgenwald
