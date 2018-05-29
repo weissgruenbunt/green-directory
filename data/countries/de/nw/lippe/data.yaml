@@ -1,0 +1,111 @@
+---
+country: DE
+district: Lippe
+emails:
+  - address: buero@gruene-lippe.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://xn--grne-lippe-beb.de/
+---
+city: Bad Salzuflen
+country: DE
+district: Lippe
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-bad-salzuflen.de/
+---
+city: Blomberg
+country: DE
+district: Lippe
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-blomberg.de/
+---
+city: Detmold
+country: DE
+district: Lippe
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-detmold.de
+---
+city: Horn-Bad Meinberg
+country: DE
+district: Lippe
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-hbm.de/
+---
+city: Kalletal
+country: DE
+district: Lippe
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-kalletal.de/
+---
+city: Lage
+country: DE
+district: Lippe
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-lage.de/
+---
+city: Lemgo
+country: DE
+district: Lippe
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-lemgo.de/
+---
+city: "Leopoldsh\xF6he"
+country: DE
+district: Lippe
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-leopoldshoehe.de/
+---
+city: Oerlinghausen
+country: DE
+district: Lippe
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-oerlinghausen.de/
+---
+city: Schlangen
+country: DE
+district: Lippe
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-schlangen.de/

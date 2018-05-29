@@ -232,17 +232,6 @@ urls:
     url: https://twitter.com/gruenelev
 ---
 country: DE
-district: Lippe
-emails:
-  - address: buero@gruene-lippe.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-lippe.de/
----
-country: DE
 district: Mark
 emails:
   - address: kreisverband@gruene-mk.de
