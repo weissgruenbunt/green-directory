@@ -1,0 +1,75 @@
+---
+country: DE
+district: Bochum
+emails:
+  - address: info@gruene-bochum.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bochum.de/
+  - type: FACEBOOK
+    url: https://de-de.facebook.com/gruene.bochum
+  - type: TWITTER
+    url: https://twitter.com/gruenebochum
+---
+city: Bochum-Mitte
+country: DE
+district: Bochum
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-bochum.de/in-den-stadtteilen/ov-mitte/
+---
+city: Bochum-Nord
+country: DE
+district: Bochum
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-bochum.de/in-den-stadtteilen/ov-nord/
+---
+city: Bochum-Ost
+country: DE
+district: Bochum
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-bochum.de/in-den-stadtteilen/ov-ost/
+---
+city: Bochum-Süd
+country: DE
+district: Bochum
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-bochum.de/in-den-stadtteilen/ov-sued/
+---
+city: Bochum-Wattenscheid
+country: DE
+district: Bochum
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-wattenscheid.de/
+---
+city: Bochum-Südwest
+country: DE
+district: Bochum
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-bochum.de/in-den-stadtteilen/ov-suedwest/
