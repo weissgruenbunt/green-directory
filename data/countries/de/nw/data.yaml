@@ -189,19 +189,6 @@ urls:
     url: https://www.facebook.com/GruenerKVHamm
 ---
 country: DE
-district: Heinsberg
-emails:
-  - address: gruene.kv-heinsberg@t-online.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-kv-heinsberg.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneKreisHeinsberg
----
-country: DE
 district: Herford
 emails:
   - address: kreisverband@gruene-kreis-herford.de
