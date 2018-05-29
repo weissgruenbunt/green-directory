@@ -78,21 +78,6 @@ urls:
   - type: WEBSITE
     url: http://gruene-westfalen.de/
 ---
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Nordrhein-Westfalen
-district: Euskirchen
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-euskirchen.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneKreisEuskirchen
-  - type: TWITTER
-    url: https://twitter.com/grueneeu
-emails:
-  - address: gruene.euskirchen@web.de
----
 country: DE
 district: Bielefeld
 emails:
