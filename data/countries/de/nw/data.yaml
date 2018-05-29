@@ -204,19 +204,6 @@ urls:
     url: https://twitter.com/GrueneHerne
 ---
 country: DE
-district: Höxter
-emails:
-  - address: gruene.kv.hoexter@t-online.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-hoexter.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/B%C3%9CNDNIS-90DIE-GR%C3%9CNEN-Kreisverband-H%C3%B6xter-452577151498913/
----
-country: DE
 district: Kleve
 emails:
   - address: gruene-kv-kle@t-online.de

@@ -1,0 +1,73 @@
+---
+country: DE
+district: Höxter
+emails:
+  - address: gruene.kv.hoexter@t-online.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-hoexter.de/start/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%9CNDNIS-90DIE-GR%C3%9CNEN-Kreisverband-H%C3%B6xter-452577151498913/
+---
+city: Beverungen
+country: DE
+district: Höxter
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-hoexter.de/ortsverbaende/ov-beverungen/
+---
+city: Bad Driburg
+country: DE
+district: Höxter
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-bad-driburg.de/
+---
+city: Brakel
+country: DE
+district: Höxter
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-brakel.de/
+---
+city: Höxter
+country: DE
+district: Höxter
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-hoexter.de/ortsverbaende/ov-hoexter/
+---
+city: Steinheim
+country: DE
+district: Höxter
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-steinheim.de/
+---
+city: Warburg
+country: DE
+district: Höxter
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-warburg.de/
