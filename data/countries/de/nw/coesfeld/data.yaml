@@ -1,0 +1,63 @@
+---
+country: DE
+district: Coesfeld
+emails:
+  - address: post@gruene-coe.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-coe.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneCoe/
+---
+city: Coesfeld
+country: DE
+district: Coesfeld
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-coesfeld.de
+---
+city: Havixbeck
+country: DE
+district: Coesfeld
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-havixbeck.de
+---
+city: "L\xFCdinghausen"
+country: DE
+district: Coesfeld
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-luedinghausen.de/
+---
+city: Nottuln
+country: DE
+district: Coesfeld
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-nottuln.de/
+---
+city: Senden
+country: DE
+district: Coesfeld
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-senden.de/

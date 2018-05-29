@@ -122,19 +122,6 @@ urls:
     url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Bottrop-184280891618557/
 ---
 country: DE
-district: Coesfeld
-emails:
-  - address: post@gruene-coe.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-coe.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneCoe/
----
-country: DE
 district: Dortmund
 emails:
   - address: info@gruene-dortmund.de
