@@ -232,19 +232,6 @@ urls:
     url: https://twitter.com/gruenelev
 ---
 country: DE
-district: Mark
-emails:
-  - address: kreisverband@gruene-mk.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-mk.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruene.mk/
----
-country: DE
 district: Mettmann
 emails:
   - address: info@gruene-kreis-mettmann.de

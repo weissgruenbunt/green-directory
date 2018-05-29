@@ -1,0 +1,80 @@
+---
+country: DE
+district: Mark
+emails:
+  - address: kreisverband@gruene-mk.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-mk.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.mk/
+---
+city: Balve
+country: DE
+district: Mark
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+---
+city: Halver
+country: DE
+district: Mark
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-halver.de/
+---
+city: Iserlohn
+country: DE
+district: Mark
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-iserlohn.de/
+---
+city: Kierspe
+country: DE
+district: Mark
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-kierspe.de/
+---
+city: Lüdenscheid
+country: DE
+district: Mark
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-luedenscheid.de/
+---
+city: Menden
+country: DE
+district: Mark
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-menden.de
+---
+city: Meinerzhagen
+country: DE
+district: Mark
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-meinerzhagen.de
