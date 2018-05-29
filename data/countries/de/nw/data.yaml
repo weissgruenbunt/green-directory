@@ -109,19 +109,6 @@ urls:
     url: https://twitter.com/bielefeldgruen
 ---
 country: DE
-district: Bonn
-emails:
-  - address: info@gruene-bonn.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-bonn.de/
-  - type: FACEBOOK
-    url: https://de-de.facebook.com/gruenebonn
----
-country: DE
 district: Borken
 emails:
   - address: info@gruene-kv-borken.de

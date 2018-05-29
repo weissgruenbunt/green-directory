@@ -1,0 +1,53 @@
+---
+country: DE
+district: Bonn
+emails:
+  - address: info@gruene-bonn.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-bonn.de/
+  - type: FACEBOOK
+    url: https://de-de.facebook.com/gruenebonn
+---
+city: Bonn-Bad Godesberg
+country: DE
+district: Bonn
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-bonn.de/partei/ortsverbaende/ortsverband-bad-godesberg/
+---
+city: Bonn-Mitte
+country: DE
+district: Bonn
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-bonn.de/partei/ortsverbaende/ortsverband-bonn/
+---
+city: Bonn-Hardtberg
+country: DE
+district: Bonn
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-bonn.de/partei/ortsverbaende/ortsverband-hardtberg/
+---
+city: Bonn-Beuel
+country: DE
+district: Bonn
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-bonn.de/partei/ortsverbaende/ortsverband-beuel/
