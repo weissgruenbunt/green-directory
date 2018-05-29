@@ -1,0 +1,65 @@
+---
+country: DE
+district: Hochsauerlandkreis
+emails:
+  - address: buero@gruene-hsk.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hsk.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.hsk
+  - type: TWITTER
+    url: https://twitter.com/GrueneHSK
+---
+city: Arnsberg
+country: DE
+district: Hochsauerland
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-arnsberg.de/
+---
+city: Marsberg
+country: DE
+district: Hochsauerland
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-marsberg.de/
+---
+city: Meschede
+country: DE
+district: Hochsauerland
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-meschede.de/
+---
+city: Olsberg
+country: DE
+district: Hochsauerland
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-olsberg.de/
+---
+city: Sundern
+country: DE
+district: Hochsauerland
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-sundern.de/

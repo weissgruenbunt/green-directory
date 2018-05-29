@@ -204,21 +204,6 @@ urls:
     url: https://twitter.com/GrueneHerne
 ---
 country: DE
-district: Hochsauerland
-emails:
-  - address: buero@gruene-hsk.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-hsk.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruene.hsk
-  - type: TWITTER
-    url: https://twitter.com/GrueneHSK
----
-country: DE
 district: Höxter
 emails:
   - address: gruene.kv.hoexter@t-online.de
