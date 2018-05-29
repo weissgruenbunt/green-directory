@@ -204,21 +204,6 @@ urls:
     url: https://twitter.com/GrueneHerne
 ---
 country: DE
-district: Kleve
-emails:
-  - address: gruene-kv-kle@t-online.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-kreis-kleve.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneKVKleve
-  - type: TWITTER
-    url: https://twitter.com/gruenekvkleve
----
-country: DE
 district: Köln
 emails:
   - address: buero@gruenekoeln.de

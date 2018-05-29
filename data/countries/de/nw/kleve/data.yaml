@@ -1,0 +1,165 @@
+---
+country: DE
+district: Kleve
+emails:
+  - address: gruene-kv-kle@t-online.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kreis-kleve.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneKVKleve
+  - type: TWITTER
+    url: https://twitter.com/gruenekvkleve
+---
+city: Bedburg-Hau
+country: DE
+district: Kleve
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bedburg-hau.de
+---
+city: Emmerich
+country: DE
+district: Kleve
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-emmerich.de/
+---
+city: Geldern
+country: DE
+district: Kleve
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-geldern.de/
+---
+city: Goch
+country: DE
+district: Kleve
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-goch.de/
+---
+city: Issum
+country: DE
+district: Kleve
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-kreis-kleve.de/ortsverbaende/issum/
+---
+city: Kalkar
+country: DE
+district: Kleve
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-kreis-kleve.de/ortsverbaende/kalkar/
+---
+city: Kevelaer
+country: DE
+district: Kleve
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-kevelaer.de/
+---
+city: Kleve
+country: DE
+district: Kleve
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-kleve.de/
+---
+city: Kranenburg
+country: DE
+district: Kleve
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruenekranenburg.de/
+---
+city: Rees
+country: DE
+district: Kleve
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-rees.de/
+---
+city: Uedem
+country: DE
+district: Kleve
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-uedem.de/
+---
+city: Wachtendonk
+country: DE
+district: Kleve
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wachtendonk.de/
+---
+city: Straelen
+country: DE
+district: Kleve
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-straelen.de/
+---
+city: Rheurdt
+country: DE
+district: Kleve
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-rheurdt.de
+---
+city: Weeze
+country: DE
+district: Kleve
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-weeze.de/
