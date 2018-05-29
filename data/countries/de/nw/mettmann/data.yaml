@@ -1,0 +1,103 @@
+---
+country: DE
+district: Mettmann
+emails:
+  - address: info@gruene-kreis-mettmann.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kreis-mettmann.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneKreisMettmann/
+---
+city: Erkrath
+country: DE
+district: Mettmann
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-erkrath.de
+---
+city: Heiligenhaus
+country: DE
+district: Mettmann
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-heiligenhaus.de
+---
+city: Hilden
+country: DE
+district: Mettmann
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hilden.de
+---
+city: Langenfeld
+country: DE
+district: Mettmann
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-langenfeld.de
+---
+city: "W\xFClfrath"
+country: DE
+district: Mettmann
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wuelfrath.de
+---
+city: Monheim
+country: DE
+district: Mettmann
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-monheim.de/home/
+---
+city: Ratingen
+country: DE
+district: Mettmann
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ratingen.de
+---
+city: Velbert
+country: DE
+district: Mettmann
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-velbert.de
+---
+city: Mettmann
+country: DE
+district: Mettmann
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-mettmann.de/

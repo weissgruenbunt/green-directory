@@ -1,0 +1,213 @@
+---
+country: DE
+district: Steinfurt
+emails:
+  - address: kv.steinfurt@gruene.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kreis-steinfurt.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneKST
+---
+city: Altenberge
+country: DE
+district: Steinfurt
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-altenberge.de
+---
+city: Emsdetten
+country: DE
+district: Steinfurt
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-emsdetten.de
+---
+city: Greven
+country: DE
+district: Steinfurt
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-greven.de
+---
+city: Hopsten
+country: DE
+district: Steinfurt
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hopsten.de
+---
+city: Hörstel
+country: DE
+district: Steinfurt
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hoerstel.de
+---
+city: Horstmar
+country: DE
+district: Steinfurt
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-horstmar.de
+---
+city: Ibbenbüren
+country: DE
+district: Steinfurt
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ibbenbueren.de
+---
+city: Ladbergen
+country: DE
+district: Steinfurt
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ladbergen.de
+---
+city: Laer
+country: DE
+district: Steinfurt
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruenelaer.de
+---
+city: Lengerich
+country: DE
+district: Steinfurt
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-lengerich.de
+---
+city: Lotte
+country: DE
+district: Steinfurt
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-lotte.de
+---
+city: Mettingen
+country: DE
+district: Steinfurt
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-mettingen.de
+---
+city: Neuenkirchen
+country: DE
+district: Steinfurt
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-neuenkirchen.de
+---
+city: Nordwalde
+country: DE
+district: Steinfurt
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-nordwalde.de
+---
+city: Recke
+country: DE
+district: Steinfurt
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-recke.de
+---
+city: Rheine
+country: DE
+district: Steinfurt
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-rheine.de
+---
+city: Saerbeck
+country: DE
+district: Steinfurt
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-saerbeck.de
+---
+city: Steinfurt
+country: DE
+district: Steinfurt
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-steinfurt.de
+---
+city: Tecklenburg
+country: DE
+district: Steinfurt
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-tecklenburg.de
+---
+city: Westerkappeln
+country: DE
+district: Steinfurt
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-westerkappeln.de

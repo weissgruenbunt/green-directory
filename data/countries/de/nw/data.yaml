@@ -232,32 +232,6 @@ urls:
     url: https://twitter.com/gruenelev
 ---
 country: DE
-district: Mettmann
-emails:
-  - address: info@gruene-kreis-mettmann.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-kreis-mettmann.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneKreisMettmann/
----
-country: DE
-district: Minden-Lübbecke
-emails:
-  - address: gruene.milk@teleos-web.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://xn--grne-milk-r9a.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneMiLk
----
-country: DE
 district: Mönchengladbach
 emails:
   - address: mg.gruene@t-online.de
@@ -307,19 +281,6 @@ urls:
     url: https://www.instagram.com/gruenemuenster/
 ---
 country: DE
-district: Oberberg
-emails:
-  - address: geschaeftsstelle@gruene-Oberberg.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-oberberg.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/Gruene.Oberberg
----
-country: DE
 district: Oberhausen
 emails:
   - address: vorstand@gruene-oberhausen.de
@@ -361,19 +322,6 @@ urls:
     url: https://twitter.com/GruenePb
 ---
 country: DE
-district: Recklinghausen
-emails:
-  - address: gruene.kv-recklinghausen@arcormail.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://gruene-im-vest.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/grueneovrecklinghausen/
----
-country: DE
 district: Remscheid
 emails:
   - address: kreisverband@gruene-remscheid.de
@@ -391,60 +339,6 @@ urls:
     url: https://www.instagram.com/gruene_remscheid/
 ---
 country: DE
-district: Rhein-Erft-Kreis
-emails:
-  - address: partei@gruene-rek.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-rek.de/
-  - type: TWITTER
-    url: https://twitter.com/Gruene_REK
----
-country: DE
-district: Rhein-Kreis-Neuss
-emails:
-  - address: verband@gruene-rkn.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-rkn.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruenerkn/
----
-country: DE
-district: Siegen-Wittgenstein
-emails:
-  - address: kv.siegen-wittgenstein@gruene.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-siegen-wittgenstein.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruenesiwi/
----
-country: DE
-district: Soest
-emails:
-  - address: buero@gruene-kreis-soest.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: https://gruene-kv-soest.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneKVSoest/
-  - type: TWITTER
-    url: https://twitter.com/GrueneKVSoest
----
-country: DE
 district: Solingen
 emails:
   - address: buendnis90diegruenen@telebel.de
@@ -456,79 +350,6 @@ urls:
     url: http://www.gruene-solingen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/SolingerGRUENE/
----
-country: DE
-district: Steinfurt
-emails:
-  - address: kv.steinfurt@gruene.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-kreis-steinfurt.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneKST
----
-country: DE
-district: Unna
-emails:
-  - address: gruene-kvunna@t-online.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-kreis-unna.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/DieGrunenUnna
-  - type: TWITTER
-    url: https://twitter.com/GrueneKVUnna
-  - type: INSTAGRAM
-    url: https://www.instagram.com/grueneunna/
----
-country: DE
-district: Viersen
-emails:
-  - address: info@gruene-kreis-viersen.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-kreis-viersen.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/DieGruenenKreisViersen
----
-country: DE
-district: Warendorf
-emails:
-  - address: geschaeftsstelle@gruene-waf.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-waf.de/
-  - type: FACEBOOK
-    url: https://de-de.facebook.com/gruenewaf
-  - type: TWITTER
-    url: https://twitter.com/gruene_waf
----
-country: DE
-district: Wesel
-emails:
-  - address: verband@gruene-kreis-wesel.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-kreis-wesel.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneKreisWesel
-  - type: TWITTER
-    url: https://twitter.com/GrueneKVWesel
 ---
 country: DE
 district: Wuppertal

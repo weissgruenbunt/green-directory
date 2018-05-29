@@ -1,0 +1,53 @@
+---
+country: DE
+district: Oberberg
+emails:
+  - address: geschaeftsstelle@gruene-Oberberg.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-oberberg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gruene.Oberberg
+---
+city: Engelskirchen
+country: DE
+district: Oberberg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-engelskirchen.de
+---
+city: Nümbrecht
+country: DE
+district: Oberberg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-nuembrecht.de
+---
+city: Reichshof
+country: DE
+district: Oberberg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-reichshof.de
+---
+city: Wipperfürth
+country: DE
+district: Oberberg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-wipperfuerth.de

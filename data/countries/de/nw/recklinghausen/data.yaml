@@ -1,0 +1,113 @@
+---
+country: DE
+district: Recklinghausen
+emails:
+  - address: gruene.kv-recklinghausen@arcormail.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-im-vest.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneovrecklinghausen/
+---
+city: Castrop-Rauxel
+country: DE
+district: Recklinghausen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-castrop-rauxel.de
+---
+city: Datteln
+country: DE
+district: Recklinghausen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-datteln.de
+---
+city: Dorsten
+country: DE
+district: Recklinghausen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-dorsten.de
+---
+city: Gladbeck
+country: DE
+district: Recklinghausen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-gladbeck.de
+---
+city: Haltern
+country: DE
+district: Recklinghausen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-haltern.de
+---
+city: Herten
+country: DE
+district: Recklinghausen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-herten.de
+---
+city: Oer-Erkenschwick
+country: DE
+district: Recklinghausen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-oe.de
+---
+city: Recklinghausen
+country: DE
+district: Recklinghausen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-recklinghausen.de
+---
+city: Waltrop
+country: DE
+district: Recklinghausen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.die-gruenen-waltrop.de
+---
+city: Marl
+country: DE
+district: Recklinghausen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-marl.com

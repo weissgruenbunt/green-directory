@@ -1,0 +1,105 @@
+---
+country: DE
+district: Warendorf
+emails:
+  - address: geschaeftsstelle@gruene-waf.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-waf.de/
+  - type: FACEBOOK
+    url: https://de-de.facebook.com/gruenewaf
+  - type: TWITTER
+    url: https://twitter.com/gruene_waf
+---
+city: Ahlen
+country: DE
+district: Warendorf
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ahlen.de
+---
+city: Beckum
+country: DE
+district: Warendorf
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-beckum.de
+---
+city: Drensteinfurt
+country: DE
+district: Warendorf
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-drensteinfurt.de
+---
+city: Everswinkel/Alverskirchen
+country: DE
+district: Warendorf
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-everswinkel.de
+---
+city: Oelde
+country: DE
+district: Warendorf
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-oelde.de
+---
+city: Ostbevern
+country: DE
+district: Warendorf
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ostbevern.de
+---
+city: Sassenberg
+country: DE
+district: Warendorf
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-sassenberg.de
+---
+city: Telgte
+country: DE
+district: Warendorf
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-telgte.de
+---
+city: Warendorf
+country: DE
+district: Warendorf
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-warendorf.de

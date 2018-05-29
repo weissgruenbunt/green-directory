@@ -1,0 +1,145 @@
+---
+country: DE
+district: Wesel
+emails:
+  - address: verband@gruene-kreis-wesel.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kreis-wesel.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneKreisWesel
+  - type: TWITTER
+    url: https://twitter.com/GrueneKVWesel
+---
+city: Alpen
+country: DE
+district: Wesel
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-alpen.de
+---
+city: Dinslaken
+country: DE
+district: Wesel
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-dinslaken.de
+---
+city: Voerde
+country: DE
+district: Wesel
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-voerde.de
+---
+city: Hamminkeln
+country: DE
+district: Wesel
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hamminkeln.de
+---
+city: Kamp-Lintfort
+country: DE
+district: Wesel
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kamp-lintfort.de/
+---
+city: Moers
+country: DE
+district: Wesel
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-moers.de
+---
+city: Neukirchen-Vluyn
+country: DE
+district: Wesel
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-nv.de
+---
+city: Rheinberg
+country: DE
+district: Wesel
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-rheinberg.de
+---
+city: Schermbeck
+country: DE
+district: Wesel
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-schermbeck.de
+---
+city: Sonsbeck
+country: DE
+district: Wesel
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-sonsbeck.de
+---
+city: Hünxe
+country: DE
+district: Wesel
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-huenxe.de
+---
+city: Wesel
+country: DE
+district: Wesel
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wesel.de
+---
+city: Xanten
+country: DE
+district: Wesel
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-xanten.de

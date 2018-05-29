@@ -85,3 +85,23 @@ urls:
     url: http://www.gruene-wermelskirchen.de/
 emails:
   - address: info@gruene-wermelskirchen.de
+---
+city: Kürten
+country: DE
+district: Rhein-Berg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kuerten.de
+---
+city: Overath
+country: DE
+district: Rhein-Berg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-overath.de

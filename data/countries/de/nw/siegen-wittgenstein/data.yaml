@@ -1,0 +1,123 @@
+---
+country: DE
+district: Siegen-Wittgenstein
+emails:
+  - address: kv.siegen-wittgenstein@gruene.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-siegen-wittgenstein.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenesiwi/
+---
+city: Bad Berleburg
+country: DE
+district: Siegen-Wittgenstein
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-siegen-wittgenstein.de/gruene-vor-ort/bad-berleburg.html
+---
+city: Bad Laasphe
+country: DE
+district: Siegen-Wittgenstein
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bad-laasphe.de/
+---
+city: Burbach
+country: DE
+district: Siegen-Wittgenstein
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.xn--grne-burbach-elb.de/
+---
+city: Erndtebrück
+country: DE
+district: Siegen-Wittgenstein
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-siegen-wittgenstein.de/gruene-vor-ort/erndtebrueck.html
+---
+city: Freudenberg
+country: DE
+district: Siegen-Wittgenstein
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-freudenberg.de/
+---
+city: Hilchenbach
+country: DE
+district: Siegen-Wittgenstein
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-in-hilchenbach.de/
+---
+city: Kreuztal
+country: DE
+district: Siegen-Wittgenstein
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-kreuztal.de/
+---
+city: Netphen
+country: DE
+district: Siegen-Wittgenstein
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-siegen-wittgenstein.de/gruene-vor-ort/netphen.html
+---
+city: Neunkirchen (Siegerland)
+country: DE
+district: Siegen-Wittgenstein
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-neunkirchen-siegerland.de/
+---
+city: Siegen
+country: DE
+district: Siegen-Wittgenstein
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-siegen.de/
+---
+city: Wilnsdorf
+country: DE
+district: Siegen-Wittgenstein
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wilnsdorf.de/

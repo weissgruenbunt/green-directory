@@ -1,0 +1,113 @@
+---
+country: DE
+district: Rhein-Erft-Kreis
+emails:
+  - address: partei@gruene-rek.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-rek.de/
+  - type: TWITTER
+    url: https://twitter.com/Gruene_REK
+---
+city: Bedburg
+country: DE
+district: Rhein-Erft-Kreis
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruenebedburg.de
+---
+city: Bergheim
+country: DE
+district: Rhein-Erft-Kreis
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bergheim.de
+---
+city: Brühl
+country: DE
+district: Rhein-Erft-Kreis
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.bruehlgruen.de
+---
+city: Elsdorf
+country: DE
+district: Rhein-Erft-Kreis
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-elsdorf.de
+---
+city: Erftstadt
+country: DE
+district: Rhein-Erft-Kreis
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-erftstadt.de
+---
+city: Frechen
+country: DE
+district: Rhein-Erft-Kreis
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-frechen.de
+---
+city: Hürth
+country: DE
+district: Rhein-Erft-Kreis
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-huerth.de
+---
+city: Kerpen
+country: DE
+district: Rhein-Erft-Kreis
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kerpen.de
+---
+city: Pulheim
+country: DE
+district: Rhein-Erft-Kreis
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-pulheim.de
+---
+city: Wesseling
+country: DE
+district: Rhein-Erft-Kreis
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruenewesseling.de

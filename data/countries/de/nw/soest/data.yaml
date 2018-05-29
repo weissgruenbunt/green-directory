@@ -1,0 +1,75 @@
+---
+country: DE
+district: Soest
+emails:
+  - address: buero@gruene-kreis-soest.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-kv-soest.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneKVSoest/
+  - type: TWITTER
+    url: https://twitter.com/GrueneKVSoest
+---
+city: Soest
+country: DE
+district: Soest
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.soest-bewegen.de
+---
+city: Werl
+country: DE
+district: Soest
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-werl.de/html/ov.html
+---
+city: Lippstadt
+country: DE
+district: Soest
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-lippstadt.de
+---
+city: Anröchte
+country: DE
+district: Soest
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-anroechte.de
+---
+city: Möhnesee
+country: DE
+district: Soest
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-moehnesee.de
+---
+city: Warstein
+country: DE
+district: Soest
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.warsteinerliste.de

@@ -1,0 +1,77 @@
+---
+country: DE
+district: Unna
+emails:
+  - address: gruene-kvunna@t-online.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kreis-unna.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/DieGrunenUnna
+  - type: TWITTER
+    url: https://twitter.com/GrueneKVUnna
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneunna/
+---
+city: Holzwickede
+country: DE
+district: Unna
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-holzwickede.de
+---
+city: Bergkamen
+country: DE
+district: Unna
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bergkamen.de/
+---
+city: Lünen
+country: DE
+district: Unna
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-luenen.de
+---
+city: Schwerte
+country: DE
+district: Unna
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-schwerte.de
+---
+city: Unna
+country: DE
+district: Unna
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-unna.de
+---
+city: Fröndenberg
+country: DE
+district: Unna
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene.de/froendenberg
