@@ -94,19 +94,6 @@ emails:
   - address: gruene.euskirchen@web.de
 ---
 country: DE
-district: Aachen
-emails:
-  - address: kv@gruene-region-aachen.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-region-aachen.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/grueneregionaachen
----
-country: DE
 district: Bielefeld
 emails:
   - address: info@gruene-bielefeld.de

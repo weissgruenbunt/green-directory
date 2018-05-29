@@ -1,0 +1,127 @@
+---
+country: DE
+district: Aachen
+emails:
+  - address: kv@gruene-region-aachen.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-region-aachen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneregionaachen
+---
+city: Aachen
+country: DE
+district: Aachen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-aachen.de/
+---
+city: Alsdorf
+country: DE
+district: Aachen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+emails:
+  - address: gruene-alsdorf@t-online.de
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-alsdorf.de/
+---
+city: Baesweiler
+country: DE
+district: Aachen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-region-aachen.de/baesweiler/
+---
+city: Eschweiler
+country: DE
+district: Aachen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-eschweiler.de/
+---
+city: Herzogenrath
+country: DE
+district: Aachen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-herzogenrath.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Herzogenrath-266031356901498/
+---
+city: Monschau
+country: DE
+district: Aachen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-region-aachen.de/monschau/
+---
+city: Roetgen
+country: DE
+district: Aachen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-roetgen.de/
+---
+city: Stolberg
+country: DE
+district: Aachen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-region-aachen.de/stolberg/wp/
+---
+city: Würselen
+country: DE
+district: Aachen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wuerselen.de/
+---
+city: Simmerath
+country: DE
+district: Aachen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-simmerath.de/
+---
+city: "Brüssel"
+country: DE
+district: Aachen
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-bruessel.eu/
