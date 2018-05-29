@@ -133,19 +133,6 @@ urls:
     url: http://www.gruene-dortmund.de/
 ---
 country: DE
-district: Duisburg
-emails:
-  - address: kv@gruene-duisburg.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.grueneduisburg.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/grueneduisburg/
----
-country: DE
 district: Düren
 emails:
   - address: kreisverband@gruene-dueren.de

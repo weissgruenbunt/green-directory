@@ -1,0 +1,44 @@
+---
+country: DE
+district: Duisburg
+emails:
+  - address: kv@gruene-duisburg.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.grueneduisburg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneduisburg/
+---
+city: Duisburg-Mitte
+country: DE
+district: Duisburg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+---
+city: Duisburg-West/Ruhrort
+country: DE
+district: Duisburg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+---
+city: Duisburg-Walsum
+country: DE
+district: Duisburg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.ov-walsum.gruene-duisburg.de
+---
+city: Duisburg-Süd
+country: DE
+district: Duisburg
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
