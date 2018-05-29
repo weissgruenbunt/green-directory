@@ -1,0 +1,139 @@
+---
+country: DE
+district: Borken
+emails:
+  - address: info@gruene-kv-borken.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-kv-borken.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/DerVorstand/
+  - type: TWITTER
+    url: https://twitter.com/gruenekvborken
+---
+city: Ahaus
+country: DE
+district: Borken
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ahaus.de
+---
+city: Bocholt
+country: DE
+district: Borken
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-bocholt.de/
+---
+city: Borken/Westfalen
+country: DE
+district: Borken
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-borken.de/
+---
+city: Gescher
+country: DE
+district: Borken
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-gescher.de/
+---
+city: Gronau
+country: DE
+district: Borken
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+---
+city: Isselburg
+country: DE
+district: Borken
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-isselburg.de/
+---
+city: Reken
+country: DE
+district: Borken
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-reken.de
+---
+city: Rhede
+country: DE
+district: Borken
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-rhede.de/
+---
+city: Schöppingen
+country: DE
+district: Borken
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-schoeppingen.de/
+---
+city: Stadtlohn
+country: DE
+district: Borken
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-stadtlohn.de
+---
+city: Südlohn
+country: DE
+district: Borken
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-suedlohn.de/
+---
+city: Velen
+country: DE
+district: Borken
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+---
+city: Vreden
+country: DE
+district: Borken
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-vreden.de/

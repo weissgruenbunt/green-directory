@@ -109,21 +109,6 @@ urls:
     url: https://twitter.com/bielefeldgruen
 ---
 country: DE
-district: Borken
-emails:
-  - address: info@gruene-kv-borken.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://gruene-kv-borken.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/DerVorstand/
-  - type: TWITTER
-    url: https://twitter.com/gruenekvborken
----
-country: DE
 district: Bottrop
 emails:
   - address: info@gruene-bottrop.de
