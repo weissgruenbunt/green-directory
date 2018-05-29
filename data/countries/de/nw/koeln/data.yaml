@@ -1,0 +1,105 @@
+---
+country: DE
+district: Köln
+emails:
+  - address: buero@gruenekoeln.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruenekoeln.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenekoeln
+  - type: TWITTER
+    url: https://twitter.com/gruenekoeln
+---
+city: Köln-Innenstadt/Deutz
+country: DE
+district: Köln
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruenekoeln.de/bezirke/bezirk1/aktuelles.html
+---
+city: Köln-Ehrenfeld
+country: DE
+district: Köln
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruenekoeln.de/bezirke/bezirk4/aktuelles.html
+---
+city: Köln-Mülheim
+country: DE
+district: Köln
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruenekoeln.de/bezirke/bezirk9/aktuelles.html
+---
+city: Köln-Nippes
+country: DE
+district: Köln
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruenekoeln.de/bezirke/bezirk5/aktuelles.html
+---
+city: Köln-Chorweiler
+country: DE
+district: Köln
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruenekoeln.de/bezirke/bezirk6/aktuelles.html
+---
+city: Köln-Porz/Poll
+country: DE
+district: Köln
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruenekoeln.de/bezirke/bezirk7.html
+---
+city: Köln-Rodenkirchen
+country: DE
+district: Köln
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruenekoeln.de/bezirke/bezirk2/aktuelles.html
+---
+city: "Köln-Lindenthal"
+country: DE
+district: Köln
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruenekoeln.de/bezirke/bezirk3/aktuelles.html
+---
+city: Köln-Kalk
+country: DE
+district: Köln
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruenekoeln.de/bezirke/bezirk8/willkommen.html
