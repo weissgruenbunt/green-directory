@@ -1,0 +1,103 @@
+---
+country: DE
+district: Ennepe-Ruhr
+emails:
+  - address: info@gruene-en.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-en.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grune.enneperuhr
+---
+city: Breckerfeld
+country: DE
+district: Ennepe-Ruhr
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-en.de/ortsverbaende/ov-breckerfeld/home/
+---
+city: Ennepetal
+country: DE
+district: Ennepe-Ruhr
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-ennepetal.de/
+---
+city: Gevelsberg
+country: DE
+district: Ennepe-Ruhr
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-en.de/ortsverbaende/ov-gevelsberg/startseite/
+---
+city: Hattingen
+country: DE
+district: Ennepe-Ruhr
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hattingen.de/
+---
+city: Herdecke
+country: DE
+district: Ennepe-Ruhr
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-en.de/ortsverbaende/ov-herdecke/startseite/
+---
+city: Schwelm
+country: DE
+district: Ennepe-Ruhr
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-schwelm.de/
+---
+city: Sprockhövel
+country: DE
+district: Ennepe-Ruhr
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-sprockhoevel.de
+---
+city: Wetter
+country: DE
+district: Ennepe-Ruhr
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-en.de/ortsverbaende/ov-wetter/startseite/
+---
+city: Witten
+country: DE
+district: Ennepe-Ruhr
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-en.de/ortsverbaende/ortsverband-witten/ortsverband-witten0/

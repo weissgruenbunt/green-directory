@@ -148,19 +148,6 @@ urls:
     url: https://twitter.com/grueneddorf
 ---
 country: DE
-district: Ennepe-Ruhr
-emails:
-  - address: info@gruene-en.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-en.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/grune.enneperuhr
----
-country: DE
 district: Essen
 emails:
   - address: kreisverband@gruene-essen.de
