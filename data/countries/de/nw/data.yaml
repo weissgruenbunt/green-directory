@@ -189,21 +189,6 @@ urls:
     url: https://www.facebook.com/GruenerKVHamm
 ---
 country: DE
-district: Herford
-emails:
-  - address: kreisverband@gruene-kreis-herford.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-kreis-herford.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/grueneherford
-  - type: TWITTER
-    url: https://twitter.com/Gruene_Herford
----
-country: DE
 district: Herne
 emails:
   - address: kreisverband@gruene-herne.de

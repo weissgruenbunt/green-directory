@@ -1,0 +1,105 @@
+---
+country: DE
+district: Herford
+emails:
+  - address: kreisverband@gruene-kreis-herford.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kreis-herford.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneherford
+  - type: TWITTER
+    url: https://twitter.com/Gruene_Herford
+---
+city: Bünde
+country: DE
+district: Herford
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-buende.de
+---
+city: Enger
+country: DE
+district: Herford
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-enger.de/
+---
+city: Herford
+country: DE
+district: Herford
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-kreis-herford.de/gruene-im-kreis-herford/herford/
+---
+city: Hiddenhausen
+country: DE
+district: Herford
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-kreis-herford.de/gruene-im-kreis-herford/hiddenhausen/
+---
+city: Kirchlengern
+country: DE
+district: Herford
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-kreis-herford.de/gruene-im-kreis-herford/kirchlengern/
+---
+city: Löhne
+country: DE
+district: Herford
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-kreis-herford.de/gruene-im-kreis-herford/loehne/
+---
+city: Rödinghausen
+country: DE
+district: Herford
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-kreis-herford.de/gruene-im-kreis-herford/roedinghausen/
+---
+city: Spenge
+country: DE
+district: Herford
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-kreis-herford.de/gruene-im-kreis-herford/spenge/
+---
+city: Vlotho
+country: DE
+district: Herford
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruenelistevlotho.de/
