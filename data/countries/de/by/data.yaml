@@ -977,8 +977,6 @@ district: Wunsiedel
 urls:
   - type: WEBSITE
     url: http://www.gruene-fichtelgebirge.de
-  - type: FACEBOOK
-    url: https://www.facebook.com/KvWunsiedel/
   - type: YOUTUBE
     url: https://www.youtube.com/user/gruenwun
 ---

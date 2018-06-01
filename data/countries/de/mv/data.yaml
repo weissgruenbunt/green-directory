@@ -106,7 +106,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-vorpommern-ruegen.de
   - type: FACEBOOK
-    url: https://www.facebook.com/GrueneHST/
+    url: https://www.facebook.com/GrueneVR/
 emails:
   - address: regionalbuero@gruene-vorpommern-ruegen.de
 ---
