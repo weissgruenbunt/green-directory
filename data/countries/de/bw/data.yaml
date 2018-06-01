@@ -450,7 +450,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-rems-murr.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/GrueneRemsMur
+    url: https://www.facebook.com/GrueneRemsMurr
 ---
 country: DE
 district: Reutlingen
