@@ -1,0 +1,43 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Gießen
+urls:
+  - type: WEBSITE
+    url: https://kreis.gruene-giessen.de/
+emails:
+  - address: kreisverband@gruene-giessen.de
+---
+city: Fernwald
+country: DE
+district: Gießen
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-fernwald.de
+---
+city: Gießen
+country: DE
+district: Gießen
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://stadt.gruene-giessen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenegiessen/
+---
+city: Heuchelheim
+country: DE
+district: Gießen
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-heuchelheim.de

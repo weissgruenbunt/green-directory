@@ -1,0 +1,43 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Limburg-Weilburg
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-limburg-weilburg.de/
+emails:
+  - address: kreis@gruene-limburg-weilburg.de
+---
+city: Bad Camberg
+country: DE
+district: Limburg-Weilburg
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-badcamberg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Bad-Camberg-519110891583284/
+---
+city: Runkel
+country: DE
+district: Limburg-Weilburg
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-runkel.de/
+---
+city: Limburg
+country: DE
+district: Limburg-Weilburg
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-limburg.de/

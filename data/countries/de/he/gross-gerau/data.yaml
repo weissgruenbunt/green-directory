@@ -1,0 +1,126 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Groß-Gerau
+urls:
+  - type: WEBSITE
+    url: https://www.gg-gruene.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCner-Kreisverband-Gro%C3%9F-Gerau-576480665787732/
+emails:
+  - address: info@gg-gruene.de
+---
+city: Biebesheim
+country: DE
+district: Groß-Gerau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-biebesheim.de/
+---
+city: Bischofsheim
+country: DE
+district: Groß-Gerau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.galb.de/
+---
+city: Büttelborn
+country: DE
+district: Groß-Gerau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.glb-im-web.de
+---
+city: Ginsheim-Gustavsburg
+country: DE
+district: Groß-Gerau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-gigu.de/
+---
+city: Groß-Gerau
+country: DE
+district: Groß-Gerau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+---
+city: Mörfelden-Walldorf
+country: DE
+district: Groß-Gerau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-mw.de
+---
+city: Raunheim
+country: DE
+district: Groß-Gerau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-raunheim.de/
+---
+city: Riedstadt
+country: DE
+district: Groß-Gerau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-liste-riedstadt.de/
+---
+city: Rüsselsheim
+country: DE
+district: Groß-Gerau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-ruesselsheim.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneruesselsheim/
+  - type: TWITTER
+    url: https://twitter.com/gruene_rue
+---
+city: Trebur
+country: DE
+district: Groß-Gerau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.glt-trebur.de/
+---
+city: Gernsheim
+country: DE
+district: Groß-Gerau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-gernsheim.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneGernsheim

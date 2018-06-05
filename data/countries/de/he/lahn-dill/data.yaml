@@ -1,0 +1,115 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Lahn-Dill
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-lahn-dill.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.lahndill
+emails:
+  - address: B90-Gruene.Lahn-Dill@t-online.de
+---
+city: Braunfels
+country: DE
+district: Lahn-Dill
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-braunfels.de/
+---
+city: Dillenburg
+country: DE
+district: Lahn-Dill
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-dillenburg.de/
+---
+city: Herborn
+country: DE
+district: Lahn-Dill
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-herborn.de/
+---
+city: Lahnau
+country: DE
+district: Lahn-Dill
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-lahnau.de/
+---
+city: Asslar
+country: DE
+district: Lahn-Dill
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.grueneasslar.de/
+---
+city: Hüttenberg
+country: DE
+district: Lahn-Dill
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-huettenberg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/groups/922519037840059/
+---
+city: Siegbach
+country: DE
+district: Lahn-Dill
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-siegbach.de/
+---
+city: Sinn
+country: DE
+district: Lahn-Dill
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-sinn.de/
+---
+city: Solms
+country: DE
+district: Lahn-Dill
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-solms.de/
+---
+city: Wetzlar
+country: DE
+district: Lahn-Dill
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-wetzlar.de/
