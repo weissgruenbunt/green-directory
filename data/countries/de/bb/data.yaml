@@ -37,7 +37,7 @@ state: Brandenburg
 district: Brandenburg/Havel
 urls:
   - type: WEBSITE
-    url: http://gruene-kv-brb.de/home/
+    url: https://gruene-kv-brb.de/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Brandenburg-an-der-Havel-201715346651520/
 ---
@@ -48,7 +48,7 @@ state: Brandenburg
 district: Cottbus
 urls:
   - type: WEBSITE
-    url: http://www.gruene-cottbus.de/home/
+    url: https://www.gruene-cottbus.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -57,7 +57,7 @@ state: Brandenburg
 district: Dahme-Spreewald
 urls:
   - type: WEBSITE
-    url: http://www.gruene-dahme-spreewald.de/aktuelles/
+    url: https://www.gruene-dahme-spreewald.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -66,7 +66,7 @@ state: Brandenburg
 district: Elbe-Elster
 urls:
   - type: WEBSITE
-    url: https://gruenee.de/home/
+    url: https://gruene-lausitz.org/ee/aktuelles/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -75,7 +75,7 @@ state: Brandenburg
 district: Frankfurt (Oder)
 urls:
   - type: WEBSITE
-    url: http://www.gruene-frankfurt-oder.de/start/
+    url: https://www.gruene-frankfurt-oder.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneffo/
 ---
@@ -86,7 +86,7 @@ state: Brandenburg
 district: Havelland
 urls:
   - type: WEBSITE
-    url: http://www.gruene-havelland.de/startseite/
+    url: https://www.gruene-havelland.de/
   - type: FACEBOOK
     url: http://www.facebook.com/gruenehvl
 ---
@@ -97,7 +97,7 @@ state: Brandenburg
 district: Märkisch-Oderland
 urls:
   - type: WEBSITE
-    url: http://www.gruene-mol.de/startseite/
+    url: https://www.gruene-mol.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenemol/
 ---
@@ -108,7 +108,7 @@ state: Brandenburg
 district: Oberhavel
 urls:
   - type: WEBSITE
-    url: http://www.gruene-ohv.de/home/
+    url: https://www.gruene-ohv.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.kvohv
 ---
@@ -119,16 +119,7 @@ state: Brandenburg
 district: Oberspreewald-Lausitz
 urls:
   - type: WEBSITE
-    url: http://www.gruene-osl.de/aktuelles/
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Brandenburg
-district: Oder-Spree
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-oder-spree.de/home/
+    url: https://gruene-lausitz.org/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -137,7 +128,7 @@ state: Brandenburg
 district: Ostprignitz-Ruppin
 urls:
   - type: WEBSITE
-    url: http://www.buendnisgruenes-opr.de/home/nc/1/
+    url: https://www.buendnisgruenes-opr.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -146,18 +137,9 @@ state: Brandenburg
 district: Potsdam
 urls:
   - type: WEBSITE
-    url: http://gruene-potsdam.de/home/
+    url: https://gruene-potsdam.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenekvpotsdam/
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Brandenburg
-district: Potsdam-Mittelmark
-urls:
-  - type: WEBSITE
-    url: http://gruene-potsdam-mittelmark.de/home/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -166,7 +148,7 @@ state: Brandenburg
 district: Prignitz
 urls:
   - type: WEBSITE
-    url: http://www.grueneprignitz.de/aktuellestermine/
+    url: https://www.grueneprignitz.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -175,7 +157,7 @@ state: Brandenburg
 district: Spree-Neisse
 urls:
   - type: WEBSITE
-    url: https://www.gruene-spn.de/home/
+    url: https://gruene-lausitz.org/spn/aktuelles/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -184,7 +166,7 @@ state: Brandenburg
 district: Teltow-Fläming
 urls:
   - type: WEBSITE
-    url: http://gruene-teltow-flaeming.de/startseite/
+    url: https://gruene-teltow-flaeming.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -193,6 +175,6 @@ state: Brandenburg
 district: Uckermark
 urls:
   - type: WEBSITE
-    url: http://www.gruene-um.de/home/
+    url: https://www.gruene-um.de/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Uckermark-247133728649040/
