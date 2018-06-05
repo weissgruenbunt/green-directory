@@ -1,0 +1,21 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Oberallgäu
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-oa.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GR%C3%9CNE-Oberallg%C3%A4u-201087443266854/
+---
+city: Sonthofen
+country: DE
+district: Oberallgäu
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-sonthofen.de

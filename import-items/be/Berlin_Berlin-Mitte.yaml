@@ -1,0 +1,10 @@
+---
+city: Washington
+country: DE
+district: Berlin-Mitte
+level: DE:ORTSVERBAND
+state: Berlin
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://gruene-washington.de/neuigkeiten/

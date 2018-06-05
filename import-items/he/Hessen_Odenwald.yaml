@@ -1,0 +1,20 @@
+---
+city: Erbach
+country: DE
+district: Odenwald
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-odenwald.de/erbach
+---
+city: Reichelsheim
+country: DE
+district: Odenwald
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gr

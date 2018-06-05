@@ -1,0 +1,89 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Nürnberger Land
+urls:
+  - type: WEBSITE
+    url: https://gruene-nuernberger-land.de/
+---
+city: Altdorf
+country: DE
+district: Nürnberg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-nuernberger-land.de/ortsverbaende/ov-altdorf/
+---
+city: Burgthann
+country: DE
+district: Nürnberg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-nuernberger-land.de/ortsverbaende/ov-burgthann/
+---
+city: Feucht
+country: DE
+district: Nürnberg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-nuernberger-land.de/ortsverbaende/ov-feucht/
+---
+city: Hersbrucker Land
+country: DE
+district: Nürnberg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-nuernberger-land.de/ortsverbaende/ov-hersbruck/
+---
+city: Lauf
+country: DE
+district: Nürnberg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-nuernberger-land.de/ortsverbaende/ov-lauf-an-der-pegnitz/
+---
+city: Schwarzenbruck
+country: DE
+district: Nürnberg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-nuernberger-land.de/ortsverbaende/ov-schwarzenbruck/
+---
+city: Winkelhaid
+country: DE
+district: Nürnberg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-nuernberger-land.de/winkelha
+---
+city: Röthenbach
+country: DE
+district: Nürnberg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-roethenbach.de

@@ -1,0 +1,51 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Erlangen-Land
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-erlangen-land.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/DieGruenenERH
+---
+city: Bubenreuth
+country: DE
+district: Erlangen-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-bubenreuth.de/
+---
+city: Herzogenaurach
+country: DE
+district: Erlangen-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-herzogenaurach.de/
+---
+city: Uttenreuth
+country: DE
+district: Erlangen-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gal-uttenreuth.de/
+---
+city: Weisendorf
+country: DE
+district: Erlangen-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.lebensqualitaet-weisendorf.de/

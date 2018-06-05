@@ -1,0 +1,70 @@
+---
+city: Bexbach
+country: DE
+district: Saarpfalz
+level: DE:ORTSVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-bexbach.de
+---
+city: Blieskastel
+country: DE
+district: Saarpfalz
+level: DE:ORTSVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-blieskastel.de
+---
+city: Homburg
+country: DE
+district: Saarpfalz
+level: DE:ORTSVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-homburg.de
+---
+city: Kirkel
+country: DE
+district: Saarpfalz
+level: DE:ORTSVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-kirkel.de
+---
+city: Mandelbachtal
+country: DE
+district: Saarpfalz
+level: DE:ORTSVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://gruene-mandelbachtal.de
+---
+city: Sankt Ingbert
+country: DE
+district: Saarpfalz
+level: DE:ORTSVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-igb.de
+---
+city: Gersheim
+country: DE
+district: Saarpfalz
+level: DE:ORTSVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-gersheim.de

@@ -1,0 +1,63 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Ebersberg
+urls:
+  - type: WEBSITE
+    url: https://gruene-ebersberg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneEbersberg
+  - type: TWITTER
+    url: https://twitter.com/gruenEBE
+---
+city: Aßling
+country: DE
+district: Ebersberg
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ebersberg.de/ortsverbaende/assling/nachrichten/
+---
+city: Grafing
+country: DE
+district: Ebersberg
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ebersberg.de/ortsverbaende/grafing/nachrichten/
+---
+city: Kirchseeon
+country: DE
+district: Ebersberg
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ebersberg.de/ortsverbaende/kirchseeon/gruene-im-ort/
+---
+city: Markt Schwaben
+country: DE
+district: Ebersberg
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ebersberg.de/ortsverbaende/markt-schwaben/willkommen/
+---
+city: Vaterstetten
+country: DE
+district: Ebersberg
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ebersberg.de/ortsverbaende/vaterstetten/willkommen/

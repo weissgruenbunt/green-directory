@@ -1,0 +1,30 @@
+---
+city: Geesthacht
+country: DE
+district: Herzogtum Lauenburg
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-geesthacht.de
+---
+city: "B\xF6rnsen"
+country: DE
+district: Herzogtum Lauenburg
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-boernsen.de
+---
+city: "Lauenburg/L\xFCtau"
+country: DE
+district: Herzogtum Lauenburg
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-lauenburg-luetau.de/

@@ -1,0 +1,30 @@
+---
+city: Halstenbek
+country: DE
+district: Pinneberg
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-halstenbek.de
+---
+city: Pinneberg
+country: DE
+district: Pinneberg
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-pinneberg.de
+---
+city: Schenefeld
+country: DE
+district: Pinneberg
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-schenefeld.de

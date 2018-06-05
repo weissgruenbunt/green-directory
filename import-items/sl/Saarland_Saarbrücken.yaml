@@ -1,0 +1,40 @@
+---
+city: "Gro\xDFrosseln"
+country: DE
+district: "Saarbr\xFCcken"
+level: DE:ORTSVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-grossrosseln.de
+---
+city: "P\xFCttlingen"
+country: DE
+district: "Saarbr\xFCcken"
+level: DE:ORTSVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-puettlingen.de
+---
+city: Sulzbach/Saar
+country: DE
+district: "Saarbr\xFCcken"
+level: DE:ORTSVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-sulzbach.de
+---
+city: "Saarbr\xFCcken-Mitte"
+country: DE
+district: "Saarbr\xFCcken"
+level: DE:ORTSVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-saarbruecken.de
