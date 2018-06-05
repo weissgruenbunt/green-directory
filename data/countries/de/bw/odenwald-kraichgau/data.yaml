@@ -1,0 +1,130 @@
+---
+country: DE
+district: Odenwald-Kraichgau
+emails:
+  - address: kv.odenwald-kraichgau@gruene.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-odenwald-kraichgau.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.odenwaldkraichgau
+---
+city: Neckargemünd
+country: DE
+district: Odenwald-Kraichgau
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-neckargemuend.de/
+---
+city: Sinsheim
+country: DE
+district: Odenwald-Kraichgau
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-sinsheim.de/
+---
+city: Mauer
+country: DE
+district: Odenwald-Kraichgau
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-mauer.de/
+---
+city: Meckesheim
+country: DE
+district: Odenwald-Kraichgau
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+---
+city: Nußloch
+country: DE
+district: Odenwald-Kraichgau
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-nussloch.de/
+---
+city: Wiesenbach
+country: DE
+district: Odenwald-Kraichgau
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-wiesenbach.de/
+---
+city: Wiesloch
+country: DE
+district: Odenwald-Kraichgau
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-wiesloch.de/
+---
+city: Bammental
+country: DE
+district: Odenwald-Kraichgau
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bammental.de/
+---
+city: Eberbach
+country: DE
+district: Odenwald-Kraichgau
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.agl-eberbach.de/
+---
+city: Gaiberg
+country: DE
+district: Odenwald-Kraichgau
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gl-gaiberg.de/
+---
+city: Leimen
+country: DE
+district: Odenwald-Kraichgau
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-leimen.de/
+---
+city: Malsch
+country: DE
+district: Odenwald-Kraichgau
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-malsch.de/

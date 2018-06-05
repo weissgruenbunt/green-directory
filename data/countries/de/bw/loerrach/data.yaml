@@ -1,0 +1,43 @@
+---
+country: DE
+district: Lörrach
+emails:
+  - address: kv@gruene-loerrach.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-loerrach.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grune.lorrach
+---
+city: Schliengen
+country: DE
+district: Lörrach
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.syb.de/gruene/schliengen/
+---
+city: Schopfheim
+country: DE
+district: Lörrach
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-schopfheim.de/
+---
+city: Oberes Wiesental
+country: DE
+district: Lörrach
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-oberes-wiesental.de/

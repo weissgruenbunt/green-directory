@@ -1,0 +1,23 @@
+---
+country: DE
+district: Göppingen
+emails:
+  - address: joachim.abel@gruene-goeppingen.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-goeppingen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneGP
+---
+city: Süßen
+country: DE
+district: Göppingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-goeppingen.de/suessen/

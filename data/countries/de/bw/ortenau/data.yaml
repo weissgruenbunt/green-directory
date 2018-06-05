@@ -1,0 +1,43 @@
+---
+country: DE
+district: Ortenau
+emails:
+  - address: kontakt@gruene-ortenau.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-ortenau.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/KreisverbandOrtenau/
+---
+city: Kehl
+country: DE
+district: Ortenau
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kehl.de
+---
+city: Kinzigtal
+country: DE
+district: Ortenau
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-kinzigtal.de/
+---
+city: Offenburg
+country: DE
+district: Ortenau
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-offenburg.de/

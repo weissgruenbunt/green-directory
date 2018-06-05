@@ -1,0 +1,18 @@
+---
+country: DE
+district: Pforzheim-Enzkreis
+emails:
+  - address: info@gruene-pforzheim-enz.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-pforzheim-enz.de/
+---
+city: Illingen
+country: DE
+district: Pforzheim und Enzkreis
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER

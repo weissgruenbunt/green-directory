@@ -1,0 +1,183 @@
+---
+country: DE
+district: Ludwigsburg
+emails:
+  - address: kreisverband@gruene-ludwigsburg.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-ludwigsburg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Kreisverband-Ludwigsburg-170723476273472/
+---
+city: Freiberg
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruenefreiberg.de/
+---
+city: Gerlingen
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-gerlingen.de/
+---
+city: Ingersheim
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://ingersheim.gruene-ludwigsburg.de
+---
+city: Korntal/Münchingen
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-korntal-muenchingen.de/
+---
+city: Kornwestheim
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruenekornwestheim.de/
+---
+city: Ludwigsburg
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruenelb.de/
+---
+city: Marbach
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-marbach.de/
+---
+city: Remseck
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-remseck.de/
+---
+city: Vaihingen/Enz und Umgebung
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-vaihingen.de
+---
+city: Erdmannhausen
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-erdmannhausen.de/
+---
+city: Asperg
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-asperg.de/
+---
+city: Bottwartal
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-bottwartal.de/
+---
+city: Ditzingen
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-ditzingen.de/
+---
+city: Neckar-Stromberg
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-neckar-stromberg.de/
+---
+city: Pleidelsheim
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.ogl-pleidelsheim.de/
+---
+city: Sachsenheim
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-sachsenheim.de/
+---
+city: Schwieberdingen-Hemmingen
+country: DE
+district: Ludwigsburg
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-schwieberdingen-hemmingen.de/

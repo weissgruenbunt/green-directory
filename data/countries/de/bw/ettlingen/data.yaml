@@ -1,0 +1,45 @@
+---
+country: DE
+district: Ettlingen
+emails:
+  - address: kv.ettlingen@gruene.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ettlingen.de/kreisverband/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gruene.Ettlingen/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_ettlingen/
+---
+city: Ettlingen
+country: DE
+district: Ettlingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ettlingen.de/sv-ettlingen/
+---
+city: Malsch
+country: DE
+district: Ettlingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ettlingen.de/ov-malsch/
+---
+city: Rheinstetten
+country: DE
+district: Ettlingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-rheinstetten.de/
