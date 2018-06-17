@@ -1,0 +1,33 @@
+---
+country: DE
+district: Konstanz
+emails:
+  - address: mail@gruene-konstanz.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-konstanz.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Konstanz-543476915678973
+---
+city: Singen
+country: DE
+district: Konstanz
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-singen.de/
+---
+city: Rielasingen-Worblingen
+country: DE
+district: Konstanz
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-rielasingen-worblingen.de/

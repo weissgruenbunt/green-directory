@@ -1,0 +1,99 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Darmstadt–Dieburg
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-dadi.de/
+emails:
+  - address: kv@gruene-dadi.de
+---
+city: Babenhausen
+country: DE
+district: Darmstadt-Dieburg
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-babenhausen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grune.babenhausen
+---
+city: Dieburg
+country: DE
+district: Darmstadt-Dieburg
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-dieburg.de/
+---
+city: Griesheim
+country: DE
+district: Darmstadt-Dieburg
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-griesheim.de/
+---
+city: Groß-Umstadt
+country: DE
+district: Darmstadt-Dieburg
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-umstadt.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/UmstadtGruene/
+---
+city: Mühltal
+country: DE
+district: Darmstadt-Dieburg
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-muehltal.de/
+---
+city: Ober-Ramstadt
+country: DE
+district: Darmstadt-Dieburg
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-ober-ramstadt.de/
+---
+city: Reinheim
+country: DE
+district: Darmstadt-Dieburg
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-reinheim.de/
+---
+city: Roßdorf
+country: DE
+district: Darmstadt-Dieburg
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-rossdorf.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.rossdorf/
+  - type: YOUTUBE
+    url: https://www.youtube.com/channel/UCuHf4WjojctK_TrgckQVdqQ

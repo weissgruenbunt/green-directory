@@ -1,0 +1,290 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: München-Land
+urls:
+  - type: WEBSITE
+    url: https://gruene-ml.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneML/
+---
+city: Aying
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ml.de/wordpress/aying/
+---
+city: Baierbrunn
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ml.de/wordpress/baierbrunn/
+---
+city: Garching
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ml.de/wordpress/garching/
+---
+city: Gräfelfing
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ml.de/wordpress/graefelfing/
+---
+city: Höhenkirchen-Siegertsbrunn
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ml.de/wordpress/hoehenkirchen/
+---
+city: Ismaning
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-ismaning.de/
+---
+city: Kirchheim-Heimstetten
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-ml.de/kirchheim/
+---
+city: Neubiberg
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ml.de/wordpress/neubiberg/
+---
+city: Oberhaching
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+---
+city: Oberschleißheim
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ml.de/wordpress/oberschleissheim/
+---
+city: Ottobrunn
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ml.de/wordpress/ottobrunn/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneOttobrunn/
+---
+city: Pullach
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://pullach-gruene.de/
+---
+city: Putzbrunn
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ml.de/wordpress/putzbrunn/
+---
+city: Sauerlach
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ml.de/wordpress/sauerlach/
+---
+city: Schäftlarn
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ml.de/wordpress/schaeftlarn/
+---
+city: Taufkirchen
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-taufkirchen.de/
+---
+city: Unterhaching
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ml.de/wordpress/unterhaching/
+---
+city: Unterschleißheim
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-ush.de/
+---
+city: Haar
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-haar.de/
+---
+city: Neuried
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ml.de/wordpress/neuried/
+---
+city: Unterföhring
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ml.de/unterfoehring
+---
+city: Hohenbrunn
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-hohenbrunn.de/
+---
+city: Brunnthal
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-brunnthal.de/
+---
+city: Feldkirchen
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-feldkirchen.de/
+---
+city: Grasbrunn
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ml.de/wordpress/grasbrunn/
+---
+city: Grünwald
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ml.de/wordpress/gruenwald/
+---
+city: Planegg/Martinsried
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ml.de/wordpress/planegg/
+---
+city: Straßlach
+country: DE
+district: München-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ml.de/wordpress/strasslach/

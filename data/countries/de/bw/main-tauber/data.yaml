@@ -1,0 +1,31 @@
+---
+country: DE
+district: Main-Tauber
+emails:
+  - address: vaeth@gruene-main-tauber.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-main-tauber.de/
+---
+city: Bad Mergentheim
+country: DE
+district: Main-Tauber
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-mgh.de/
+---
+city: Wertheim
+country: DE
+district: Main-Tauber
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-wertheim.de/

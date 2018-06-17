@@ -1,0 +1,46 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Ansbach
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ansbach.de
+---
+city: Dinkelsbühl
+country: DE
+district: Ansbach
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-dinkelsbuehl.de
+---
+city: Heilsbronn
+country: DE
+district: Ansbach
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+---
+city: Rothenburg
+country: DE
+district: Ansbach
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-rothenburg.de/
+---
+city: Feuchtwangen
+country: DE
+district: Ansbach
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-feuchtwangen.de

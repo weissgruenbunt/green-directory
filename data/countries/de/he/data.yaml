@@ -29,34 +29,12 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Hessen
-district: Bergstraße
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-bergstrasse.de/
-emails:
-  - address: mail@gruene-bergstrasse.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Hessen
 district: Darmstadt
 urls:
   - type: WEBSITE
     url: http://www.gruene-darmstadt.de/
 emails:
   - address: kreisverband@gruene-darmstadt.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Hessen
-district: Darmstadt – Dieburg
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-dadi.de/
-emails:
-  - address: kv@gruene-dadi.de
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -86,249 +64,12 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Hessen
-district: Gießen
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-giessen.de/
-emails:
-  - address: kreisverband@gruene-giessen.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Hessen
-district: Groß-Gerau
-urls:
-  - type: WEBSITE
-    url: http://www.gg-gruene.de/
-emails:
-  - address: info@gg-gruene.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Hessen
-district: Hersfeld-Rotenburg
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-hersfeld-rotenburg.de/
-emails:
-  - address: info@gruene-hersfeld-rotenburg.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Hessen
-district: Hochtaunus
-urls:
-  - type: WEBSITE
-    url: https://www.gruene-hochtaunus.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruene.hochtaunus/
-emails:
-  - address: kreisverband@gruene-hochtaunus.de
----
-type: REGIONAL_CHAPTER
-level: DE:ORTSVERBAND
-country: DE
-state: Hessen
-district: Hochtaunus
-city: Usinger Land
-# single "Ortsverband" having multiple web sites
-urls:
-  - type: WEBSITE
-    url: https://www.gruene-neu-anspach.de/
-  - type: WEBSITE
-    url: https://www.gruene-usingen.de/
-  - type: WEBSITE
-    url: https://www.gruene-wehrheim.de/
-  - type: WEBSITE
-    url: https://www.gruene-schmitten.de/
-  - type: WEBSITE
-    url: http://www.gruene-weilrod.de/
----
-type: REGIONAL_CHAPTER
-level: DE:ORTSVERBAND
-country: DE
-state: Hessen
-district: Hochtaunus
-city: Bad Homburg
-urls:
-  - type: WEBSITE
-    url: https://www.gruene-badhomburg.de/
----
-type: REGIONAL_CHAPTER
-level: DE:ORTSVERBAND
-country: DE
-state: Hessen
-district: Hochtaunus
-city: Oberursel (Taunus)
-urls:
-  - type: WEBSITE
-    url: https://www.gruene-oberursel.de/
----
-type: REGIONAL_CHAPTER
-level: DE:ORTSVERBAND
-country: DE
-state: Hessen
-district: Hochtaunus
-city: Friedrichsdorf
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-friedrichsdorf.info/
----
-type: REGIONAL_CHAPTER
-level: DE:ORTSVERBAND
-country: DE
-state: Hessen
-district: Hochtaunus
-city: Königstein im Taunus/Glashütten
-urls:
-  - type: WEBSITE
-    url: https://www.gruene-glashuetten.de/
-  - type: WEBSITE
-    url: https://www.gruene-koenigstein.de/
----
-type: REGIONAL_CHAPTER
-level: DE:ORTSVERBAND
-country: DE
-state: Hessen
-district: Hochtaunus
-city: Kronberg
-urls:
-  - type: WEBSITE
-    url: https://www.gruene-kronberg.de/
----
-type: REGIONAL_CHAPTER
-level: DE:ORTSVERBAND
-country: DE
-state: Hessen
-district: Hochtaunus
-city: Steinbach (Taunus)
-urls:
-  - type: WEBSITE
-    url: https://www.gruene-steinbach.de/
----
-type: REGIONAL_CHAPTER
-level: DE:ORTSVERBAND
-country: DE
-state: Hessen
-district: Hochtaunus
-city: Grävenwiesbach
-urls:
-  - type: WEBSITE
-    url: https://www.gruenenwiesbach.de/
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Hessen
-district: Kassel-Land
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-landkreis-kassel.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Kassel-Land-1681449658753246/
-emails:
-  - address: info@gruene-landkreis-kassel.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Hessen
 district: Kassel-Stadt
 urls:
   - type: WEBSITE
     url: http://gruene-kassel.de/
 emails:
   - address: gruene.kassel@t-online.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Hessen
-district: Lahn-Dill
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-lahn-dill.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruene.lahndill
-emails:
-  - address: B90-Gruene.Lahn-Dill@t-online.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Hessen
-district: Limburg-Weilburg
-urls:
-  - type: WEBSITE
-    url: https://www.gruene-limburg-weilburg.de/
-emails:
-  - address: kreis@gruene-limburg-weilburg.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Hessen
-district: Main-Kinzig
-urls:
-  - type: WEBSITE
-    url: http://gruene-main-kinzig.de/
-  - type: TWITTER
-    url: https://twitter.com/GRUENE_MKK
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruene.mkk
-emails:
-  - address: kv@gruene-main-kinzig.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Hessen
-district: Main-Taunus
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-mtk.de/
-emails:
-  - address: info@gruene-mtk.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Hessen
-district: Marburg-Biedenkopf
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-marburg.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Marburg-1608668002754517/
-emails:
-  - address: kreisverband@gruene-marburg.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Hessen
-district: Odenwald
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-odenwald.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruene.odenwald.de/
-emails:
-  - address: kontakt@gruene-odenwald.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Hessen
-district: Offenbach-Land
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-offenbach-land.de/
-emails:
-  - address: mail@gruene-offenbach-land.de
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -351,45 +92,12 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Hessen
-district: Rheingau-Taunus
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-rtk.de/
-emails:
-  - address: gruene-rtk-kv@online.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Hessen
-district: Schwalm-Eder
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-schwalm-eder.de/
-emails:
-  - address: info@gruene-schwalm-eder.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Hessen
 district: Vogelsberg
 urls:
   - type: WEBSITE
     url: http://www.gruene-vogelsberg.de/
 emails:
   - address: info@gruene-vogelsberg.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Hessen
-district: Waldeck-Frankenberg
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-waldeck-frankenberg.de/
-emails:
-  - address: gruenepost@freenet.de
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -403,17 +111,6 @@ urls:
     url: https://www.facebook.com/GrueneWMK
 emails:
   - address: buero@gruene-werra-meissner.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Hessen
-district: Wetterau
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-wetterau.de/
-emails:
-  - address: info@gruene-wetterau.de
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND

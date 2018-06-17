@@ -1,0 +1,123 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: München
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-muenchen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenemuenchen/
+---
+city: Allach-Untermenzing
+country: DE
+district: München
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-allach-untermenzing.de/
+---
+city: Giesing/Harlaching
+country: DE
+district: München
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-muenchen-giesing.de
+---
+city: Haidhausen
+country: DE
+district: München
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-muenchen-au-haidhausen.de
+---
+city: München-Nord
+country: DE
+district: München
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-muenchen-nord.de
+---
+city: Pasing-Obermenzing-Aubing
+country: DE
+district: München
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-muenchen-pasing.de
+---
+city: Ramersdorf-Perlach
+country: DE
+district: München
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-muenchen-perlach.de/
+---
+city: Schwabing
+country: DE
+district: München
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-schwabing.de
+---
+city: Sendling
+country: DE
+district: München
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-muenchen-sendling.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.sendling.westpark/
+---
+city: STOFF
+country: DE
+district: München
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-muenchen-stoff.de/
+---
+city: Westend/Laim
+country: DE
+district: München
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-muenchen-westend.de
+---
+city: Zentral
+country: DE
+district: München
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-muenchen-zentral.de

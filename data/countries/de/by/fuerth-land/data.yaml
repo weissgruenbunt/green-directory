@@ -1,0 +1,95 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Fürth-Land
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-fuerth-land.de
+  - type: TWITTER
+    url: https://twitter.com/gruene_fue_land
+  - type: FACEBOOK
+    url: http://www.facebook.com/Gruene.LkFuerth
+  - type: YOUTUBE
+    url: http://www.youtube.com/channel/UCoq6tBpL4RSS9xve53e03yw/videos
+---
+city: Cadolzburg
+country: DE
+district: Fürth-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-cadolzburg.de/
+---
+city: Großhabersdorf
+country: DE
+district: Fürth-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-fuerth-land.de/category/ov-groshabersdorf/
+---
+city: Langenzenn
+country: DE
+district: Fürth-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-langenzenn.de/
+---
+city: Oberasbach
+country: DE
+district: Fürth-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-oberasbach.de/
+---
+city: Roßtal
+country: DE
+district: Fürth-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-fuerth-land.de/category/ov-rosstal/
+---
+city: Stein
+country: DE
+district: Fürth-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-fuerth-land.de/category/ov-stein/
+---
+city: Zirndorf
+country: DE
+district: Fürth-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-fuerth-land.de/category/ov-zirndorf/
+---
+city: Obermichelbach
+country: DE
+district: Fürth-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-obermichelbach.de/

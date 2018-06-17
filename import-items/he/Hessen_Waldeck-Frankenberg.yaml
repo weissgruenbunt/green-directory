@@ -1,0 +1,30 @@
+---
+city: Frankenberg
+country: DE
+district: Waldeck-Frankenberg
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-frankenberg.de
+---
+city: Korbach
+country: DE
+district: Waldeck-Frankenberg
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-korbach.de
+---
+city: Waldeck
+country: DE
+district: Waldeck-Frankenberg
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-waldeck.de

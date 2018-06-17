@@ -1,0 +1,143 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Bergstraße
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-bergstrasse.de/
+emails:
+  - address: mail@gruene-bergstrasse.de
+---
+city: Bensheim
+country: DE
+district: Bergstraße
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-bensheim.de/
+  - type: TWITTER
+    url: https://twitter.com/gruenebensheim
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneBensheim/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenelistebensheim/
+  - type: YOUTUBE
+    url: https://www.youtube.com/channel/UCn1SSJSCagKQADdzhRmlRDw/videos
+---
+city: Birkenau
+country: DE
+district: Bergstraße
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-birkenau.de/
+---
+city: Heppenheim
+country: DE
+district: Bergstraße
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.heppenheim-gruene.de/
+---
+city: Lautertal
+country: DE
+district: Bergstraße
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gl-lautertal.de/
+---
+city: Lorsch
+country: DE
+district: Bergstraße
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-lorsch.de/
+---
+city: Mörlenbach
+country: DE
+district: Bergstraße
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.moerlenbach/
+---
+city: Viernheim
+country: DE
+district: Bergstraße
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-viernheim.de/
+---
+city: Zwingenberg
+country: DE
+district: Bergstraße
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gud-zwingenberg.de/
+---
+city: Einhausen
+country: DE
+district: Bergstraße
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-einhausen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.einhausen
+---
+city: Lampertheim
+country: DE
+district: Bergstraße
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-lampertheim.de/
+---
+city: Lindenfels
+country: DE
+district: Bergstraße
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-lindenfels.de/
+  - type: FACEBOOK
+    url: http://www.facebook.com/gruene.lindenfels
+---
+city: Rimbach
+country: DE
+district: Bergstraße
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Rimbach-632814883411229/

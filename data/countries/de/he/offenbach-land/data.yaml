@@ -1,0 +1,131 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Offenbach-Land
+urls:
+  - type: WEBSITE
+    url: https://partei.gruene-offenbach-land.de/
+emails:
+  - address: mail@gruene-offenbach-land.de
+---
+city: Dreieich
+country: DE
+district: Offenbach-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-dreieich.de
+---
+city: Heusenstamm
+country: DE
+district: Offenbach-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-heusenstamm.de/
+---
+city: Langen
+country: DE
+district: Offenbach-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-langen.de/
+---
+city: Mühlheim
+country: DE
+district: Offenbach-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-muehlheim.de/
+---
+city: Obertshausen
+country: DE
+district: Offenbach-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-obertshausen.de/
+---
+city: Rödermark
+country: DE
+district: Offenbach-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.al-gruene.de/
+---
+city: Rodgau
+country: DE
+district: Offenbach-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-rodgau.de/
+---
+city: Dietzenbach
+country: DE
+district: Offenbach-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-dietzenbach.de/
+---
+city: Egelsbach
+country: DE
+district: Offenbach-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-egelsbach.de/
+---
+city: Hainburg
+country: DE
+district: Offenbach-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hainburg.de/
+---
+city: Neu-Isenburg
+country: DE
+district: Offenbach-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-neu-isenburg.de/
+---
+city: Seligenstadt
+country: DE
+district: Offenbach-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-seligenstadt.de/

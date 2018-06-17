@@ -1,0 +1,10 @@
+---
+city: "W\xF6rth"
+country: DE
+district: Germersheim
+level: DE:ORTSVERBAND
+state: Rheinland-Pfalz
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-woerth.de

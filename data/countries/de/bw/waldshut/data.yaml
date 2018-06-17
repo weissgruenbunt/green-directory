@@ -1,0 +1,13 @@
+---
+country: DE
+district: Waldshut
+emails:
+  - address: kv.waldshut@gruene.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-wt.de/
+  - type: TWITTER
+    url: https://twitter.com/kvgruene_wt

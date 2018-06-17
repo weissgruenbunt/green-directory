@@ -1,0 +1,30 @@
+---
+city: Friedberg
+country: DE
+district: Wetterau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-friedberg.de
+---
+city: Rosbach
+country: DE
+district: Wetterau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-rosbach.de
+---
+city: "W\xF6lfersheim"
+country: DE
+district: Wetterau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-wetterau.de/gruene_woelfersheim/index.html

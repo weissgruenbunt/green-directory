@@ -1,0 +1,31 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Brandenburg
+district: Oder-Spree
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-oder-spree.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Brandenburg
+district: Oder-Spree
+city: Schöneiche
+urls:
+  - type: WEBSITE
+    url: http://gruene-schoeneiche.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneschoeneiche
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Brandenburg
+district: Oder-Spree
+city: Woltersdorf
+urls:
+  - type: WEBSITE
+    url: https://gruene-woltersdorf.de/

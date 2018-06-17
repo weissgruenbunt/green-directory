@@ -1,0 +1,61 @@
+---
+country: DE
+district: Rastatt/Baden-Baden
+emails:
+  - address: birgit.gerhard-hentschel@gruene-ra-bad.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-ra-bad.de/
+---
+city: Baden-Baden
+country: DE
+district: Rastatt/Baden-Baden
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-baden-baden.de/
+---
+city: Sinzheim
+country: DE
+district: Rastatt/Baden-Baden
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-sinzheim.de/
+---
+city: Rastatt
+country: DE
+district: Rastatt/Baden-Baden
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-rastatt.de/
+---
+city: Murgtal
+country: DE
+district: Rastatt/Baden-Baden
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-ra-bad.de/ortsverbaende/murgtal/
+---
+city: Lichtenau/Rheinmünster
+country: DE
+district: Rastatt/Baden-Baden
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-li-rhm.de/

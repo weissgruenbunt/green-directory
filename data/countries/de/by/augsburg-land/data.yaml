@@ -1,0 +1,113 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Augsburg-Land
+urls:
+  - type: WEBSITE
+    url: https://gruene-augsburgland.de/
+  - type: TWITTER
+    url: http://twitter.com/GrueneAugsLand
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneAugsburgLand
+---
+city: Gersthofen
+country: DE
+district: Augsburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-gersthofen.de/
+---
+city: Königsbrunn
+country: DE
+district: Augsburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-koenigsbrunn.de/
+---
+city: Diedorf
+country: DE
+district: Augsburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-diedorf.de/
+---
+city: Neusäß
+country: DE
+district: Augsburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-neusaess.de/
+---
+city: Stauden
+country: DE
+district: Augsburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-stauden.de/
+---
+city: Bobingen
+country: DE
+district: Augsburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-bobingen.de/
+---
+city: Stadtbergen
+country: DE
+district: Augsburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruenestadtbergen.de/
+---
+city: Bonstetten
+country: DE
+district: Augsburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-bonstetten.de/
+---
+city: Lechfeld
+country: DE
+district: Augsburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-lechfeld.de/
+---
+city: Meitingen
+country: DE
+district: Augsburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-meitingen.de/

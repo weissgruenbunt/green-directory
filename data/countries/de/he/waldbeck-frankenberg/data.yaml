@@ -1,0 +1,65 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Waldeck-Frankenberg
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-waldeck-frankenberg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneWaFkb
+  - type: TWITTER
+    url: https://twitter.com/GrueneWaFkb
+emails:
+  - address: gruenepost@freenet.de
+---
+city: Frankenberg
+country: DE
+district: Waldeck-Frankenberg
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-frankenberg.de/
+---
+city: Korbach
+country: DE
+district: Waldeck-Frankenberg
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-korbach.de/
+---
+city: Waldeck
+country: DE
+district: Waldeck-Frankenberg
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-waldeck.de/
+---
+city: Bad Wildungen
+country: DE
+district: Waldeck-Frankenberg
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-bad-wildungen.de/
+---
+city: Lichtenfels
+country: DE
+district: Waldeck-Frankenberg
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-lichtenfels-hessen.de/

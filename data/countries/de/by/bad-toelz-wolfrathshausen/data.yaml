@@ -1,0 +1,69 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Bad Tölz/Wolfratshausen
+urls:
+  - type: WEBSITE
+    url: https://gruene-toelz-wor.de/
+---
+city: Bad Heilbrunn
+country: DE
+district: Bad Tölz/Wolfratshausen
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-toelz-wor.de/gruene-vor-ort/bad-heilbrunn/
+---
+city: Geretsried
+country: DE
+district: Bad Tölz/Wolfratshausen
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-toelz-wor.de/gruene-vor-ort/geretsried/
+---
+city: Wolfratshausen
+country: DE
+district: Bad Tölz/Wolfratshausen
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-toelz-wor.de/gruene-vor-ort/wolfratshausen/
+---
+city: Eurasburg
+country: DE
+district: Bad Tölz/Wolfratshausen
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-toelz-wor.de/gruene-vor-ort/eurasburg/
+---
+city: Bad Tölz
+country: DE
+district: Bad Tölz/Wolfratshausen
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-toelz-wor.de/gruene-vor-ort/bad-toelz/
+---
+city: Dietramszell
+country: DE
+district: Bad Tölz/Wolfratshausen
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-toelz-wor.de/gruene-vor-ort/dietramszell/

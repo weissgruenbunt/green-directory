@@ -1,0 +1,83 @@
+---
+country: DE
+district: Böblingen
+emails:
+  - address: kv.boeblingen@gruene.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-boeblingen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneBB
+---
+city: Aidlingen
+country: DE
+district: Böblingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-aidlingen.de/
+---
+city: Böblingen
+country: DE
+district: Böblingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-bb.de/
+---
+city: Herrenberg
+country: DE
+district: Böblingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-herrenberg.de/
+---
+city: Renningen
+country: DE
+district: Böblingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-renningen.de
+---
+city: Schönaich
+country: DE
+district: Böblingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-schoenaich.de/
+---
+city: Sindelfingen
+country: DE
+district: Böblingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-sindelfingen.de/
+---
+city: Weil der Stadt
+country: DE
+district: Böblingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.wds-gruene.de/

@@ -1,0 +1,133 @@
+---
+country: DE
+district: Karlsruhe-Land
+emails:
+  - address: kontakt@gruene-karlsruhe-land.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-karlsruhe-land.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneKVKALand/
+---
+city: Bad Schönborn
+country: DE
+district: Karlsruhe-Land
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-badschoenborn.de/
+---
+city: Bretten
+country: DE
+district: Karlsruhe-Land
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-bretten.de/
+---
+city: Bruchsal
+country: DE
+district: Karlsruhe-Land
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-bruchsal.de/
+---
+city: Eggenstein-Leopoldshafen
+country: DE
+district: Karlsruhe-Land
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-egg-leo.de/
+---
+city: Graben-Neudorf
+country: DE
+district: Karlsruhe-Land
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-graben-neudorf.de/
+---
+city: Stutensee
+country: DE
+district: Karlsruhe-Land
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-stutensee.de/
+---
+city: Karlsbad/Marxell/Waldbronn
+country: DE
+district: Karlsruhe-Land
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-karlsbad-marxzell-waldbronn.de/
+---
+city: Kraichtal
+country: DE
+district: Karlsruhe-Land
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kraichtal.de/
+---
+city: Linkenheim-Hochstetten
+country: DE
+district: Karlsruhe-Land
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-linkenheim-hochstetten.de/
+---
+city: Oberderdingen
+country: DE
+district: Karlsruhe-Land
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.oberderdingen/
+---
+city: Pfinztal
+country: DE
+district: Karlsruhe-Land
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-pfinztal.de/
+---
+city: Walzbachtal
+country: DE
+district: Karlsruhe-Land
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-walzbachtal.de/

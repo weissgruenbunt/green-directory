@@ -1,0 +1,30 @@
+---
+city: Kirchhain
+country: DE
+district: Marburg-Biedenkopf
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-kirchhain.de
+---
+city: Lahntal
+country: DE
+district: Marburg-Biedenkopf
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-lahntal.de
+---
+city: Marburg
+country: DE
+district: Marburg-Biedenkopf
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-marburg.de/stadtverband_marburg.12692.0.html

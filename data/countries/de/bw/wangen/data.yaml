@@ -1,0 +1,11 @@
+---
+country: DE
+district: Wangen
+emails:
+  - address: vorstand@gruene-wangen.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wangen.de/

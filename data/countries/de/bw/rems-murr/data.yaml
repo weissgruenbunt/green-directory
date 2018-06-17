@@ -1,0 +1,53 @@
+---
+country: DE
+district: Rems/Murr
+emails:
+  - address: buero@gruene-rems-murr.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-rems-murr.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneRemsMur
+---
+city: Fellbach
+country: DE
+district: Rems/Murr
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-fellbach.de/
+---
+city: Waiblingen
+country: DE
+district: Rems/Murr
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-waiblingen.de/
+---
+city: Winterbach
+country: DE
+district: Rems/Murr
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-winterbach.de/
+---
+city: Winnenden
+country: DE
+district: Rems/Murr
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-winnenden.de/

@@ -1,0 +1,101 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Main-Taunus
+urls:
+  - type: WEBSITE
+    url: https://gruene-mtk.de/
+emails:
+  - address: info@gruene-mtk.de
+---
+city: Bad Soden
+country: DE
+district: Main-Taunus
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bad-soden.de
+---
+city: Kriftel
+country: DE
+district: Main-Taunus
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-kriftel.de/
+---
+city: Eppstein
+country: DE
+district: Main-Taunus
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-eppstein.de/
+---
+city: Flörsheim
+country: DE
+district: Main-Taunus
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.xn--grne-alternative-liste-flrsheim-vdd8o.de/
+---
+city: Hattersheim
+country: DE
+district: Main-Taunus
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-hattersheim.de/
+---
+city: Hochheim
+country: DE
+district: Main-Taunus
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-hochheim.de/
+---
+city: Hofheim
+country: DE
+district: Main-Taunus
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-hofheim.de/
+---
+city: Kelkheim
+country: DE
+district: Main-Taunus
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://ukw-kelkheim.de/
+---
+city: Schwalbach
+country: DE
+district: Main-Taunus
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-schwalbach.de/

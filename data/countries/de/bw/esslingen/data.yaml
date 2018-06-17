@@ -1,0 +1,93 @@
+---
+country: DE
+district: Esslingen
+emails:
+  - address: mail@gruene-es.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-es.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneKVEsslingen
+---
+city: Aichtal-Neckartal
+country: DE
+district: Esslingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.alternativeneckartenzlingen.de
+---
+city: Esslingen
+country: DE
+district: Esslingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-esslingen.de
+---
+city: Filderstadt
+country: DE
+district: Esslingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-filderstadt.de
+---
+city: Kirchheim/Teck
+country: DE
+district: Esslingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-kirchheim-teck.de
+---
+city: Leinfelden/Echterdingen
+country: DE
+district: Esslingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-le.de
+---
+city: Ostfildern
+country: DE
+district: Esslingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ostfildern.de
+---
+city: Schurwald
+country: DE
+district: Esslingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-schurwald.de
+---
+city: Wendlingen
+country: DE
+district: Esslingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wendlingen.de/home/

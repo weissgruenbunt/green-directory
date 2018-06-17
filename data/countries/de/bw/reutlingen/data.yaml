@@ -1,0 +1,23 @@
+---
+country: DE
+district: Reutlingen
+emails:
+  - address: kv.reutlingen@gruene.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-reutlingen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Bundnis90DieGrunenKreisverbandReutlingen
+---
+city: Bad Urach, Dettingen, Hülben, Grabenstetten, Römerstein
+country: DE
+district: Reutlingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-badurach.de/
