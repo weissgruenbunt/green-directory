@@ -1,0 +1,71 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Schwalm-Eder
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-schwalm-eder.de/
+emails:
+  - address: info@gruene-schwalm-eder.de
+---
+city: Edermünde
+country: DE
+district: Schwalm-Eder
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-edermuende.de
+---
+city: Homberg
+country: DE
+district: Schwalm-Eder
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-homberg.de/
+---
+city: Niedenstein
+country: DE
+district: Schwalm-Eder
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-niedenstein.de/
+---
+city: Schwalmstadt
+country: DE
+district: Schwalm-Eder
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-schwalmstadt.de/
+---
+city: Gudensberg
+country: DE
+district: Schwalm-Eder
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-gudensberg.de/
+---
+city: Guxhagen
+country: DE
+district: Schwalm-Eder
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-guxhagen.de/

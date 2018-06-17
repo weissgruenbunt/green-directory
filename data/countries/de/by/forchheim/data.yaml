@@ -1,0 +1,51 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Forchheim
+urls:
+  - type: WEBSITE
+    url: https://gruene-forchheim.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.forchheim/
+---
+city: Forchheim
+country: DE
+district: Forchheim
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.fgl-forchheim.de/
+---
+city: Igensdorf
+country: DE
+district: Forchheim
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-igensdorf.de/
+---
+city: Gräfenberg
+country: DE
+district: Forchheim
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-graefenberg.de/
+---
+city: Neunkirchen am Brand
+country: DE
+district: Forchheim
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-neunkirchen-am-brand.de/

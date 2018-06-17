@@ -1,0 +1,123 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Wetterau
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-wetterau.de/
+emails:
+  - address: info@gruene-wetterau.de
+---
+city: Friedberg
+country: DE
+district: Wetterau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-friedberg.de/
+---
+city: Rosbach
+country: DE
+district: Wetterau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-rosbach.de/
+---
+city: Wölfersheim
+country: DE
+district: Wetterau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-woelfersheim.de/
+---
+city: Butzbach
+country: DE
+district: Wetterau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-butzbach.de/
+---
+city: Bad Nauheim
+country: DE
+district: Wetterau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-bad-nauheim.de/
+---
+city: Echzell
+country: DE
+district: Wetterau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-echzell.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenefuerechzell
+---
+city: Karben
+country: DE
+district: Wetterau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-karben.de/
+---
+city: Bad Vilbel
+country: DE
+district: Wetterau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-badvilbel.de/
+---
+city: Altenstadt
+country: DE
+district: Wetterau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-altenstadt.de/
+---
+city: Büdingen
+country: DE
+district: Wetterau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-buedingen.de/
+---
+city: Nidda
+country: DE
+district: Wetterau
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-nidda.de/

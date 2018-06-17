@@ -1,0 +1,107 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Rheingau-Taunus
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-rtk.de/
+emails:
+  - address: gruene-rtk-kv@online.de
+---
+city: Eltville
+country: DE
+district: Rheingau-Taunus
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-eltville.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Eltville-Interessierte-Freunde-und-Mitglieder-765814863522552/
+---
+city: Idstein
+country: DE
+district: Rheingau-Taunus
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://xn--grne-idstein-elb.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.idstein/
+---
+city: Niedernhausen
+country: DE
+district: Rheingau-Taunus
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-niedernhausen.de/
+---
+city: Oestrich-Winkel
+country: DE
+district: Rheingau-Taunus
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-oestrich-winkel.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneOestrichWinkel/
+---
+city: Schlangenbad
+country: DE
+district: Rheingau-Taunus
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-schlangenbad.de/
+---
+city: Taunusstein
+country: DE
+district: Rheingau-Taunus
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-taunusstein.de/
+---
+city: Waldems
+country: DE
+district: Rheingau-Taunus
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-waldems.de/
+---
+city: Schwalbach
+country: DE
+district: Rheingau-Taunus
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-bad-schwalbach.de/
+---
+city: Hünstetten
+country: DE
+district: Rheingau-Taunus
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-huenstetten.de/

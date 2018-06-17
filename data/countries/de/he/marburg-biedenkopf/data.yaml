@@ -1,0 +1,97 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Marburg-Biedenkopf
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-marburg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Marburg-1608668002754517/
+emails:
+  - address: kreisverband@gruene-marburg.de
+---
+city: Kirchhain
+country: DE
+district: Marburg-Biedenkopf
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-kirchhain.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneKirchhain/
+---
+city: Lahntal
+country: DE
+district: Marburg-Biedenkopf
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-lahntal.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneLahntal/
+---
+city: Marburg
+country: DE
+district: Marburg-Biedenkopf
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-marburg.de/marburg/
+---
+city: Cölbe
+country: DE
+district: Marburg-Biedenkopf
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-coelbe.de/
+---
+city: Lohra
+country: DE
+district: Marburg-Biedenkopf
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-lohra.de/
+---
+city: Münchhausen
+country: DE
+district: Marburg-Biedenkopf
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://ugl-muenchhausen.de/
+---
+city: Stadtallendorf
+country: DE
+district: Marburg-Biedenkopf
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.xn--grne-stadtallendorf-69b.de/
+---
+city: Wetter
+country: DE
+district: Marburg-Biedenkopf
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-wetter-hessen.de/

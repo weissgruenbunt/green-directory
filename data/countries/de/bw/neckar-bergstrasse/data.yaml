@@ -1,0 +1,100 @@
+---
+country: DE
+district: Neckar-Bergstraße
+emails:
+  - address: kv.neckar-bergstrasse@gruene.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-neckar-bergstrasse.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%9CNDNIS-90DIE-GR%C3%9CNEN-Neckar-Bergstra%C3%9Fe-294103284065566
+---
+city: Dossenheim
+country: DE
+district: Neckar-Bergstraße
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-dossenheim.de/
+---
+city: Heddesheim
+country: DE
+district: Neckar-Bergstraße
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-heddesheim.de/
+---
+city: Hemsbach
+country: DE
+district: Neckar-Bergstraße
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gbl-hemsbach.de/
+---
+city: Hirschberg
+country: DE
+district: Neckar-Bergstraße
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hirschberg.de/
+---
+city: Steinachtal/Schönau
+country: DE
+district: Neckar-Bergstraße
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+---
+city: Schriesheim
+country: DE
+district: Neckar-Bergstraße
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-schriesheim.de/
+---
+city: Weinheim
+country: DE
+district: Neckar-Bergstraße
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gal-weinheim.de/
+---
+city: Ladenburg
+country: DE
+district: Neckar-Bergstraße
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-ladenburg.de/
+---
+city: Edingen-Neckarhausen
+country: DE
+district: Neckar-Bergstraße
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-edingen-neckarhausen.de/

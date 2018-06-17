@@ -1,0 +1,31 @@
+---
+country: DE
+district: Bodenseekreis
+emails:
+  - address: sabine.witzigmann@gruene-bodenseekreis.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-bodenseekreis.de/
+---
+city: Friedrichshafen
+country: DE
+district: Bodenseekreis
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-bodenseekreis.de/ortsverbaende/friedrichshafen/
+---
+city: Tettnang
+country: DE
+district: Bodenseekreis
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-tettnang.de

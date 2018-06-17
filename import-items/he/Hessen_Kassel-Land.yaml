@@ -1,0 +1,40 @@
+---
+city: Fuldatal
+country: DE
+district: Kassel-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-fuldatal.de
+---
+city: Niestetal
+country: DE
+district: Kassel-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-niestetal.de/
+---
+city: Vellmar
+country: DE
+district: Kassel-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-vellmar.de
+---
+city: Wolfhagen
+country: DE
+district: Kassel-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-wolfhagen.de

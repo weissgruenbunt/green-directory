@@ -1,0 +1,33 @@
+---
+country: DE
+district: Heilbronn
+emails:
+  - address: kv.heilbronn@gruene.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-heilbronn.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneHN
+---
+city: Lauffen
+country: DE
+district: Heilbronn
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-lauffen.de/
+---
+city: Leingarten
+country: DE
+district: Heilbronn
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-leingarten.de/

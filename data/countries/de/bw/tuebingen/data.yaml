@@ -1,0 +1,25 @@
+---
+country: DE
+district: Tübingen
+emails:
+  - address: buero@gruene-tuebingen.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-tuebingen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenetuebingen
+  - type: TWITTER
+    url: https://twitter.com/GrueneTuebingen
+---
+city: Steinlach-Wiesaz
+country: DE
+district: Tübingen
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-steinlach-wiesaz.de

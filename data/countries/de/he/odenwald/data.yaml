@@ -1,0 +1,63 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Odenwald
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-odenwald.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.odenwald.de/
+emails:
+  - address: kontakt@gruene-odenwald.de
+---
+city: Erbach
+country: DE
+district: Odenwald
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://erbach.gruene-odenwald.de/
+---
+city: Reichelsheim
+country: DE
+district: Odenwald
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-reichelsheim.de/
+---
+city: Oberzent
+country: DE
+district: Odenwald
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-oberzent.de/
+---
+city: Hoechst
+country: DE
+district: Odenwald
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-hoechst.de/
+---
+city: Michelstadt
+country: DE
+district: Odenwald
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-michelstadt.de/

@@ -1,0 +1,21 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Hersfeld-Rotenburg
+urls:
+  - type: WEBSITE
+    url: https://gruene-hersfeld-rotenburg.de/
+emails:
+  - address: info@gruene-hersfeld-rotenburg.de
+---
+city: Niederaula
+country: DE
+district: Hersfeld-Rotenburg
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-niederaula.de/

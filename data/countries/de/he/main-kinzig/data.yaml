@@ -1,0 +1,117 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Main-Kinzig
+urls:
+  - type: WEBSITE
+    url: https://gruene-main-kinzig.de/
+  - type: TWITTER
+    url: https://twitter.com/GRUENE_MKK
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.mkk
+emails:
+  - address: kv@gruene-main-kinzig.de
+---
+city: Brachttal
+country: DE
+district: Main-Kinzig
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-brachttal.de
+---
+city: Bruchköbel
+country: DE
+district: Main-Kinzig
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bruchkoebel.de
+---
+city: Erlensee
+country: DE
+district: Main-Kinzig
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-erlensee.de/
+---
+city: Freigericht
+country: DE
+district: Main-Kinzig
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-freigericht.de/
+---
+city: Hanau
+country: DE
+district: Main-Kinzig
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-hanau.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Bundnis90DieGrunenHanau
+---
+city: Maintal
+country: DE
+district: Main-Kinzig
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruenemaintal.de/
+---
+city: Nidderau
+country: DE
+district: Main-Kinzig
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-nidderau.de/
+---
+city: Niederdorfelden
+country: DE
+district: Main-Kinzig
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-niederdorfelden.de/
+---
+city: Schlüchtern
+country: DE
+district: Main-Kinzig
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-schluechtern.de/
+---
+city: Schöneck
+country: DE
+district: Main-Kinzig
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-schoeneck.de/

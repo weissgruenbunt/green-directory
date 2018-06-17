@@ -1,0 +1,20 @@
+---
+city: Bad Soden
+country: DE
+district: Main-Taunus
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-bad-soden.de
+---
+city: Kriftel
+country: DE
+district: Main-Taunus
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-kriftel.de

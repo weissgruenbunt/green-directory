@@ -1,0 +1,70 @@
+---
+city: Dreieich
+country: DE
+district: Offenbach-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-dreieich.de
+---
+city: Heusenstamm
+country: DE
+district: Offenbach-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-heusenstamm.de
+---
+city: Langen
+country: DE
+district: Offenbach-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-langen.de
+---
+city: "M\xFChlheim"
+country: DE
+district: Offenbach-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-muehlheim.de
+---
+city: Obertshausen
+country: DE
+district: Offenbach-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-obertshausen.de
+---
+city: "R\xF6dermark"
+country: DE
+district: Offenbach-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-roedermark.de
+---
+city: Rodgau
+country: DE
+district: Offenbach-Land
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-rodgau.de

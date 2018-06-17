@@ -1,0 +1,27 @@
+---
+country: DE
+district: Calw
+emails:
+  - address: kv.calw@gruene.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-kreis-calw.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenecalw/
+---
+city: Althengstett/Gechingen/Ostelsheim/Simmozheim
+country: DE
+district: Calw
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+---
+city: Wildberg
+country: DE
+district: Calw
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER

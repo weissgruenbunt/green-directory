@@ -61,56 +61,6 @@ urls:
     url: https://www.facebook.com/Die.Gruenen.KV.Biberach
 ---
 country: DE
-district: Böblingen
-emails:
-  - address: kv.boeblingen@gruene.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-boeblingen.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneBB
----
-country: DE
-district: Bodenseekreis
-emails:
-  - address: sabine.witzigmann@gruene-bodenseekreis.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-bodenseekreis.de/
----
-country: DE
-district: Breisgau-Hochschwarzwald
-emails:
-  - address: kv.breisgau-hochschwarzwald@gruene.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-breisgau-hochschwarzwald.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/Bundnis90DieGrunenKvBreisgauHochschwarzwald/
----
-country: DE
-district: Calw
-emails:
-  - address: kv.calw@gruene.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-kreis-calw.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruenecalw/
----
-country: DE
 district: Emmendingen
 emails:
   - address: buero@gruene-em.de
@@ -122,34 +72,6 @@ urls:
     url: http://www.gruene-em.de/
   - type: TWITTER
     url: https://twitter.com/gruene_em
----
-country: DE
-district: Esslingen
-emails:
-  - address: mail@gruene-es.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-es.de
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneKVEsslingen
----
-country: DE
-district: Ettlingen
-emails:
-  - address: kv.ettlingen@gruene.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-ettlingen.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/Gruene.Ettlingen/
-  - type: INSTAGRAM
-    url: https://www.instagram.com/gruene_ettlingen/
 ---
 country: DE
 district: Freiburg
@@ -176,19 +98,6 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: http://www.gruene-freudenstadt.de/
----
-country: DE
-district: Göppingen
-emails:
-  - address: joachim.abel@gruene-goeppingen.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-goeppingen.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneGP
 ---
 country: DE
 district: Heidelberg
@@ -223,19 +132,6 @@ urls:
     url: https://www.youtube.com/channel/UCSr_jd8Gbxr1Rq98YPFJqyQ
 ---
 country: DE
-district: Heilbronn
-emails:
-  - address: kv.heilbronn@gruene.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-heilbronn.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/grueneHN
----
-country: DE
 district: Hohenlohe
 emails:
   - address: hohenlohe.gruene@gmail.com
@@ -262,32 +158,6 @@ urls:
     url: https://www.facebook.com/gruenekarlsruhe
 ---
 country: DE
-district: Karlsruhe-Land
-emails:
-  - address: kontakt@gruene-karlsruhe-land.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-karlsruhe-land.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/grueneKVKALand/
----
-country: DE
-district: Konstanz
-emails:
-  - address: mail@gruene-konstanz.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-konstanz.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/Gr%C3%BCne-Konstanz-543476915678973
----
-country: DE
 district: Kurpfalz-Hardt
 emails:
   - address: kv.hardt@gruene.de
@@ -301,43 +171,6 @@ urls:
     url: https://www.facebook.com/GrueneKH/
 ---
 country: DE
-district: Lörrach
-emails:
-  - address: kv@gruene-loerrach.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-loerrach.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/grune.lorrach
----
-country: DE
-district: Ludwigsburg
-emails:
-  - address: kreisverband@gruene-ludwigsburg.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-ludwigsburg.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/Gr%C3%BCne-Kreisverband-Ludwigsburg-170723476273472/
----
-country: DE
-district: Main-Tauber
-emails:
-  - address: vaeth@gruene-main-tauber.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-main-tauber.de/
----
-country: DE
 district: Mannheim
 emails:
   - address: kv.mannheim@gruene.de
@@ -349,19 +182,6 @@ urls:
     url: http://www.gruene-mannheim.de/
   - type: FACEBOOK
     url: https://www.facebook.com/MANNHEIMbegruenen
----
-country: DE
-district: Neckar-Bergstraße
-emails:
-  - address: kv.neckar-bergstrasse@gruene.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-neckar-bergstrasse.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/B%C3%9CNDNIS-90DIE-GR%C3%9CNEN-Neckar-Bergstra%C3%9Fe-294103284065566
 ---
 country: DE
 district: Neckar-Odenwald
@@ -379,54 +199,6 @@ urls:
     url: https://twitter.com/GrueneNOK
 ---
 country: DE
-district: Odenwald-Kraichgau
-emails:
-  - address: kv.odenwald-kraichgau@gruene.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-odenwald-kraichgau.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruene.odenwaldkraichgau
----
-country: DE
-district: Ortenau
-emails:
-  - address: kontakt@gruene-ortenau.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-ortenau.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/KreisverbandOrtenau/
----
-country: DE
-district: Pforzheim-Enzkreis
-emails:
-  - address: info@gruene-pforzheim-enz.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-pforzheim-enz.de/
----
-country: DE
-district: Rastatt/Baden-Baden
-emails:
-  - address: birgit.gerhard-hentschel@gruene-ra-bad.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-ra-bad.de/
----
-country: DE
 district: Ravensburg
 emails:
   - address: vorstand@gruene-rv.de
@@ -438,32 +210,6 @@ urls:
     url: http://www.gruene-ravensburg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneRavensburg
----
-country: DE
-district: Rems-Murr
-emails:
-  - address: buero@gruene-rems-murr.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-rems-murr.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneRemsMurr
----
-country: DE
-district: Reutlingen
-emails:
-  - address: kv.reutlingen@gruene.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-reutlingen.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/Bundnis90DieGrunenKreisverbandReutlingen
 ---
 country: DE
 district: Rottweil
@@ -535,28 +281,13 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-stuttgart.de/
+    url: https://gruene-stuttgart.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneStgt
   - type: TWITTER
     url: https://twitter.com/gruenestuttgart
   - type: INSTAGRAM
     url: https://www.instagram.com/gruenestuttgart/
----
-country: DE
-district: Tübingen
-emails:
-  - address: buero@gruene-tuebingen.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-tuebingen.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruenetuebingen
-  - type: TWITTER
-    url: https://twitter.com/GrueneTuebingen
 ---
 country: DE
 district: Tuttlingen
@@ -570,30 +301,6 @@ urls:
     url: http://www.gruene-tuttlingen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenetuttlingen
----
-country: DE
-district: Waldshut
-emails:
-  - address: kv.waldshut@gruene.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-wt.de/
-  - type: TWITTER
-    url: https://twitter.com/kvgruene_wt
----
-country: DE
-district: Wangen
-emails:
-  - address: vorstand@gruene-wangen.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-wangen.de/
 ---
 country: DE
 district: Ulm

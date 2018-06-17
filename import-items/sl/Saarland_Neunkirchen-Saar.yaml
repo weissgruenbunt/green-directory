@@ -1,0 +1,70 @@
+---
+city: Eppelborn
+country: DE
+district: Neunkirchen/Saar
+level: DE:ORTSVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-eppelborn.de
+---
+city: Illingen
+country: DE
+district: Neunkirchen/Saar
+level: DE:ORTSVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.illingen.gruene-saar.de
+---
+city: Merchweiler
+country: DE
+district: Neunkirchen/Saar
+level: DE:ORTSVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-merchweiler.de
+---
+city: Neunkirchen/Saar
+country: DE
+district: Neunkirchen/Saar
+level: DE:ORTSVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-neunkirchen-saar.de
+---
+city: Schiffweiler
+country: DE
+district: Neunkirchen/Saar
+level: DE:ORTSVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-schiffweiler.de
+---
+city: Spiesen-Elversberg
+country: DE
+district: Neunkirchen/Saar
+level: DE:ORTSVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-spiesen-elversberg.de
+---
+city: Ottweiler
+country: DE
+district: Neunkirchen/Saar
+level: DE:ORTSVERBAND
+state: Saarland
+type: REGIONAL_CHAPTER
+urls:
+- type: WEBSITE
+  url: http://www.gruene-ottweiler.de

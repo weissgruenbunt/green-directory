@@ -1,0 +1,33 @@
+---
+country: DE
+district: Breisgau-Hochschwarzwald
+emails:
+  - address: kv.breisgau-hochschwarzwald@gruene.de
+level: DE:KREISVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-breisgau-hochschwarzwald.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Bundnis90DieGrunenKvBreisgauHochschwarzwald/
+---
+city: Gundelfingen
+country: DE
+district: Breisgau-Hochschwarzwald
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-gundelfingen.de/
+---
+city: Müllheim-Neuenburg
+country: DE
+district: Breisgau-Hochschwarzwald
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-muellheim-neuenburg.de/

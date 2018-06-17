@@ -1,0 +1,91 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Brandenburg
+district: Potsdam-Mittelmark
+urls:
+  - type: WEBSITE
+    url: https://gruene-potsdam-mittelmark.de/
+---
+city: Nuthetal
+country: DE
+district: Potsdam-Mittelmark
+level: DE:ORTSVERBAND
+state: Brandenburg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-nuthetal.de/
+  - type: GOOGLEPLUS
+    url: https://plus.google.com/u/0/+gruene-nuthetalde
+---
+city: Beelitz
+country: DE
+district: Potsdam-Mittelmark
+level: DE:ORTSVERBAND
+state: Brandenburg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-beelitz.de/
+---
+city: Kleinmachnow
+country: DE
+district: Potsdam-Mittelmark
+level: DE:ORTSVERBAND
+state: Brandenburg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-kleinmachnow.de/
+---
+city: Michendorf
+country: DE
+district: Potsdam-Mittelmark
+level: DE:ORTSVERBAND
+state: Brandenburg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-michendorf.de/
+---
+city: Schwielowsee
+country: DE
+district: Potsdam-Mittelmark
+level: DE:ORTSVERBAND
+state: Brandenburg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-schwielowsee.de/
+---
+city: Stahnsdorf
+country: DE
+district: Potsdam-Mittelmark
+level: DE:ORTSVERBAND
+state: Brandenburg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-stahnsdorf.de/
+---
+city: Teltow
+country: DE
+district: Potsdam-Mittelmark
+level: DE:ORTSVERBAND
+state: Brandenburg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.xn--grne-teltow-uhb.de/
+---
+city: Werder
+country: DE
+district: Potsdam-Mittelmark
+level: DE:ORTSVERBAND
+state: Brandenburg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-werder.de/

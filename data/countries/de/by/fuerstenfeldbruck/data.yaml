@@ -1,0 +1,93 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Fürstenfeldbruck
+urls:
+  - type: WEBSITE
+    url: https://gruene-kreisverband-ffb.de/
+  - type: TWITTER
+    url: http://www.twitter.com/gruene_ffb
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.kreisverband.fuerstenfeldbruck/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Bayern
+district: Fürstenfeldbruck
+city: Fürstenfeldbruck
+urls:
+  - type: WEBSITE
+    url: http://gruene-ffb.de/
+---
+city: Gröbenzell
+country: DE
+district: Fürstenfeldbruck
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-groebenzell.de/
+---
+city: Olching
+country: DE
+district: Fürstenfeldbruck
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-olching.de/
+---
+city: Eichenau
+country: DE
+district: Fürstenfeldbruck
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-eichenau.de/
+---
+city: Germering
+country: DE
+district: Fürstenfeldbruck
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-germering.de/
+---
+city: Grafrath
+country: DE
+district: Fürstenfeldbruck
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-grafrath.de/
+---
+city: Maisach
+country: DE
+district: Fürstenfeldbruck
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-maisach.de/
+---
+city: Puchheim
+country: DE
+district: Fürstenfeldbruck
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-puchheim.de/

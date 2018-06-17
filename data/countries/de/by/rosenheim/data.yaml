@@ -1,0 +1,29 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Rosenheim
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-rosenheim.de/
+  - type: TWITTER
+    url: https://twitter.com/RosenheimGruene
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneStadtUndLandkreisRosenheim
+---
+city: Wasserburg
+country: DE
+district: Rosenheim
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wasserburg.de/
+  - type: TWITTER
+    url: https://twitter.com/Wasserburggruen
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.wasserburg
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/GrueneWasserburg
