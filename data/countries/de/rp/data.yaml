@@ -98,8 +98,6 @@ district: Bernkastel-Wittlich
 urls:
   - type: WEBSITE
     url: http://gruene-bernkastel-wittlich.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Bernkastel-Wittlich
 emails:
   - address: kv-bernkastel-wittlich@gruene-rlp.de
 ---

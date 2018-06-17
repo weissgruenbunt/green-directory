@@ -797,9 +797,7 @@ state: Bayern
 district: Wunsiedel
 urls:
   - type: WEBSITE
-    url: https://gruene-fichtelgebirge.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/KvWunsiedel/
+    url: http://www.gruene-fichtelgebirge.de
   - type: YOUTUBE
     url: https://www.youtube.com/user/gruenwun
 ---

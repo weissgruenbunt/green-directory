@@ -175,8 +175,6 @@ city: Bous
 urls:
   - type: WEBSITE
     url: http://gruene-bous.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruenebous
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

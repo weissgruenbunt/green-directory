@@ -9,8 +9,6 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: http://www.gruene-rkn.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruenerkn/
 ---
 city: Dormagen
 country: DE
