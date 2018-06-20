@@ -29,3 +29,15 @@ city: Woltersdorf
 urls:
   - type: WEBSITE
     url: https://gruene-woltersdorf.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Brandenburg
+district: Oder-Spree
+city: Fürstenwalde
+urls:
+  - type: WEBSITE
+    url: http://www.gruenesfw.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenesFW/
