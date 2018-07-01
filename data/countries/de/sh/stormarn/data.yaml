@@ -1,0 +1,125 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Stormarn
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-stormarn.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gruene.Stormarn/
+emails:
+  - address: kv.stormarn@gruene.de
+---
+city: Ahrensburg
+country: DE
+district: Stormarn
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-ahrensburg.de/
+---
+city: Bad Oldesloe
+country: DE
+district: Stormarn
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-bad-oldesloe.de/
+---
+city: Reinbek
+country: DE
+district: Stormarn
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-reinbek.de/
+---
+city: Glinde
+country: DE
+district: Stormarn
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-glinde.de/
+---
+city: Trittau
+country: DE
+district: Stormarn
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-trittau.de/
+---
+city: Tangstedt
+country: DE
+district: Stormarn
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-tangstedt.de/
+---
+city: Ammersbek
+country: DE
+district: Stormarn
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.grueneammersbek.de/
+---
+city: Barsbüttel
+country: DE
+district: Stormarn
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-barsbuettel.de/
+---
+city: Bargteheide
+country: DE
+district: Stormarn
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-bargteheide.de/
+---
+city: Reinfeld-Nordstormarn
+country: DE
+district: Stormarn
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-reinfeld-nordstormarn.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneReinfeldNordstormarn
+---
+city: Großhansdorf
+country: DE
+district: Stormarn
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-grosshansdorf.de/
