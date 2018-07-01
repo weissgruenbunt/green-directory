@@ -204,16 +204,3 @@ urls:
     url: https://www.facebook.com/grueneslfl/
 emails:
   - address: info@gruene-sl-fl.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Schleswig-Holstein
-district: Steinburg
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-steinburg.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/kvsteinburg/
-emails:
-  - address: info@gruene-steinburg.de
