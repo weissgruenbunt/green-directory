@@ -209,19 +209,6 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Schleswig-Holstein
-district: Segeberg
-urls:
-  - type: WEBSITE
-    url: http://gruene-se-kv.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/grn.kv.segeberg
-emails:
-  - address: segeberger-gruene@gmx.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Schleswig-Holstein
 district: Steinburg
 urls:
   - type: WEBSITE
