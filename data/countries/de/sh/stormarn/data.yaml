@@ -49,8 +49,8 @@ level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
-- type: WEBSITE
-  url: https://gruene-glinde.de/
+  - type: WEBSITE
+    url: https://gruene-glinde.de/
 ---
 city: Trittau
 country: DE
