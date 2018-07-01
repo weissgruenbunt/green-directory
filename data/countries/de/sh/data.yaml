@@ -230,16 +230,3 @@ urls:
     url: https://www.facebook.com/kvsteinburg/
 emails:
   - address: info@gruene-steinburg.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Schleswig-Holstein
-district: Stormarn
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-stormarn.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/Gruene.Stormarn/
-emails:
-  - address: kv.stormarn@gruene.de
