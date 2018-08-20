@@ -2310,7 +2310,7 @@ state: Niedersachsen
 district: Wolfenbüttel
 urls:
   - type: WEBSITE
-    url: http://www.gruene-wf.de/
+    url: https://www.xn--grne-wf-o2a.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
