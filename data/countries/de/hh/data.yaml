@@ -9,7 +9,7 @@ country: DE
 state: Hamburg
 urls:
   - type: WEBSITE
-    url: https://hamburg.gruene.de/
+    url: https://www.gruene-hamburg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.hamburg/
   - type: TWITTER
