@@ -166,19 +166,6 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Schleswig-Holstein
-district: Plön
-urls:
-  - type: WEBSITE
-    url: http://gruenekreisploen.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruenekreisploen
-emails:
-  - address: sabine.duwe@gruene-kreis-ploen.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Schleswig-Holstein
 district: Rendsburg-Eckernförde
 urls:
   - type: WEBSITE

@@ -1,0 +1,41 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Plön
+urls:
+  - type: WEBSITE
+    url: http://gruenekreisploen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenekreisploen
+emails:
+  - address: sabine.duwe@gruene-kreis-ploen.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Plön
+city: Amt Bokhorst-Wankendorf
+emails:
+  - address: info@gruene-bokhorst-wankendorf.de
+urls:
+  - type: WEBSITE
+    url: https://gruene-bokhorst-wankendorf.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Bundnis90DieGrunenStolpeUndWankendorf
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Plön
+city: Schwentinental
+urls:
+  - type: WEBSITE
+    url: https://gruene-schwentinental.com/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneinSchwentinental
+  - type: TWITTER
+    url: https://twitter.com/GruenSchwentine
