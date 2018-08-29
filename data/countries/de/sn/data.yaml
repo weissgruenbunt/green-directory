@@ -54,7 +54,7 @@ state: Sachsen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruenedresden.de
+    url: https://gruenedresden.de/
   - type: TWITTER
     url: https://twitter.com/gruene_dresden
   - type: FACEBOOK
