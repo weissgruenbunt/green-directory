@@ -38,9 +38,6 @@ district: Ludwigsburg
 level: DE:ORTSVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://ingersheim.gruene-ludwigsburg.de
 ---
 city: Korntal/Münchingen
 country: DE
