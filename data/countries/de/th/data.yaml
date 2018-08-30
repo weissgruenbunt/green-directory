@@ -26,7 +26,7 @@ level: DE:KREISVERBAND
 district: Altenburg
 urls:
   - type: WEBSITE
-    url: http://gruene-abgland.de/startseite/
+    url: https://gruene-abgland.de/
 ---
 country: DE
 state: Thüringen
@@ -35,7 +35,7 @@ level: DE:KREISVERBAND
 district: Eichsfeld
 urls:
   - type: WEBSITE
-    url: http://www.eichsfeldgruene.de/WP/
+    url: http://www.eichsfeldgruene.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Eichsfeldgruene/
 ---
@@ -57,7 +57,7 @@ level: DE:KREISVERBAND
 district: Gera
 urls:
   - type: WEBSITE
-    url: http://gruene-gera.de/startseite/
+    url: https://gruene-gera.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneGera/
 ---
@@ -68,7 +68,7 @@ level: DE:KREISVERBAND
 district: Gotha
 urls:
   - type: WEBSITE
-    url: http://gruene-gotha.de/aktuelles/
+    url: https://gruene-gotha.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneGotha/
 ---
@@ -79,7 +79,7 @@ level: DE:KREISVERBAND
 district: Greiz
 urls:
   - type: WEBSITE
-    url: http://gruene-greiz.de/startseite/
+    url: https://gruene-greiz.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Kreisverband-Greiz-892417057456102/
 ---
@@ -90,7 +90,7 @@ level: DE:KREISVERBAND
 district: Ilm-Kreis
 urls:
   - type: WEBSITE
-    url: http://www.gruene-ilmkreis.de/home/
+    url: https://www.gruene-ilmkreis.de/
 ---
 country: DE
 state: Thüringen
@@ -99,7 +99,7 @@ level: DE:KREISVERBAND
 district: Jena
 urls:
   - type: WEBSITE
-    url: http://gruene-jena.de/aktuelles/
+    url: https://gruene-jena.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Buendnis90.DieGruenen.Jena
 ---
@@ -107,10 +107,10 @@ country: DE
 state: Thüringen
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
-district: Kyffhäuser
+district: Kyffhäuserkreis
 urls:
   - type: WEBSITE
-    url: http://www.gruene-kyffhaeuserkreis.de/home/
+    url: https://www.gruene-kyffhaeuserkreis.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grune.kreisverbandkyffhauserkreis/
 ---
@@ -121,7 +121,7 @@ level: DE:KREISVERBAND
 district: Nordhausen
 urls:
   - type: WEBSITE
-    url: http://www.gruene-nordhausen.de/
+    url: https://www.gruene-nordhausen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneNordhausen/
   - type: TWITTER
@@ -150,6 +150,8 @@ district: Saalfeld-Rudolstadt
 urls:
   - type: WEBSITE
     url: http://www.gruene-slf-ru.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneSaalfeldRudolstadt/
 ---
 country: DE
 state: Thüringen
@@ -161,10 +163,10 @@ country: DE
 state: Thüringen
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
-district: Unstrut-Hainich
+district: Unstrut-Hainich-Kreis
 urls:
   - type: WEBSITE
-    url: http://www.grueneuhk.wordpress.com
+    url: https://grueneuhk.wordpress.com/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneUHK/
 ---
@@ -175,7 +177,7 @@ level: DE:KREISVERBAND
 district: Weimar
 urls:
   - type: WEBSITE
-    url: http://www.gruene-weimar.de
+    url: https://gruene-weimar.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneWeimar/
   - type: TWITTER
@@ -188,7 +190,7 @@ level: DE:KREISVERBAND
 district: Weimarer Land
 urls:
   - type: WEBSITE
-    url: http://gruene-im-weimarer-land.de/gruene-neuigkeiten/
+    url: https://gruene-im-weimarer-land.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Die-Gr%C3%BCnen-Weimarer-Land-1525244044404811/
 ---
@@ -207,7 +209,7 @@ country: DE
 state: Thüringen
 type: REGIONAL_CHAPTER
 level: DE:REGIONALVERBAND
-region: Sonneberg- Hildburghausen
+region: Sonneberg/Hildburghausen
 urls:
   - type: WEBSITE
     url: http://gruene-sonneberg-hildburghausen.de/
