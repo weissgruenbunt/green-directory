@@ -50,6 +50,8 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://gruene-oberursel.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.oberursel/
 ---
 city: Friedrichsdorf
 country: DE
@@ -101,23 +103,3 @@ urls:
     url: https://www.gruene-schmitten.de/
   - type: WEBSITE
     url: http://www.gruene-weilrod.de/
----
-type: REGIONAL_CHAPTER
-level: DE:ORTSVERBAND
-country: DE
-state: Hessen
-district: Hochtaunus
-city: Oberursel (Taunus)
-urls:
-  - type: WEBSITE
-    url: https://www.gruene-oberursel.de/
----
-type: REGIONAL_CHAPTER
-level: DE:ORTSVERBAND
-country: DE
-state: Hessen
-district: Hochtaunus
-city: Steinbach (Taunus)
-urls:
-  - type: WEBSITE
-    url: https://www.gruene-steinbach.de/
