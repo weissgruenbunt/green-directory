@@ -22,7 +22,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.soest-bewegen.de
+    url: https://soestbewegen.de/
 ---
 city: Werl
 country: DE
