@@ -34,7 +34,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-bergkamen.de/
+    url: https://bergkamen-gruene.de/
 ---
 city: Lünen
 country: DE
