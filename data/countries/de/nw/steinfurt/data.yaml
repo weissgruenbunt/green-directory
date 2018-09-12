@@ -42,7 +42,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-greven.de
 ---
-city: Hopsten
+city: Hopsten-Schale-Halverde
 country: DE
 district: Steinfurt
 level: DE:ORTSVERBAND
@@ -50,7 +50,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-hopsten.de
+    url: https://gruene-hopsten.net/
 ---
 city: Hörstel
 country: DE
