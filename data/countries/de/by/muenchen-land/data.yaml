@@ -78,7 +78,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-ml.de/kirchheim/
+    url: https://gruene-ml.de/wordpress/kirchheim/
 ---
 city: Neubiberg
 country: DE
@@ -197,7 +197,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-haar.de/
+    url: https://gruene-ml.de/wordpress/haar/
 ---
 city: Neuried
 country: DE
@@ -217,7 +217,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-ml.de/unterfoehring
+    url: https://gruene-ml.de/wordpress/unterfoehring/
 ---
 city: Hohenbrunn
 country: DE

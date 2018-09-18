@@ -9,7 +9,7 @@ country: DE
 state: Rheinland-Pfalz
 urls:
   - type: WEBSITE
-    url: http://gruene-rlp.de/
+    url: https://gruene-rlp.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenerlp/
   - type: TWITTER
@@ -238,7 +238,7 @@ state: Rheinland-Pfalz
 district: Ludwigshafen
 urls:
   - type: WEBSITE
-    url: http://www.gruene-lu.de/
+    url: https://www.gruene-lu.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneludwigshafen/
 emails:
@@ -290,7 +290,7 @@ state: Rheinland-Pfalz
 district: Neustadt an der Weinstraße
 urls:
   - type: WEBSITE
-    url: http://gruene-nw.de/
+    url: https://gruene-nw.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneNW/
 emails:
@@ -399,7 +399,7 @@ district: Rhein-Pfalz
 city: Lambsheim
 urls:
   - type: WEBSITE
-    url: http://www.gruene-lambsheim.de
+    url: https://gruene-lambsheim.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

@@ -9,7 +9,7 @@ country: DE
 state: Baden-Württemberg
 urls:
   - type: WEBSITE
-    url: https://gruene-bw.de/
+    url: https://www.gruene-bw.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenebw/
   - type: TWITTER
@@ -69,7 +69,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-em.de/
+    url: https://gruene-em.de/
   - type: TWITTER
     url: https://twitter.com/gruene_em
 ---
@@ -123,7 +123,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-heidenheim.de/
+    url: https://www.gruene-heidenheim.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneHDH
   - type: TWITTER

@@ -22,7 +22,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-ahlen.de
+    url: https://gruene-ahlen.de/
 ---
 city: Beckum
 country: DE

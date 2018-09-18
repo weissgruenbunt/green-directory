@@ -8,7 +8,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-kreis-mettmann.de/
+    url: https://gruene-kreis-mettmann.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneKreisMettmann/
 ---
@@ -50,9 +50,9 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-langenfeld.de
+    url: https://gruene-langenfeld.de/
 ---
-city: "W\xFClfrath"
+city: Wülfrath
 country: DE
 district: Mettmann
 level: DE:ORTSVERBAND

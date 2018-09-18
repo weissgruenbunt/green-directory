@@ -6,7 +6,7 @@ state: Nordrhein-Westfalen
 district: Euskirchen
 urls:
   - type: WEBSITE
-    url: http://www.gruene-euskirchen.de/
+    url: https://www.gruene-euskirchen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneKreisEuskirchen
   - type: TWITTER

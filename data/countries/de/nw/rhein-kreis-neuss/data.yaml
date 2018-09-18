@@ -68,9 +68,9 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-neuss.de
+    url: https://www.gruene-neuss.de/
 ---
-city: "J\xFCchen"
+city: Jüchen
 country: DE
 district: Rhein-Kreis-Neuss
 level: DE:ORTSVERBAND
@@ -78,7 +78,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-juechen.de
+    url: http://www.gruene-juechen.de/
 ---
 city: Rommerskirchen
 country: DE

@@ -42,7 +42,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-lippstadt.de
+    url: https://www.die-gruenen-lippstadt.de/
 ---
 city: Anröchte
 country: DE

@@ -8,7 +8,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-kreis-wesel.de/
+    url: https://gruene-kreis-wesel.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneKreisWesel
   - type: TWITTER
@@ -92,7 +92,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-rheinberg.de
+    url: https://gruene-rheinberg.de/
 ---
 city: Schermbeck
 country: DE
@@ -132,7 +132,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-wesel.de
+    url: https://www.gruene-wesel.de/
 ---
 city: Xanten
 country: DE

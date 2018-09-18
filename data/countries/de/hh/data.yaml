@@ -32,7 +32,7 @@ state: Hamburg
 district: Altona
 urls:
   - type: WEBSITE
-    url: http://www.gruene-altona.de/
+    url: https://gruene-altona.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenealtona
   - type: TWITTER
@@ -47,7 +47,7 @@ state: Hamburg
 district: Bergedorf
 urls:
   - type: WEBSITE
-    url: http://www.gruene-bergedorf.de/
+    url: https://www.gruene-bergedorf.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneBergedorf/
 emails:
@@ -75,7 +75,7 @@ state: Hamburg
 district: Harburg
 urls:
   - type: WEBSITE
-    url: http://www.gruene-harburg.de/
+    url: https://gruene-harburg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.harburg/
   - type: TWITTER
@@ -90,7 +90,7 @@ state: Hamburg
 district: Mitte
 urls:
   - type: WEBSITE
-    url: http://www.gruene-mitte.com/
+    url: https://www.gruenemitte.com/
 emails:
   - address: kreisverband@gruene-mitte.com
 ---

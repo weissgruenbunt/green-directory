@@ -20,7 +20,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-badoeynhausen.de
+    url: https://www.gruene-badoeynhausen.de/
 ---
 city: Espelkamp
 country: DE

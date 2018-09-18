@@ -9,7 +9,7 @@ country: DE
 state: Mecklenburg-Vorpommern
 urls:
   - type: WEBSITE
-    url: http://gruene-mv.de/start/
+    url: https://gruene-mv.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenemv
   - type: TWITTER

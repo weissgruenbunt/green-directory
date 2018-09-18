@@ -20,7 +20,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-altenberge.de
+    url: https://gruene-altenberge.de/
 ---
 city: Emsdetten
 country: DE

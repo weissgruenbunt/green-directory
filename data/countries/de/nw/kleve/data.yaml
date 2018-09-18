@@ -8,7 +8,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-kreis-kleve.de/
+    url: https://gruene-kreis-kleve.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneKVKleve
   - type: TWITTER

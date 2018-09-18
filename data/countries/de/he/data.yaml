@@ -9,7 +9,7 @@ country: DE
 state: Hessen
 urls:
   - type: WEBSITE
-    url: http://www.gruene-hessen.de/
+    url: https://www.gruene-hessen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenehessen
   - type: TWITTER

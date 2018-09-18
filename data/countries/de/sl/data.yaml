@@ -80,7 +80,7 @@ district: Saarbrücken
 city: Dudweiler
 urls:
   - type: WEBSITE
-    url: http://gruene-dudweiler.de/
+    url: https://gruene-dudweiler.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -90,7 +90,7 @@ district: Saarbrücken
 city: Friedrichsthal
 urls:
   - type: WEBSITE
-    url: http://gruene-friedrichsthal.de/
+    url: https://gruene-friedrichsthal.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -110,7 +110,7 @@ district: Saarbrücken
 city: Heusweiler
 urls:
   - type: WEBSITE
-    url: http://gruene-heusweiler.de
+    url: https://gruene-heusweiler.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -120,7 +120,7 @@ district: Saarbrücken
 city: Kleinblittersdorf
 urls:
   - type: WEBSITE
-    url: http://gruene-kleinblittersdorf.de/
+    url: https://gruene-kleinblittersdorf.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -130,7 +130,7 @@ district: Saarbrücken
 city: Riegelsberg
 urls:
   - type: WEBSITE
-    url: http://gruene-riegelsberg.de/
+    url: https://gruene-riegelsberg.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -164,7 +164,7 @@ district: Saarbrücken
 city: Völklingen
 urls:
   - type: WEBSITE
-    url: http://gruene-voelklingen.de/
+    url: https://gruene-voelklingen.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -174,7 +174,7 @@ district: Saarlouis
 city: Bous
 urls:
   - type: WEBSITE
-    url: http://gruene-bous.de/
+    url: https://gruene-bous.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -184,7 +184,7 @@ district: Saarlouis
 city: Dillingen
 urls:
   - type: WEBSITE
-    url: http://www.gruene-dillingen-saar.de/
+    url: https://gruene-dillingen-saar.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -194,7 +194,7 @@ district: Saarlouis
 city: Ensdorf
 urls:
   - type: WEBSITE
-    url: http://gruene-ensdorf.de/
+    url: https://gruene-ensdorf.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -204,7 +204,7 @@ district: Saarlouis
 city: Lebach
 urls:
   - type: WEBSITE
-    url: http://gruene-lebach.de/
+    url: https://gruene-lebach.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -231,7 +231,7 @@ district: Saarlouis
 city: Saarlouis
 urls:
   - type: WEBSITE
-    url: http://gruene-saarlouis.de/
+    url: https://gruene-saarlouis.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -241,7 +241,7 @@ district: Saarlouis
 city: Saarwellingen
 urls:
   - type: WEBSITE
-    url: http://gruene-saarwellingen.de/
+    url: https://gruene-saarwellingen.de/
   - type: FACEBOOK
     url: http://www.facebook.com/groups/gruene.saarwellignen/
 ---
@@ -253,7 +253,7 @@ district: Saarlouis
 city: Schmelz
 urls:
   - type: WEBSITE
-    url: http://gruene-schmelz.de/
+    url: https://gruene-schmelz.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -263,7 +263,7 @@ district: Saarlouis
 city: Schwalbach
 urls:
   - type: WEBSITE
-    url: http://gruene-schwalbach-saar.de/
+    url: https://gruene-schwalbach-saar.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -283,7 +283,7 @@ district: Saarlouis
 city: Wallerfangen
 urls:
   - type: WEBSITE
-    url: http://gruene-wallerfangen.de/
+    url: https://gruene-wallerfangen.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -320,7 +320,7 @@ district: Saar-Pfalz
 city: Gersheim
 urls:
   - type: WEBSITE
-    url: http://gruene-gersheim.de/
+    url: https://gruene-gersheim.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -350,7 +350,7 @@ district: Saar-Pfalz
 city: Mandelbachtal
 urls:
   - type: WEBSITE
-    url: http://www.gruene-mandelbachtal.de/
+    url: https://gruene-mandelbachtal.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -391,7 +391,7 @@ district: Merzig-Wadern
 city: Merzig
 urls:
   - type: WEBSITE
-    url: http://www.gruene-merzig.de/
+    url: https://gruene-merzig.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -401,7 +401,7 @@ district: Merzig-Wadern
 city: Perl
 urls:
   - type: WEBSITE
-    url: http://www.gruene-perl.de/
+    url: https://gruene-perl.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -411,7 +411,7 @@ district: Merzig-Wadern
 city: Wadern
 urls:
   - type: WEBSITE
-    url: http://gruene-wadern.de/
+    url: https://gruene-wadern.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenewadern/
   - type: INSTAGRAM
@@ -452,7 +452,7 @@ district: Neunkirchen
 city: Neunkirchen
 urls:
   - type: WEBSITE
-    url: https://gruene-neunkirchen-saar.de
+    url: https://gruene-neunkirchen-saar.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -462,7 +462,7 @@ district: Neunkirchen
 city: Ottweiler
 urls:
   - type: WEBSITE
-    url: http://gruene-ottweiler.de
+    url: https://gruene-ottweiler.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

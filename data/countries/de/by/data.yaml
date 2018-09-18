@@ -354,7 +354,7 @@ state: Bayern
 district: Fürth-Stadt
 urls:
   - type: WEBSITE
-    url: http://www.gruene-fuerth.de
+    url: https://www.gruene-fuerth.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND

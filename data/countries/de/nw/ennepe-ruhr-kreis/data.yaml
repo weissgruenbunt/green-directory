@@ -50,7 +50,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-hattingen.de/
+    url: https://www.gruene-hattingen.de/
 ---
 city: Herdecke
 country: DE

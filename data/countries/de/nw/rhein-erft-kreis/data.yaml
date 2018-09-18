@@ -40,7 +40,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.bruehlgruen.de
+    url: https://bruehlgruen.de/
 ---
 city: Elsdorf
 country: DE
@@ -90,7 +90,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-kerpen.de
+    url: https://gruenekerpen.de/
 ---
 city: Pulheim
 country: DE
@@ -100,7 +100,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-pulheim.de
+    url: https://www.gruene-pulheim.de/
 ---
 city: Wesseling
 country: DE

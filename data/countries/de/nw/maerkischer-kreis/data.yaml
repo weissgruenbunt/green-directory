@@ -8,7 +8,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-mk.de/
+    url: https://www.gruene-mk.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.mk/
 ---

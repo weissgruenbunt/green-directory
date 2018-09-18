@@ -9,7 +9,7 @@ country: DE
 state: Thüringen
 urls:
   - type: WEBSITE
-    url: https://www.gruene-thueringen.de/
+    url: https://gruene-thueringen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenethueringen
   - type: TWITTER

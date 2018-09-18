@@ -138,7 +138,7 @@ district: Aurich-Norden
 city: Krummhörn
 urls:
   - type: WEBSITE
-    url: http://gruene-krummhoern.de/
+    url: https://www.gruene-krummhoern.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -439,7 +439,7 @@ state: Niedersachsen
 district: Emsland-Nord
 urls:
   - type: WEBSITE
-    url: http://gruene-eln.de/
+    url: https://gruene-eln.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -493,7 +493,7 @@ state: Niedersachsen
 district: Gifhorn
 urls:
   - type: WEBSITE
-    url: http://www.gruene-gifhorn.de/
+    url: https://www.gruene-gifhorn.de/
   - type: TWITTER
     url: https://twitter.com/GrueneGifhorn
   - type: FACEBOOK
@@ -559,7 +559,7 @@ district: Gifhorn
 city: Gifhorn
 urls:
   - type: WEBSITE
-    url: https://www.gruene-gifhorn.de/
+    url: https://www.gruene-gifhorn.de/ortsverband/gifhorn/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -1323,7 +1323,7 @@ district: Lüneburg
 city: Gellersen
 urls:
   - type: WEBSITE
-    url: http://www.gruene-gellersen.de/
+    url: https://www.gruene-gellersen.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -1953,7 +1953,7 @@ district: Rotenburg/Wümme
 city: Rotenburg/Wümme
 urls:
   - type: WEBSITE
-    url: http://www.gruene-rotenburg.de/
+    url: https://www.rotenburger-gruene.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

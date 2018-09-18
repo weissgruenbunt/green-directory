@@ -9,7 +9,7 @@ country: DE
 state: Nordrhein-Westfalen
 urls:
   - type: WEBSITE
-    url: http://www.gruene-nrw.de/
+    url: https://gruene-nrw.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenenrw/
   - type: TWITTER
@@ -184,7 +184,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-hamm.de/
+    url: https://www.gruene-hamm.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GruenerKVHamm
 ---
@@ -225,7 +225,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.die-gruenen-leverkusen.de/
+    url: https://die-gruenen-leverkusen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenelev
   - type: TWITTER
@@ -255,7 +255,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-mh.de/
+    url: https://gruene-mh.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gruene.MH
   - type: TWITTER
@@ -360,6 +360,6 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-kvwuppertal.de/
+    url: https://www.gruene-kvwuppertal.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Bundnis90DieGrunenWuppertal

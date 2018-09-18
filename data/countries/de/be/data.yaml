@@ -9,7 +9,7 @@ country: DE
 state: Berlin
 urls:
   - type: WEBSITE
-    url: https://gruene.berlin
+    url: https://gruene.berlin/
   - type: TWITTER
     url: https://twitter.com/gruene_berlin
   - type: FACEBOOK
@@ -80,7 +80,7 @@ state: Berlin
 district: Mitte
 urls:
   - type: WEBSITE
-    url: http://gruene-mitte.de/
+    url: https://gruene-mitte.de/
   - type: TWITTER
     url: https://twitter.com/gruenemitte
   - type: FACEBOOK

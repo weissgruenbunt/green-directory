@@ -8,7 +8,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-kv-borken.de/
+    url: https://gruene-kv-borken.de/
   - type: FACEBOOK
     url: https://www.facebook.com/DerVorstand/
   - type: TWITTER
@@ -32,7 +32,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-bocholt.de/
+    url: https://gruene-bocholt.de/
 ---
 city: Borken/Westfalen
 country: DE

@@ -20,7 +20,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-brueggen.de
+    url: https://gruenebrueggen.de/
 ---
 city: Grefrath
 country: DE
@@ -30,7 +30,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-grefrath.de
+    url: https://www.gruene-grefrath.de/
 ---
 city: Kempen
 country: DE
@@ -60,7 +60,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-schwalmtal.de
+    url: https://www.gruene-schwalmtal.de/
 ---
 city: Tönisvorst
 country: DE
@@ -70,7 +70,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-toenisvorst.de
+    url: https://www.gruene-toenisvorst.de/
 ---
 city: Viersen
 country: DE
@@ -80,7 +80,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-viersen.de
+    url: https://www.gruene-viersen.de/
 ---
 city: Willich
 country: DE
@@ -90,4 +90,4 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-willich.de
+    url: https://www.gruene-willich.de/

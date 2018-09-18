@@ -9,7 +9,7 @@ country: DE
 state: Sachsen-Anhalt
 urls:
   - type: WEBSITE
-    url: http://www.gruene-lsa.de
+    url: https://www.gruene-lsa.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GRUENELSA
   - type: TWITTER
@@ -58,7 +58,7 @@ state: Sachsen-Anhalt
 district: Börde
 urls:
   - type: WEBSITE
-    url: http://grueneboerde.de/
+    url: https://grueneboerde.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneboerde/
 ---
