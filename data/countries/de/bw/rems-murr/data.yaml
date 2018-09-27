@@ -12,6 +12,20 @@ urls:
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneRemsMurr
 ---
+city: Backnang
+country: DE
+district: Rems/Murr
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-backnang.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.backnang.murrhardt/
+emails:
+  - address: kontakt@gruene-bk.de
+---
 city: Fellbach
 country: DE
 district: Rems/Murr
