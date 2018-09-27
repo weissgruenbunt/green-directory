@@ -5,7 +5,7 @@ type: map
 mapping:
   type:
     type: str
-    enum: ['PARTY', 'REGIONAL_CHAPTER', 'COMMITTEE']
+    enum: ['PARTY', 'REGIONAL_CHAPTER', 'COMMITTEE', 'YOUTH_ORGANIZATION']
     required: true
   country:
     type: str

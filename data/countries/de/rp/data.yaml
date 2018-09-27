@@ -23,6 +23,24 @@ urls:
 emails:
   - address: lgs@gruene-rlp.de
 ---
+type: YOUTH_ORGANIZATION
+level: DE:LANDESVERBAND
+country: DE
+state: Rheinland-Pfalz
+urls:
+  - type: WEBSITE
+    url: https://gj-rlp.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gjrlp/
+  - type: TWITTER
+    url: https://twitter.com/GJ_RLP/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene-jugend_rlp/
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/GJRLP
+emails:
+  - address: buero@gj-rlp.de
+---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE

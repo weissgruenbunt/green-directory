@@ -63,6 +63,8 @@ If not indicated otherwise, all attributes are of the type `String`.
     assigned to a local territory.
   - `COMMITTEE`: A not locally assigned sub-group of a party
     organisation.
+  - `YOUTH_ORGANIZATION`: A youth organization which is normally associated
+    with a party.
 
 - `level` (mandatory). A sub-classification of an entry with type `REGIONAL_CHAPTER`. Possible values:
   - `DE:BUNDESVERBAND` 

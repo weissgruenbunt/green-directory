@@ -17,6 +17,28 @@ urls:
 emails:
   - address: landesverband@bayern.gruene.de
 ---
+type: YOUTH_ORGANIZATION
+level: DE:LANDESVERBAND
+country: DE
+state: Bayern
+urls:
+  - type: WEBSITE
+    url: https://gj-bayern.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenejugendbayern/
+  - type: TWITTER
+    url: https://twitter.com/GJ_Bayern/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gj_bayern/
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/gjbayern/
+  - type: TELEGRAM
+    url: https://telegram.me/gjbayern/
+  - type: SNAPCHAT
+    url: http://www.snapchat.com/add/gj_bayern
+emails:
+  - address: buero@gj-bayern.de
+---
 type: REGIONAL_CHAPTER
 level: DE:BEZIRKSVERBAND
 country: DE

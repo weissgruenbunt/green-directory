@@ -21,6 +21,24 @@ urls:
 emails:
   - address: info@gruene-lsa.de
 ---
+type: YOUTH_ORGANIZATION
+level: DE:LANDESVERBAND
+country: DE
+state: Sachsen-Anhalt
+urls:
+  - type: WEBSITE
+    url: https://gj-lsa.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GJLSA/
+  - type: TWITTER
+    url: https://twitter.com/gj_lsa/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gj_lsa/
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/GrueneJugendLSA
+emails:
+  - address: vorstand@gj-lsa.de
+---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE

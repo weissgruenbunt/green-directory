@@ -23,6 +23,24 @@ urls:
 emails:
   - address: landesverband@gruene-niedersachsen.de
 ---
+type: YOUTH_ORGANIZATION
+level: DE:LANDESVERBAND
+country: DE
+state: Niedersachen
+urls:
+  - type: WEBSITE
+    url: https://gj-nds.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gjnds/
+  - type: TWITTER
+    url: https://twitter.com/GJNds/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gj_nds/
+  - type: YOUTUBE
+    url: https://www.youtube.com/channel/UC-5WPltpFT4ukl9BDbypcpg
+emails:
+  - address: buero@gj-nds.de
+---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE

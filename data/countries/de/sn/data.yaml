@@ -25,6 +25,24 @@ urls:
 emails:
   - address: info@gruene-sachsen.de
 ---
+type: YOUTH_ORGANIZATION
+level: DE:LANDESVERBAND
+country: DE
+state: Sachsen
+urls:
+  - type: WEBSITE
+    url: https://gj-sachsen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gj.sachsen/
+  - type: TWITTER
+    url: https://twitter.com/gj_sachsen/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenejugend_sachsen/
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/gjsachsen
+emails:
+  - address: buero@gj-sachsen.de
+---
 country: DE
 district: Bautzen
 level: DE:KREISVERBAND

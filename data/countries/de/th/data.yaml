@@ -19,6 +19,22 @@ urls:
 emails:
   - address: info@gruene-thueringen.de
 ---
+type: YOUTH_ORGANIZATION
+level: DE:LANDESVERBAND
+country: DE
+state: Thüringen
+urls:
+  - type: WEBSITE
+    url: https://www.gj-thueringen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenejugendthueringen/
+  - type: TWITTER
+    url: https://twitter.com/gj_thueringen/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenejugendthueringen/
+emails:
+  - address: info@gj-thueringen.de
+---
 country: DE
 state: Thüringen
 type: REGIONAL_CHAPTER
@@ -49,6 +65,21 @@ urls:
     url: http://www.gruenestadterfurt.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneStadtErfurt/
+---
+type: YOUTH_ORGANIZATION
+level: DE:KREISVERBAND
+country: DE
+state: Thüringen
+district: Erfurt
+urls:
+  - type: WEBSITE
+    url: https://erfurt.gj-thueringen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenejugenderfurt/
+  - type: TWITTER
+    url: https://twitter.com/GJ_Erfurt/
+emails:
+  - address: erfurt@gj-thueringen.de
 ---
 country: DE
 state: Thüringen
@@ -103,6 +134,23 @@ urls:
   - type: FACEBOOK
     url: https://www.facebook.com/Buendnis90.DieGruenen.Jena
 ---
+type: YOUTH_ORGANIZATION
+level: DE:KREISVERBAND
+country: DE
+state: Thüringen
+district: Jena
+urls:
+  - type: WEBSITE
+    url: https://jena.gj-thueringen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenejugendjena/
+  - type: TWITTER
+    url: https://twitter.com/gj_jena/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gj_jena/
+emails:
+  - address: jena@gj-thueringen.de
+---
 country: DE
 state: Thüringen
 type: REGIONAL_CHAPTER
@@ -126,6 +174,15 @@ urls:
     url: https://www.facebook.com/GrueneNordhausen/
   - type: TWITTER
     url: https://twitter.com/GrueneNDH
+---
+type: YOUTH_ORGANIZATION
+level: DE:KREISVERBAND
+country: DE
+state: Thüringen
+district: Nordhausen
+urls:
+  - type: FACEBOOK
+    url: https://www.facebook.com/gjnordhausen/
 ---
 country: DE
 state: Thüringen
@@ -194,6 +251,17 @@ urls:
   - type: FACEBOOK
     url: https://www.facebook.com/Die-Gr%C3%BCnen-Weimarer-Land-1525244044404811/
 ---
+type: YOUTH_ORGANIZATION
+level: DE:KREISVERBAND
+country: DE
+state: Thüringen
+district: Weimar/Weimarer Land
+urls:
+  - type: FACEBOOK
+    url: https://www.facebook.com/GJWeimarLand/
+emails:
+  - address: weimar@gj-thueringen.de
+---
 country: DE
 state: Thüringen
 type: REGIONAL_CHAPTER
@@ -204,6 +272,17 @@ urls:
     url: http://www.gruene-wartburgkreis-eisenach.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gruene.WAK.EA/
+---
+type: YOUTH_ORGANIZATION
+level: DE:KREISVERBAND
+country: DE
+state: Thüringen
+district: Eisenach
+urls:
+  - type: FACEBOOK
+    url: https://www.facebook.com/gjeisenach/
+emails:
+  - address: gjeisenach@gmx.de
 ---
 country: DE
 state: Thüringen

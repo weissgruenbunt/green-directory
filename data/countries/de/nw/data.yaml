@@ -21,6 +21,24 @@ urls:
 emails:
   - address: info@gruene-nrw.de
 ---
+type: YOUTH_ORGANIZATION
+level: DE:LANDESVERBAND
+country: DE
+state: Nordrhein-Westfalen
+urls:
+  - type: WEBSITE
+    url: https://gruene-jugend-nrw.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GJNRW/
+  - type: TWITTER
+    url: https://twitter.com/GrueneJugendNRW/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_jugend_nrw/
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/gruenejugendnrw
+emails:
+  - address: buero@gj-nrw.de
+---
 type: REGIONAL_CHAPTER
 level: DE:BEZIRKSVERBAND
 country: DE

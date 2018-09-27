@@ -46,7 +46,6 @@ def checkFile(path):
             except Exception as e:
                 print("Schema validation error in {} entry {}".format(path, i))
                 raise e
-                sys.exit(1)
 
             # validate uniqueness
             key = unique_doc_key(doc)
@@ -60,6 +59,11 @@ def checkFile(path):
 
             if 'emails' in doc:
                 for address in doc['emails']:
+                    if 'address' not in address:
+                        raise Exception("'emails' entry {index} has no 'address' attribute. Path: {path}".format(
+                            index=i,
+                            path=path,
+                        ))
                     if address['address'] in emails:
                         raise Exception("Email in entry {index} is duplicate: {email} {path} {key}".format(
                             index=i,
@@ -71,6 +75,11 @@ def checkFile(path):
 
             if 'urls' in doc:
                 for url in doc['urls']:
+                    if 'url' not in url:
+                        raise Exception("'urls' entry {index} has no 'url' attribute. Path: {path}".format(
+                            index=i,
+                            path=path,
+                        ))
                     if url['url'] in urls:
                         raise Exception("URL in entry {index} is duplicate: {url} {path} {key}".format(
                             index=i,

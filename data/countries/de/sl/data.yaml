@@ -21,6 +21,22 @@ urls:
 emails:
   - address: lgs@gruene-saar.de
 ---
+type: YOUTH_ORGANIZATION
+level: DE:LANDESVERBAND
+country: DE
+state: Saarland
+urls:
+  - type: WEBSITE
+    url: https://gruenejugendsaar.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gjsaar/
+  - type: TWITTER
+    url: https://twitter.com/gjsaar/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gjsaar/
+emails:
+  - address: buero@gruenejugendsaar.de
+---
 country: DE
 district: Saarbrücken
 level: DE:KREISVERBAND

@@ -25,6 +25,22 @@ urls:
 emails:
   - address: info@sh-gruene.de
 ---
+type: YOUTH_ORGANIZATION
+level: DE:LANDESVERBAND
+country: DE
+state: Schleswig-Holstein
+urls:
+  - type: WEBSITE
+    url: https://gruene-jugend-sh.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneJugendSH/
+  - type: TWITTER
+    url: https://twitter.com/GJSH/
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/GrueneJugendSH
+emails:
+  - address: buero@gruenejugend-sh.de
+---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE

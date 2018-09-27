@@ -25,6 +25,22 @@ urls:
 emails:
   - address: info@hamburg.gruene.de
 ---
+type: YOUTH_ORGANIZATION
+level: DE:LANDESVERBAND
+country: DE
+state: Hamburg
+urls:
+  - type: WEBSITE
+    url: https://gruenejugendhamburg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gjhamburg/
+  - type: TWITTER
+    url: https://twitter.com/GJHH/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gj_hamburg/
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/gjhamburg
+---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE

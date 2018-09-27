@@ -18,3 +18,22 @@ urls:
     url: https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen
 emails:
   - address: info@gruene.de
+---
+type: YOUTH_ORGANIZATION
+level: DE:BUNDESVERBAND
+country: DE
+urls:
+  - type: WEBSITE
+    url: https://gruene-jugend.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenejugend/
+  - type: TWITTER
+    url: https://twitter.com/gruene_jugend/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_jugend/
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/GrueneJugend/
+  - type: WIKIPEDIA
+    url: https://de.wikipedia.org/wiki/Gr%C3%BCne_Jugend
+emails:
+  - address: buero@gruene-jugend.de

@@ -17,6 +17,22 @@ urls:
 emails:
   - address: info@gruene-bremen.de
 ---
+type: YOUTH_ORGANIZATION
+level: DE:LANDESVERBAND
+country: DE
+state: Bremen
+urls:
+  - type: WEBSITE
+    url: https://gruene-jugend-bremen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gjbremen/
+  - type: TWITTER
+    url: https://twitter.com/gjbremen/
+  - type: YOUTUBE
+    url: https://www.youtube.com/channel/UCRij9JAOgTK7ItiXquQGlxg
+emails:
+  - address: info@gruene-jugend-bremen.de
+---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE

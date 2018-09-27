@@ -21,6 +21,22 @@ urls:
 emails:
   - address: info@gruene-brandenburg.de
 ---
+type: YOUTH_ORGANIZATION
+level: DE:LANDESVERBAND
+country: DE
+state: Brandenburg
+urls:
+  - type: WEBSITE
+    url: https://gj-bb.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GJBBG/
+  - type: TWITTER
+    url: https://twitter.com/gj__bw/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_jugend_brandenburg/
+emails:
+  - address: buero@gj-bb.de
+---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE

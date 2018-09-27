@@ -21,6 +21,24 @@ urls:
 emails:
   - address: landesverband@gruene-bw.de
 ---
+type: YOUTH_ORGANIZATION
+level: DE:LANDESVERBAND
+country: DE
+state: Baden-Württemberg
+urls:
+  - type: WEBSITE
+    url: https://gjbw.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GJbawue/
+  - type: TWITTER
+    url: https://twitter.com/gjbw/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenejugendbw/
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/GrueneJugendBW/
+emails:
+  - address: buero@gjbw.de
+---
 country: DE
 district: Aalen/Ellwangen
 emails:

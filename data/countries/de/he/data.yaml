@@ -25,6 +25,24 @@ urls:
 emails:
   - address: landesverband@gruene-hessen.de
 ---
+type: YOUTH_ORGANIZATION
+level: DE:LANDESVERBAND
+country: DE
+state: Hessen
+urls:
+  - type: WEBSITE
+    url: https://gjh.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gruene.Jugend.Hessen/
+  - type: TWITTER
+    url: https://twitter.com/GJHessen/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gjhessen/
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/gruenejugendhessen
+emails:
+  - address: mail@gjh.de
+---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE

@@ -21,6 +21,22 @@ urls:
 emails:
   - address: post@gruene-mv.de
 ---
+type: YOUTH_ORGANIZATION
+level: DE:LANDESVERBAND
+country: DE
+state: Mecklenburg-Vorpommern
+urls:
+  - type: WEBSITE
+    url: https://gruene-jugend-mv.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenejugendmv/
+  - type: TWITTER
+    url: https://twitter.com/GrueneJugendMV/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenejugend_mv/
+emails:
+  - address: kontakt@gj-mv.de
+---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE

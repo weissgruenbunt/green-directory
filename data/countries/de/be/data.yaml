@@ -25,6 +25,24 @@ urls:
 emails:
   - address: info@gruene-berlin.de
 ---
+type: YOUTH_ORGANIZATION
+level: DE:LANDESVERBAND
+country: DE
+state: Berlin
+urls:
+  - type: WEBSITE
+    url: https://gj-berlin.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gjberlin/
+  - type: TWITTER
+    url: https://twitter.com/gjberlin/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gjberlin/
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/gjberlin/
+emails:
+  - address: vorstand@gj-berlin.de
+---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
