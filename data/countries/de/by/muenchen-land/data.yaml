@@ -247,7 +247,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-feldkirchen.de/
+    url: https://gruene-ml.de/wordpress/feldkirchen/
 ---
 city: Grasbrunn
 country: DE
