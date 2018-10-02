@@ -1814,8 +1814,8 @@ state: Niedersachsen
 district: Osnabrück-Stadt
 urls:
   - type: WEBSITE
-    url: http://gruene-os.de/startseite/
-  - type: WEBSITE
+    url: https://gruene-os.de/
+  - type: FACEBOOK
     url: https://www.facebook.com/GrueneOS/
   - type: YOUTUBE
     url: https://www.youtube.com/user/grueneos
