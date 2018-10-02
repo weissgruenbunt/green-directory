@@ -60,7 +60,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-en.de/ortsverbaende/ov-herdecke/startseite/
+    url: https://gruene-en.de/ortsverbaende/ov-herdecke/startseite/
 ---
 city: Schwelm
 country: DE
@@ -80,7 +80,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-sprockhoevel.de
+    url: http://www.gruene-sprockhoevel.de/
 ---
 city: Wetter
 country: DE

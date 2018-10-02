@@ -165,7 +165,7 @@ state: Rheinland-Pfalz
 district: Donnersbergkreis
 urls:
   - type: WEBSITE
-    url: http://gruene-donnersberg.de/
+    url: https://gruene-donnersberg.de/
 emails:
   - address: kv-donnersbergkreis@gruene-rlp.de
 ---
@@ -202,7 +202,7 @@ state: Rheinland-Pfalz
 district: Kaiserslautern
 urls:
   - type: WEBSITE
-    url: http://gruene-kl.de/
+    url: https://gruene-kl.de/
 emails:
   - address: kv-kaiserslautern@gruene-rlp.de
 ---
@@ -213,7 +213,7 @@ state: Rheinland-Pfalz
 district: Koblenz
 urls:
   - type: WEBSITE
-    url: http://gruene-koblenz.de/
+    url: https://gruene-koblenz.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.kv.koblenz/
   - type: TWITTER
@@ -535,7 +535,7 @@ state: Rheinland-Pfalz
 district: Trier-Saarburg
 urls:
   - type: WEBSITE
-    url: http://gruene-trier-saarburg.de/
+    url: https://gruene-trier-saarburg.de/
 emails:
   - address: kv-trier-saarburg@gruene-rlp.de
 ---

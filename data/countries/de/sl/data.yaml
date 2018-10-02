@@ -439,9 +439,6 @@ country: DE
 state: Saarland
 district: Neunkirchen
 city: Eppelborn
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-eppelborn.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

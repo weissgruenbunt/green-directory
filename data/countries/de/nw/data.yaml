@@ -57,7 +57,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-niederrhein-wupper.de/
+    url: http://gruene-niederrhein-wupper.de/
 ---
 country: DE
 region: Ostwestfalen-Lippe
@@ -79,7 +79,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-ruhr.de/
+    url: http://gruene-ruhr.de/
   - type: FACEBOOK
     url: http://www.facebook.com/groups/56823719818/
   - type: TWITTER
@@ -94,7 +94,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-westfalen.de/
+    url: http://www.gruene-westfalen.de/
 ---
 country: DE
 district: Bielefeld
@@ -144,7 +144,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-duesseldorf.de/
+    url: https://www.gruene-duesseldorf.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.duesseldorf/
   - type: TWITTER
@@ -159,7 +159,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-essen.de/kreisverband/
+    url: https://gruene-essen.de/kreisverband/
   - type: TWITTER
     url: https://twitter.com/GrueneEssen
 ---

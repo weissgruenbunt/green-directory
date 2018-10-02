@@ -58,7 +58,7 @@ district: Ammerland
 city: Apen
 urls:
   - type: WEBSITE
-    url: http://gruene-apen.de
+    url: http://gruene-apen.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -68,7 +68,7 @@ district: Ammerland
 city: Bad Zwischenahn
 urls:
   - type: WEBSITE
-    url: http://www.gruene-zwischenahn.de
+    url: http://www.gruene-zwischenahn.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -78,7 +78,7 @@ district: Ammerland
 city: Edewecht
 urls:
   - type: WEBSITE
-    url: http://www.gruene-edewecht.de
+    url: http://www.gruene-edewecht.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -88,7 +88,7 @@ district: Ammerland
 city: Rastede
 urls:
   - type: WEBSITE
-    url: http://www.gruene-rastede.de
+    url: http://www.gruene-rastede.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.rastede
 ---
@@ -100,7 +100,7 @@ district: Ammerland
 city: Westerstede
 urls:
   - type: WEBSITE
-    url: http://www.gruene-wst.de
+    url: http://www.gruene-wst.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -119,7 +119,7 @@ state: Niedersachsen
 district: Aurich-Norden
 urls:
   - type: WEBSITE
-    url: http://www.gruene-aurich.de
+    url: http://www.gruene-aurich.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -697,7 +697,7 @@ district: Göttingen
 city: Göttingen
 urls:
   - type: WEBSITE
-    url: http://www.gruene-goettingen.de/stadtverband/
+    url: https://www.gruene-goettingen.de/stadtverband/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -1035,7 +1035,7 @@ district: Harburg-Land
 city: Winsen/Luhe-Elbmarsch
 urls:
   - type: WEBSITE
-    url: http://www.gruene-winsen.de/
+    url: http://gruene-winsen.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -1045,7 +1045,7 @@ district: Harburg-Land
 city: Tostedt
 urls:
   - type: WEBSITE
-    url: http://gruene-tostedt.de
+    url: http://gruene-tostedt.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -1055,7 +1055,7 @@ district: Harburg-Land
 city: Stelle
 urls:
   - type: WEBSITE
-    url: http://www.gruenestelle.de/#Startseite
+    url: http://gruene-stelle.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -1115,7 +1115,7 @@ district: Harburg-Land
 city: Hollenstedt
 urls:
   - type: WEBSITE
-    url: http://gruene-hollenstedt.de
+    url: http://gruene-hollenstedt.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -1180,7 +1180,7 @@ state: Niedersachsen
 district: Hildesheim
 urls:
   - type: WEBSITE
-    url: http://www.gruene-hildesheim.de
+    url: http://www.gruene-hildesheim.de/
   - type: FACEBOOK
     url: https://www.facebook.com/HIgruen
 ---
@@ -1381,7 +1381,7 @@ district: Lüneburg
 city: Amelinghausen
 urls:
   - type: WEBSITE
-    url: http://www.gruene-amelinghausen.de/
+    url: http://gruene-amelinghausen.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -1400,7 +1400,7 @@ district: Nienburg
 city: Heemsen
 urls:
   - type: WEBSITE
-    url: http://www.gruene-nienburg.de/ortsverband-heemsen
+    url: https://gruene-nienburg.de/ortsverband-heemsen/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -1427,7 +1427,7 @@ district: Nienburg
 city: Marklohe
 urls:
   - type: WEBSITE
-    url: http://gruene-nienburg.de/ortsverband-marklohe/
+    url: https://gruene-nienburg.de/ortsverband-marklohe/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -2368,7 +2368,7 @@ district: Wolfenbüttel
 city: Wolfenbüttel
 urls:
   - type: WEBSITE
-    url: http://www.gruene-wolfenbuettel.de/
+    url: http://gruene-wolfenbuettel.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND

@@ -52,7 +52,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-anroechte.de
+    url: https://www.gruene-anroechte.de/
 ---
 city: Möhnesee
 country: DE

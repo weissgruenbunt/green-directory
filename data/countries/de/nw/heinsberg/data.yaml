@@ -20,7 +20,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-hueckelhoven.de
+    url: http://gruene-hueckelhoven.de/
 ---
 city: Geilenkirchen
 country: DE
@@ -77,4 +77,4 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-wegberg.de
+    url: http://www.gruene-wegberg.de/

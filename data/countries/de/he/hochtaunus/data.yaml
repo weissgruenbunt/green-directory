@@ -37,7 +37,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-glashuetten.de
+    url: https://www.gruene-glashuetten.de/
   - type: WEBSITE
     url: https://www.gruene-koenigstein.de/
 ---

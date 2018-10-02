@@ -458,7 +458,7 @@ state: Bayern
 district: Kronach
 urls:
   - type: WEBSITE
-    url: https://www.gruene-kronach.de/
+    url: https://gruene-kronach.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND

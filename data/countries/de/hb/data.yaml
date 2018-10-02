@@ -55,7 +55,7 @@ state: Bremen
 district: Mitte - Östliche Vorstadt
 urls:
   - type: WEBSITE
-    url: http://www.gruene-bremen-mitte.de/
+    url: https://www.gruene-bremen-mitte.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenebremenmoev/
 emails:

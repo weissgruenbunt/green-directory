@@ -93,7 +93,7 @@ state: Schleswig-Holstein
 district: Kiel
 urls:
   - type: WEBSITE
-    url: http://www.gruene-kiel.de/
+    url: https://gruene-kiel.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenekiel/
   - type: TWITTER

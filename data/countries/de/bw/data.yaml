@@ -27,7 +27,7 @@ country: DE
 state: Baden-Württemberg
 urls:
   - type: WEBSITE
-    url: https://gjbw.de/
+    url: https://www.gjbw.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GJbawue/
   - type: TWITTER
@@ -100,7 +100,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-freiburg.de/
+    url: https://gruene-freiburg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenefreiburg
   - type: TWITTER
@@ -115,7 +115,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-freudenstadt.de/
+    url: http://gruene-freudenstadt.de/
 ---
 country: DE
 district: Heidelberg
@@ -126,7 +126,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-heidelberg.de/
+    url: https://www.gruene-heidelberg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gruene.Heidelberg
   - type: TWITTER
@@ -171,7 +171,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-karlsruhe.de/
+    url: https://gruenekarlsruhe.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenekarlsruhe
 ---
@@ -197,7 +197,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-mannheim.de/
+    url: https://www.gruene-mannheim.de/
   - type: FACEBOOK
     url: https://www.facebook.com/MANNHEIMbegruenen
 ---
@@ -273,7 +273,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-schwarzwald-baar.de/
+    url: https://www.gruene-schwarzwald-baar.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.sbk
 ---
@@ -286,7 +286,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-sigmaringen.de/
+    url: http://gruene-sigmaringen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GruenerKreisverbandSigmaringen/
 ---

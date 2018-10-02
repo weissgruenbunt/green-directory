@@ -100,7 +100,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-altenstadt.de/
+    url: http://www.gruene-altenstadt.de/
 ---
 city: Büdingen
 country: DE

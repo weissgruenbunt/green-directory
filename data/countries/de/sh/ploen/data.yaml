@@ -6,7 +6,7 @@ state: Schleswig-Holstein
 district: Plön
 urls:
   - type: WEBSITE
-    url: http://gruenekreisploen.de/
+    url: https://gruenekreisploen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenekreisploen
 emails:

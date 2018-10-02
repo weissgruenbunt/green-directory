@@ -30,7 +30,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-emsdetten.de
+    url: http://www.gruene-emsdetten.de/
 ---
 city: Greven
 country: DE
@@ -40,7 +40,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-greven.de
+    url: http://www.gruene-greven.de/
 ---
 city: Hopsten-Schale-Halverde
 country: DE
@@ -60,7 +60,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-hoerstel.de
+    url: http://www.gruene-hoerstel.de/
 ---
 city: Horstmar
 country: DE
@@ -70,7 +70,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-horstmar.de
+    url: http://www.gruene-horstmar.de/
 ---
 city: Ibbenbüren
 country: DE
@@ -80,7 +80,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-ibbenbueren.de
+    url: http://www.gruene-ibbenbueren.de/
 ---
 city: Ladbergen
 country: DE
@@ -90,7 +90,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-ladbergen.de
+    url: http://www.gruene-ladbergen.de/
 ---
 city: Laer
 country: DE
@@ -100,7 +100,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruenelaer.de
+    url: http://www.gruenelaer.de/
 ---
 city: Lengerich
 country: DE
@@ -110,7 +110,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-lengerich.de
+    url: http://www.gruene-lengerich.de/
 ---
 city: Lotte
 country: DE
@@ -120,7 +120,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-lotte.de
+    url: http://www.gruene-lotte.de/
 ---
 city: Mettingen
 country: DE
@@ -130,7 +130,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-mettingen.de
+    url: http://gruene-mettingen.de/
 ---
 city: Neuenkirchen
 country: DE
@@ -140,7 +140,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-neuenkirchen.de
+    url: http://www.gruene-neuenkirchen.de/
 ---
 city: Nordwalde
 country: DE
@@ -150,7 +150,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-nordwalde.de
+    url: http://www.gruene-nordwalde.de/
 ---
 city: Recke
 country: DE
@@ -160,7 +160,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-recke.de
+    url: http://www.gruene-recke.de/
 ---
 city: Rheine
 country: DE
@@ -170,7 +170,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-rheine.de
+    url: http://www.gruene-rheine.de/
 ---
 city: Saerbeck
 country: DE
@@ -180,7 +180,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-saerbeck.de
+    url: http://www.gruene-saerbeck.de/
 ---
 city: Steinfurt
 country: DE
@@ -190,7 +190,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-steinfurt.de
+    url: http://www.gruene-steinfurt.de/
 ---
 city: Tecklenburg
 country: DE
@@ -200,7 +200,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-tecklenburg.de
+    url: http://www.gruene-tecklenburg.de/
 ---
 city: Westerkappeln
 country: DE
@@ -210,4 +210,4 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-westerkappeln.de
+    url: http://www.gruene-westerkappeln.de/

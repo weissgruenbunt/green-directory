@@ -31,7 +31,7 @@ country: DE
 state: Berlin
 urls:
   - type: WEBSITE
-    url: https://gj-berlin.de/
+    url: http://gj-berlin.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gjberlin/
   - type: TWITTER
@@ -63,7 +63,7 @@ state: Berlin
 district: Friedrichshain-Kreuzberg
 urls:
   - type: WEBSITE
-    url: http://gruene-xhain.de/de/
+    url: https://gruene-xhain.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -111,7 +111,7 @@ state: Berlin
 district: Neukölln
 urls:
   - type: WEBSITE
-    url: http://www.gruene-neukoelln.de/aktuellemeldungen/
+    url: http://www.gruene-neukoelln.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND

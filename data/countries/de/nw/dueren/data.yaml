@@ -108,9 +108,6 @@ district: Düren
 level: DE:ORTSVERBAND
 state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-merzenich.de
 ---
 city: Inden
 country: DE

@@ -22,7 +22,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-ahaus.de
+    url: http://www.gruene-ahaus.de/
 ---
 city: Bocholt
 country: DE
@@ -109,7 +109,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-stadtlohn.de
+    url: http://www.gruene-stadtlohn.de/
 ---
 city: Südlohn
 country: DE

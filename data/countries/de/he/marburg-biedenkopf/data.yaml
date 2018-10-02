@@ -32,7 +32,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-lahntal.de
+    url: http://www.gruene-lahntal.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneLahntal/
 ---

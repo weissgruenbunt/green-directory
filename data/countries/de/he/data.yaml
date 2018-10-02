@@ -61,7 +61,7 @@ state: Hessen
 district: Frankfurt
 urls:
   - type: WEBSITE
-    url: http://www.gruene-frankfurt.de/
+    url: https://www.gruene-frankfurt.de/
 emails:
   - address: kreisverband@gruene-frankfurt.de
 ---
@@ -85,7 +85,7 @@ state: Hessen
 district: Kassel-Stadt
 urls:
   - type: WEBSITE
-    url: http://gruene-kassel.de/
+    url: https://www.gruene-kassel.de/
 emails:
   - address: gruene.kassel@t-online.de
 ---
@@ -137,7 +137,7 @@ state: Hessen
 district: Wiesbaden
 urls:
   - type: WEBSITE
-    url: http://www.gruene-wiesbaden.de/
+    url: https://gruene-wiesbaden.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.wi
 emails:

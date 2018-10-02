@@ -28,7 +28,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-muenchen-giesing.de
+    url: http://www.gruene-muenchen-giesing.de/
 ---
 city: Haidhausen
 country: DE
@@ -38,7 +38,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-muenchen-au-haidhausen.de
+    url: http://www.gruene-muenchen-au-haidhausen.de/
 ---
 city: München-Nord
 country: DE
@@ -48,7 +48,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-muenchen-nord.de
+    url: http://www.gruene-muenchen-nord.de/
 ---
 city: Pasing-Obermenzing-Aubing
 country: DE
@@ -58,7 +58,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-muenchen-pasing.de
+    url: http://www.gruene-muenchen-pasing.de/
 ---
 city: Ramersdorf-Perlach
 country: DE
@@ -78,7 +78,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-schwabing.de
+    url: http://www.gruene-schwabing.de/
 ---
 city: Sendling
 country: DE
@@ -88,7 +88,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-muenchen-sendling.de
+    url: http://www.gruene-muenchen-sendling.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.sendling.westpark/
 ---
@@ -110,7 +110,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-muenchen-westend.de
+    url: http://www.gruene-muenchen-westend.de/
 ---
 city: Zentral
 country: DE
@@ -120,4 +120,4 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-muenchen-zentral.de
+    url: http://www.gruene-muenchen-zentral.de/

@@ -18,7 +18,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-dormagen.de
+    url: http://www.gruene-dormagen.de/
 ---
 city: Grevenbroich
 country: DE
@@ -28,7 +28,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-gv.de/verband
+    url: http://gruene-gv.de/verband/
 ---
 city: Kaarst
 country: DE
@@ -38,7 +38,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-kaarst.de
+    url: http://www.gruene-kaarst.de/
 ---
 city: Korschenbroich
 country: DE
@@ -48,7 +48,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-korschenbroich.de
+    url: http://www.gruene-korschenbroich.de/
 ---
 city: Meerbusch
 country: DE
@@ -58,7 +58,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-meerbusch.de
+    url: http://www.gruene-meerbusch.de/
 ---
 city: Neuss
 country: DE
@@ -88,4 +88,4 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-rommerskirchen.de
+    url: http://gruene-rommerskirchen.de/

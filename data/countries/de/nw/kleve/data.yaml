@@ -152,7 +152,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-rheurdt.de
+    url: http://www.gruene-rheurdt.de/
 ---
 city: Weeze
 country: DE

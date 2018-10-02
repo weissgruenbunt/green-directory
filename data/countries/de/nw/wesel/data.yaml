@@ -22,7 +22,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-alpen.de
+    url: http://www.gruene-alpen.de/
 ---
 city: Dinslaken
 country: DE
@@ -32,7 +32,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-dinslaken.de
+    url: http://www.gruene-dinslaken.de/
 ---
 city: Voerde
 country: DE
@@ -42,7 +42,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-voerde.de
+    url: http://www.gruene-voerde.de/
 ---
 city: Hamminkeln
 country: DE
@@ -52,7 +52,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-hamminkeln.de
+    url: http://www.gruene-hamminkeln.de/
 ---
 city: Kamp-Lintfort
 country: DE
@@ -62,7 +62,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-kamp-lintfort.de/
+    url: https://www.gruene-kamp-lintfort.de/
 ---
 city: Moers
 country: DE
@@ -72,7 +72,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-moers.de
+    url: http://www.gruene-moers.de/
 ---
 city: Neukirchen-Vluyn
 country: DE
@@ -82,7 +82,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-nv.de
+    url: http://www.gruene-nv.de/
 ---
 city: Rheinberg
 country: DE
@@ -102,7 +102,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-schermbeck.de
+    url: http://www.gruene-schermbeck.de/
 ---
 city: Sonsbeck
 country: DE
@@ -112,7 +112,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-sonsbeck.de
+    url: http://www.gruene-sonsbeck.de/
 ---
 city: Hünxe
 country: DE
@@ -122,7 +122,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-huenxe.de
+    url: http://gruene-huenxe.de/
 ---
 city: Wesel
 country: DE
@@ -142,4 +142,4 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-xanten.de
+    url: http://www.gruene-xanten.de/

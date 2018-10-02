@@ -20,7 +20,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-castrop-rauxel.de
+    url: http://www.gruene-castrop-rauxel.de/
 ---
 city: Datteln
 country: DE
@@ -30,7 +30,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-datteln.de
+    url: http://www.gruene-datteln.de/
 ---
 city: Dorsten
 country: DE
@@ -40,7 +40,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-dorsten.de
+    url: http://www.gruene-dorsten.de/
 ---
 city: Gladbeck
 country: DE
@@ -50,7 +50,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-gladbeck.de
+    url: http://www.gruene-gladbeck.de/
 ---
 city: Haltern
 country: DE
@@ -60,7 +60,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-haltern.de
+    url: http://www.gruene-haltern.de/
 ---
 city: Herten
 country: DE
@@ -70,7 +70,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-herten.de
+    url: http://www.gruene-herten.de/
 ---
 city: Oer-Erkenschwick
 country: DE
@@ -80,7 +80,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-oe.de
+    url: http://www.gruene-oe.de/
 ---
 city: Recklinghausen
 country: DE
@@ -90,7 +90,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-recklinghausen.de
+    url: http://www.gruene-recklinghausen.de/
 ---
 city: Waltrop
 country: DE
@@ -100,7 +100,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.die-gruenen-waltrop.de
+    url: http://www.die-gruenen-waltrop.de/
 ---
 city: Marl
 country: DE
@@ -110,4 +110,4 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-marl.com
+    url: http://www.gruene-marl.com/

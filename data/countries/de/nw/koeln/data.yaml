@@ -42,7 +42,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruenekoeln.de/bezirke/bezirk9/aktuelles.html
+    url: https://www.gruenekoeln.de/bezirke/bezirk9/aktuelles-und-termine.html
 ---
 city: Köln-Nippes
 country: DE
