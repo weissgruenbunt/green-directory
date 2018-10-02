@@ -76,7 +76,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-nuernberger-land.de/winkelha
+    url: https://gruene-nuernberger-land.de/ortsverbaende/ov-winkelhaid/
 ---
 city: Röthenbach
 country: DE
@@ -86,4 +86,4 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-roethenbach.de
+    url: https://gruene-nuernberger-land.de/ortsverbaende/ov-roethenbachpegnitz/
