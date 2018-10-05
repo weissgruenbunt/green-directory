@@ -1,0 +1,23 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Schleswig-Flensburg
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-sl-fl.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneslfl/
+emails:
+  - address: info@gruene-sl-fl.de
+---
+city: Kappeln
+country: DE
+district: Schleswig-Flensburg
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene.w3nodi.net

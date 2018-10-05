@@ -3,123 +3,125 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Schleswig-Holstein
-district: Stormarn
+district: Rendsburg-Eckernförde
 urls:
   - type: WEBSITE
-    url: https://gruene-stormarn.de/
+    url: http://gruene-rendsburg-eckernfoerde.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/Gruene.Stormarn/
+    url: https://www.facebook.com/GruneRdEck/
+  - type: TWITTER
+    url: https://twitter.com/GrueneKreisRD
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grune_kreis_rd/
 emails:
-  - address: kv.stormarn@gruene.de
+  - address: kreisgeschaeftsstelle@gruene-rd-eck.de
 ---
-city: Ahrensburg
+city: Flintbek
 country: DE
-district: Stormarn
+district: Rendsburg-Eckernförde
 level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-ahrensburg.de/
+    url: https://www.gruene-flintbek.de/
 ---
-city: Bad Oldesloe
+city: Altenholz
 country: DE
-district: Stormarn
+district: Rendsburg-Eckernförde
 level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-bad-oldesloe.de/
+    url: http://www.gruene-altenholz.de/
 ---
-city: Reinbek
+city: Eckernförde
 country: DE
-district: Stormarn
+district: Rendsburg-Eckernförde
 level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-reinbek.de/
+    url: http://gruene-eckernfoerde.de/
 ---
-city: Glinde
+city: Bordesholm
 country: DE
-district: Stormarn
+district: Rendsburg-Eckernförde
 level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-glinde.de/
+    url: https://gruene-bordesholm.de/
 ---
-city: Trittau
+city: Felde
 country: DE
-district: Stormarn
+district: Rendsburg-Eckernförde
 level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-trittau.de/
+    url: https://gruene-felde.de/
 ---
-city: Tangstedt
+city: Gettorf
 country: DE
-district: Stormarn
+district: Rendsburg-Eckernförde
 level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-tangstedt.de/
+    url: https://gruene-gettorf.de/
 ---
-city: Ammersbek
+city: Kronshagen
 country: DE
-district: Stormarn
+district: Rendsburg-Eckernförde
 level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.grueneammersbek.de/
+    url: http://gruene-kronshagen.de/
 ---
-city: Barsbüttel
+city: Molfsee
 country: DE
-district: Stormarn
+district: Rendsburg-Eckernförde
 level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-barsbuettel.de/
+    url: http://gruene-molfsee.de/
 ---
-city: Bargteheide
+city: Nortorf
 country: DE
-district: Stormarn
+district: Rendsburg-Eckernförde
 level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-bargteheide.de/
+    url: http://xn--grne-nortorf-elb.de/
 ---
-city: Reinfeld-Nordstormarn
+city: Quarnbek
 country: DE
-district: Stormarn
+district: Rendsburg-Eckernförde
 level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-reinfeld-nordstormarn.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneReinfeldNordstormarn
+    url: https://gruene-quarnbek.jimdo.com/
 ---
-city: Großhansdorf
+city: Rendsburg
 country: DE
-district: Stormarn
+district: Rendsburg-Eckernförde
 level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-grosshansdorf.de/
+    url: http://gruene-rd.de/

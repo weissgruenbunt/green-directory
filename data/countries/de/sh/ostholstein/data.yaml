@@ -1,0 +1,75 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Ostholstein
+urls:
+  - type: WEBSITE
+    url: https://gruene-oh.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneOstholstein
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_ostholstein/
+emails:
+  - address: kreisverband@gruene-oh.de
+---
+city: Eutin
+country: DE
+district: Ostholstein
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-eutin.de/
+---
+city: Stockelsdorf
+country: DE
+district: Ostholstein
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-stockelsdorf.de/
+---
+city: Timmendorfer Strand
+country: DE
+district: Ostholstein
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-timmendorfer-strand.de/
+---
+city: Bosau
+country: DE
+district: Ostholstein
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bosau.de/
+---
+city: Fehmarn
+country: DE
+district: Ostholstein
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-fehmarn.de/
+---
+city: Malente
+country: DE
+district: Ostholstein
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-malente.de/

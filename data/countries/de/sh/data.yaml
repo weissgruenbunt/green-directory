@@ -78,9 +78,9 @@ state: Schleswig-Holstein
 district: Herzogtum Lauenburg
 urls:
   - type: WEBSITE
-    url: http://gruene-kv-lauenburg.de
+    url: https://gruene-kv-lauenburg.de/home-aktuelles/
   - type: FACEBOOK
-    url: http://www.facebook.com/grune.herzogtumlauenburg
+    url: https://www.facebook.com/grune.herzogtumlauenburg
   - type: TWITTER
     url: https://twitter.com/gruenelauenburg
 emails:
@@ -132,78 +132,3 @@ urls:
     url: http://www.facebook.com/gruene.nms
   - type: TWITTER
     url: https://twitter.com/gruene_nms
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Schleswig-Holstein
-district: Nordfriesland
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-nf.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruene.nordfriesland/
-  - type: TWITTER
-    url: https://twitter.com/GrueneNF
-emails:
-  - address: kv-nordfriesland@sh-gruene.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Schleswig-Holstein
-district: Ostholstein
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-oh.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneOstholstein
-  - type: INSTAGRAM
-    url: https://www.instagram.com/gruene_ostholstein/
-emails:
-  - address: kreisverband@gruene-oh.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Schleswig-Holstein
-district: Pinneberg
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-pi.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GruenePi
-  - type: TWITTER
-    url: https://twitter.com/GruenePinneberg
-emails:
-  - address: kv.pinneberg@gruene.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Schleswig-Holstein
-district: Rendsburg-Eckernförde
-urls:
-  - type: WEBSITE
-    url: http://gruene-rendsburg-eckernfoerde.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GruneRdEck/
-  - type: TWITTER
-    url: https://twitter.com/GrueneKreisRD
-  - type: INSTAGRAM
-    url: https://www.instagram.com/grune_kreis_rd/
-emails:
-  - address: kreisgeschaeftsstelle@gruene-rd-eck.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Schleswig-Holstein
-district: Schleswig-Flensburg
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-sl-fl.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/grueneslfl/
-emails:
-  - address: info@gruene-sl-fl.de

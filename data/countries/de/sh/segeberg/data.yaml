@@ -33,3 +33,23 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://gruene-norderstedt.de/
+---
+city: Alveslohe
+country: DE
+district: Segeberg
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-alveslohe.de/
+---
+city: Trave-Land
+country: DE
+district: Segeberg
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-trave-land.de/

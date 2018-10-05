@@ -1,0 +1,49 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Nordfriesland
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-nf.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.nordfriesland/
+  - type: TWITTER
+    url: https://twitter.com/GrueneNF
+emails:
+  - address: kv-nordfriesland@sh-gruene.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Nordfriesland
+city: Föhr-Amrum
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-foehr-amrum.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Nordfriesland
+city: Sylt
+urls:
+  - type: WEBSITE
+    url: https://gruene-sylt.de/
+emails:
+  - address: info@gruene-sylt.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Schleswig-Holstein
+district: Nordfriesland
+city: Nordstrand
+urls:
+  - type: WEBSITE
+    url: https://gruene-nordstrand2.webnode.com/
+emails:
+  - address: summsumm@gruene-nordstrand.de

@@ -3,123 +3,133 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Schleswig-Holstein
-district: Stormarn
+district: Pinneberg
 urls:
   - type: WEBSITE
-    url: https://gruene-stormarn.de/
+    url: https://www.gruene-pi.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/Gruene.Stormarn/
+    url: https://www.facebook.com/GruenePi
+  - type: TWITTER
+    url: https://twitter.com/GruenePinneberg
 emails:
-  - address: kv.stormarn@gruene.de
+  - address: kv.pinneberg@gruene.de
 ---
-city: Ahrensburg
+city: Halstenbek
 country: DE
-district: Stormarn
+district: Pinneberg
 level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-ahrensburg.de/
+    url: https://gruene-halstenbek.de/
 ---
-city: Bad Oldesloe
+city: Pinneberg
 country: DE
-district: Stormarn
+district: Pinneberg
 level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-bad-oldesloe.de/
+    url: https://gruene-pinneberg.de/
 ---
-city: Reinbek
+city: Schenefeld
 country: DE
-district: Stormarn
+district: Pinneberg
 level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-reinbek.de/
+    url: https://gruene-schenefeld.de/
 ---
-city: Glinde
+city: Tornesch
 country: DE
-district: Stormarn
+district: Pinneberg
 level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-glinde.de/
+    url: https://gruene-tornesch.de/
 ---
-city: Trittau
+city: Uetersen
 country: DE
-district: Stormarn
+district: Pinneberg
 level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-trittau.de/
+    url: https://gruene-uetersen.de/
 ---
-city: Tangstedt
+city: Wedel
 country: DE
-district: Stormarn
+district: Pinneberg
 level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-tangstedt.de/
+    url: https://www.gruene-wedel.de/
 ---
-city: Ammersbek
+city: Barmstedt
 country: DE
-district: Stormarn
+district: Pinneberg
 level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.grueneammersbek.de/
+    url: https://www.gruene-barmstedt-umland.de/
 ---
-city: Barsbüttel
+city: Bönningstedt
 country: DE
-district: Stormarn
+district: Pinneberg
 level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-barsbuettel.de/
+    url: https://gruene-boenningstedt.de/
 ---
-city: Bargteheide
+city: Elmshorn
 country: DE
-district: Stormarn
+district: Pinneberg
 level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-bargteheide.de/
+    url: https://www.gruene-elmshorn.de/
 ---
-city: Reinfeld-Nordstormarn
+city: Heidgraben
 country: DE
-district: Stormarn
+district: Pinneberg
 level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-reinfeld-nordstormarn.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneReinfeldNordstormarn
+    url: https://gruene-heidgraben.de/
 ---
-city: Großhansdorf
+city: Quickborn
 country: DE
-district: Stormarn
+district: Pinneberg
 level: DE:ORTSVERBAND
 state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-grosshansdorf.de/
+    url: https://www.gruene-quickborn.de/
+---
+city: Rellingen
+country: DE
+district: Pinneberg
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-rellingen.de/
