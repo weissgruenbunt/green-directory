@@ -37,3 +37,22 @@ urls:
     url: https://de.wikipedia.org/wiki/Gr%C3%BCne_Jugend
 emails:
   - address: buero@gruene-jugend.de
+---
+type: PERSON
+country: DE
+name: Ska Keller
+family_name: Keller
+given_name: Ska
+urls:
+  - type: WEBSITE
+    url: https://www.skakeller.de/
+  - type: TWITTER
+    url: https://twitter.com/SkaKeller
+  - type: FACEBOOK
+    url: https://www.facebook.com/SkaKellerMEP/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/skakeller/
+  - type: WIKIPEDIA
+    url: https://de.wikipedia.org/wiki/Ska_Keller
+emails:
+  - address: ska.keller@europarl.europa.eu
