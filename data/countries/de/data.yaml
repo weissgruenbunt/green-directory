@@ -39,7 +39,6 @@ emails:
   - address: buero@gruene-jugend.de
 ---
 type: PERSON
-country: DE
 name: Ska Keller
 family_name: Keller
 given_name: Franziska
