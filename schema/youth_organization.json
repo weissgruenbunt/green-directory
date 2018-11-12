@@ -1,0 +1,78 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/netzbegruenung/green-directory/blob/master/schema/party.json",
+  "title": "Youth Organization",
+  "description": "Youth organization of a political party",
+  "type": "object",
+  "properties": {
+    "type": {
+      "type": "string",
+      "description": "Type name, indicating which schema to use for validation.",
+      "const": "YOUTH_ORGANIZATION"
+    },
+    "level": {
+      "type": "string",
+      "description": "Regional level indicator.",
+      "enum": ["DE:BUNDESVERBAND", "DE:LANDESVERBAND", "DE:REGIONALVERBAND", "DE:KREISVERBAND", "DE:BEZIRKSVERBAND", "DE:ORTSVERBAND"]
+    },
+    "country": {
+      "type": "string",
+      "description": "Two-letter country code of the country the party is registered in, according to ISO 3166-1 alpha-2."
+    },
+    "state": {
+      "type": "string",
+      "description": "Federal state or province the regional chapter is active in."
+    },
+    "district": {
+      "type": "string",
+      "description": "District the regional chapter is active in."
+    },
+    "city": {
+      "type": "string",
+      "description": "City a regional chapter is active in."
+    },
+    "region": {
+      "type": "string",
+      "description": "Region a regional chapter is active in (where neither district nor state fit)."
+    },
+    "urls": {
+      "type": "array",
+      "description": "URLs for this party, for websites, social media accounts, or other resources.",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "description": "URL kind identifier, like WEBSITE, FACEBOOK, ..."
+          },
+          "url": {
+            "type": "string",
+            "description": "A fully qualified URL.",
+            "pattern": "^(http|https)://[\\.a-z-]+[a-zA-Z0-9\\./\\_\\-\\+\\%\\#\\@]*$"
+          }
+        },
+        "required": ["type", "url"]
+      }
+    },
+    "emails": {
+      "type": "array",
+      "description": "Email contact information.",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "properties": {
+          "address": {
+            "type": "string",
+            "pattern": "^.+@.+$"
+          }
+        },
+        "required": ["address"]
+      }
+    }
+  },
+  "required": ["type"],
+  "additionalProperties": false
+}

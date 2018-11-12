@@ -1,27 +1,46 @@
 import os
 
-from pykwalify.core import Core
+from jsonschema import validate
 import json
 import sys
 import yaml
 
+# Folder to contain our JSON schema
+schema_folder = "schema"
 
-schemaFile = "validate/schema.yaml"
+# Folder containing our data
+data_folder = "data"
 
+# Dicts which we will use to detect uniqueness across the entire database
 doc_unique_keys = set()
 emails = set()
 urls = set()
 
+# Will hold our JSON schemas
+schemas = {}
+
+
 def main():
-    for root, _, files in os.walk("./data"):
+    # load schemas
+    for root, _, files in os.walk(schema_folder):
+        for f in files:
+            # Expecting <typename>.json as file name
+            (typename, _) = f.split('.')
+            path = os.path.join(root, f)
+            with open(path, 'r') as jsonfile:
+                schema = json.load(jsonfile)
+                schemas[typename] = schema
+
+    # Walk through data for validation
+    for root, _, files in os.walk(data_folder):
         for f in files:
             path = os.path.join(root, f)
-            checkFile(path)
+            check_file(path, schemas)
+
 
 def unique_doc_key(doc):
     """
-    Derives a key allowing for uniqueness check
-    from a document
+    Creates a key that allows to check for record uniqueness
     """
     keyparts = [doc['type']]
 
@@ -32,17 +51,26 @@ def unique_doc_key(doc):
     key = json.dumps(keyparts)
     return key
 
-def checkFile(path):
+
+def validate_entry_schema(entry, schemas):
     """
-    Validate one file
+    Validate one record against the specific JSON schema.
+    Raises a ValidationError is not valid.
+    """
+    validate(entry, schemas[entry['type'].lower()])
+
+
+def check_file(path, schemas):
+    """
+    Validate all documents in a YAML file against our schemas
     """
     with open(path, 'r') as yamlfile:
         contents = yaml.load_all(yamlfile)
+
         for i, doc in enumerate(contents):
-            c = Core(source_data=doc, schema_files=[schemaFile])
 
             try:
-                c.validate(raise_exception=True)
+                validate_entry_schema(doc, schemas)
             except Exception as e:
                 print("Schema validation error in {} entry {}".format(path, i))
                 raise e
