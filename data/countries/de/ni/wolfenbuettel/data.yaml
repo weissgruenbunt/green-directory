@@ -1,0 +1,58 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Wolfenbüttel
+urls:
+  - type: WEBSITE
+    url: https://www.xn--grne-wf-o2a.de/
+---
+type: YOUTH_ORGANIZATION
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Wolfenbüttel
+urls:
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenejugendwf
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Wolfenbüttel
+city: Cremlingen
+urls:
+  - type: WEBSITE
+    url: https://gruene-cremlingen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Wolfenbüttel
+city: Elm-Asse-Fallstein
+urls:
+  - type: WEBSITE
+    url: https://gruene-eaf.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Wolfenbüttel
+city: Sickte
+urls:
+  - type: WEBSITE
+    url: https://gruene-sickte.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Wolfenbüttel
+city: Wolfenbüttel
+urls:
+  - type: WEBSITE
+    url: http://gruene-wolfenbuettel.de/

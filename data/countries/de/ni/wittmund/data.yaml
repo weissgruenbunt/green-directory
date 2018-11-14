@@ -1,0 +1,63 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Wittmund
+urls:
+  - type: WEBSITE
+    url: https://gruene-wittmund.de/
+  - type: TWITTER
+    url: https://twitter.com/ullimaus87
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneLandkreisWittmund/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Wittmund
+city: Wittmund
+urls:
+  - type: WEBSITE
+    url: https://gruene-wittmund.de/wittmund/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Wittmund
+city: Langeoog
+urls:
+  - type: WEBSITE
+    url: https://gruene-wittmund.de/langeoog/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Wittmund
+city: Holtriem
+urls:
+  - type: WEBSITE
+    url: https://gruene-wittmund.de/category/holtriem/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Wittmund
+city: Esens
+urls:
+  - type: WEBSITE
+    url: https://gruene-wittmund.de/category/ov-esens/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Wittmund
+city: Friedeburg
+urls:
+  - type: WEBSITE
+    url: https://gruene-wittmund.de/friedeburg/
