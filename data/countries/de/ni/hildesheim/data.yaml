@@ -1,0 +1,38 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Hildesheim
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-hildesheim.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/HIgruen
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hildesheim
+city: Nordstemmen
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-hildesheim.de/kreisverband/ortsverband-nordstemmen/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hildesheim
+city: Hildesheim Südkreis
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-hildesheim.de/kreisverband/ortsverband-suedlicher-landkreis/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hildesheim
+city: Hildesheim

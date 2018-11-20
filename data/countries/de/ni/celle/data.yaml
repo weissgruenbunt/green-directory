@@ -1,0 +1,59 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Celle
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-celle.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Celle
+city: Winsen (Aller)/Wietze/Hambühren
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-celle.de/ortsverbaende/winsen-allerwietzehambuehren/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Celle
+city: Wathlingen/Flotwedel
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-celle.de/ortsverbaende/wathlingen-flotwedel/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Celle
+city: Eschede/Lachendorf
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-celle.de/ortsverbaende/eschedelachendorf/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Celle
+city: Celle
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-celle.de/ortsverbaende/stadtverband-celle/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Celle
+city: Nordkreis
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-nordkreis.de/

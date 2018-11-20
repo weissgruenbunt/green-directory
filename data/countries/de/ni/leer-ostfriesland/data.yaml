@@ -1,0 +1,46 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Leer/Ostfriesland
+urls:
+  - type: WEBSITE
+    url: https://gruene-leer.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gruene.Leer/
+  - type: TWITTER
+    url: https://twitter.com/GrueneLeer
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_leer/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Leer/Ostfriesland
+city: Rheiderland
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Leer/Ostfriesland
+city: Overledingerland
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Leer/Ostfriesland
+city: Moormerland
+urls:
+  - type: WEBSITE
+    url: https://gruene-moormerland.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Leer/Ostfriesland
+city: Leer

@@ -1,0 +1,80 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Cuxhaven
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-kv-cuxhaven.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Cuxhaven
+city: Schiffdorf-Loxstedt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-loxstedt-schiffdorf.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%9CNDNIS-90-DIE-GR%C3%9CNEN-OV-Loxstedt-Schiffdorf-153948451351406/
+  - type: TWITTER
+    url: https://twitter.com/Bd90_Lox_Schiff
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Cuxhaven
+city: Hemmoor-Lamstedt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hemmoor.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Cuxhaven
+city: Hagen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hagen-cux.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Cuxhaven
+city: Hadeln/Dobrock
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Cuxhaven
+city: Cuxhaven
+urls:
+  - type: WEBSITE
+    url: https://www.cux-gruene.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Cuxhaven
+city: Beverstedt
+urls:
+  - type: WEBSITE
+    url: http://gruene-beverstedt.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Cuxhaven
+city: Bederkesa-Langen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bederkesa.de/

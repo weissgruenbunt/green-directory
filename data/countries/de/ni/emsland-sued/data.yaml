@@ -1,0 +1,29 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Emsland-Süd
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-els.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Emsland-Süd
+city: Meppen
+urls:
+  - type: WEBSITE
+    url: http://die-gruenen-meppen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Emsland-Süd
+city: Lingen
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-els.de/lingen/

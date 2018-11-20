@@ -1,0 +1,59 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Oldenburg-Land
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-oldenburg-land.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Oldenburg-Land
+city: Ganderkesee
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-oldenburg-land.de/ov-ganderkesee/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Oldenburg-Land
+city: Harpsted
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-oldenburg-land.de/ov-harpstedt/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Oldenburg-Land
+city: Hude
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-oldenburg-land.de/ov-hude/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Oldenburg-Land
+city: Wardenburg
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-oldenburg-land.de/ov-wardenburg/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Oldenburg-Land
+city: Wildeshausen
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-oldenburg-land.de/ov-wildeshausen/

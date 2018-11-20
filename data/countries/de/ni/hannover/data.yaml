@@ -1,0 +1,251 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-hannover.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.hannover
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Wunstorf
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-wunstorf.com/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Wennigsen
+urls:
+  - type: WEBSITE
+    url: https://gruene-wennigsen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.wennigsen/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Wedemark
+urls:
+  - type: WEBSITE
+    url: https://gruene-wedemark.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Uetze
+urls:
+  - type: WEBSITE
+    url: https://gruene-uetze.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Springe
+urls:
+  - type: WEBSITE
+    url: https://gruene-springe.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Sehnde
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-sehnde.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Seelze
+urls:
+  - type: WEBSITE
+    url: https://gruene-seelze.de/
+  - type: TWITTER
+    url: https://twitter.com/GrueneSeelze
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Ronnenberg
+urls:
+  - type: WEBSITE
+    url: https://gruene-ronnenberg.de/home/
+  - type: TWITTER
+    url: https://twitter.com/GrueneRonnenber
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneRonnenberg/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Pattensen
+urls:
+  - type: WEBSITE
+    url: https://gruene-pattensen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/groups/219648165081160/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Neustadt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-nrue.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Lehrte
+urls:
+  - type: WEBSITE
+    url: https://gruene-lehrte.de/
+  - type: TWITTER
+    url: https://twitter.com/GrueneLehrte
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Lehrte-171045921199
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/GrueneLehrte
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Langenhagen
+urls:
+  - type: WEBSITE
+    url: https://gruene-langenhagen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Laatzen
+urls:
+  - type: WEBSITE
+    url: https://gruene-laatzen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Isernhagen
+urls:
+  - type: WEBSITE
+    url: https://gruene-isernhagen.de/
+  - type: TWITTER
+    url: https://twitter.com/B90Gr_Ishg
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gruene.Isernhagen
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Hemmingen
+urls:
+  - type: WEBSITE
+    url: https://gruene-hemmingen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneHemmingen/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Hannover
+urls:
+  - type: WEBSITE
+    url: https://stadtverband-gruene-hannover.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.hannover/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Gehrden
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-gehrden.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.gehrden
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Garbsen
+urls:
+  - type: WEBSITE
+    url: https://gruene-garbsen.de/
+  - type: WEBSITE
+    url: https://www.facebook.com/Gruene.Garbsen/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Burgwedel
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-burgwedel.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Burgdorf
+urls:
+  - type: WEBSITE
+    url: https://gruene-burgdorf.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hannover
+city: Barsinghausen
+urls:
+  - type: WEBSITE
+    url: https://gruene-barsinghausen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.basche

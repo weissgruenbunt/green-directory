@@ -1,0 +1,75 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Ammerland
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-ammerland.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Ammerland
+city: Apen
+urls:
+  - type: WEBSITE
+    url: http://gruene-apen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Ammerland
+city: Bad Zwischenahn
+urls:
+  - type: WEBSITE
+    url: http://gruene-zwischenahn.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Ammerland
+city: Edewecht
+urls:
+  - type: WEBSITE
+    url: https://gruene-edewecht.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/pages/Bundnis-90Die-Grunen-Edewecht/165214920197866
+  - type: TWITTER
+    url: https://www.twitter.com/GrueneEdewecht
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Ammerland
+city: Rastede
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-rastede.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.rastede
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Ammerland
+city: Westerstede
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-wst.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Ammerland
+city: Wiefelstede
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-wiefelstede.de/home/

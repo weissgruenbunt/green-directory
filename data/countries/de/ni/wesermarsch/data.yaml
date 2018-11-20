@@ -1,0 +1,29 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Wesermarsch
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-wesermarsch.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Wesermarsch
+city: Wesermarsch-Mitte
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-wesermarsch.de/ov-mitte/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Wesermarsch
+city: Berne/Lemwerder
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-wesermarsch.de/ov-bernelemwerder/

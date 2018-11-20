@@ -1,0 +1,100 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Lüneburg
+urls:
+  - type: WEBSITE
+    url: https://gruene-lueneburg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneLueneburg/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene.lueneburg/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Lüneburg
+city: Scharnebeck/Adendorf
+urls:
+  - type: WEBSITE
+    url: https://gruene-lueneburg.de/ortsverbaende/scharnebeckadendorf/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Lüneburg
+city: Ostheide
+urls:
+  - type: WEBSITE
+    url: https://gruene-lueneburg.de/ortsverbaende/ostheide/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Lüneburg
+city: Lüneburg
+urls:
+  - type: WEBSITE
+    url: https://gruene-lueneburg.de/ortsverbaende/lueneburg/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Lüneburg
+city: Ilmenau
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Lüneburg
+city: Gellersen
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-gellersen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Lüneburg
+city: Dahlenburg
+urls:
+  - type: WEBSITE
+    url: https://gruene-lueneburg.de/ortsverbaende/dahlenburg/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Lüneburg
+city: Bleckede
+urls:
+  - type: WEBSITE
+    url: https://gruene-lueneburg.de/ortsverbaende/bleckede/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Lüneburg
+city: Bardowick
+urls:
+  - type: WEBSITE
+    url: https://gruene-lueneburg.de/ortsverbaende/bardowick/gruene-in-bardowick/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Lüneburg
+city: Amelinghausen
+urls:
+  - type: WEBSITE
+    url: http://gruene-amelinghausen.de/

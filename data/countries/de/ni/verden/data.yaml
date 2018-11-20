@@ -1,0 +1,69 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Verden
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-verden.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Verden
+city: Achim
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-verden.de/ortsverbande/ortsverband-achim/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Verden
+city: Kirchlinteln
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-verden.de/ortsverbande/kirchlinteln/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Verden
+city: Ottersberg/Fischerhude
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ottersberg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Verden
+city: Oyten
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-oyten.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Verden
+city: Verden
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-verden.de/ortsverbande/ortsverband-verden/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Verden
+city: Dörverden
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-doerverden.de/

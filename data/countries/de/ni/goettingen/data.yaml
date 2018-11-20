@@ -1,0 +1,137 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-goettingen.de/startseite/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.gottingen/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grunegottingen/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+city: Untereichsfeld
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-goettingen.de/ortsverbaende/ov-untereichsfeld-duderstadt/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+city: Staufenberg
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-goettingen.de/ortsverbaende/ov-staufenberg/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+city: Rosdorf
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-rosdorf.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Die.Gruenen.Rosdorf/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+city: Radolfshausen
+urls:
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneradolfshausen/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+city: Altkreis Osterode am Harz
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-osterode.de/
+  - type: FACBOOK
+    url: https://www.facebook.com/grueneoha/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+city: Hann.-Münden
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-goettingen.de/ortsverbaende/ov-hann-muenden/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+city: Göttingen
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-goettingen.de/stadtverband/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+city: Gleichen
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-gleichen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+city: Friedland
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-goettingen.de/ortsverbaende/ov-friedland/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+city: Dransfeld
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-goettingen.de/ortsverbaende/ov-dransfeld/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+city: Bovenden
+urls:
+  - type: WEBSITE
+    url: https://gruene-bovenden.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Göttingen
+city: Adelebsen
+urls:
+  - type: WEBSITE
+    url: http://gruene-adelebsen.de/

@@ -1,0 +1,106 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Nienburg
+urls:
+  - type: WEBSITE
+    url: https://gruene-nienburg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Nienburg
+city: Heemsen
+urls:
+  - type: WEBSITE
+    url: https://gruene-nienburg.de/ortsverband-heemsen/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Nienburg
+city: Hoya
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-hoya.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Nienburg
+city: Liebenau
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Nienburg
+city: Marklohe
+urls:
+  - type: WEBSITE
+    url: https://gruene-nienburg.de/ortsverband-marklohe/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Nienburg
+city: Mittelweser
+urls:
+  - type: WEBSITE
+    url: https://gruene-nienburg.de/ortsverband-mittelweser/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Nienburg
+city: Nienburg
+urls:
+  - type: WEBSITE
+    url: https://gruene-nienburg.de/ortsverband-nienburg/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Nienburg
+city: Rehburg-Loccum
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-rehburg-loccum.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Nienburg
+city: Steimbke
+urls:
+  - type: WEBSITE
+    url: https://gruene-nienburg.de/ortsverband-steimbke/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Nienburg
+city: Uchte
+urls:
+  - type: WEBSITE
+    url: https://gruene-nienburg.de/ortsverband-uchte/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Nienburg
+city: Steyerberg
+urls:
+  - type: WEBSITE
+    url: https://gruene-nienburg.de/ortsverband-steyerberg/

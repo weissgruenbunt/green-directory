@@ -1,0 +1,87 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Rotenburg/Wümme
+urls:
+  - type: WEBSITE
+    url: https://gruene-kv-rotenburg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Rotenburg/Wümme
+city: Bremervörde
+urls:
+  - type: WEBSITE
+    url: https://gruene-bremervoerde.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Rotenburg/Wümme
+city: Fintel
+urls:
+  - type: WEBSITE
+    url: https://gruene-sg-fintel.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/SGFintel
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Rotenburg/Wümme
+city: Rotenburg/Wümme
+urls:
+  - type: WEBSITE
+    url: https://www.rotenburger-gruene.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Rotenburg/Wümme
+city: Scheeßel
+urls:
+  - type: WEBSITE
+    url: https://diegruenen-scheessel.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Schee%C3%9Fel-712682232214040/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Rotenburg/Wümme
+city: Sottrum
+urls:
+  - type: WEBSITE
+    url: https://gruene-sottrum.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneSottrum/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Rotenburg/Wümme
+city: Visselhövede
+urls:
+  - type: WEBSITE
+    url: https://gruene-kv-rotenburg.de/ortsverbaende/ov-visselhoevede/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Rotenburg/Wümme
+city: Zeven
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-zeven.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Zeven-238816379495419/

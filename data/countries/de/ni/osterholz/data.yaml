@@ -1,0 +1,61 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Osterholz
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-osterholz.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osterholz
+city: Grasberg
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-osterholz.de/ortsverbaende/ortsverband-grasberg/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osterholz
+city: Lilienthal
+urls:
+  - type: WEBSITE
+    url: https://gruene-lilienthal.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B90-Gr%C3%BCne-OV-Lilienthal-805604982907448/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osterholz
+city: Osterholz-Scharmbeck
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-osterholz.de/ortsverbaende/ortsverband-osterholz-scharmbeck/stadt/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osterholz
+city: Ritterhude
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-osterholz.de/ortsverbaende/ortsverband-ritterhude/home/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osterholz
+city: Schwanewede
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-osterholz.de/ortsverbaende/ortsverband-schwanewede/home/

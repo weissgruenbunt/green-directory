@@ -1,0 +1,59 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Peine
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-peine.de/kreisverband/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Peine
+city: Edemissen
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-peine.de/vor-ort-die-ortsverbaende/edemissen/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Peine
+city: Fuhsetal
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-peine.de/vor-ort-die-ortsverbaende/fuhsetal-ilsede-und-lengede/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Peine
+city: Hohenhameln
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-peine.de/vor-ort-die-ortsverbaende/hohenhameln/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Peine
+city: Peine
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-peine.de/vor-ort-die-ortsverbaende/peine/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Peine
+city: Vechelde/Wendeburg
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-peine.de/vor-ort-die-ortsverbaende/vechelde/

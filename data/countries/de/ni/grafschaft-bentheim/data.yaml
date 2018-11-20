@@ -1,0 +1,39 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Grafschaft Bentheim
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-grafschaft.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Grafschaft Bentheim
+city: Bad Bentheim
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-grafschaft.de/bad-bentheim/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Grafschaft Bentheim
+city: Nordhorn
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-grafschaft.de/nordhorn/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Grafschaft Bentheim
+city: Schüttorf
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-schuettorf.de/

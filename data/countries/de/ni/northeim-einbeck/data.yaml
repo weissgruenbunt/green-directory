@@ -1,0 +1,41 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Northeim/Einbeck
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-northeim-einbeck.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Northeim/Einbeck
+city: Northeim
+urls:
+  - type: WEBSITE
+    url: https://gruene-northeim.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis90Die-Gr%C3%BCnen-Ortsverband-Northeim-129471280471932/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Northeim/Einbeck
+city: Einbeck
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-northeim-einbeck.de/gruene-vor-ort/einbeck/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Northeim/Einbeck
+city: Dassel
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-northeim-einbeck.de/gruene-vor-ort/dassel/

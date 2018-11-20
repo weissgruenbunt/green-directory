@@ -1,0 +1,223 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+urls:
+  - type: WEBSITE
+    url: https://gruene-os-landkreis.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruen.os
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Artland
+urls:
+  - type: WEBSITE
+    url: https://gruene-artland.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Bad Essen
+urls:
+  - type: WEBSITE
+    url: http://gruene-badessen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Bad Iburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bad-iburg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Bad Laer
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bad-laer.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Bad Rothenfelde
+urls:
+  - type: WEBSITE
+    url: http://gruene-bad-rothenfelde.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Belm
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-belm.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Bersenbrück
+urls:
+  - type: WEBSITE
+    url: http://www.die-gruenen-bsb.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Bissendorf
+urls:
+  - type: WEBSITE
+    url: http://www.die-gruenen-bissendorf.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Bohmte
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bohmte.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Bramsche
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bramsche.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Dissen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-dissen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Fürstenau
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-fuerstenau.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Georgsmarienhütte
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-georgsmarienhuette.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Glandorf
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-os-land.de/start/ortsverbaende/glandorf/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Hagen
+urls:
+  - type: WEBSITE
+    url: http://www.diegrueneninhagenatw.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Hasbergen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-os-land.de/start/ortsverbaende/hasbergen/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Hilter
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hilter.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Melle
+urls:
+  - type: WEBSITE
+    url: https://gruenemelle.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenemelle
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Neuenkirchen
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-os-neuenkirchen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Ostercappeln
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ostercappeln.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Osnabrück-Land
+city: Wallenhorst
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wallenhorst.de/

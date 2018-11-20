@@ -1,0 +1,89 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Stade
+urls:
+  - type: WEBSITE
+    url: https://gruene-kv-stade.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Stade
+city: Buxtehude-Apensen
+urls:
+  - type: WEBSITE
+    url: https://gruene-buxtehude.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Stade
+city: Fredenbeck
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-fredenbeck.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Stade
+city: Harsefeld
+urls:
+  - type: WEBSITE
+    url: https://gruene-harsefeld.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Stade
+city: Himmelpforten/ Oldendorf
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-olhi.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Stade
+city: Horneburg
+urls:
+  - type: WEBSITE
+    url: https://gruene-kv-stade.de/ueber-uns/ortsverbaende/ortsverband-horneburg/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Stade
+city: Jork
+urls:
+  - type: WEBSITE
+    url: https://gruene-jork.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Stade
+city: Lühe
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-luehe.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Stade
+city: Stade
+urls:
+  - type: WEBSITE
+    url: https://gruene-ov-stade.de/

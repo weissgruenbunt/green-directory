@@ -1,0 +1,16 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Emsland-Nord
+urls:
+  - type: WEBSITE
+    url: https://gruene-eln.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Emsland-Nord
+city: Papenburg

@@ -1,0 +1,115 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Harburg-Land
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-kreis-harburg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.harburg.land/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Harburg-Land
+city: Winsen/Luhe-Elbmarsch
+urls:
+  - type: WEBSITE
+    url: http://gruene-winsen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Harburg-Land
+city: Tostedt
+urls:
+  - type: WEBSITE
+    url: http://gruene-tostedt.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Harburg-Land
+city: Stelle
+urls:
+  - type: WEBSITE
+    url: http://gruene-stelle.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Harburg-Land
+city: Seevetal
+urls:
+  - type: WEBSITE
+    url: https://gruene-seevetal.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Harburg-Land
+city: Salzhausen/Hanstedt
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-salzhausen-hanstedt.de/home/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Harburg-Land
+city: Rosengarten
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-rosengarten.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Harburg-Land
+city: Neu Wulmstorf
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-neuwulmstorf.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Harburg-Land
+city: Jesteburg
+urls:
+  - type: WEBSITE
+    url: http://gruene-jesteburg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Harburg-Land
+city: Hollenstedt
+urls:
+  - type: WEBSITE
+    url: https://gruene-hollenstedt.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Harburg-Land
+city: Buchholz
+urls:
+  - type: WEBSITE
+    url: https://gruene-buchholz.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/diebuchholzergruenen/
+  - type: TWITTER
+    url: https://twitter.com/gruenbuchholz

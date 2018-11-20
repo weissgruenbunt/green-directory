@@ -1,0 +1,66 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Aurich-Norden
+urls:
+  - type: WEBSITE
+    url: https://gruene-aurich.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Aurich-Norden
+city: Aurich
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-ov-aurich.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Aurich-Norden
+city: Brookmerland/Hinte/ Südbrookmerland
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-brookmerland-hinte-suedbrookmerland.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Aurich-Norden
+city: Hage
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Aurich-Norden
+city: Krummhörn
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-krummhoern.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Aurich-Norden
+city: Norden
+urls:
+  - type: WEBSITE
+    url: https://gruene-norden.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Aurich-Norden
+city: Norderney
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-norderney.de/

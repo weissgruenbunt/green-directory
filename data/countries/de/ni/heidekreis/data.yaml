@@ -1,0 +1,33 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Heidekreis
+urls:
+  - type: WEBSITE
+    url: https://gruene-heidekreis.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Heidekreis
+city: Walsrode/Bomlitz
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-walsrode.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Heidekreis
+city: Schneverdingen
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Heidekreis
+city: Bad Fallingbostel

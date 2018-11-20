@@ -1,0 +1,89 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Diepholz
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-diepholz.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Diepholz
+city: Weyhe
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-diepholz.de/ortsverbaende-und-ortsgruppen/ortsverband-weyhe/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Diepholz
+city: Syke
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-diepholz.de/ortsverbaende-und-ortsgruppen/ortsverband-syke/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Diepholz
+city: Sulingen
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-diepholz.de/ortsverbaende-und-ortsgruppen/ortsverband-sulingen/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Diepholz
+city: Stuhr
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-diepholz.de/ortsverbaende-und-ortsgruppen/ortsverband-stuhr/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Diepholz
+city: Diepholz
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-diepholz.de/ortsverbaende-und-ortsgruppen/ortsverband-diepholz/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Diepholz
+city: Bruchhausen-Vilsen
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-diepholz.de/ortsverbaende-und-ortsgruppen/ortsverband-bruchhausen-vilsen/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Diepholz
+city: Bassum
+urls:
+  - type: WEBSITE
+    url: https://gruene-bassum.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Diepholz
+city: Barnstorf
+urls:
+  - type: WEBSITE
+    url: http://gruene-barnstorf.de/

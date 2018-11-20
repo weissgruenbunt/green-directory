@@ -1,0 +1,75 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Gifhorn
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-gifhorn.de/
+  - type: TWITTER
+    url: https://twitter.com/GrueneGifhorn
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneGifhorn
+  - type: YOUTUBE
+    url: https://www.youtube.com/channel/UCSgtVxH51hPfdxY4a0s5CRQ
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Gifhorn
+city: SG Brome/ Boldecker Land
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-gifhorn.de/ortsverband/ov-brome_boldecker-land
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Gifhorn
+city: Papenteich
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-gifhorn.de/ortsverband/ov-papenteich/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Gifhorn
+city: Meinersen
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-gifhorn.de/ortsverband/ov-meinersen/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Gifhorn
+city: Isenbüttel
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-gifhorn.de/ortsverband/ov-isenbuettel/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Gifhorn
+city: Hankensbüttel
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-gifhorn.de/ortsverband/ov-hankensbuettel/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Gifhorn
+city: Gifhorn
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-gifhorn.de/ortsverband/gifhorn/

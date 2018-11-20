@@ -1,0 +1,39 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Hameln-Pyrmont
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hameln-pyrmont.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hameln-Pyrmont
+city: Hessisch-Oldendorf
+urls:
+  - type: WEBSITE
+    url: http://wordpress.gruene-hameln-pyrmont.de/category/hessisch-oldendorf-gesamt/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hameln-Pyrmont
+city: Hameln
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hameln-pyrmont.de/category/ortsverband-hameln/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Hameln-Pyrmont
+city: Bad Pyrmont
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hameln-pyrmont.de/category/ortsverband-bad-pyrmont/
