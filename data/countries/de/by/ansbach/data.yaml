@@ -6,7 +6,13 @@ state: Bayern
 district: Ansbach
 urls:
   - type: WEBSITE
-    url: http://www.gruene-ansbach.de
+    url: https://www.gruene-ansbach.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.ansbach
+  - type: TWITTER
+    url: https://twitter.com/GrueneAnsbach
+  - type: YOUTUBE
+    url: https://www.youtube.com/channel/UCWaTOZqECx9c36dCxe2Kp1w
 ---
 city: Dinkelsbühl
 country: DE
