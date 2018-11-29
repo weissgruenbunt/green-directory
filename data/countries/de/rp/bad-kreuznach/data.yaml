@@ -1,0 +1,23 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Bad Kreuznach
+urls:
+  - type: WEBSITE
+    url: https://gruenekreiskh.de/startseite/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-KV-Bad-Kreuznach-180267572509731/
+emails:
+  - address: kv-bad-kreuznach@gruene-rlp.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Bad Kreuznach
+city: Bad Kreuznach
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-bad-kreuznach.de/

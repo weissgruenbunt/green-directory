@@ -45,79 +45,12 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Rheinland-Pfalz
-district: Ahrweiler
-urls:
-  - type: WEBSITE
-    url: https://gruene-aw.de/
-  - type: TWITTER
-    url: https://twitter.com/GrueneAW/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneAW/
-emails:
-  - address: kv-ahrweiler@gruene-rlp.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Rheinland-Pfalz
 district: Altenkirchen
 urls:
   - type: WEBSITE
-    url: http://gruene-ak.de/
+    url: https://gruene-ak.de/
 emails:
   - address: kv-altenkirchen@gruene-rlp.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Rheinland-Pfalz
-district: Alzey-Worms
-urls:
-  - type: WEBSITE
-    url: http://gruene-alzey-worms.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/Bundnis90DieGrunenAlzeyWorms/
-emails:
-  - address: kv-alzey-worms@gruene-rlp.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Rheinland-Pfalz
-district: Bad Dürkheim
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-duew.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/grueneduew/
-  - type: TWITTER
-    url: https://twitter.com/GrueneDUEW/
-emails:
-  - address: kv-bad-duerkheim@gruene-rlp.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Rheinland-Pfalz
-district: Bad Kreuznach
-urls:
-  - type: WEBSITE
-    url: http://gruenekreiskh.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/Gr%C3%BCne-KV-Bad-Kreuznach-180267572509731/
-emails:
-  - address: kv-bad-kreuznach@gruene-rlp.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Rheinland-Pfalz
-district: Bernkastel-Wittlich
-urls:
-  - type: WEBSITE
-    url: http://gruene-bernkastel-wittlich.de/
-emails:
-  - address: kv-bernkastel-wittlich@gruene-rlp.de
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -141,7 +74,7 @@ state: Rheinland-Pfalz
 district: Bitburg-Prüm
 urls:
   - type: WEBSITE
-    url: http://www.gruene-bitburg-pruem.de/
+    url: https://www.gruene-bitburg-pruem.de/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Kreisverband-Bitburg-Pr%C3%BCm-495696547223250/
 emails:
@@ -176,24 +109,13 @@ state: Rheinland-Pfalz
 district: Frankenthal
 urls:
   - type: WEBSITE
-    url: http://gruene-frankenthal.de/
+    url: https://gruene-frankenthal.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneFT/
   - type: TWITTER
     url: https://twitter.com/GrueneFT/
 emails:
   - address: kv-frankenthal@gruene-rlp.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Rheinland-Pfalz
-district: Germersheim
-urls:
-  - type: WEBSITE
-    url: http://gruene-ger.de/
-emails:
-  - address: kv-germersheim@gruene-rlp.de
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -241,7 +163,7 @@ state: Rheinland-Pfalz
 district: Landau
 urls:
   - type: WEBSITE
-    url: http://www.gruene-landau.de/
+    url: https://gruene-landau.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneLandau/
   - type: TWITTER
@@ -283,28 +205,6 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Rheinland-Pfalz
-district: Mainz-Bingen
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-mainz-bingen.de/
-emails:
-  - address: kv-mainz-bingen@gruene-rlp.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Rheinland-Pfalz
-district: Mayen-Koblenz
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-myk.de/
-emails:
-  - address: kv-mayen-koblenz@gruene-rlp.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Rheinland-Pfalz
 district: Neustadt an der Weinstraße
 urls:
   - type: WEBSITE
@@ -318,126 +218,12 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Rheinland-Pfalz
-district: Neuwied
-urls:
-  - type: WEBSITE
-    url: http://gruene-neuwied.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruene.neuwied/
-emails:
-  - address: kv-neuwied@gruene-rlp.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Rheinland-Pfalz
 district: Pirmasens
 urls:
   - type: WEBSITE
-    url: http://gruene-pirmasens.de/
+    url: https://gruene-pirmasens.de/
 emails:
   - address: kv-pirmasens@gruene-rlp.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Rheinland-Pfalz
-district: Rhein-Hunsrück
-urls:
-  - type: WEBSITE
-    url: http://gruene-rh.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-KV-Rhein-Hunsr%C3%BCck-180599695477992/
-emails:
-  - address: kv-rhein-hunsrueck@gruene-rlp.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Rheinland-Pfalz
-district: Rhein-Lahn
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-rhein-lahn.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GRUENE.RLK/
-emails:
-  - address: kv-rhein-lahn@gruene-rlp.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Rheinland-Pfalz
-district: Rhein-Pfalz
-urls:
-  - type: WEBSITE
-    url: https://www.gruene-rhein-pfalz.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneRheinPfalz/
-  - type: TWITTER
-    url: https://twitter.com/GrueneRPK/
-emails:
-  - address: kv-rhein-pfalz@gruene-rlp.de
----
-type: REGIONAL_CHAPTER
-level: DE:ORTSVERBAND
-country: DE
-state: Rheinland-Pfalz
-district: Rhein-Pfalz
-city: Altrip
-urls:
-  - type: WEBSITE
-    url: http://gruene-altrip.de/
----
-type: REGIONAL_CHAPTER
-level: DE:ORTSVERBAND
-country: DE
-state: Rheinland-Pfalz
-district: Rhein-Pfalz
-city: Bobenheim-Roxheim
-urls:
-  - type: WEBSITE
-    url: http://www.grueneboro.de/
----
-type: REGIONAL_CHAPTER
-level: DE:ORTSVERBAND
-country: DE
-state: Rheinland-Pfalz
-district: Rhein-Pfalz
-city: Böhl-Iggelheim
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-boehl-iggelheim.de/
----
-type: REGIONAL_CHAPTER
-level: DE:ORTSVERBAND
-country: DE
-state: Rheinland-Pfalz
-district: Rhein-Pfalz
-city: Lambsheim
-urls:
-  - type: WEBSITE
-    url: https://gruene-lambsheim.de/
----
-type: REGIONAL_CHAPTER
-level: DE:ORTSVERBAND
-country: DE
-state: Rheinland-Pfalz
-district: Rhein-Pfalz
-city: Limburgerhof
-urls:
-  - type: WEBSITE
-    url: http://gruene-limburgerhof.de/
----
-type: REGIONAL_CHAPTER
-level: DE:ORTSVERBAND
-country: DE
-state: Rheinland-Pfalz
-district: Rhein-Pfalz
-city: Mutterstadt
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-mutterstadt.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -451,41 +237,10 @@ level: DE:ORTSVERBAND
 country: DE
 state: Rheinland-Pfalz
 district: Rhein-Pfalz
-city: Dudenhofen
-urls:
-  - type: WEBSITE
-    url: http://gruene-dudenhofen.de/
----
-type: REGIONAL_CHAPTER
-level: DE:ORTSVERBAND
-country: DE
-state: Rheinland-Pfalz
-district: Rhein-Pfalz
-city: Schifferstadt
-urls:
-  - type: WEBSITE
-    url: http://gruene-schifferstadt.de/
----
-type: REGIONAL_CHAPTER
-level: DE:ORTSVERBAND
-country: DE
-state: Rheinland-Pfalz
-district: Rhein-Pfalz
 city: Dannstadt-Schauernheim
 urls:
   - type: WEBSITE
     url: http://www.gruene-dannstadt-schauernheim.de/
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Rheinland-Pfalz
-district: Südliche Weinstraße
-urls:
-  - type: WEBSITE
-    url: http://gruene-suew.de/
-emails:
-  - address: kv-suedliche-weinstrasse@gruene-rlp.de
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -507,7 +262,7 @@ state: Rheinland-Pfalz
 district: Speyer
 urls:
   - type: WEBSITE
-    url: http://www.xn--grne-speyer-uhb.de/
+    url: https://gruene-speyer.org/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Speyer-196532870398785/
 emails:
@@ -520,7 +275,7 @@ state: Rheinland-Pfalz
 district: Trier
 urls:
   - type: WEBSITE
-    url: http://uns-gruener-trier.de/
+    url: https://uns-gruener-trier.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneKVTrier/
   - type: TWITTER
@@ -572,7 +327,7 @@ state: Rheinland-Pfalz
 district: Worms
 urls:
   - type: WEBSITE
-    url: http://www.gruene-worms.de/
+    url: https://www.gruene-worms.de/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Worms-881940381832585/
   - type: TWITTER
@@ -587,6 +342,6 @@ state: Rheinland-Pfalz
 district: Zweibrücken
 urls:
   - type: WEBSITE
-    url: http://gruene-zweibruecken.de/
+    url: https://gruene-zweibruecken.de/
 emails:
   - address: kv-zweibruecken@gruene-rlp.de

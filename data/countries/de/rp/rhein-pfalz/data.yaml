@@ -1,0 +1,103 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Pfalz
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-rhein-pfalz.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneRheinPfalz/
+  - type: TWITTER
+    url: https://twitter.com/GrueneRPK/
+emails:
+  - address: kv-rhein-pfalz@gruene-rlp.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Pfalz
+city: Altrip
+urls:
+  - type: WEBSITE
+    url: http://gruene-altrip.de/
+  - type: WEBSITE
+    url: https://www.facebook.com/gruenealtrip/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Pfalz
+city: Bobebheim-Roxheim
+urls:
+  - type: WEBSITE
+    url: http://www.grueneboro.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Pfalz
+city: Böhl-Iggelheim
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-boehl-iggelheim.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Pfalz
+city: Lambsheim
+urls:
+  - type: WEBSITE
+    url: https://gruene-lambsheim.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneLambsheim/
+  - type: TWITTER
+    url: https://twitter.com/GrueneLambsheim
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Pfalz
+city: Limburgerhof
+urls:
+  - type: WEBSITE
+    url: https://gruene-limburgerhof.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Pfalz
+city: Mutterstadt
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-mutterstadt.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Pfalz
+city: Schifferstadt
+urls:
+  - type: WEBSITE
+    url: https://gruene-schifferstadt.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Pfalz
+city: Dudenhofen
+urls:
+  - type: WEBSITE
+    url: http://gruene-dudenhofen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.vgrd/

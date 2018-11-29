@@ -1,0 +1,53 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Mayen-Koblenz
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-myk.de/
+  - type: FACEBOOK
+    url: https://de-de.facebook.com/GrueneKVMYK/
+emails:
+  - address: kv-mayen-koblenz@gruene-rlp.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Mayen-Koblenz
+city: Mendig
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-mendig.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Mayen-Koblenz
+city: Mayen Vordereifel
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-mayen-vordereifel.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Mayen-Koblenz
+city: Andernach
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-andernach.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Mayen-Koblenz
+city: Bendorf
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bendorf.de/

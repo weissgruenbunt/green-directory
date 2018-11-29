@@ -1,0 +1,23 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Hunsrück
+urls:
+  - type: WEBSITE
+    url: https://gruene-rh.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-KV-Rhein-Hunsr%C3%BCck-180599695477992/
+emails:
+  - address: kv-rhein-hunsrueck@gruene-rlp.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Hunsrück
+city: Boppard
+urls:
+  - type: WEBSITE
+    url: http://www.grueneboppard.de/

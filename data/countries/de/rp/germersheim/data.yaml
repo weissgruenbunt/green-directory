@@ -1,0 +1,41 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Germersheim
+urls:
+  - type: WEBSITE
+    url: https://gruene-ger.de/
+emails:
+  - address: kv-germersheim@gruene-rlp.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Germersheim
+city: Kandel
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-kandel.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Germersheim
+city: Rülzheim
+urls:
+  - type: WEBSITE
+    url: https://gruene-vg-ruelzheim.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Germersheim
+city: Wörth
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-woerth.de/

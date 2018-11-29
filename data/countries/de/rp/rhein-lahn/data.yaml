@@ -1,0 +1,43 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Lahn
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-rhein-lahn.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GRUENE.RLK/
+emails:
+  - address: kv-rhein-lahn@gruene-rlp.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Lahn
+city: Bad Ems-Nassau
+urls:
+  - type: WEBSITE
+    url: https://gruene-bad-ems.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Lahn
+city: Lahnstein
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-lahnstein.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Lahn
+city: Nastätten-Loreley-Braubach
+urls:
+  - type: WEBSITE
+    url: https://gruene-nastaetten.de/

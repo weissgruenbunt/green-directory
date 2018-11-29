@@ -1,0 +1,25 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Ahrweiler
+urls:
+  - type: WEBSITE
+    url: https://gruene-aw.de/
+  - type: TWITTER
+    url: https://twitter.com/GrueneAW/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneAW/
+emails:
+  - address: kv-ahrweiler@gruene-rlp.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Ahrweiler
+city: Sinzig
+urls:
+  - type: FACEBOOK
+    url: http://www.facebook.com/gruenesinzig

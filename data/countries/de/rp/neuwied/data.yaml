@@ -1,0 +1,23 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Neuwied
+urls:
+  - type: WEBSITE
+    url: https://gruene-neuwied.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.neuwied/
+emails:
+  - address: kv-neuwied@gruene-rlp.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Bad Kreuznach
+city: Neuwied
+urls:
+  - type: WEBSITE
+    url: https://gruene-stadt-neuwied.de/

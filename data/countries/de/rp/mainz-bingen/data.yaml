@@ -1,0 +1,81 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Mainz-Bingen
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-mainz-bingen.de/
+emails:
+  - address: kv-mainz-bingen@gruene-rlp.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Mainz-Bingen
+city: Bingen
+urls:
+  - type: WEBSITE
+    url: https://gruene-bingen.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Mainz-Bingen
+city: Bodenheim
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-vg-bodenheim.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Mainz-Bingen
+city: Budenheim
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-budenheim.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Mainz-Bingen
+city: Gau-Algesheim
+urls:
+  - type: WEBSITE
+    url: https://gruene-gau-algesheim.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Mainz-Bingen
+city: Heidesheim
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-in-der-vg-heidesheim.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Mainz-Bingen
+city: Ingelheim
+urls:
+  - type: WEBSITE
+    url: https://gruene-ingelheim.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Mainz-Bingen
+city: Rhein-Nahe
+urls:
+  - type: WEBSITE
+    url: https://gruene-rhein-nahe.de/

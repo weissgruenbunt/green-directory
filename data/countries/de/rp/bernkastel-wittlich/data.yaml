@@ -1,0 +1,23 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Bernkastel-Wittlich
+urls:
+  - type: WEBSITE
+    url: https://gruene-bernkastel-wittlich.de/
+emails:
+  - address: kv-bernkastel-wittlich@gruene-rlp.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Bernkastel-Wittlich
+city: Wittlich
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-wittlich.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneWittlich/

@@ -1,0 +1,35 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Bad Dürkheim
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-duew.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneduew/
+  - type: TWITTER
+    url: https://twitter.com/GrueneDUEW/
+emails:
+  - address: kv-bad-duerkheim@gruene-rlp.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Bad Dürkheim
+city: Haßloch
+urls:
+  - type: WEBSITE
+    url: https://gruene-hassloch.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Bad Dürkheim
+city: Freinsheim
+urls:
+  - type: WEBSITE
+    url: https://gruene-freinsheim.de/
