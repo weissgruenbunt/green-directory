@@ -189,7 +189,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-hagen.de/
+    url: https://gruene-hagen.org/
   - type: FACEBOOK
     url: https://www.facebook.com/DieGruenenHagen
 ---
