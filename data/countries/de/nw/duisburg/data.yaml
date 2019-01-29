@@ -8,7 +8,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.grueneduisburg.de/
+    url: https://gruene-duisburg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneduisburg/
 ---
@@ -18,6 +18,11 @@ district: Duisburg
 level: DE:ORTSVERBAND
 state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-duisburg.de/ov-mitte/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneDuisburgOVMITTE/
 ---
 city: Duisburg-West/Ruhrort
 country: DE
@@ -25,6 +30,9 @@ district: Duisburg
 level: DE:ORTSVERBAND
 state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-duisburg.de/west/
 ---
 city: Duisburg-Walsum
 country: DE
@@ -34,7 +42,9 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.ov-walsum.gruene-duisburg.de
+    url: http://www.ov-walsum.gruene-duisburg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis90Die-Gr%C3%BCnen-OV-Walsum-420293464660873/
 ---
 city: Duisburg-Süd
 country: DE
@@ -42,3 +52,6 @@ district: Duisburg
 level: DE:ORTSVERBAND
 state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-duisburg.de/ovsued/
