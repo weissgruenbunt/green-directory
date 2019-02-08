@@ -31,3 +31,13 @@ urls:
     url: https://www.facebook.com/GrueneHiltrup/
   - type: TWITTER
     url: https://twitter.com/GrueneHiltrup
+---
+country: DE
+district: Münster
+city: Münster-Nord
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-muenster-nord.de/
