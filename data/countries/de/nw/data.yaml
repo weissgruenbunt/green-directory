@@ -282,23 +282,6 @@ urls:
     url: https://www.instagram.com/gruene_mh/
 ---
 country: DE
-district: Münster
-emails:
-  - address: kv@gruene-muenster.de
-level: DE:KREISVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.xn--grne-mnster-uhbe.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruene.muenster/
-  - type: TWITTER
-    url: https://twitter.com/GAL_Muenster
-  - type: INSTAGRAM
-    url: https://www.instagram.com/gruenemuenster/
----
-country: DE
 district: Oberhausen
 emails:
   - address: vorstand@gruene-oberhausen.de

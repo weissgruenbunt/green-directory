@@ -1,0 +1,33 @@
+---
+country: DE
+district: Münster
+emails:
+  - address: kv@gruene-muenster.de
+level: DE:KREISVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.xn--grne-mnster-uhbe.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.muenster/
+  - type: TWITTER
+    url: https://twitter.com/GAL_Muenster
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenemuenster/
+---
+country: DE
+district: Münster
+city: Hiltrup
+emails:
+  - address: info@gruene-hiltrup.de
+level: DE:ORTSVERBAND
+state: Nordrhein-Westfalen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-hiltrup.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneHiltrup/
+  - type: TWITTER
+    url: https://twitter.com/GrueneHiltrup
