@@ -745,17 +745,6 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Bayern
-district: Starnberg
-urls:
-  - type: WEBSITE
-    url: https://gruene-starnberg.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/Gr%C3%BCne-Kreisverband-Starnberg-152190608236782/
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Bayern
 district: Straubing-Bogen
 urls:
   - type: WEBSITE
