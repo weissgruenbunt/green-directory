@@ -475,15 +475,6 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Bayern
-district: Landsberg
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-landsberg.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Bayern
 district: Landshut-Land
 urls:
   - type: WEBSITE

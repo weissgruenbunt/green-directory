@@ -1,0 +1,73 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Landsberg am Lech
+urls:
+  - type: WEBSITE
+    url: http://gruene-ll.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GruenerLandkreisLandsberg/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Bayern
+district: Landsberg am Lech
+city: Landsberg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-landsberg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Bayern
+district: Landsberg am Lech
+city: Dießen
+urls:
+  - type: WEBSITE
+    url: http://ov-diessen.gruene-ll.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenediessen
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Bayern
+district: Landsberg am Lech
+city: Geltendorf
+urls:
+  - type: WEBSITE
+    url: http://ov-geltendorf.gruene-ll.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Bayern
+district: Landsberg am Lech
+city: Kaufering
+urls:
+  - type: WEBSITE
+    url: http://ov-kaufering.gruene-ll.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Bayern
+district: Landsberg am Lech
+city: Schondorf
+urls:
+  - type: WEBSITE
+    url: http://ov-schondorf.gruene-ll.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Bayern
+district: Landsberg am Lech
+city: Utting
+urls:
+  - type: WEBSITE
+    url: https://www.gal-utting.de/
