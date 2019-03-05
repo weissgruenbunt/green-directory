@@ -556,9 +556,11 @@ state: Bayern
 district: Neu-Ulm
 urls:
   - type: WEBSITE
-    url: https://gruene-neu-ulm.fe2.de/
+    url: https://gruene-neu-ulm.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.neu.ulm/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_neu_ulm/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
