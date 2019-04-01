@@ -193,7 +193,7 @@ state: Sachsen-Anhalt
 district: Salzlandkreis
 urls:
   - type: WEBSITE
-    url: http://www.xn--salzlandgrne-mlb.de/
+    url: https://www.salzlandgruene.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Salzlandgruene/
   - type: TWITTER

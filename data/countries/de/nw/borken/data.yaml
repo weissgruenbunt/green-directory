@@ -97,9 +97,8 @@ district: Borken
 level: DE:ORTSVERBAND
 state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-schoeppingen.de/
+emails:
+  - address: m.runge@wmw.de
 ---
 city: Stadtlohn
 country: DE
