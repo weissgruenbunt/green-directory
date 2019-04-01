@@ -1,0 +1,48 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Schweinfurt
+emails:
+  - address: info@gruene-schweinfurt.de
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-schweinfurt.de/
+---
+type: YOUTH_ORGANIZATION
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Schweinfurt
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-schweinfurt.de/gruene-jugend/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Jugend-Schweinfurt-114751321909356/
+---
+city: Werneck
+country: DE
+district: Schweinfurt
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+emails:
+  - address: kontakt@gruene-werneck.de
+urls:
+  - type: WEBSITE
+    url: https://gruene-werneck.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.werneck/
+---
+city: Sennfeld
+country: DE
+district: Schweinfurt
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+emails:
+  - address: info@gruene-sennfeld.de
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-sennfeld.de/

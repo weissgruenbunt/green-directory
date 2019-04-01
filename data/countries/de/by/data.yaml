@@ -729,15 +729,6 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Bayern
-district: Schweinfurt
-urls:
-  - type: WEBSITE
-    url: https://www.gruene-schweinfurt.de/
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Bayern
 district: Straubing-Bogen
 urls:
   - type: WEBSITE
