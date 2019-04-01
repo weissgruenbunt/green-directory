@@ -41,8 +41,8 @@ level: DE:ORTSVERBAND
 state: Bayern
 type: REGIONAL_CHAPTER
 urls:
-  - type: WEBSITE
-    url: http://www.gruene-langenzenn.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.lgz
 ---
 city: Oberasbach
 country: DE
