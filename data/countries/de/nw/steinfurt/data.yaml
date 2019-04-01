@@ -152,16 +152,6 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-nordwalde.de/
 ---
-city: Recke
-country: DE
-district: Steinfurt
-level: DE:ORTSVERBAND
-state: Nordrhein-Westfalen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-recke.de/
----
 city: Rheine
 country: DE
 district: Steinfurt
