@@ -27,3 +27,15 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://www.gruene-kahl.de/
+---
+city: Kleinostheim
+country: DE
+district: Aschaffenburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-kleinostheim.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneKleinostheim
