@@ -7,6 +7,8 @@ district: Aschaffenburg-Land
 urls:
   - type: WEBSITE
     url: https://www.gruene-aschaffenburg.de/
+emails:
+  - address: redaktion@gruene-aschaffenburg.de
 ---
 city: Alzenau
 country: DE
