@@ -65,7 +65,7 @@ def check_file(path, schemas):
     Validate all documents in a YAML file against our schemas
     """
     with open(path, 'r') as yamlfile:
-        contents = yaml.load_all(yamlfile)
+        contents = yaml.load_all(yamlfile, yaml.SafeLoader)
 
         for i, doc in enumerate(contents):
 
