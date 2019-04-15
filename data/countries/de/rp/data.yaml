@@ -226,23 +226,6 @@ emails:
   - address: kv-pirmasens@gruene-rlp.de
 ---
 type: REGIONAL_CHAPTER
-level: DE:ORTSVERBAND
-country: DE
-state: Rheinland-Pfalz
-district: Rhein-Pfalz
-city: Römerberg
----
-type: REGIONAL_CHAPTER
-level: DE:ORTSVERBAND
-country: DE
-state: Rheinland-Pfalz
-district: Rhein-Pfalz
-city: Dannstadt-Schauernheim
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-dannstadt-schauernheim.de/
----
-type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Rheinland-Pfalz
