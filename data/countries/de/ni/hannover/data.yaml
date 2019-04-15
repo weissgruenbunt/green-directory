@@ -215,7 +215,7 @@ city: Garbsen
 urls:
   - type: WEBSITE
     url: https://gruene-garbsen.de/
-  - type: WEBSITE
+  - type: FACEBOOK
     url: https://www.facebook.com/Gruene.Garbsen/
 ---
 type: REGIONAL_CHAPTER
