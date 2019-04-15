@@ -23,7 +23,7 @@ city: Altrip
 urls:
   - type: WEBSITE
     url: http://gruene-altrip.de/
-  - type: WEBSITE
+  - type: FACEBOOK
     url: https://www.facebook.com/gruenealtrip/
 ---
 type: REGIONAL_CHAPTER
