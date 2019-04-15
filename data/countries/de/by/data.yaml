@@ -116,15 +116,6 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Bayern
-district: Aichach-Friedberg
-urls:
-  - type: WEBSITE
-    url: https://gruene-aichach-friedberg.de/
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Bayern
 district: Altötting
 urls:
   - type: WEBSITE
