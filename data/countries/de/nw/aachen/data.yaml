@@ -8,7 +8,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-region-aachen.de/
+    url: https://www.gruene-region-aachen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneregionaachen
 ---
@@ -20,7 +20,9 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-aachen.de/
+    url: https://www.gruene-aachen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.aachen
 ---
 city: Alsdorf
 country: DE
@@ -32,7 +34,7 @@ emails:
   - address: gruene-alsdorf@t-online.de
 urls:
   - type: WEBSITE
-    url: http://www.gruene-alsdorf.de/
+    url: https://www.gruene-alsdorf.de/
 ---
 city: Baesweiler
 country: DE
@@ -42,7 +44,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-region-aachen.de/baesweiler/
+    url: https://www.gruene-baesweiler.de/
 ---
 city: Eschweiler
 country: DE
@@ -52,7 +54,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-eschweiler.de/
+    url: https://www.gruene-eschweiler.de/
 ---
 city: Herzogenrath
 country: DE
@@ -62,7 +64,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-herzogenrath.de
+    url: https://www.gruene-herzogenrath.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Herzogenrath-266031356901498/
 ---
@@ -74,7 +76,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-region-aachen.de/monschau/
+    url: https://www.gruene-monschau.de/
 ---
 city: Roetgen
 country: DE
@@ -84,7 +86,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-roetgen.de/
+    url: https://www.gruene-roetgen.de/
 ---
 city: Stolberg
 country: DE
@@ -94,7 +96,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-region-aachen.de/stolberg/wp/
+    url: https://gruene-stolberg.de/
 ---
 city: Würselen
 country: DE
@@ -104,7 +106,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-wuerselen.de/
+    url: https://www.gruene-wuerselen.de/
 ---
 city: Simmerath
 country: DE
@@ -114,7 +116,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-simmerath.de/
+    url: https://www.gruene-simmerath.de/
 ---
 city: "Brüssel"
 country: DE
