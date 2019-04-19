@@ -164,19 +164,6 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Sachsen-Anhalt
-district: Mansfeld-Südharz
-urls:
-  - type: WEBSITE
-    url: http://gruene-mansfeld-suedharz.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Mansfeld-S%C3%BCdharz-173358673051765/
-emails:
-  - address: norbert.jung@gruene-mansfeld-suedharz.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Sachsen-Anhalt
 district: Saalekreis
 urls:
   - type: WEBSITE

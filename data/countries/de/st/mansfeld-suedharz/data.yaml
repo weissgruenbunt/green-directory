@@ -1,0 +1,29 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Sachsen-Anhalt
+district: Mansfeld-Südharz
+urls:
+  - type: WEBSITE
+    url: http://gruene-msh.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Mansfeld-S%C3%BCdharz-173358673051765/
+  - type: TWITTER
+    url: https://twitter.com/GRUENE_MSH
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenemsh/
+emails:
+  - address: info@gruene-msh.de
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Sachsen-Anhalt
+district: Mansfeld-Südharz
+city: Eisleben
+urls:
+  - type: WEBSITE
+    url: http://gruene-eisleben.de/
+emails:
+  - address: kontakt@gruene-eisleben.de
