@@ -523,7 +523,7 @@ state: Bayern
 district: Miltenberg
 urls:
   - type: WEBSITE
-    url: http://www.gruene-miltenberg.de/
+    url: https://xn--grne-miltenberg-0vb.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
