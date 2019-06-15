@@ -12,8 +12,6 @@ urls:
     url: https://twitter.com/die_gruenen
   - type: INSTAGRAM
     url: https://instagram.com/die_gruenen/
-  - type: GOOGLEPLUS
-    url: https://plus.google.com/+DieGruenen/
   - type: WIKIPEDIA
     url: https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen
 emails:
@@ -37,3 +35,79 @@ urls:
     url: https://de.wikipedia.org/wiki/Gr%C3%BCne_Jugend
 emails:
   - address: buero@gruene-jugend.de
+---
+# member of the European Parliament, so the person does not have any
+# attribute of type level, country etc.
+type: PERSON
+name: Ska Keller
+family_name: Keller
+given_name: Franziska
+urls:
+  - type: WEBSITE
+    url: https://www.skakeller.de/
+  - type: TWITTER
+    url: https://twitter.com/SkaKeller
+  - type: FACEBOOK
+    url: https://www.facebook.com/SkaKellerMEP/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/skakeller/
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q71528
+emails:
+  - address: ska.keller@europarl.europa.eu
+---
+# member of the European Parliament, so the person does not have any
+# attribute of type level, country etc.
+type: PERSON
+name: Sven Giegold
+family_name: Giegold
+given_name: Sven
+urls:
+  - type: WEBSITE
+    url: https://sven-giegold.de/
+  - type: TWITTER
+    url: https://twitter.com/sven_giegold
+  - type: FACEBOOK
+    url: https://www.facebook.com/sven.giegold/
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q84687
+emails:
+  - address: sven.giegold@ep.europa.eu
+---
+type: PERSON
+name: Annalena Baerbock
+family_name: Baerbock
+given_name: Annalena
+level: DE:BUNDESVERBAND
+country: DE
+urls:
+  - type: WEBSITE
+    url: https://www.annalena-baerbock.de/
+  - type: TWITTER
+    url: https://twitter.com/ABaerbock
+  - type: INSTAGRAM
+    url: https://www.instagram.com/abaerbock/
+  - type: FACEBOOK
+    url: https://www.facebook.com/abaerbock/
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q564328
+  - type: YOUTUBE
+    url: https://www.youtube.com/channel/UCxVqEMuFJnljsNXcuk2eChA/feed
+  - type: FLICKR
+    url: https://www.flickr.com/photos/annalena-baerbock/
+emails:
+  - address: annalena.baerbock@gruene.de
+---
+type: PERSON
+name: Robert Habeck
+family_name: Habeck
+given_name: Robert
+level: DE:BUNDESVERBAND
+country: DE
+urls:
+  - type: WEBSITE
+    url: https://www.robert-habeck.de/
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q109943
+emails:
+  - address: robert.habeck@gruene.de

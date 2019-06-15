@@ -44,7 +44,7 @@ def unique_doc_key(doc):
     """
     keyparts = [doc['type']]
 
-    for attr in ('level', 'country', 'state', 'region', 'district', 'city'):
+    for attr in ('level', 'country', 'state', 'region', 'district', 'city', 'name'):
         if attr in doc:
             keyparts.append(doc[attr])
 
