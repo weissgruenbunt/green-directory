@@ -8,7 +8,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-odenwald.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/gruene.odenwald.de/
+    url: https://www.facebook.com/grueneodenwald/
 emails:
   - address: kontakt@gruene-odenwald.de
 ---

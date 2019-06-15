@@ -47,8 +47,6 @@ district: Altmarkkreis Salzwedel
 urls:
   - type: WEBSITE
     url: http://gruene-altmark.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneAltmark
   - type: TWITTER
     url: https://twitter.com/AltmarkGruene
   - type: INSTAGRAM

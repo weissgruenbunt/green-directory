@@ -11,7 +11,7 @@ urls:
   - type: TWITTER
     url: https://twitter.com/Gruene_Bayern
   - type: INSTAGRAM
-    url: https://www.instagram.com/gruene_bayern/
+    url: https://www.instagram.com/gruenebayern/
   - type: WIKIPEDIA
     url: https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen_Bayern
 emails:
@@ -725,7 +725,7 @@ urls:
   - type: WEBSITE
     url: https://www.gruene-straubing-bogen.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/Buendnis90DieGruenenStraubingBogen
+    url: https://www.facebook.com/GrueneStraubingBogen
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND

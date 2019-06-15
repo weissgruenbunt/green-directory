@@ -160,8 +160,8 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://gruene-essen.de/kreisverband/
-  - type: TWITTER
-    url: https://twitter.com/GrueneEssen
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneEssen
 ---
 country: DE
 district: Gelsenkirchen
