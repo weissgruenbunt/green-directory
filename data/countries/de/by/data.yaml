@@ -188,8 +188,6 @@ urls:
     url: https://gruene-bamberg-land.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenebambergland/
-  - type: GOOGLEPLUS
-    url: https://plus.google.com/u/0/b/106892462480762695317/106892462480762695317/about/p/pub
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND

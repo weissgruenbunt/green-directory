@@ -251,8 +251,6 @@ urls:
     url: https://twitter.com/GRUENimRATwhv
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCnes-Wilhelmshaven-169171753155190/
-  - type: GOOGLEPLUS
-    url: https://plus.google.com/113816486058324502866
   - type: YOUTUBE
     url: https://www.youtube.com/channel/UCcZPT1SXYWJRpmOYqWLsmmw
 ---
