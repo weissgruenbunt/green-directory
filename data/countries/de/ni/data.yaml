@@ -133,8 +133,6 @@ district: Holzminden
 urls:
   - type: WEBSITE
     url: http://www.gruene-holzminden.de/home/
-  - type: FACEBOOK
-    url: https://www.facebook.com/Gr%C3%BCne-Holzminden-419607634824927/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND

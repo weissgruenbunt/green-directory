@@ -41,8 +41,6 @@ city: Rosdorf
 urls:
   - type: WEBSITE
     url: http://www.gruene-rosdorf.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/Die.Gruenen.Rosdorf/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

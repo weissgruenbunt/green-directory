@@ -35,7 +35,7 @@ urls:
   - type: TWITTER
     url: https://twitter.com/GJ_RLP/
   - type: INSTAGRAM
-    url: https://www.instagram.com/gruene-jugend_rlp/
+    url: https://www.instagram.com/gruene_jugend_rlp/
   - type: YOUTUBE
     url: https://www.youtube.com/user/GJRLP
 emails:
@@ -63,7 +63,7 @@ urls:
   - type: FACEBOOK
     url: https://www.facebook.com/Bundnis90DieGrunenKvBirkenfeld/
   - type: TWITTER
-    url: https://twitter.com/gruene_io/
+    url: https://twitter.com/gruene_bir/
 emails:
   - address: kv-birkenfeld@gruene-rlp.de
 ---
@@ -167,7 +167,7 @@ urls:
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneLandau/
   - type: TWITTER
-    url: https://www.twitter.com/GrueneLD/
+    url: https://www.twitter.com/GrueneLandau
 emails:
   - address: kv-landau@gruene-rlp.de
 ---

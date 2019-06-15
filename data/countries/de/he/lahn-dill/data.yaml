@@ -7,8 +7,6 @@ district: Lahn-Dill
 urls:
   - type: WEBSITE
     url: https://www.gruene-lahn-dill.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruene.lahndill
 emails:
   - address: B90-Gruene.Lahn-Dill@t-online.de
 ---

@@ -144,8 +144,6 @@ urls:
     url: https://www.gruene-heidenheim.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneHDH
-  - type: TWITTER
-    url: https://twitter.com/gruene_hdh
   - type: YOUTUBE
     url: https://www.youtube.com/channel/UCSr_jd8Gbxr1Rq98YPFJqyQ
 ---

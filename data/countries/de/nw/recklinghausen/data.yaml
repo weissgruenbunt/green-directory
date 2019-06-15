@@ -9,8 +9,6 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: http://gruene-im-vest.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/grueneovrecklinghausen/
 ---
 city: Castrop-Rauxel
 country: DE
