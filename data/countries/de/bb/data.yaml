@@ -1,4 +1,5 @@
-# This file is a directory of chapters and sub-organizations
+# This file is a directory of chapters, sub-organizations
+# and individual persons with a designated role
 # of the Landesverband Brandenburg of the party
 # Bündnis 90/Die Grünen.
 #
@@ -204,3 +205,44 @@ city: Zeuthen, Eichenwalde, Schulzendorf
 urls:
   - type: WEBSITE
     url: https://gruene-in-zes.blogspot.com/
+---
+type: PERSON
+name: Benjamin Raschke
+family_name: Raschke
+given_name: Benjamin
+level: DE:LANDESVERBAND
+country: DE
+state: Brandenburg
+urls:
+  - type: WEBSITE
+    url: https://benjamin-raschke.de/
+  - type: TWITTER
+    url: https://twitter.com/ben_raschke
+  - type: FACEBOOK
+    url: https://de-de.facebook.com/public/Benjamin-Raschke
+  - type: INSTAGRAM
+    url: https://www.instagram.com/Ben-Raschke/
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q817659
+emails:
+  - address: kontakt@benjamin-raschke.de
+  - address: Benjamin.Raschke@gruene-brandenburg.de
+---
+type: PERSON
+name: Petra Budke
+family_name: Budke
+given_name: Petra
+level: DE:LANDESVERBAND
+country: DE
+state: Brandenburg
+urls:
+  - type: WEBSITE
+    url: https://petra-budke.de/
+  - type: TWITTER
+    url: https://twitter.com/petrabudke
+  - type: FACEBOOK
+    url: https://www.facebook.com/petra.budke.7
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q17590986
+emails:
+  - address: Petra.Budke@gruene-brandenburg.de
