@@ -364,3 +364,43 @@ urls:
     url: https://www.gruene-kvwuppertal.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Bundnis90DieGrunenWuppertal
+---
+type: PERSON
+name: Mona Neubaur
+family_name: Neubaur
+given_name: Mona
+level: DE:LANDESVERBAND
+country: DE
+state: Nordrhein-Westfalen
+urls:
+  - type: WEBSITE
+    url: http://mona-neubaur.de/
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q17325220
+  - type: TWITTER
+    url: https://twitter.com/monaneubaur
+  - type: FACEBOOK
+    url: https://www.facebook.com/mona.neubaur
+emails:
+  - address: mona.neubaur@gruene-nrw.de
+---
+type: PERSON
+name: Felix Banaszak
+family_name: Banaszak
+given_name: Felix
+level: DE:LANDESVERBAND
+country: DE
+state: Nordrhein-Westfalen
+urls:
+  - type: WEBSITE
+    url: http://felix-banaszak.de/
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q17591264
+  - type: TWITTER
+    url: https://twitter.com/fbanaszak
+  - type: FACEBOOK
+    url: https://www.facebook.com/felix.banaszak
+  - type: INSTAGRAM
+    url: https://www.instagram.com/fbanaszak/
+emails:
+  - address: felix.banaszak@gruene-nrw.de
