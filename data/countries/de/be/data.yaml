@@ -20,8 +20,8 @@ urls:
     url: https://www.flickr.com/photos/grueneberlin/
   - type: INSTAGRAM
     url: https://www.instagram.com/gruene_berlin/
-  - type: WIKIPEDIA
-    url: https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen_Berlin
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q1020838
 emails:
   - address: info@gruene-berlin.de
 ---

@@ -12,8 +12,8 @@ urls:
     url: https://twitter.com/die_gruenen
   - type: INSTAGRAM
     url: https://instagram.com/die_gruenen/
-  - type: WIKIPEDIA
-    url: https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q49766
 emails:
   - address: info@gruene.de
 ---
@@ -31,8 +31,8 @@ urls:
     url: https://www.instagram.com/gruene_jugend/
   - type: YOUTUBE
     url: https://www.youtube.com/user/GrueneJugend/
-  - type: WIKIPEDIA
-    url: https://de.wikipedia.org/wiki/Gr%C3%BCne_Jugend
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q255509
 emails:
   - address: buero@gruene-jugend.de
 ---

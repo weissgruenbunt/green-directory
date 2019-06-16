@@ -18,8 +18,8 @@ urls:
     url: https://www.instagram.com/gruenends/
   - type: YOUTUBE
     url: https://www.youtube.com/user/grueneniedersachsen
-  - type: WIKIPEDIA
-    url: https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen_Niedersachsen
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q1020847
 emails:
   - address: landesverband@gruene-niedersachsen.de
 ---
