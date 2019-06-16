@@ -5,6 +5,26 @@
   "description": "A party organization's regional department",
   "type": "object",
   "properties": {
+    "external_refs": {
+      "type": "array",
+      "description": "References for this regional chapter in external databases.",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "description": "Reference kind identifier, like SHERPA ..."
+          },
+          "key": {
+            "type": "string",
+            "description": "Some unique identifier."
+          }
+        },
+        "required": ["type", "key"]
+      }
+    },
     "type": {
       "type": "string",
       "description": "Type name, indicating which schema to use for validation.",

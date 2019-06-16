@@ -1,4 +1,7 @@
 ---
+external_refs:
+  - type: SHERPA
+    key: '11002600'
 country: DE
 district: Köln
 emails:
@@ -14,6 +17,9 @@ urls:
   - type: TWITTER
     url: https://twitter.com/gruenekoeln
 ---
+external_refs:
+  - type: SHERPA
+    key: '11002601'
 city: Köln-Innenstadt/Deutz
 country: DE
 district: Köln
@@ -24,6 +30,9 @@ urls:
   - type: WEBSITE
     url: https://www.gruenekoeln.de/bezirke/bezirk1/aktuelles.html
 ---
+external_refs:
+  - type: SHERPA
+    key: '11002602'
 city: Köln-Ehrenfeld
 country: DE
 district: Köln
@@ -34,6 +43,9 @@ urls:
   - type: WEBSITE
     url: https://www.gruenekoeln.de/bezirke/bezirk4/aktuelles.html
 ---
+external_refs:
+  - type: SHERPA
+    key: '11002603'
 city: Köln-Mülheim
 country: DE
 district: Köln
@@ -44,6 +56,9 @@ urls:
   - type: WEBSITE
     url: https://www.gruenekoeln.de/bezirke/bezirk9/aktuelles-und-termine.html
 ---
+external_refs:
+  - type: SHERPA
+    key: '11002604'
 city: Köln-Nippes
 country: DE
 district: Köln
@@ -54,6 +69,9 @@ urls:
   - type: WEBSITE
     url: https://www.gruenekoeln.de/bezirke/bezirk5/aktuelles.html
 ---
+external_refs:
+  - type: SHERPA
+    key: '11002605'
 city: Köln-Chorweiler
 country: DE
 district: Köln
@@ -64,6 +82,9 @@ urls:
   - type: WEBSITE
     url: https://www.gruenekoeln.de/bezirke/bezirk6/aktuelles.html
 ---
+external_refs:
+  - type: SHERPA
+    key: '11002606'
 city: Köln-Porz/Poll
 country: DE
 district: Köln
@@ -74,6 +95,9 @@ urls:
   - type: WEBSITE
     url: https://www.gruenekoeln.de/bezirke/bezirk7.html
 ---
+external_refs:
+  - type: SHERPA
+    key: '11002606'
 city: Köln-Rodenkirchen
 country: DE
 district: Köln
@@ -84,6 +108,9 @@ urls:
   - type: WEBSITE
     url: https://www.gruenekoeln.de/bezirke/bezirk2/aktuelles.html
 ---
+external_refs:
+  - type: SHERPA
+    key: '11002608'
 city: "Köln-Lindenthal"
 country: DE
 district: Köln
@@ -94,6 +121,9 @@ urls:
   - type: WEBSITE
     url: https://www.gruenekoeln.de/bezirke/bezirk3/aktuelles.html
 ---
+external_refs:
+  - type: SHERPA
+    key: '11002609'
 city: Köln-Kalk
 country: DE
 district: Köln
