@@ -9,6 +9,8 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://www.gruene-bodenseekreis.de/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenebodenseekreis/
 ---
 city: Friedrichshafen
 country: DE

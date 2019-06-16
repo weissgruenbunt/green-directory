@@ -105,6 +105,8 @@ urls:
     url: https://www.facebook.com/gruenefreiburg
   - type: TWITTER
     url: https://twitter.com/freiburggruene
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_freiburg/
 ---
 country: DE
 district: Freudenstadt
@@ -131,6 +133,8 @@ urls:
     url: https://www.facebook.com/Gruene.Heidelberg
   - type: TWITTER
     url: https://twitter.com/GrueneHD
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene.hd/
 ---
 country: DE
 district: Heidenheim
@@ -144,6 +148,8 @@ urls:
     url: https://www.gruene-heidenheim.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneHDH
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_hdh/
   - type: YOUTUBE
     url: https://www.youtube.com/channel/UCSr_jd8Gbxr1Rq98YPFJqyQ
 ---
@@ -185,6 +191,10 @@ urls:
     url: https://www.gruene-mannheim.de/
   - type: FACEBOOK
     url: https://www.facebook.com/MANNHEIMbegruenen
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenemannheim/
+  - type: TWITTER
+    url: https://twitter.com/gruene_mannheim
 ---
 country: DE
 district: Neckar-Odenwald
@@ -213,6 +223,8 @@ urls:
     url: http://www.gruene-ravensburg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneRavensburg
+  - type: INSTAGRAM
+    type: https://www.instagram.com/grueneravensburg/
 ---
 country: DE
 district: Rottweil
@@ -248,6 +260,10 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: http://www.gruene-sha.de/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_schwaebischhall/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.kv.sha/
 ---
 country: DE
 district: Schwarzwald-Baar
@@ -261,6 +277,8 @@ urls:
     url: https://www.gruene-schwarzwald-baar.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.sbk
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_sbk/
 ---
 country: DE
 district: Sigmaringen
@@ -304,6 +322,8 @@ urls:
     url: http://www.gruene-tuttlingen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenetuttlingen
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenetut
 ---
 country: DE
 district: Ulm
@@ -317,6 +337,8 @@ urls:
     url: http://www.gruene-ulm.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneulm
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneulm/
 ---
 country: DE
 district: Zollernalb

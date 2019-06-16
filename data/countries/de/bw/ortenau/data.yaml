@@ -11,6 +11,8 @@ urls:
     url: http://gruene-ortenau.de/
   - type: FACEBOOK
     url: https://www.facebook.com/KreisverbandOrtenau/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_ortenau/
 ---
 city: Kehl
 country: DE
