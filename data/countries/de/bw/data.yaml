@@ -224,7 +224,7 @@ urls:
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneRavensburg
   - type: INSTAGRAM
-    type: https://www.instagram.com/grueneravensburg/
+    url: https://www.instagram.com/grueneravensburg/
 ---
 country: DE
 district: Rottweil
