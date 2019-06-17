@@ -205,7 +205,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-nok.de/
+    url: https://www.gruene-nok.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneNOK
   - type: TWITTER
@@ -220,7 +220,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-ravensburg.de/
+    url: https://www.gruene-ravensburg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneRavensburg
   - type: INSTAGRAM
@@ -246,7 +246,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-schwaebisch-gmuend.de/
+    url: https://www.gruene-schwaebisch-gmuend.de/
   - type: FACEBOOK
     url: https://www.facebook.com/diegrunen.schwabischgmund
 ---
@@ -259,7 +259,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-sha.de/
+    url: https://www.gruene-sha.de/
   - type: INSTAGRAM
     url: https://www.instagram.com/gruene_schwaebischhall/
   - type: FACEBOOK
@@ -289,7 +289,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-sigmaringen.de/
+    url: https://gruene-sigmaringen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GruenerKreisverbandSigmaringen/
 ---
@@ -319,7 +319,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-tuttlingen.de/
+    url: https://www.gruene-tuttlingen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenetuttlingen
   - type: INSTAGRAM
@@ -334,7 +334,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-ulm.de/
+    url: https://gruene-ulm.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneulm
   - type: INSTAGRAM
@@ -349,6 +349,6 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-zollernalb.de
+    url: https://www.gruene-zollernalb.de
   - type: FACEBOOK
     url: https://www.facebook.com/gruenezak
