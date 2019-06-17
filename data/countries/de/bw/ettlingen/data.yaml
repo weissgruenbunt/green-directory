@@ -14,6 +14,8 @@ urls:
     url: https://www.facebook.com/Gruene.Ettlingen/
   - type: INSTAGRAM
     url: https://www.instagram.com/gruene_ettlingen/
+  - type: TWITTER
+    url: https://twitter.com/GrueneEttlingen
 ---
 city: Ettlingen
 country: DE

@@ -13,6 +13,8 @@ urls:
     url: https://www.facebook.com/gruenetuebingen
   - type: TWITTER
     url: https://twitter.com/GrueneTuebingen
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenetuebingen/
 ---
 city: Steinlach-Wiesaz
 country: DE

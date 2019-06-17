@@ -11,6 +11,8 @@ urls:
     url: http://www.gruene-goeppingen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneGP
+  - type: TWITTER
+    url: https://twitter.com/GrueneGP
 ---
 city: Süßen
 country: DE
