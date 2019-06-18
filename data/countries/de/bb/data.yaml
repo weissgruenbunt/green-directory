@@ -219,9 +219,9 @@ urls:
   - type: TWITTER
     url: https://twitter.com/ben_raschke
   - type: FACEBOOK
-    url: https://de-de.facebook.com/public/Benjamin-Raschke
+    url: https://www.facebook.com/benjamin.raschke
   - type: INSTAGRAM
-    url: https://www.instagram.com/Ben-Raschke/
+    url: https://www.instagram.com/ben_raschke/
   - type: WIKIDATA
     url: https://www.wikidata.org/wiki/Q817659
 emails:
