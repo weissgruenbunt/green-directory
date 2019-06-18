@@ -109,5 +109,60 @@ urls:
     url: https://www.robert-habeck.de/
   - type: WIKIDATA
     url: https://www.wikidata.org/wiki/Q109943
+  - type: INSTAGRAM
+    url: https://www.instagram.com/robert.habeck
 emails:
   - address: robert.habeck@gruene.de
+---
+type: PERSON
+name: Katrin Göring-Eckardt
+family_name: Göring-Eckardt
+given_name: Katrin
+country: DE
+level: DE:BUNDESVERBAND
+urls:
+  - type: WEBSITE
+    url: https://www.goering-eckardt.de/
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q48967
+  - type: FACEBOOK
+    url: https://www.facebook.com/GoeringEckardt
+  - type: TWITTER
+    url: https://twitter.com/GoeringEckardt
+  - type: INSTAGRAM
+    url: https://www.instagram.com/goeringeckardt/
+---
+type: PERSON
+name: Anton Hofreiter
+family_name: Anton
+given_name: Hofreiter
+country: DE
+level: DE:BUNDESVERBAND
+urls:
+  - type: WEBSITE
+    url: https://toni-hofreiter.de/
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q103519
+  - type: FACEBOOK
+    url: https://www.facebook.com/anton.hofreiter
+  - type: TWITTER
+    url: https://twitter.com/ToniHofreiter
+  - type: INSTAGRAM
+    url: https://www.instagram.com/toni_hofreiter/
+---
+type: PERSON
+name: Cem Özdemir
+family_name: Özdemir
+given_name: Cem
+country: DE
+urls:
+  - type: WEBSITE
+    url: https://www.oezdemir.de/
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q12839
+  - type: FACEBOOK
+    url: https://www.facebook.com/Cem/
+  - type: TWITTER
+    url: https://twitter.com/cem_oezdemir
+  - type: INSTAGRAM
+    url: https://www.instagram.com/cem.oezdemir/
