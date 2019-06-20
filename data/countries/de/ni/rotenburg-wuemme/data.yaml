@@ -49,8 +49,6 @@ city: Scheeßel
 urls:
   - type: WEBSITE
     url: https://diegruenen-scheessel.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Schee%C3%9Fel-712682232214040/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

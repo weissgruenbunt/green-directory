@@ -11,6 +11,10 @@ urls:
     url: https://www.gruene-heilbronn.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneHN
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_heilbronn
+  - type: TWITTER
+    url: https://twitter.com/GrueneHN
 ---
 city: Lauffen
 country: DE
