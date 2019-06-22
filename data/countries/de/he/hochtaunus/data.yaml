@@ -9,6 +9,8 @@ urls:
     url: https://gruene-hochtaunus.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.hochtaunus/
+  - type: TWITTER
+    url: https://twitter.com/gruenehtk
 emails:
   - address: kreisverband@gruene-hochtaunus.de
 ---
@@ -21,6 +23,8 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://gruene-badhomburg.de/
+  - type: TWITTER
+    url: https://twitter.com/gruene_hg
 ---
 city: Grävenwiesbach
 country: DE
@@ -28,6 +32,9 @@ district: Hochtaunus
 level: DE:ORTSVERBAND
 state: Hessen
 type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruenenwiesbach.de/
 ---
 city: Königstein/Glashütten
 country: DE
@@ -62,6 +69,8 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://gruene-friedrichsdorf.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Friedrichsdorf-1002249093149874/
 ---
 city: Kronberg
 country: DE
