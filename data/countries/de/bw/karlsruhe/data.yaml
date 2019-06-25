@@ -11,6 +11,10 @@ urls:
     url: https://gruenekarlsruhe.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenekarlsruhe
+  - type: TWITTER
+    url: https://twitter.com/grueneka
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenekarlsruhe
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

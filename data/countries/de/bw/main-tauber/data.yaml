@@ -9,6 +9,8 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://gruene-main-tauber.de/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_tbb/
 ---
 city: Bad Mergentheim
 country: DE

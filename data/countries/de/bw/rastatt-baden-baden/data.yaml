@@ -9,6 +9,10 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://www.gruene-ra-bad.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.ra.bad/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_rastatt_badenbaden/
 ---
 city: Baden-Baden
 country: DE

@@ -16,6 +16,10 @@ urls:
     url: https://www.facebook.com/gruenekoeln
   - type: TWITTER
     url: https://twitter.com/gruenekoeln
+  - type: YOUTUBE
+    url: https://www.youtube.com/channel/UCbPsNqbtStXltU9QgBhAQig
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenekoeln/
 ---
 external_refs:
   - type: SHERPA
@@ -23,12 +27,14 @@ external_refs:
 city: Köln-Innenstadt/Deutz
 country: DE
 district: Köln
+emails:
+  - address: innenstadt@gruenekoeln.de
 level: DE:ORTSVERBAND
 state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruenekoeln.de/bezirke/bezirk1/aktuelles.html
+    url: https://www.gruenekoeln.de/veedel/innenstadtdeutz/
 ---
 external_refs:
   - type: SHERPA
@@ -36,12 +42,14 @@ external_refs:
 city: Köln-Ehrenfeld
 country: DE
 district: Köln
+emails:
+  - address: vorstand@gruene-ehrenfeld.de
 level: DE:ORTSVERBAND
 state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruenekoeln.de/bezirke/bezirk4/aktuelles.html
+    url: https://www.gruenekoeln.de/veedel/ehrenfeld/
 ---
 external_refs:
   - type: SHERPA
@@ -49,12 +57,14 @@ external_refs:
 city: Köln-Mülheim
 country: DE
 district: Köln
+emails:
+  - address: ov9@gruenekoeln.de
 level: DE:ORTSVERBAND
 state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruenekoeln.de/bezirke/bezirk9/aktuelles-und-termine.html
+    url: https://www.gruenekoeln.de/veedel/muelheim/
 ---
 external_refs:
   - type: SHERPA
@@ -62,12 +72,14 @@ external_refs:
 city: Köln-Nippes
 country: DE
 district: Köln
+emails:
+  - address: nippes@gruenekoeln.de
 level: DE:ORTSVERBAND
 state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruenekoeln.de/bezirke/bezirk5/aktuelles.html
+    url: https://www.gruenekoeln.de/veedel/nippes/
 ---
 external_refs:
   - type: SHERPA
@@ -75,12 +87,14 @@ external_refs:
 city: Köln-Chorweiler
 country: DE
 district: Köln
+emails:
+  - address: ov6@gruenekoeln.de
 level: DE:ORTSVERBAND
 state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruenekoeln.de/bezirke/bezirk6/aktuelles.html
+    url: https://www.gruenekoeln.de/veedel/chorweiler/
 ---
 external_refs:
   - type: SHERPA
@@ -88,12 +102,14 @@ external_refs:
 city: Köln-Porz/Poll
 country: DE
 district: Köln
+emails:
+  - address: ov7@gruenekoeln.de
 level: DE:ORTSVERBAND
 state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruenekoeln.de/bezirke/bezirk7.html
+    url: https://www.gruenekoeln.de/veedel/porzpoll/
 ---
 external_refs:
   - type: SHERPA
@@ -101,12 +117,14 @@ external_refs:
 city: Köln-Rodenkirchen
 country: DE
 district: Köln
+emails:
+  - address: rodenkirchen@gruenekoeln.de
 level: DE:ORTSVERBAND
 state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruenekoeln.de/bezirke/bezirk2/aktuelles.html
+    url: https://www.gruenekoeln.de/veedel/rodenkirchen/
 ---
 external_refs:
   - type: SHERPA
@@ -114,12 +132,14 @@ external_refs:
 city: "Köln-Lindenthal"
 country: DE
 district: Köln
+emails:
+  - address: ov3@gruenekoeln.de
 level: DE:ORTSVERBAND
 state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruenekoeln.de/bezirke/bezirk3/aktuelles.html
+    url: https://www.gruenekoeln.de/veedel/lindenthal/
 ---
 external_refs:
   - type: SHERPA
@@ -127,9 +147,11 @@ external_refs:
 city: Köln-Kalk
 country: DE
 district: Köln
+emails:
+  - address: ov8@gruenekoeln.de
 level: DE:ORTSVERBAND
 state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruenekoeln.de/bezirke/bezirk8/willkommen.html
+    url: https://www.gruenekoeln.de/veedel/kalk/
