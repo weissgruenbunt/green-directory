@@ -4,6 +4,9 @@
 #
 ---
 type: REGIONAL_CHAPTER
+external_refs:
+  - type: SHERPA
+    key: '11000000'
 level: DE:LANDESVERBAND
 country: DE
 state: Nordrhein-Westfalen
