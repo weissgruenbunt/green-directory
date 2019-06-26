@@ -1,34 +1,26 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "https://github.com/netzbegruenung/green-directory/blob/master/schema/party.json",
-  "title": "Regional Chapter",
-  "description": "A party organization's regional department",
+  "title": "Person",
+  "description": "Schema for an record representing a natural person",
   "type": "object",
   "properties": {
-    "external_refs": {
-      "type": "array",
-      "description": "References for this regional chapter in external databases.",
-      "minItems": 1,
-      "uniqueItems": true,
-      "items": {
-        "type": "object",
-        "properties": {
-          "type": {
-            "type": "string",
-            "description": "Reference kind identifier, like SHERPA ..."
-          },
-          "key": {
-            "type": "string",
-            "description": "Some unique identifier."
-          }
-        },
-        "required": ["type", "key"]
-      }
-    },
     "type": {
       "type": "string",
       "description": "Type name, indicating which schema to use for validation.",
-      "const": "REGIONAL_CHAPTER"
+      "const": "PERSON"
+    },
+    "name": {
+      "type": "string",
+      "description": "Name the person is commonly known by, usually consisting of given and family name."
+    },
+    "given_name": {
+      "type": "string",
+      "description": "The name usually given to the person by their parents. See https://schema.org/givenName"
+    },
+    "family_name": {
+      "type": "string",
+      "description": "The name usually also carried by other family members. See https://schema.org/familyName"
     },
     "level": {
       "type": "string",
@@ -93,6 +85,6 @@
       }
     }
   },
-  "required": ["type", "country"],
+  "required": ["type", "name"],
   "additionalProperties": false
 }

@@ -6,7 +6,9 @@ state: Brandenburg
 district: Oder-Spree
 urls:
   - type: WEBSITE
-    url: https://www.gruene-oder-spree.de/
+    url: https://gruene-oder-spree.de/
+emails:
+  - address: post@gruene-oder-spree.de
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

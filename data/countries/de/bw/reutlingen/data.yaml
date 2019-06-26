@@ -11,6 +11,10 @@ urls:
     url: https://www.gruene-reutlingen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Bundnis90DieGrunenKreisverbandReutlingen
+  - type: TWITTER
+    url: https://twitter.com/GrueneReutlingn
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_kv_reutlingen
 ---
 city: Bad Urach, Dettingen, Hülben, Grabenstetten, Römerstein
 country: DE

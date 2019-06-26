@@ -165,8 +165,6 @@ city: Isernhagen
 urls:
   - type: WEBSITE
     url: https://gruene-isernhagen.de/
-  - type: TWITTER
-    url: https://twitter.com/B90Gr_Ishg
   - type: FACEBOOK
     url: https://www.facebook.com/Gruene.Isernhagen
 ---
@@ -215,7 +213,7 @@ city: Garbsen
 urls:
   - type: WEBSITE
     url: https://gruene-garbsen.de/
-  - type: WEBSITE
+  - type: FACEBOOK
     url: https://www.facebook.com/Gruene.Garbsen/
 ---
 type: REGIONAL_CHAPTER

@@ -11,9 +11,9 @@ urls:
   - type: TWITTER
     url: https://twitter.com/Gruene_Bayern
   - type: INSTAGRAM
-    url: https://www.instagram.com/gruene_bayern/
-  - type: WIKIPEDIA
-    url: https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen_Bayern
+    url: https://www.instagram.com/gruenebayern/
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q1020837
 emails:
   - address: landesverband@bayern.gruene.de
 ---
@@ -116,15 +116,6 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Bayern
-district: Aichach-Friedberg
-urls:
-  - type: WEBSITE
-    url: https://gruene-aichach-friedberg.de/
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Bayern
 district: Altötting
 urls:
   - type: WEBSITE
@@ -197,8 +188,6 @@ urls:
     url: https://gruene-bamberg-land.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenebambergland/
-  - type: GOOGLEPLUS
-    url: https://plus.google.com/u/0/b/106892462480762695317/106892462480762695317/about/p/pub
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -532,7 +521,7 @@ state: Bayern
 district: Miltenberg
 urls:
   - type: WEBSITE
-    url: http://www.gruene-miltenberg.de/
+    url: https://xn--grne-miltenberg-0vb.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -734,7 +723,7 @@ urls:
   - type: WEBSITE
     url: https://www.gruene-straubing-bogen.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/Buendnis90DieGruenenStraubingBogen
+    url: https://www.facebook.com/GrueneStraubingBogen
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND

@@ -11,6 +11,8 @@ urls:
     url: https://www.facebook.com/GrueneRheinPfalz/
   - type: TWITTER
     url: https://twitter.com/GrueneRPK/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenerheinpfalz/
 emails:
   - address: kv-rhein-pfalz@gruene-rlp.de
 ---
@@ -23,7 +25,7 @@ city: Altrip
 urls:
   - type: WEBSITE
     url: http://gruene-altrip.de/
-  - type: WEBSITE
+  - type: FACEBOOK
     url: https://www.facebook.com/gruenealtrip/
 ---
 type: REGIONAL_CHAPTER
@@ -51,6 +53,28 @@ level: DE:ORTSVERBAND
 country: DE
 state: Rheinland-Pfalz
 district: Rhein-Pfalz
+city: Dannstadter Höhe
+urls:
+  - type: WEBSITE
+    url: https://gruene-dannstadter-hoehe.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Pfalz
+city: Dudenhofen
+urls:
+  - type: WEBSITE
+    url: http://gruene-dudenhofen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.vgrd/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Pfalz
 city: Lambsheim
 urls:
   - type: WEBSITE
@@ -59,6 +83,8 @@ urls:
     url: https://www.facebook.com/GrueneLambsheim/
   - type: TWITTER
     url: https://twitter.com/GrueneLambsheim
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenelambsheim/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -75,6 +101,22 @@ level: DE:ORTSVERBAND
 country: DE
 state: Rheinland-Pfalz
 district: Rhein-Pfalz
+city: Maxdorf
+urls:
+  - type: WEBSITE
+    url: https://gruenemaxdorf.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GRUENEOVMaxdorf/
+  - type: TWITTER
+    url: https://twitter.com/GMaxdorf
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenemaxdorf/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Rhein-Pfalz
 city: Mutterstadt
 urls:
   - type: WEBSITE
@@ -85,19 +127,17 @@ level: DE:ORTSVERBAND
 country: DE
 state: Rheinland-Pfalz
 district: Rhein-Pfalz
-city: Schifferstadt
+city: Römerberg
 urls:
   - type: WEBSITE
-    url: https://gruene-schifferstadt.de/
+    url: https://gruene-roemerberg.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Rheinland-Pfalz
 district: Rhein-Pfalz
-city: Dudenhofen
+city: Schifferstadt
 urls:
   - type: WEBSITE
-    url: http://gruene-dudenhofen.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruene.vgrd/
+    url: https://gruene-schifferstadt.de/

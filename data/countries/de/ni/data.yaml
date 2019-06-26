@@ -18,8 +18,8 @@ urls:
     url: https://www.instagram.com/gruenends/
   - type: YOUTUBE
     url: https://www.youtube.com/user/grueneniedersachsen
-  - type: WIKIPEDIA
-    url: https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen_Niedersachsen
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q1020847
 emails:
   - address: landesverband@gruene-niedersachsen.de
 ---
@@ -133,8 +133,6 @@ district: Holzminden
 urls:
   - type: WEBSITE
     url: http://www.gruene-holzminden.de/home/
-  - type: FACEBOOK
-    url: https://www.facebook.com/Gr%C3%BCne-Holzminden-419607634824927/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -253,8 +251,6 @@ urls:
     url: https://twitter.com/GRUENimRATwhv
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCnes-Wilhelmshaven-169171753155190/
-  - type: GOOGLEPLUS
-    url: https://plus.google.com/113816486058324502866
   - type: YOUTUBE
     url: https://www.youtube.com/channel/UCcZPT1SXYWJRpmOYqWLsmmw
 ---

@@ -1,0 +1,27 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+district: Karlsruhe
+emails:
+  - address: info@gruenekarlsruhe.de
+state: Baden-Württemberg
+urls:
+  - type: WEBSITE
+    url: https://gruenekarlsruhe.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenekarlsruhe
+  - type: TWITTER
+    url: https://twitter.com/grueneka
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenekarlsruhe
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Baden-Württemberg
+district: Karlsruhe
+city: Durlach
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-durlach.de/

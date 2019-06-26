@@ -17,8 +17,6 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://gruene-nuthetal.de/
-  - type: GOOGLEPLUS
-    url: https://plus.google.com/u/0/+gruene-nuthetalde
 ---
 city: Beelitz
 country: DE

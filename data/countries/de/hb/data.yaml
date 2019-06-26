@@ -12,8 +12,8 @@ urls:
     url: https://gruene-bremen.de
   - type: FACEBOOK
     url: https://www.facebook.com/gruenebremen
-  - type: WIKIPEDIA
-    url: https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen_Bremen
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q1020839
 emails:
   - address: info@gruene-bremen.de
 ---

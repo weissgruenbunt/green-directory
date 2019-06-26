@@ -11,6 +11,8 @@ urls:
     url: https://www.gruene-ludwigsburg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Kreisverband-Ludwigsburg-170723476273472/
+  - type: TWITTER
+    url: https://twitter.com/gruene_lb
 ---
 city: Freiberg
 country: DE
@@ -68,6 +70,8 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://www.gruenelb.de/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_ludwigsburg/
 ---
 city: Marbach
 country: DE

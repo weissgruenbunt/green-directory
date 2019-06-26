@@ -40,7 +40,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-griesheim.de/
+    url: https://www.gruene-griesheim.de/
 ---
 city: Groß-Umstadt
 country: DE
@@ -50,7 +50,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-umstadt.de/
+    url: https://www.gruene-umstadt.de/
   - type: FACEBOOK
     url: https://www.facebook.com/UmstadtGruene/
 ---

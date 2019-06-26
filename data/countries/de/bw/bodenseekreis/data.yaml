@@ -2,13 +2,15 @@
 country: DE
 district: Bodenseekreis
 emails:
-  - address: sabine.witzigmann@gruene-bodenseekreis.de
+  - address: info@gruene-bodenseekreis.de
 level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://www.gruene-bodenseekreis.de/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenebodenseekreis/
 ---
 city: Friedrichshafen
 country: DE

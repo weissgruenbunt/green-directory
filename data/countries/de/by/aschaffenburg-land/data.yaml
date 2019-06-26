@@ -7,6 +7,8 @@ district: Aschaffenburg-Land
 urls:
   - type: WEBSITE
     url: https://www.gruene-aschaffenburg.de/
+emails:
+  - address: redaktion@gruene-aschaffenburg.de
 ---
 city: Alzenau
 country: DE
@@ -27,3 +29,65 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://www.gruene-kahl.de/
+---
+city: Kleinostheim
+country: DE
+district: Aschaffenburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-kleinostheim.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneKleinostheim
+---
+city: Bessenbach
+country: DE
+district: Aschaffenburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-bessenbach.de/
+---
+city: Goldbach
+country: DE
+district: Aschaffenburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-goldbach.com/
+---
+city: Hösbach
+country: DE
+district: Aschaffenburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-hoesbach.de/
+---
+city: Karlstein
+country: DE
+district: Aschaffenburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-karlstein.de/
+---
+city: Schöllkrippen
+country: DE
+district: Aschaffenburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-schoellkrippen.de/

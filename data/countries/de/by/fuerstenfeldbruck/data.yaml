@@ -10,7 +10,7 @@ urls:
   - type: TWITTER
     url: http://www.twitter.com/gruene_ffb
   - type: FACEBOOK
-    url: https://www.facebook.com/gruene.kreisverband.fuerstenfeldbruck/
+    url: https://www.facebook.com/gruene.fuerstenfeldbruck/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

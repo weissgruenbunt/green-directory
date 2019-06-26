@@ -37,9 +37,6 @@ district: Ansbach
 level: DE:ORTSVERBAND
 state: Bayern
 type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-rothenburg.de/
 ---
 city: Feuchtwangen
 country: DE

@@ -20,8 +20,8 @@ urls:
     url: https://www.flickr.com/photos/gruene-hessen/
   - type: YOUTUBE
     url: https://www.youtube.com/user/hessengruen
-  - type: WIKIPEDIA
-    url: https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen_Hessen
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q1020843
 emails:
   - address: landesverband@gruene-hessen.de
 ---
