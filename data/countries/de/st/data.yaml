@@ -16,8 +16,8 @@ urls:
     url: https://twitter.com/GRUENE_LSA
   - type: INSTAGRAM
     url: https://www.instagram.com/gruene_lsa/
-  - type: WIKIPEDIA
-    url: https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen_Sachsen-Anhalt
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q1020856
 emails:
   - address: info@gruene-lsa.de
 ---
@@ -47,8 +47,6 @@ district: Altmarkkreis Salzwedel
 urls:
   - type: WEBSITE
     url: http://gruene-altmark.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneAltmark
   - type: TWITTER
     url: https://twitter.com/AltmarkGruene
   - type: INSTAGRAM
@@ -164,19 +162,6 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Sachsen-Anhalt
-district: Mansfeld-Südharz
-urls:
-  - type: WEBSITE
-    url: http://gruene-mansfeld-suedharz.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Mansfeld-S%C3%BCdharz-173358673051765/
-emails:
-  - address: norbert.jung@gruene-mansfeld-suedharz.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Sachsen-Anhalt
 district: Saalekreis
 urls:
   - type: WEBSITE
@@ -193,7 +178,7 @@ state: Sachsen-Anhalt
 district: Salzlandkreis
 urls:
   - type: WEBSITE
-    url: http://www.xn--salzlandgrne-mlb.de/
+    url: https://www.salzlandgruene.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Salzlandgruene/
   - type: TWITTER

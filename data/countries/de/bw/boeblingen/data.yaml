@@ -3,6 +3,7 @@ country: DE
 district: Böblingen
 emails:
   - address: kv.boeblingen@gruene.de
+  - address: info@gruene-boeblingen.de
 level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
@@ -11,6 +12,8 @@ urls:
     url: https://www.gruene-boeblingen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneBB
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneboeblingen/
 ---
 city: Aidlingen
 country: DE

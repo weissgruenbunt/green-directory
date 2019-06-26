@@ -16,8 +16,8 @@ urls:
     url: https://twitter.com/GrueneBW
   - type: INSTAGRAM
     url: https://www.instagram.com/gruenebw/
-  - type: WIKIPEDIA
-    url: https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen_Baden-W%C3%BCrttemberg
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q1020834
 emails:
   - address: landesverband@gruene-bw.de
 ---
@@ -105,6 +105,8 @@ urls:
     url: https://www.facebook.com/gruenefreiburg
   - type: TWITTER
     url: https://twitter.com/freiburggruene
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_freiburg/
 ---
 country: DE
 district: Freudenstadt
@@ -131,6 +133,8 @@ urls:
     url: https://www.facebook.com/Gruene.Heidelberg
   - type: TWITTER
     url: https://twitter.com/GrueneHD
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene.hd/
 ---
 country: DE
 district: Heidenheim
@@ -144,8 +148,8 @@ urls:
     url: https://www.gruene-heidenheim.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneHDH
-  - type: TWITTER
-    url: https://twitter.com/gruene_hdh
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_hdh/
   - type: YOUTUBE
     url: https://www.youtube.com/channel/UCSr_jd8Gbxr1Rq98YPFJqyQ
 ---
@@ -161,19 +165,6 @@ urls:
     url: http://www.gruene-hohenlohe.de
   - type: FACEBOOK
     url: https://www.facebook.com/gruenehohenlohe
----
-country: DE
-district: Karlsruhe
-emails:
-  - address: info@gruenekarlsruhe.de
-level: DE:KREISVERBAND
-state: Baden-Württemberg
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: https://gruenekarlsruhe.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruenekarlsruhe
 ---
 country: DE
 district: Kurpfalz-Hardt
@@ -200,6 +191,10 @@ urls:
     url: https://www.gruene-mannheim.de/
   - type: FACEBOOK
     url: https://www.facebook.com/MANNHEIMbegruenen
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenemannheim/
+  - type: TWITTER
+    url: https://twitter.com/gruene_mannheim
 ---
 country: DE
 district: Neckar-Odenwald
@@ -210,7 +205,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-nok.de/
+    url: https://www.gruene-nok.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneNOK
   - type: TWITTER
@@ -225,9 +220,11 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-ravensburg.de/
+    url: https://www.gruene-ravensburg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneRavensburg
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneravensburg/
 ---
 country: DE
 district: Rottweil
@@ -249,7 +246,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-schwaebisch-gmuend.de/
+    url: https://www.gruene-schwaebisch-gmuend.de/
   - type: FACEBOOK
     url: https://www.facebook.com/diegrunen.schwabischgmund
 ---
@@ -262,7 +259,11 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-sha.de/
+    url: https://www.gruene-sha.de/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_schwaebischhall/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.kv.sha/
 ---
 country: DE
 district: Schwarzwald-Baar
@@ -276,6 +277,8 @@ urls:
     url: https://www.gruene-schwarzwald-baar.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.sbk
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_sbk/
 ---
 country: DE
 district: Sigmaringen
@@ -286,7 +289,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-sigmaringen.de/
+    url: https://gruene-sigmaringen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GruenerKreisverbandSigmaringen/
 ---
@@ -316,9 +319,11 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-tuttlingen.de/
+    url: https://www.gruene-tuttlingen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenetuttlingen
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenetut
 ---
 country: DE
 district: Ulm
@@ -329,9 +334,11 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-ulm.de/
+    url: https://gruene-ulm.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneulm
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneulm/
 ---
 country: DE
 district: Zollernalb
@@ -342,6 +349,6 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-zollernalb.de
+    url: https://www.gruene-zollernalb.de
   - type: FACEBOOK
     url: https://www.facebook.com/gruenezak

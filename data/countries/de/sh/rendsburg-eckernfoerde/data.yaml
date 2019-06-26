@@ -9,8 +9,6 @@ urls:
     url: http://gruene-rendsburg-eckernfoerde.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GruneRdEck/
-  - type: TWITTER
-    url: https://twitter.com/GrueneKreisRD
   - type: INSTAGRAM
     url: https://www.instagram.com/grune_kreis_rd/
 emails:

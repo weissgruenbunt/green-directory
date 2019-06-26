@@ -8,7 +8,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-es.de
+    url: https://www.gruene-es.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneKVEsslingen
 ---

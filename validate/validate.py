@@ -44,7 +44,7 @@ def unique_doc_key(doc):
     """
     keyparts = [doc['type']]
 
-    for attr in ('level', 'country', 'state', 'region', 'district', 'city'):
+    for attr in ('level', 'country', 'state', 'region', 'district', 'city', 'name'):
         if attr in doc:
             keyparts.append(doc[attr])
 
@@ -65,7 +65,7 @@ def check_file(path, schemas):
     Validate all documents in a YAML file against our schemas
     """
     with open(path, 'r') as yamlfile:
-        contents = yaml.load_all(yamlfile)
+        contents = yaml.load_all(yamlfile, yaml.SafeLoader)
 
         for i, doc in enumerate(contents):
 

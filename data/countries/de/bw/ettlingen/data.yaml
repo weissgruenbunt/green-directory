@@ -3,6 +3,7 @@ country: DE
 district: Ettlingen
 emails:
   - address: kv.ettlingen@gruene.de
+  - address: andreas.perrin@gruene-ettlingen.de
 level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
@@ -13,6 +14,8 @@ urls:
     url: https://www.facebook.com/Gruene.Ettlingen/
   - type: INSTAGRAM
     url: https://www.instagram.com/gruene_ettlingen/
+  - type: TWITTER
+    url: https://twitter.com/GrueneEttlingen
 ---
 city: Ettlingen
 country: DE

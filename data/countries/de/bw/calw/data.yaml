@@ -3,6 +3,7 @@ country: DE
 district: Calw
 emails:
   - address: kv.calw@gruene.de
+  - address: kreisgeschaeftsstelle@gruene-kreis-calw.de
 level: DE:KREISVERBAND
 state: Baden-Württemberg
 type: REGIONAL_CHAPTER
@@ -11,6 +12,10 @@ urls:
     url: https://www.gruene-kreis-calw.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenecalw/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenekreiscalw/
+  - type: TWITTER
+    url: https://twitter.com/GrueneCalw
 ---
 city: Althengstett/Gechingen/Ostelsheim/Simmozheim
 country: DE

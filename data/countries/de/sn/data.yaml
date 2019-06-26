@@ -20,8 +20,8 @@ urls:
     url: https://www.flickr.com/photos/gruene_sachsen
   - type: YOUTUBE
     url: https://www.youtube.com/user/GrueneSachsen
-  - type: WIKIPEDIA
-    url: https://de.wikipedia.org/wiki/B%C3%BCndnis_90/Die_Gr%C3%BCnen_Sachsen
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q1020852
 emails:
   - address: info@gruene-sachsen.de
 ---

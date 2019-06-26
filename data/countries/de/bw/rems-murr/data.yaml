@@ -65,3 +65,23 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://gruene-winnenden.de/
+---
+city: Schorndorf
+country: DE
+district: Rems/Murr
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-schorndorf.de/
+---
+city: Urbach
+country: DE
+district: Rems/Murr
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-urbach.de/
